@@ -2587,7 +2587,7 @@ find-versions@^3.2.0:
 
 firost@1.11.0:
   version "1.11.0"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-1.11.0.tgz#2e06333c21a51d92ac3b85bc1de6606236c50268"
+  resolved "https://registry.npmjs.org/firost/-/firost-1.11.0.tgz#2e06333c21a51d92ac3b85bc1de6606236c50268"
   integrity sha512-acYFkO9r7pWVpoMyp5IXFey9paPbBQuHPiIrUN0Z4NLyofTjfBQVidIQsXwNMsGt8x2n67JhSNxA6C+6yEEAqA==
   dependencies:
     callsites "3.1.0"
@@ -4830,7 +4830,7 @@ normalize-selector@^0.2.0:
 
 normalize-url@5.0.0:
   version "5.0.0"
-  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-5.0.0.tgz#f46c9dc20670495e4e18fbd1b4396e41d199f63c"
+  resolved "https://registry.npmjs.org/normalize-url/-/normalize-url-5.0.0.tgz#f46c9dc20670495e4e18fbd1b4396e41d199f63c"
   integrity sha512-bAEm2fx8Dq/a35Z6PIRkkBBJvR56BbEJvhpNtvCZ4W9FyORSna77fn+xtYFjqk5JpBS+fMnAOG/wFgkQBmB7hw==
 
 normalize-url@^4.1.0:
