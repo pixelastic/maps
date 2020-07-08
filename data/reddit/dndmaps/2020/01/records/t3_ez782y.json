@@ -7,7 +7,7 @@
   "id": "t3_ez782y",
   "misc": {},
   "picture": {
-    "full": "https://i.redd.it/9mi74kaiu2f41.jpg",
+    "full": false,
     "preview": false,
     "thumbnail": "default"
   },
@@ -15,14 +15,14 @@
     "comments": 0,
     "downs": 0,
     "ratio": 1,
-    "ups": 7,
-    "value": 7
+    "ups": 8,
+    "value": 8
   },
   "subreddit": {
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": [""],
+  "tags": [],
   "title": "World Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/ez782y/world_map/"
 }

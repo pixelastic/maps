@@ -7,7 +7,7 @@
   "id": "t3_f21yb4",
   "misc": {},
   "picture": {
-    "full": "http://historic-cities.huji.ac.il/historic_cities.html",
+    "full": false,
     "preview": false,
     "thumbnail": "default"
   },
@@ -22,7 +22,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": [""],
+  "tags": [],
   "title": "Real maps of historic cities",
   "url": "https://www.reddit.com/r/dndmaps/comments/f21yb4/real_maps_of_historic_cities/"
 }

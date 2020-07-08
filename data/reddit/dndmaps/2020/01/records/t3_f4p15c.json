@@ -7,14 +7,14 @@
   "id": "t3_f4p15c",
   "misc": {},
   "picture": {
-    "full": "https://i.redd.it/lu9cdthuk9h41.jpg",
+    "full": false,
     "preview": false,
     "thumbnail": "default"
   },
   "score": {
     "comments": 2,
     "downs": 0,
-    "ratio": 0.83,
+    "ratio": 0.84,
     "ups": 29,
     "value": 29
   },
@@ -22,7 +22,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": [""],
+  "tags": [],
   "title": "Not a map but maybe a background image (Gnomengarde, DoIP).",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4p15c/not_a_map_but_maybe_a_background_image/"
 }
