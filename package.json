@@ -6,11 +6,9 @@
     "keyv-file": "0.2.0",
     "norska": "0.14.2"
   },
-  "files": [
-    "lib/*.js"
-  ],
+  "files": [],
+  "private": true,
   "license": "MIT",
-  "main": "lib/main.js",
   "name": "maps",
   "scripts": {
     "ci": "./scripts/ci",
