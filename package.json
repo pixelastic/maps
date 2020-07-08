@@ -7,19 +7,23 @@
     "norska": "0.14.2"
   },
   "files": [],
-  "private": true,
   "license": "MIT",
   "name": "maps",
+  "private": true,
   "scripts": {
+    "build": "./scripts/build",
+    "build:prod": "./scripts/build-prod",
     "ci": "./scripts/ci",
+    "cms": "./scripts/cms",
+    "data:ids": "node ./scripts/data-ids.js",
+    "data:records": "node ./scripts/data-records.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "release": "./scripts/release",
+    "serve": "./scripts/serve",
     "test": "./scripts/test",
-    "test:watch": "./scripts/test-watch",
-    "data:ids": "node ./scripts/data-ids.js",
-    "data:records": "node ./scripts/data-records.js"
+    "test:watch": "./scripts/test-watch"
   },
   "version": "0.0.1"
 }
