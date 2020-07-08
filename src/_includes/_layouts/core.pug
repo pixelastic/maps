@@ -6,6 +6,8 @@ html(lang='en')
   +norska_head
   body
     include /_includes/header
-    .container.mx-auto.p-3.mt-8
+    .mt-8
       block content
+
+  script!=`window.CONFIG = ${JSON.stringify(data.config)}`
   +norska_scripts

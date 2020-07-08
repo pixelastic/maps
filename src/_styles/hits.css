@@ -1,0 +1,37 @@
+/**
+ * Hits
+ **/
+.ais-Hits-list {
+  @apply flrw;
+}
+.ais-Hits-item {
+  @apply fln flcnw w-100p h-16 relative;
+}
+@screen md {
+  .ais-Hits-item {
+    @apply w-50p;
+  }
+}
+@screen lg {
+  .ais-Hits-item {
+    @apply w-33p;
+  }
+}
+@screen xl {
+  .ais-Hits-item {
+    @apply w-33p h-20;
+  }
+}
+
+/* Empty results */
+#hits > div:first-child {
+  @apply fla flcnw;
+}
+.ais-Hits--empty {
+  @apply fla flcnw;
+}
+
+/* Highlight */
+.ais-highlight {
+  @apply px-001 bold underline bg-transparent white;
+}

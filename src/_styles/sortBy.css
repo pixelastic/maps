@@ -1,0 +1,11 @@
+/**
+ * sortBy
+ **/
+.ais-SortBy-select {
+  @apply bg-white border-002 border-blue;
+  @apply p-01 black rounded text-3;
+  @apply shadow pointer;
+  &:hover {
+    @apply border-blue-4;
+  }
+}

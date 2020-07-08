@@ -1,0 +1,26 @@
+/**
+ * Pagination
+ **/
+.ais-Pagination {
+  @apply h-8 bg-gray-9;
+}
+.ais-Pagination-list {
+  @apply h-100p flrnw;
+}
+.ais-Pagination-item {
+  @apply fla flcnw flc;
+}
+.ais-Pagination-item--selected {
+  .ais-Pagination-link {
+    @apply bold bg-blue-9 white;
+  }
+}
+.ais-Pagination-item--disabled {
+  @apply invisible;
+}
+.ais-Pagination-link {
+  @apply text-center block w-100p h-100p flc flcnw text-4 white;
+  &:hover {
+    @apply bg-blue-8 white;
+  }
+}

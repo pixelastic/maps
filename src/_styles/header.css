@@ -1,0 +1,44 @@
+/**
+* Main searchbox
+**/
+.ais-SearchBox {
+  @apply py-01 px-1 rounded w-100p;
+  @apply bg-gray-2 bg-opacity-25p;
+  &:hover {
+    @apply bg-opacity-50p;
+  }
+  &:focus-within {
+    @apply bg-opacity-75p;
+    .ais-SearchBox-input::placeholder {
+      @apply black text-opacity-50p;
+    }
+  }
+  &:hover:focus-within {
+    @apply bg-opacity-100p;
+  }
+}
+.ais-SearchBox-input {
+  @apply h-6 text-4 w-100p bg-transparent;
+  @apply white text-opacity-75p;
+  &::placeholder {
+    @apply white text-opacity-75p italic text-3;
+  }
+  &:focus {
+    @apply outline-none gray-9 text-opacity-100p;
+  }
+}
+/* Powered By */
+.__poweredBy {
+  @apply absolute bottom-1 right-1 rnw pointer-events-none;
+  @apply white italic text-opacity-50p;
+  &:hover {
+    & ~ #searchbox .ais-SearchBox {
+      @apply bg-opacity-50p;
+    }
+  }
+}
+.__searchboxContainer:focus-within {
+  .__poweredBy {
+    @apply black text-opacity-50p;
+  }
+}
