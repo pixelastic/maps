@@ -1,13 +1,7 @@
 extends /_includes/_layouts/core
 
-block meta
-  - meta.title = "Custom title"
-  - meta.description = "Custom description"
-  //- see also: meta.twitter, meta.image and meta.url
-
 block content
   #hits.pr-1
-  #pagination.mt-1
 
   textarea#hitTemplate(hidden)
     include /_includes/_templates/hit

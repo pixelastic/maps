@@ -4,9 +4,9 @@ block meta
 doctype html
 html(lang='en')
   +norska_head
-  body
+  body.bg-blue-7
     include /_includes/header
-    .mt-8
+    .mt-8.p-2
       block content
 
   script!=`window.CONFIG = ${JSON.stringify(data.config)}`

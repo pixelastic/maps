@@ -1,6 +1,5 @@
 module.exports = {
   cloudinary: {
-    enable: false,
-    bucketName: null,
+    bucketName: 'pixelastic-maps',
   },
 };

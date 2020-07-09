@@ -3,12 +3,12 @@ const algolia = require('norska/frontend/algolia');
 const {
   configure,
   hits,
-  pagination,
   sortBy,
   searchBox,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
 const transforms = require('./_scripts/transforms.js');
+const masonry = require('./_scripts/masonry.js');
 
 const widgets = [
   /**
@@ -17,7 +17,7 @@ const widgets = [
   {
     type: configure,
     options: {
-      hitsPerPage: 42,
+      hitsPerPage: 20,
     },
   },
   /**
@@ -47,12 +47,6 @@ const widgets = [
       },
     },
   },
-  {
-    type: pagination,
-    options: {
-      container: '#pagination',
-    },
-  },
   /**
    * Sorting
    **/
@@ -71,12 +65,19 @@ const widgets = [
   },
 ];
 
+masonry.init();
+
 algolia
   .init(credentials)
   .setWidgets(widgets)
   .setTransforms(transforms)
-  // .onDisplay(hit => {
-  //   console.info(hit.picture);
+  .onSearch((query) => {
+    if (!query) {
+      masonry.resizeAll();
+    }
+  })
+  // .onDisplay((hit) => {
+  //   masonry.fit(hit);
   // })
   .start();
 

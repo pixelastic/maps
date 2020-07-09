@@ -1,11 +1,17 @@
-.w-100p.h-100p.pl-1.pt-1.flrnw
-  .fla.flcnw.bg-white.p-01.rounded-3.shadow
+.js-hitContent.flrnw.flc.pb-1
+  .fla.bg-gray-1.p-1.rounded.shadow-2.border-001.border-gray-4
+    //- img
+    img.js-hitPreview.min-h-13.w-100p.bg-gray-5.lazyload.object-cover(src="{{preview.placeholder}}" data-src="{{preview.full}}" loading="lazy")
+    .text-2 {{{title}}}
+    p.gray-8 {{{id}}}
+//- .w-100p.h-100p.pl-1.pt-1.flrnw
+//-   .fla.flcnw.bg-white.p-01.rounded-3.shadow
 
-    .fln.h-4.relative.overflow-hidden.hover_overflow-visible.pt-001
-      .absolute.left-0.right-0.bg-white.px-01
-        .arial.bold.text-3.gray-9.hover_blue.flrnw.transition.transition-color.duration-75.ease-in-out
-          a.fla(href="{{url}}" target="_blank") {{{title}}}
+//-     .fln.h-4.relative.overflow-hidden.hover_overflow-visible.pt-001
+//-       .absolute.left-0.right-0.bg-white.px-01
+//-         .arial.bold.text-3.gray-9.hover_blue.flrnw.transition.transition-color.duration-75.ease-in-out
+//-           a.fla(href="{{url}}" target="_blank") {{{title}}}
 
-    .fla.py-01
-      a(href="{{picture}}" target="_blank")
-        img.lazyload.w-100p.h-100p.object-cover(src="{{preview.placeholder}}" data-src="{{preview.full}}" loading="lazy")
+//-     .fla.py-01
+//-       a(href="{{picture}}" target="_blank")
+//-         img.lazyload.w-100p.h-100p.object-cover(src="{{preview.placeholder}}" data-src="{{preview.full}}" loading="lazy")

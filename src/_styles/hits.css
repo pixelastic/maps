@@ -2,26 +2,29 @@
  * Hits
  **/
 .ais-Hits-list {
-  @apply flrw;
+  @apply grid col-gap-1 row-gap-01 grid-cols-w-17;
+  grid-auto-rows: 1px;
 }
 .ais-Hits-item {
-  @apply fln flcnw w-100p h-16 relative;
+  /* @apply fln flcnw; */
+  /* @apply row-auto; */
+  /* w-100p h-16 relative; */
 }
-@screen md {
-  .ais-Hits-item {
-    @apply w-50p;
-  }
-}
-@screen lg {
-  .ais-Hits-item {
-    @apply w-33p;
-  }
-}
-@screen xl {
-  .ais-Hits-item {
-    @apply w-33p h-20;
-  }
-}
+/* @screen md { */
+/*   .ais-Hits-item { */
+/*     @apply w-50p; */
+/*   } */
+/* } */
+/* @screen lg { */
+/*   .ais-Hits-item { */
+/*     @apply w-33p; */
+/*   } */
+/* } */
+/* @screen xl { */
+/*   .ais-Hits-item { */
+/*     @apply w-33p h-20; */
+/*   } */
+/* } */
 
 /* Empty results */
 #hits > div:first-child {
@@ -33,5 +36,5 @@
 
 /* Highlight */
 .ais-highlight {
-  @apply px-001 bold underline bg-transparent white;
+  @apply px-001 bold underline bg-transparent blue;
 }
