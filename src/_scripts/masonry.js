@@ -29,6 +29,10 @@ module.exports = {
       _.each(mutation.addedNodes, (node) => {
         this.resize(node);
       });
+
+      // Image loaded
+      // Should check for attributes changed on the image
+      // and resize each time
     });
   },
   resizeAll() {
