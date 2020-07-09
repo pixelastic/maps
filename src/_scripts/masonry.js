@@ -2,6 +2,12 @@ const _ = require('golgoth/lib/lodash');
 
 module.exports = {
   $root: document.getElementById('hits'),
+  isRoot(node) {
+    return node === this.$root;
+  },
+  isHit(node) {
+    return node.className === 'ais-Hits-item';
+  },
   init() {
     const options = {
       childList: true,
@@ -11,28 +17,19 @@ module.exports = {
       this.onMutation(mutations);
     }).observe(this.$root, options);
   },
-  nodeToString(node) {
-    const { tagName, className, id } = node;
-    return `${tagName}.${className}#${id}`;
-  },
   onMutation(mutations) {
     _.each(mutations, (mutation) => {
-      // Update on the root should resize everything
+      // On first render, only the root is updated, but we still need to
+      // resize all the hits
       if (this.isRoot(mutation.target)) {
         this.resizeAll();
       }
 
-      // Result added
+      // Hit(s) added
       _.each(mutation.addedNodes, (node) => {
         this.resize(node);
       });
     });
-  },
-  isRoot(node) {
-    return node === this.$root;
-  },
-  isHit(node) {
-    return node.className === 'ais-Hits-item';
   },
   resizeAll() {
     const hits = [...this.$root.querySelectorAll('.ais-Hits-item')];
@@ -47,19 +44,16 @@ module.exports = {
     if (!this.isHit(node)) {
       return;
     }
+
     const gridData = this.gridData();
     const content = node.querySelector('.js-hitContent');
     const height = content.getBoundingClientRect().height;
     const span = Math.ceil(height / (gridData.unit + gridData.gap));
-    console.info(gridData);
     node.style.gridRowEnd = `span ${span}`;
 
     const image = node.querySelector('.js-hitPreview');
     image.onload = () => {
-      this.resize(node);
-    };
-    image.onerror = () => {
-      console.info('error');
+      // Resize AGAIN when the image is loaded
       this.resize(node);
     };
   },
