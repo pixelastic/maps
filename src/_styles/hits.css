@@ -1,19 +1,16 @@
 /**
  * Hits
  **/
-.ais-Hits-list {
+.js-masonryWall {
   @apply grid col-gap-1 row-gap-1 grid-cols-w-17;
   grid-auto-rows: 0;
-}
-.ais-Hits-item {
-  /* placeholder */
 }
 
 /* Empty results */
 #hits > div:first-child {
   @apply fla flcnw;
 }
-.ais-Hits--empty {
+.ais-InfiniteHits--empty {
   @apply fla flcnw;
 }
 

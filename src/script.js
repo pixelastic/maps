@@ -2,13 +2,11 @@ const lazyload = require('norska/frontend/lazyload');
 const algolia = require('norska/frontend/algolia');
 const {
   configure,
-  hits,
   sortBy,
   searchBox,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
-const transforms = require('./_scripts/transforms.js');
-const masonry = require('./_scripts/masonry.js');
+const infiniteMasonry = require('./_scripts/infiniteMasonry.js');
 
 const widgets = [
   /**
@@ -17,7 +15,7 @@ const widgets = [
   {
     type: configure,
     options: {
-      hitsPerPage: 60,
+      hitsPerPage: 30,
     },
   },
   /**
@@ -38,7 +36,7 @@ const widgets = [
    * Hits
    **/
   {
-    type: hits,
+    type: infiniteMasonry.widget(),
     options: {
       container: '#hits',
       templates: {
@@ -65,17 +63,11 @@ const widgets = [
   },
 ];
 
-masonry.init();
+// masonry.init();
 
 algolia
   .init(credentials)
   .setWidgets(widgets)
-  .setTransforms(transforms)
-  .onSearch((query) => {
-    if (!query) {
-      masonry.resizeAll();
-    }
-  })
   // .onDisplay((hit) => {
   //   masonry.fit(hit);
   // })

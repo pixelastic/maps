@@ -46,7 +46,7 @@ module.exports = {
   },
   rowGap() {
     if (!this.__cache.rowGap) {
-      const wrapper = document.querySelector('.ais-Hits-list');
+      const wrapper = document.querySelector('.ais-InfiniteHits-list');
       this.__cache.rowGap = parseInt(
         window.getComputedStyle(wrapper).getPropertyValue('grid-row-gap')
       );
