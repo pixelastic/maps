@@ -3,7 +3,6 @@ const _ = require('golgoth/lib/lodash');
 module.exports = {
   $root: document.getElementById('hits'),
   __cache: {
-    sizes: {},
     rowGap: null,
   },
   init() {
@@ -30,28 +29,18 @@ module.exports = {
 
     const options = {
       waitForImage: true,
-      saveSize: false,
       ...userOptions,
     };
 
-    const { id } = node;
-    let size = this.__cache.sizes[id];
-    if (!size) {
-      const rowGap = this.rowGap();
-      const brickHeight = node.getBoundingClientRect().height + rowGap;
-      size = Math.ceil(brickHeight / rowGap);
-      console.info({ brickHeight, rowGap, size });
-    }
+    const rowGap = this.rowGap();
+    const brickHeight = node.getBoundingClientRect().height + rowGap;
+    const size = Math.ceil(brickHeight / rowGap);
     node.parentNode.style.gridRowEnd = `span ${size}`;
-
-    if (options.saveSize) {
-      this.__cache.sizes[id] = size;
-    }
 
     if (options.waitForImage) {
       const image = node.querySelector('.js-masonryImage');
       image.onload = _.once(() => {
-        this.resize(node, { waitForImage: false, saveSize: true });
+        this.resize(node, { waitForImage: false });
       });
     }
   },
