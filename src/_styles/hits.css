@@ -6,12 +6,15 @@
   grid-auto-rows: 0;
 }
 
-/* Empty results */
-#hits > div:first-child {
-  @apply fla flcnw;
+.__hitLink:after {
+  content: '';
+  @apply inline-block bg-no-repeat bg-contain ml-01 invisible;
+  background-image: url('./assets/blank.svg');
+  width: 1.5ch;
+  height: 1.5ch;
 }
-.ais-InfiniteHits--empty {
-  @apply fla flcnw;
+.__hitLink:hover:after {
+  @apply visible;
 }
 
 /* Highlight */
