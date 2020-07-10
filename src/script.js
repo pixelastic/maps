@@ -2,8 +2,9 @@ const lazyload = require('norska/frontend/lazyload');
 const algolia = require('norska/frontend/algolia');
 const {
   configure,
-  sortBy,
+  refinementList,
   searchBox,
+  sortBy,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
 const infiniteMasonry = require('./_scripts/infiniteMasonry.js');
@@ -30,6 +31,15 @@ const widgets = [
       showReset: false,
       showSubmit: false,
       showLoadingIndicator: false,
+    },
+  },
+  {
+    type: refinementList,
+    options: {
+      container: '#tags',
+      attribute: 'tags',
+      limit: 10,
+      sortBy: ['count:desc', 'name:asc'],
     },
   },
   /**
@@ -63,14 +73,6 @@ const widgets = [
   },
 ];
 
-// masonry.init();
-
-algolia
-  .init(credentials)
-  .setWidgets(widgets)
-  // .onDisplay((hit) => {
-  //   masonry.fit(hit);
-  // })
-  .start();
+algolia.init(credentials).setWidgets(widgets).start();
 
 lazyload.init();

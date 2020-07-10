@@ -26,18 +26,18 @@ const config = require('../src/_data/config.js');
       'score.value',
     ],
     customRanking: [
-      'desc(dateAsDay)',
       'desc(score.value)',
       'desc(score.ratio)',
+      'desc(dateAsDay)',
       'desc(score.comments)',
     ],
     replicas: {
       popularity: {
         customRanking: [
+          'desc(dateAsDay)',
           'desc(score.value)',
           'desc(score.ratio)',
           'desc(score.comments)',
-          'desc(dateAsDay)',
         ],
       },
     },

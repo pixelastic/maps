@@ -5,13 +5,14 @@ const templayed = require('templayed');
 const { once } = require('lodash-es');
 module.exports = {
   container: null,
-  sentinel: null,
+  rowGap: null,
   hitTemplate: null,
+  sentinel: null,
   isLastPage: false,
   hitDisplayed: 0,
   hitSizes: {},
   scrollPosition: 0,
-  rowGap: null,
+  isShowingMore: false,
   widget() {
     const connectInfiniteHits = instantsearch.connectors.connectInfiniteHits;
     return connectInfiniteHits((renderArgs, isFirstRender) => {
@@ -26,20 +27,32 @@ module.exports = {
       }
 
       // Update the content
-      const newHits = hits.slice(this.hitDisplayed, hits.length);
-      console.info(`${newHits.length} new hits`);
-      const transformedHits = transformHits(newHits, transforms);
-      const content = transformedHits.map(this.hitTemplate);
-      this.container.innerHTML += content.join('\n');
-      this.hitDisplayed += newHits.length;
-
-      this.resizeAll();
-      this.restoreScroll();
+      if (this.isShowingMore) {
+        const newHits = hits.slice(this.hitDisplayed, hits.length);
+        const transformedHits = transformHits(newHits, transforms);
+        const content = transformedHits.map(this.hitTemplate);
+        this.container.innerHTML += content.join('\n');
+        this.hitDisplayed += newHits.length;
+        this.resizeAll();
+        this.afterShowMore();
+      } else {
+        const transformedHits = transformHits(hits, transforms);
+        const content = transformedHits.map(this.hitTemplate);
+        this.container.innerHTML = content.join('\n');
+        this.hitDisplayed = hits.length;
+        this.resizeAll();
+      }
 
       if (isFirstRender) {
         this.observeEndOfPage(showMore);
       }
     });
+  },
+  reset() {
+    this.isLastPage = false;
+    this.hitDisplayed = 0;
+    this.hitSizes = {};
+    this.scrollPosition = 0;
   },
   firstRender(widgetParams) {
     this.container = document.querySelector(widgetParams.container);
@@ -53,7 +66,7 @@ module.exports = {
           if (!entry.isIntersecting || this.isLastPage) {
             return;
           }
-          this.saveScroll();
+          this.beforeShowMore();
           showMore();
         });
       },
@@ -108,11 +121,13 @@ module.exports = {
     }
     return this.rowGap;
   },
-  saveScroll() {
+  beforeShowMore() {
     this.scrollPosition =
       window.pageYOffset || document.documentElement.scrollTop;
+    this.isShowingMore = true;
   },
-  restoreScroll() {
+  afterShowMore() {
+    this.isShowingMore = false;
     setTimeout(() => {
       document.documentElement.scrollTop = this.scrollPosition;
       document.body.scrollTop = this.scrollPosition;

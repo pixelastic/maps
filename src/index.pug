@@ -1,8 +1,11 @@
 extends /_includes/_layouts/core
 
 block content
-  #hits.pr-1.js-masonryWall
-  #endOfPage.h-8.bg-blue-6
+  include /_includes/header
+  .mt-8.p-2
+    #tags
+    #hits.pr-1.js-masonryWall
+    #endOfPage.h-8.bg-blue-6
 
   textarea#hitTemplate(hidden)
     include /_includes/_templates/hit

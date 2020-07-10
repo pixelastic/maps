@@ -1,0 +1,40 @@
+/**
+ * Filters
+ **/
+.ais-RefinementList-list {
+  @apply flrw flrch;
+}
+.ais-RefinementList-item {
+  @apply fln pr-1 pb-1;
+  .ais-RefinementList-label {
+    @apply bg-gray-3 rounded-2 flrnw pointer shadow-2;
+    @apply transform transition-transform transition-colors;
+    &:hover {
+      @apply scale-125p;
+      .ais-RefinementList-label {
+        @apply bg-blue-8 white;
+        .ais-RefinementList-count {
+          @apply gray-8;
+        }
+      }
+    }
+    .ais-RefinementList-checkbox {
+      @apply hidden;
+    }
+    .ais-RefinementList-labelText {
+      @apply fln py-01 px-01;
+    }
+    .ais-RefinementList-count {
+      @apply fln bg-gray-5 px-01 py-01 rounded-r-2;
+    }
+  }
+}
+.ais-RefinementList-item--selected {
+  @apply bold;
+  .ais-RefinementList-label {
+    @apply bg-blue-5 white;
+    .ais-RefinementList-count {
+      @apply gray-8;
+    }
+  }
+}
