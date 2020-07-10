@@ -2,78 +2,66 @@ const _ = require('golgoth/lib/lodash');
 
 module.exports = {
   $root: document.getElementById('hits'),
-  isRoot(node) {
-    return node === this.$root;
-  },
-  isHit(node) {
-    return node.className === 'ais-Hits-item';
+  __cache: {
+    sizes: {},
+    rowGap: null,
   },
   init() {
     const options = {
       childList: true,
       subtree: true,
     };
-    new MutationObserver((mutations) => {
-      this.onMutation(mutations);
+    new MutationObserver(() => {
+      this.resizeAll();
     }).observe(this.$root, options);
   },
-  onMutation(mutations) {
-    _.each(mutations, (mutation) => {
-      // On first render, only the root is updated, but we still need to
-      // resize all the hits
-      if (this.isRoot(mutation.target)) {
-        this.resizeAll();
-      }
-
-      // Hit(s) added
-      _.each(mutation.addedNodes, (node) => {
-        this.resize(node);
-      });
-
-      // Image loaded
-      // Should check for attributes changed on the image
-      // and resize each time
+  resizeAll() {
+    const nodes = [...this.$root.querySelectorAll('.js-masonryContent')];
+    _.each(nodes, (node) => {
+      this.resize(node);
     });
   },
-  resizeAll() {
-    const hits = [...this.$root.querySelectorAll('.ais-Hits-item')];
-    _.chain(hits)
-      .reverse()
-      .each((hit) => {
-        this.resize(hit);
-      })
-      .value();
-  },
-  resize(node) {
-    if (!this.isHit(node)) {
+  resize(node, userOptions = {}) {
+    // By the time the method is called, the node might have been unmounted from
+    // the DOM, so we cancel
+    if (!node.parentNode) {
       return;
     }
 
-    const gridData = this.gridData();
-    const content = node.querySelector('.js-hitContent');
-    const height = content.getBoundingClientRect().height;
-    const span = Math.ceil(height / (gridData.unit + gridData.gap));
-    node.style.gridRowEnd = `span ${span}`;
-
-    const image = node.querySelector('.js-hitPreview');
-    image.onload = () => {
-      // Resize AGAIN when the image is loaded
-      this.resize(node);
+    const options = {
+      waitForImage: true,
+      saveSize: false,
+      ...userOptions,
     };
-  },
-  __gridData: null,
-  gridData() {
-    if (this.__gridData) {
-      return this.__gridData;
+
+    const { id } = node;
+    let size = this.__cache.sizes[id];
+    if (!size) {
+      const rowGap = this.rowGap();
+      const brickHeight = node.getBoundingClientRect().height + rowGap;
+      size = Math.ceil(brickHeight / rowGap);
+      console.info({ brickHeight, rowGap, size });
     }
-    const wrapper = document.querySelector('.ais-Hits-list');
-    const gap = parseInt(
-      window.getComputedStyle(wrapper).getPropertyValue('grid-row-gap')
-    );
-    const unit = parseInt(
-      window.getComputedStyle(wrapper).getPropertyValue('grid-auto-rows')
-    );
-    this.__gridData = { wrapper, gap, unit };
-    return this.__gridData;
+    node.parentNode.style.gridRowEnd = `span ${size}`;
+
+    if (options.saveSize) {
+      this.__cache.sizes[id] = size;
+    }
+
+    if (options.waitForImage) {
+      const image = node.querySelector('.js-masonryImage');
+      image.onload = _.once(() => {
+        this.resize(node, { waitForImage: false, saveSize: true });
+      });
+    }
+  },
+  rowGap() {
+    if (!this.__cache.rowGap) {
+      const wrapper = document.querySelector('.ais-Hits-list');
+      this.__cache.rowGap = parseInt(
+        window.getComputedStyle(wrapper).getPropertyValue('grid-row-gap')
+      );
+    }
+    return this.__cache.rowGap;
   },
 };

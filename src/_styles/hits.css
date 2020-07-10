@@ -2,8 +2,9 @@
  * Hits
  **/
 .ais-Hits-list {
-  @apply grid col-gap-1 row-gap-01 grid-cols-w-17;
-  grid-auto-rows: 1px;
+  @apply grid col-gap-1 grid-cols-w-17;
+  row-gap: 16px;
+  grid-auto-rows: 0;
 }
 .ais-Hits-item {
   /* @apply fln flcnw; */
