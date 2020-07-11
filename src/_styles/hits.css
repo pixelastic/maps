@@ -1,3 +1,4 @@
+/* purgecss start ignore */
 /**
  * Hits
  **/
@@ -34,3 +35,4 @@
 .ais-highlight {
   @apply px-001 bold underline bg-transparent blue;
 }
+/* purgecss end ignore */
