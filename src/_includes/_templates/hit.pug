@@ -1,8 +1,12 @@
-.js-masonryBrick
-  .js-masonryContent.bg-gray-1.pt-1.px-1.pb-01.rounded.shadow-2.border-001.border-gray-4(data-id="{{id}}")
+.js-masonryBrick.relative
+  .js-masonryContent.bg-gray-1.pt-1.px-1.pb-01.rounded.shadow-2.border-001.border-gray-4(id="{{id}}")
+    .js-masonryDebug.absolute.inset-0.bg-gray.opacity-90p.flrnw.flc.bold.white.text-5 ?
+    |{{#preview}}
     img.js-masonryImage.w-100p.bg-gray-5.lazyload.object-cover(src="{{preview.placeholder}}" data-src="{{preview.full}}" loading="lazy")
+    //- .js-masonryDebug.h-10.bg-gray.flrnw.flc.white.bold.text-3 ?
+    |{{/preview}}
     a.__hitLink.ext-2.pt-01.block.transition-colors.hover_blue(href="{{url}}" target="_blank") {{{title}}}
     .block.flrnw.flrar.py-01
       .gray-6.text-1 
         | by 
-        a.inline.hover_blue.underline.transition-colors(href="https://www.reddit.com/user/u/{{author.name}}") /u/{{author.name}}}
+        a.inline.hover_blue.underline.transition-colors(href="https://www.reddit.com/user/u/{{author.name}}") /u/{{author.name}}

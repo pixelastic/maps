@@ -5528,15 +5528,6 @@ fs-extra@9.0.1, fs-extra@^9.0.1:
     jsonfile "^6.0.1"
     universalify "^1.0.0"
 
-fs-extra@^4.0.1:
-  version "4.0.3"
-  resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-4.0.3.tgz#0d852122e5bc5beb453fb028e9c0c9bf36340c94"
-  integrity sha512-q6rbdDd1o2mAnQreO7YADIxf/Whx4AHBiRf6d+/cVT8h44ss+lHgxf1FemcqDnQt9X3ct4McHr+JMGlYSsK7Cg==
-  dependencies:
-    graceful-fs "^4.1.2"
-    jsonfile "^4.0.0"
-    universalify "^0.1.0"
-
 fs-extra@^7.0.0, fs-extra@^7.0.1:
   version "7.0.1"
   resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-7.0.1.tgz#4f189c44aa123b895f722804f55ea23eadc348e9"
@@ -6178,7 +6169,7 @@ hmac-drbg@^1.0.0:
     minimalistic-assert "^1.0.0"
     minimalistic-crypto-utils "^1.0.1"
 
-hogan.js@^3.0.2:
+hogan.js@3.0.2, hogan.js@^3.0.2:
   version "3.0.2"
   resolved "https://registry.npmjs.org/hogan.js/-/hogan.js-3.0.2.tgz#4cd9e1abd4294146e7679e41d7898732b02c7bfd"
   integrity sha1-TNnhq9QpQUbnZ55B14mHMrAse/0=
@@ -7749,15 +7740,6 @@ jwt-decode@^2.2.0:
   version "2.2.0"
   resolved "https://registry.npmjs.org/jwt-decode/-/jwt-decode-2.2.0.tgz#7d86bd56679f58ce6a84704a657dd392bba81a79"
   integrity sha1-fYa9VmefWM5qhHBKZX3TkruoGnk=
-
-keyv-file@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/keyv-file/-/keyv-file-0.2.0.tgz#3442b07a00c1d7bd0242f4a91bcf498afbd6ea6a"
-  integrity sha512-zUQ11eZRmilEUpV1gJSj8mBAHjyXpleQo1iCS0khb+GFRhiPfwavWgn4eDUKNlOyMZzmExnISl8HE1hNbim0gw==
-  dependencies:
-    debug "^4.1.1"
-    fs-extra "^4.0.1"
-    tslib "^1.9.3"
 
 keyv@3.0.0:
   version "3.0.0"
@@ -12413,11 +12395,6 @@ temp-dir@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/temp-dir/-/temp-dir-2.0.0.tgz#bde92b05bdfeb1516e804c9c00ad45177f31321e"
   integrity sha512-aoBAniQmmwtcKp/7BzsH8Cxzv8OL736p7v1ihGb5e9DJ9kTwGWHrQrVB5+lfVDzfGrdRzXch+ig7LHaY1JTOrg==
-
-templayed@0.2.3:
-  version "0.2.3"
-  resolved "https://registry.npmjs.org/templayed/-/templayed-0.2.3.tgz#4706df625bc6aecd86b7c9f6b0fb548b95cdf769"
-  integrity sha1-RwbfYlvGrs2Gt8n2sPtUi5XN92k=
 
 tempy@0.5.0:
   version "0.5.0"
