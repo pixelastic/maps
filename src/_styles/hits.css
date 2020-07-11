@@ -17,6 +17,14 @@
   @apply visible;
 }
 
+/* Zoom */
+.medium-zoom-overlay {
+  @apply bg-blue-7 bg-opacity-90p z-8;
+}
+.medium-zoom-image--opened {
+  @apply z-9;
+}
+
 /* Highlight */
 .ais-highlight {
   @apply px-001 bold underline bg-transparent blue;

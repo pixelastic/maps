@@ -3,6 +3,7 @@ const transformHits = require('norska/frontend/algolia/transformHits');
 const transforms = require('./transforms.js');
 const hogan = require('hogan.js');
 const { get, set } = require('lodash-es');
+const mediumZoom = require('medium-zoom').default;
 module.exports = {
   debugId: 't3_davzu4',
   /**
@@ -31,6 +32,25 @@ module.exports = {
       heights,
       intervals,
     };
+
+    this.enableZoom();
+  },
+  enableZoom() {
+    const container = this.config('container');
+    container.addEventListener('click', (event) => {
+      const { target } = event;
+      const isImage = target.tagName === 'IMG';
+      const isLoaded = target.complete;
+      const isAlreadySetup = target.hasZoomSetup;
+      if (!isImage || !isLoaded || isAlreadySetup) {
+        return;
+      }
+
+      mediumZoom(target, {
+        background: null,
+      });
+      target.hasZoomSetup = true;
+    });
   },
   /**
    * Getter/Setter of the config
