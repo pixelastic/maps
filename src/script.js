@@ -38,7 +38,6 @@ const widgets = [
     options: {
       container: '#tags',
       attribute: 'tags',
-      limit: 10,
       sortBy: ['count:desc', 'name:asc'],
     },
   },
