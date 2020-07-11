@@ -146,11 +146,17 @@ module.exports = {
    **/
   resize(id, userOptions = {}) {
     const node = this.node(id);
+    const image = node.querySelector('.js-masonryImage');
     const options = {
       waitForImage: true,
       saveHeight: false,
+      removePlaceholder: false,
       ...userOptions,
     };
+
+    if (image && options.removePlaceholder) {
+      image.style.height = 'auto';
+    }
 
     // Resize the height to match the grid rows
     const spanHeight = this.getSpanHeight(id);
@@ -164,15 +170,18 @@ module.exports = {
     this.debug(id, `${id}: ${spanHeight}`);
 
     // Wait for image to load, and re-resize afterwards
-    const image = node.querySelector('.js-masonryImage');
-    if (options.waitForImage && image) {
+    if (image && options.waitForImage) {
       // Resize as soon as we have some dimensions
       this.onImageStartDownloading(image, id, () => {
-        this.resize(id, { waitForImage: false });
+        this.resize(id, { waitForImage: false, removePlaceholder: true });
       });
       // Fully resize and save the height when image is ready
       this.onImageFinishDownloading(image, () => {
-        this.resize(id, { waitForImage: false, saveHeight: true });
+        this.resize(id, {
+          waitForImage: false,
+          removePlaceholder: true,
+          saveHeight: true,
+        });
       });
     }
   },
