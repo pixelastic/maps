@@ -2,8 +2,13 @@
  * Hits
  **/
 .js-masonryWall {
-  @apply grid col-gap-1 row-gap-1 grid-cols-w-17;
+  @apply grid col-gap-1 row-gap-1 grid-cols-w-15;
   grid-auto-rows: 0;
+}
+@screen md {
+  .js-masonryWall {
+    @apply grid-cols-w-17;
+  }
 }
 
 .__hitLink:after {
