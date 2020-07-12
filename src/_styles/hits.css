@@ -10,7 +10,7 @@
  * Hits
  **/
 .js-masonryWall {
-  @apply grid col-gap-1 row-gap-1 grid-cols-w-15 pr-1;
+  @apply grid col-gap-1 row-gap-1 grid-cols-w-14 pr-1;
   grid-auto-rows: 0;
 }
 @screen md {
