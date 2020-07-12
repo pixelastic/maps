@@ -4,8 +4,9 @@ block content
   include /_includes/header
   .mt-8.p-2
     #tags
-    #hits.pr-1.js-masonryWall
-    #endOfPage.h-8.bg-blue-6
+    .js-masonryContainer
+      #hits.js-masonryWall
+      #sentinel.js-masonrySentinel
 
   textarea#hitTemplate(hidden)
     include /_includes/_templates/hit

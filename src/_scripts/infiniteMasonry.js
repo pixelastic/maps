@@ -5,21 +5,59 @@ const hogan = require('hogan.js');
 const { get, set } = require('lodash-es');
 const mediumZoom = require('medium-zoom').default;
 module.exports = {
-  debugId: 't3_davzu4',
+  /**
+   * Return the InstantSearch widget
+   * @returns {object} InstantSearch widget
+   **/
+  widget() {
+    const connectInfiniteHits = instantsearch.connectors.connectInfiniteHits;
+    return connectInfiniteHits((renderArgs, isFirstRender) => {
+      const { hits, showMore, widgetParams } = renderArgs;
+
+      // Setup some variables for all the other calls
+      if (isFirstRender) {
+        this.setStableConfig({ widgetParams, showMore });
+      }
+
+      if (this.config('appendMode')) {
+        this.config('appendMode', false);
+        this.appendHits(hits);
+      } else {
+        this.clearConfig();
+        this.replaceHits(hits);
+      }
+
+      this.config('appendMode');
+
+      // Keep in memory that we are on the last page, so we don't load more
+      // this.config('isLastPage', renderArgs.isLastPage);
+
+      // Update the content
+      // if (this.isShowingMore) {
+      // } else {
+      // }
+
+      // if (isFirstRender) {
+      //   this.observeEndOfPage(showMore);
+      // }
+    });
+  },
   /**
    * Save the config options that won't change for the whole session
-   * @param {object} widgetConfig Initial configuration passed to the widget
-   **/
-  setStableConfig(widgetConfig) {
-    const container = document.querySelector(widgetConfig.container);
+   * @param {object} options Options passed for configuration
+   * @param {object} options.widgetParams Initial configuration passed to the widget
+   * @param {Function} options.showMore Method to call to load more data
+   */
+  setStableConfig({ widgetParams, showMore }) {
+    const container = document.querySelector(widgetParams.container);
     const gapHeight = parseInt(
       window.getComputedStyle(container).getPropertyValue('grid-row-gap')
     );
 
-    const template = hogan.compile(widgetConfig.templates.item);
-    const render = template.render.bind(template);
+    const sentinel = this.node('sentinel');
 
-    const sentinel = document.getElementById('endOfPage');
+    const template = hogan.compile(widgetParams.templates.item);
+    const render = template.render.bind(template);
 
     const heights = {};
     const intervals = {};
@@ -34,7 +72,51 @@ module.exports = {
     };
 
     this.enableZoom();
+    this.onScrollBottomReached(() => {
+      this.config('appendMode', true);
+      showMore();
+    });
   },
+  /**
+   * Appends new hits to the existing list
+   * @param {Array} hits List of hits
+   **/
+  appendHits(hits) {
+    const container = this.config('container');
+    const render = this.config('render');
+
+    // Only add the new hits
+    const hitCount = this.config('hitCount');
+    const newHits = hits.slice(hitCount, hits.length);
+    const transformedHits = transformHits(newHits, transforms);
+    const content = transformedHits
+      .map((hit) => {
+        return render(hit);
+      })
+      .join('\n');
+
+    container.innerHTML += content;
+
+    this.config('hitCount', hitCount + newHits.length);
+    this.resizeAll();
+  },
+  onScrollBottomReached(callback) {
+    const sentinel = this.config('sentinel');
+    const observer = new IntersectionObserver((entries) => {
+      const isVisible = entries[0].isIntersecting;
+      if (!isVisible) {
+        return;
+      }
+      callback();
+    });
+
+    observer.observe(sentinel);
+  },
+  /**
+   * Allow clicking on images for zooming them
+   * Listen to clicks on the main container, and when a click is on an image,
+   * attempt to zoom it
+   **/
   enableZoom() {
     const container = this.config('container');
     container.addEventListener('click', (event) => {
@@ -74,53 +156,11 @@ module.exports = {
    **/
   clearConfig() {
     this.__config = {
-      isLastPage: false,
+      hitCount: null,
       appendMode: false,
     };
   },
   __stableConfig: {},
-  /**
-   * Return the InstantSearch widget
-   * @returns {object} InstantSearch widget
-   **/
-  widget() {
-    const connectInfiniteHits = instantsearch.connectors.connectInfiniteHits;
-    return connectInfiniteHits((renderArgs, isFirstRender) => {
-      const { hits, _showMore, widgetParams } = renderArgs;
-
-      // Setup some variables for all the other calls
-      if (isFirstRender) {
-        this.setStableConfig(widgetParams);
-      }
-
-      this.config('appendMode')
-        ? this.appendHits(hits)
-        : this.replaceHits(hits);
-
-      // Keep in memory that we are on the last page, so we don't load more
-      // this.config('isLastPage', renderArgs.isLastPage);
-
-      // Update the content
-      // if (this.isShowingMore) {
-      //   // Should add the element into another list, offscreen
-      //   // and wait for image onload before adding to the main list
-      //   const newHits = hits.slice(this.hitDisplayed, hits.length);
-      //   const transformedHits = transformHits(newHits, transforms);
-      //   const content = transformedHits.map((hit) => {
-      //     return this.hitRender(hit);
-      //   });
-      //   this.container.innerHTML += content.join('\n');
-      //   this.hitDisplayed += newHits.length;
-      //   this.resizeAll();
-      //   this.afterShowMore();
-      // } else {
-      // }
-
-      // if (isFirstRender) {
-      //   this.observeEndOfPage(showMore);
-      // }
-    });
-  },
   /**
    * Replaces all the hits with a new set
    * @param {Array} hits List of hits
@@ -186,8 +226,6 @@ module.exports = {
     if (options.saveHeight) {
       this.config(`heights.${id}`, spanHeight);
     }
-
-    this.debug(id, `${id}: ${spanHeight}`);
 
     // Wait for image to load, and re-resize afterwards
     if (image && options.waitForImage) {
@@ -260,36 +298,6 @@ module.exports = {
     const node = this.node(id);
     const brickHeight = node.getBoundingClientRect().height + gapHeight;
     return Math.ceil(brickHeight / gapHeight);
-  },
-  debug(id, input) {
-    const node = this.node(id);
-    const debugNode = node.querySelector('.js-masonryDebug');
-    if (!debugNode) {
-      return;
-    }
-    debugNode.innerHTML = input;
-  },
-  observeEndOfPage(showMore) {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (!entry.isIntersecting || this.isLastPage) {
-            return;
-          }
-          this.beforeShowMore();
-          showMore();
-        });
-      },
-      { rootMargin: '1000px' }
-    );
-
-    observer.observe(this.sentinel);
-  },
-  console(id, output) {
-    if (id !== this.debugId) {
-      return;
-    }
-    console.info(output);
   },
   node(id) {
     return document.getElementById(id);
