@@ -4,6 +4,7 @@ const {
   configure,
   refinementList,
   searchBox,
+  toggleRefinement,
   sortBy,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
@@ -34,6 +35,16 @@ const widgets = [
     },
   },
   {
+    type: toggleRefinement,
+    options: {
+      container: '#curated',
+      attribute: 'score.isCurated',
+      templates: {
+        labelText: 'Only curated authors',
+      },
+    },
+  },
+  {
     type: refinementList,
     options: {
       container: '#tags',
@@ -41,6 +52,9 @@ const widgets = [
       sortBy: ['count:desc', 'name:asc'],
     },
   },
+  // Maybe do an index sort:
+  // - byDate
+  // - byPopularity
   /**
    * Hits
    **/

@@ -1,0 +1,45 @@
+/**
+ * Refinement Lists
+ **/
+.ais-ToggleRefinement-labelText {
+  @apply flrnw flc py-001 pl-6 pointer relative capitalize text-3 arial;
+  &:before,
+  &:after {
+    content: '';
+    @apply absolute h-2 rounded-full;
+  }
+  &:before {
+    @apply bg-gray-5 w-5 left-0;
+  }
+  &:after {
+    @apply bg-gray-3 w-2 left-001 border-002 border-gray-5 border-opacity-100p;
+  }
+  &:hover {
+    &:before {
+      @apply bg-blue-3;
+    }
+    &:after {
+      @apply border-blue-3 bg-white;
+    }
+  }
+}
+.ais-ToggleRefinement-checkbox:checked + .ais-ToggleRefinement-labelText {
+  @apply white bold;
+  &:before {
+    @apply bg-blue-4;
+  }
+  &:after {
+    @apply left-5 -ml-2 border-blue-4 bg-white;
+  }
+  &:hover {
+    &:before {
+      @apply bg-blue-5;
+    }
+    &:after {
+      @apply border-blue-5;
+    }
+  }
+}
+.ais-ToggleRefinement-checkbox {
+  @apply hidden;
+}
