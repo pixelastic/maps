@@ -4,7 +4,7 @@
   min-height: 200vh;
 }
 .js-masonrySentinel {
-  @apply absolute bottom-0 left-0 right-0 h-100vh;
+  @apply h-100vh;
 }
 /**
  * Hits

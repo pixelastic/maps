@@ -8,7 +8,7 @@ const {
   sortBy,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
-const infiniteMasonry = require('./_scripts/infiniteMasonry.js');
+const infiniteMasonry = require('./_scripts/infiniteMasonry');
 
 const widgets = [
   /**
@@ -17,7 +17,7 @@ const widgets = [
   {
     type: configure,
     options: {
-      hitsPerPage: 10,
+      hitsPerPage: 5,
     },
   },
   /**
