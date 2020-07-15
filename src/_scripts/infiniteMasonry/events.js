@@ -1,14 +1,17 @@
 const config = require('./config.js');
+const { after } = require('lodash-es');
 module.exports = {
   onScrollBottomReached(callback) {
     const sentinel = config.get('sentinel');
-    const observer = new IntersectionObserver((entries) => {
-      const isVisible = entries[0].isIntersecting;
-      if (!isVisible) {
-        return;
-      }
-      callback();
-    });
+    const observer = new IntersectionObserver(
+      after(2, (entries) => {
+        const isVisible = entries[0].isIntersecting;
+        if (!isVisible) {
+          return;
+        }
+        callback();
+      })
+    );
 
     observer.observe(sentinel);
   },

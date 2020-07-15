@@ -17,7 +17,7 @@ const widgets = [
   {
     type: configure,
     options: {
-      hitsPerPage: 5,
+      hitsPerPage: 10,
     },
   },
   /**

@@ -11,8 +11,10 @@ module.exports = {
     const container = config.get('container');
     const render = config.get('render');
     const transformedHits = transformHits(hits, transforms);
+    const ids = [];
     const content = transformedHits
       .map((hit) => {
+        ids.push(hit.id);
         return render(hit);
       })
       .join('\n');
@@ -20,7 +22,7 @@ module.exports = {
     container.innerHTML = content;
 
     config.set('hitCount', hits.length);
-    resize.all();
+    resize(ids);
   },
   /**
    * Appends new hits to the existing list
@@ -34,8 +36,10 @@ module.exports = {
     const hitCount = config.get('hitCount');
     const newHits = hits.slice(hitCount, hits.length);
     const transformedHits = transformHits(newHits, transforms);
+    const ids = [];
     const content = transformedHits
       .map((hit) => {
+        ids.push(hit.id);
         return render(hit);
       })
       .join('\n');
@@ -43,6 +47,6 @@ module.exports = {
     container.innerHTML += content;
 
     config.set('hitCount', hitCount + newHits.length);
-    resize.all();
+    resize(ids);
   },
 };
