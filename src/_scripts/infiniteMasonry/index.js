@@ -27,9 +27,9 @@ module.exports = {
       if (!this.isAppendMode()) {
         config.clear();
       }
-      this.setAppendMode(false);
 
       hits.append(hitList);
+      this.setAppendMode(false);
     });
   },
   setAppendMode(value) {

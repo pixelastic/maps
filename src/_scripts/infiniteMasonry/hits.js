@@ -32,7 +32,12 @@ module.exports = {
       })
       .join('\n');
 
-    container.innerHTML += html;
+    const isAppendMode = config.get('appendMode');
+    if (isAppendMode) {
+      container.innerHTML += html;
+    } else {
+      container.innerHTML = html;
+    }
 
     // Add a sentinel at the bottom, to enable the infinite scroll
     this.addSentinel();
