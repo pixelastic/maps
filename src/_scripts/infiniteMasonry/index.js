@@ -1,6 +1,5 @@
 const instantsearch = require('norska/frontend/algolia/instantsearch');
 const config = require('./config.js');
-const events = require('./events.js');
 const zoom = require('./zoom.js');
 const hits = require('./hits.js');
 module.exports = {
@@ -13,23 +12,30 @@ module.exports = {
     return connectInfiniteHits((renderArgs, isFirstRender) => {
       const { hits: hitList, showMore, widgetParams } = renderArgs;
 
-      // Setup some variables for all the other calls
+      // Init the widget
       if (isFirstRender) {
         config.setStable(widgetParams);
         zoom.enable();
-        events.onScrollBottomReached(() => {
-          config.set('appendMode', true);
+        hits.onInfiniteScroll(() => {
+          this.setAppendMode(true);
           showMore();
         });
+        return;
       }
 
-      if (config.get('appendMode')) {
-        config.set('appendMode', false);
-        hits.append(hitList);
-      } else {
+      // Clear all runtime config, unless we're triggering the infinite scroll
+      if (!this.isAppendMode()) {
         config.clear();
-        hits.replace(hitList);
       }
+      this.setAppendMode(false);
+
+      hits.append(hitList);
     });
+  },
+  setAppendMode(value) {
+    config.set('appendMode', value);
+  },
+  isAppendMode() {
+    return config.get('appendMode');
   },
 };

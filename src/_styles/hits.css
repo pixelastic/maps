@@ -1,8 +1,4 @@
 /* purgecss start ignore */
-.js-masonryContainer {
-  @apply relative;
-  min-height: 200vh;
-}
 .js-masonrySentinel {
   @apply h-100vh;
 }
@@ -11,7 +7,7 @@
  **/
 .js-masonryWall {
   @apply grid col-gap-1 row-gap-1 grid-cols-w-14 pr-1;
-  grid-auto-rows: 0;
+  grid-auto-rows: 10px;
 }
 @screen md {
   .js-masonryWall {

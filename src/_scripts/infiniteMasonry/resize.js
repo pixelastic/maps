@@ -38,8 +38,13 @@ const resize = (idOrIds, userOptions = {}) => {
     image.style.height = 'auto';
   }
 
+  // Read the value from cache if the brick height has already been set
+  let spanHeight = config.get(`heights.${id}`);
+  if (!spanHeight) {
+    spanHeight = resize.getSpanHeight(node);
+  }
+
   // Resize the height to match the grid rows
-  const spanHeight = resize.getSpanHeight(id);
   node.parentNode.style.gridRowEnd = `span ${spanHeight}`;
   setTimeout(() => {
     // node.style.height = '100%';
@@ -69,19 +74,17 @@ const resize = (idOrIds, userOptions = {}) => {
 
 /**
  * Returns the height of a brick in span units
- * @param {string} id Unique id of the brick
+ * @param {object} node Node to size
  * @returns {number} Number of units it spans
  **/
-resize.getSpanHeight = (id) => {
-  // Read the value from cache if the brick height has already been set
-  const cachedHeight = config.get(`heights.${id}`);
-  if (cachedHeight) {
-    return cachedHeight;
-  }
-
+resize.getSpanHeight = (node) => {
   const gapHeight = config.get('gapHeight');
-  const node = document.getElementById(id);
-  const brickHeight = node.getBoundingClientRect().height + gapHeight;
-  return Math.ceil(brickHeight / gapHeight);
+  const rowHeight = config.get('rowHeight');
+  const innerHeight = node.getBoundingClientRect().height;
+
+  const brickHeight = innerHeight + gapHeight;
+  const trackHeight = rowHeight + gapHeight;
+
+  return Math.ceil(brickHeight / trackHeight);
 };
 module.exports = resize;

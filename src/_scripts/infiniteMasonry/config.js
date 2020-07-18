@@ -24,7 +24,7 @@ module.exports = {
    **/
   clear() {
     this.__runtime = {
-      hitCount: null,
+      hitCount: 0,
       appendMode: false,
     };
   },
@@ -37,8 +37,9 @@ module.exports = {
     const gapHeight = parseInt(
       window.getComputedStyle(container).getPropertyValue('grid-row-gap')
     );
-
-    const sentinel = document.getElementById('sentinel');
+    const rowHeight = parseInt(
+      window.getComputedStyle(container).getPropertyValue('grid-auto-rows')
+    );
 
     const template = hogan.compile(widgetParams.templates.item);
     const render = template.render.bind(template);
@@ -49,10 +50,12 @@ module.exports = {
     this.__stable = {
       container,
       gapHeight,
+      rowHeight,
       render,
-      sentinel,
       heights,
       intervals,
     };
+
+    this.clear();
   },
 };

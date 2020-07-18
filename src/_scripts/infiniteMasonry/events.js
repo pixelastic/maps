@@ -1,8 +1,12 @@
 const config = require('./config.js');
 const { after } = require('lodash-es');
 module.exports = {
-  onScrollBottomReached(callback) {
-    const sentinel = config.get('sentinel');
+  /**
+   * Fire a callback when a node becomes visible
+   * @param {object} node Node to observe
+   * @param {Function} callback Method to run
+   **/
+  onNodeVisible(node, callback) {
     const observer = new IntersectionObserver(
       after(2, (entries) => {
         const isVisible = entries[0].isIntersecting;
@@ -13,7 +17,7 @@ module.exports = {
       })
     );
 
-    observer.observe(sentinel);
+    observer.observe(node);
   },
   /**
    * Fires a callback as soon as the brick image starts downloading
