@@ -14,7 +14,10 @@ module.exports = {
           return;
         }
         callback();
-      })
+      }),
+      {
+        rootMargin: '800px',
+      }
     );
 
     observer.observe(node);
