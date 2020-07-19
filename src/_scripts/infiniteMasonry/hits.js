@@ -17,6 +17,7 @@ module.exports = {
     // nearing 800 rows.
     const rowCount = resize.getSpanHeight(container);
     if (rowCount >= 800) {
+      this.addBackToTopButton();
       return;
     }
 
@@ -66,6 +67,21 @@ module.exports = {
     events.onNodeVisible(sentinel, () => {
       this.__infiniteScrollCallback();
     });
+  },
+  /**
+   * Add a "Back to top" button at the bottom of the list
+   **/
+  addBackToTopButton() {
+    const container = config.get('container');
+
+    const button = document.createElement('div');
+    button.classList.add('js-masonryBackToTop');
+    button.innerHTML = 'Back to top ↺';
+    button.addEventListener('click', () => {
+      window.scrollTo(0, 0);
+    });
+
+    container.appendChild(button);
   },
   /**
    * Register the callback to fire when we reach the bottom of the page

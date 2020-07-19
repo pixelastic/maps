@@ -1,18 +1,19 @@
 /* purgecss start ignore */
-.js-masonrySentinel {
-  @apply h-100vh;
-}
 /**
  * Hits
  **/
 .js-masonryWall {
   @apply grid col-gap-1 row-gap-1 grid-cols-w-14 pr-1;
-  grid-auto-rows: 10px;
+  grid-auto-rows: 10px; /* Implicit height of newly created rows */
 }
 @screen md {
   .js-masonryWall {
     @apply grid-cols-w-17;
   }
+}
+.js-masonryBackToTop {
+  @apply row-span-5 flrnw flc white text-4 pointer hover_underline;
+  grid-column: 1 / -1; /* Take all width */
 }
 
 .__hitLink:after {
