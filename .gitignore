@@ -13,3 +13,4 @@ yarn-error.log
 *~
 *.rej
 .netlify
+.cache
