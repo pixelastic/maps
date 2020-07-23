@@ -9,22 +9,22 @@
   dependencies:
     "@algolia/cache-common" "4.2.0"
 
-"@algolia/cache-browser-local-storage@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/cache-browser-local-storage/-/cache-browser-local-storage-4.3.0.tgz#e284e2c2418a1c19d9a4c6553ffb151525332084"
-  integrity sha512-91Cf3IPUk84PF2wvR8ys8XO42FqaJEtIh/dyR0WvwMdv0x13GORkAvoBJgkFI2wofZqUY86jNimvHWfsWzPQ+g==
+"@algolia/cache-browser-local-storage@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/cache-browser-local-storage/-/cache-browser-local-storage-4.3.1.tgz#2adbb3de8adebf2c938fb8dc94359a89366017b9"
+  integrity sha512-pNelJomUeeQS5ZagEeUti8HltrfJbqXHnZXB1fez4Ycdm7GsEQm0r6fRCfx+1/6hqQJNo5zQUSA4ZgWi8VMs4Q==
   dependencies:
-    "@algolia/cache-common" "4.3.0"
+    "@algolia/cache-common" "4.3.1"
 
 "@algolia/cache-common@4.2.0":
   version "4.2.0"
   resolved "https://registry.npmjs.org/@algolia/cache-common/-/cache-common-4.2.0.tgz#ada18e559f205a63eaf60c21a035b3d41f0f8d7d"
   integrity sha512-ATBQCBBLt4hPNKIKn06y5zqZPWQmI+PBF0287rFVj8BGmEr82BzoKMa5XIkvgpjtxwx6c5nSKxZaYkEFqtrxtQ==
 
-"@algolia/cache-common@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/cache-common/-/cache-common-4.3.0.tgz#3a257b184bce678e524e354c4f4abd3235ccd24d"
-  integrity sha512-AHTbOn9lk0f5IkjssXXmDgnaZfsUJVZ61sqOH1W3LyJdAscDzCj0KtwijELn8FHlLXQak7+K93/O3Oct0uHncQ==
+"@algolia/cache-common@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/cache-common/-/cache-common-4.3.1.tgz#2470fd0a358ae5a66119851d77cdf12969b53591"
+  integrity sha512-BgZVQKfQ3rYSKHDbEuYeIHgQ7cIqbDVUe8gPib/YI6hB2FWdt3hQyDqKslulBt65MxZ5CLSrWg8mq/qL077Bog==
 
 "@algolia/cache-in-memory@4.2.0":
   version "4.2.0"
@@ -33,12 +33,12 @@
   dependencies:
     "@algolia/cache-common" "4.2.0"
 
-"@algolia/cache-in-memory@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/cache-in-memory/-/cache-in-memory-4.3.0.tgz#d1f3920b56f1ce70bafda515f42a82aa8effedf8"
-  integrity sha512-8BZS5IFEtiSFkA6vNQUXJXIWABDbSanQdkGX5LArlhbCjuykZqF68yaCjXWG10EZTySnkZLmKc+5ozYVOktJaQ==
+"@algolia/cache-in-memory@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/cache-in-memory/-/cache-in-memory-4.3.1.tgz#905a27ab5f1303b1e0fea719bc808784e9415169"
+  integrity sha512-bd2Aqn8efGJpR8snjUvBJIONyQ2uqYQSbFH9rTrLPmJPMYdoTKTcVLrtpOhOlmvTTfguhqlv+zIjYdJcraeBvg==
   dependencies:
-    "@algolia/cache-common" "4.3.0"
+    "@algolia/cache-common" "4.3.1"
 
 "@algolia/client-account@4.2.0":
   version "4.2.0"
@@ -49,14 +49,14 @@
     "@algolia/client-search" "4.2.0"
     "@algolia/transporter" "4.2.0"
 
-"@algolia/client-account@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/client-account/-/client-account-4.3.0.tgz#84401dc17a9cb19fb8da71e0ee478aa80fba8064"
-  integrity sha512-8LJSvWooc+fe+XZXeu+h4dhpo9lsu3sb7rV9cpPhymYSHgEJAHaDkZEcPM1u/PBMvFe0mZXaW6nabeb3jeIRcw==
+"@algolia/client-account@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/client-account/-/client-account-4.3.1.tgz#e84f93e2c3375a9defc690e4c24b2e2d9a28824f"
+  integrity sha512-062Cxw61llvkeHS2bWghufNI0munw5fKGZBhUfDdnC7lsJpzYJwQdkdchzLqqIOXZa8k9vdLlnlKHk8f53E5fQ==
   dependencies:
-    "@algolia/client-common" "4.3.0"
-    "@algolia/client-search" "4.3.0"
-    "@algolia/transporter" "4.3.0"
+    "@algolia/client-common" "4.3.1"
+    "@algolia/client-search" "4.3.1"
+    "@algolia/transporter" "4.3.1"
 
 "@algolia/client-analytics@4.2.0":
   version "4.2.0"
@@ -68,15 +68,15 @@
     "@algolia/requester-common" "4.2.0"
     "@algolia/transporter" "4.2.0"
 
-"@algolia/client-analytics@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/client-analytics/-/client-analytics-4.3.0.tgz#c9c84965969a485b998189c78fb6a8847af51f34"
-  integrity sha512-BFH4ddyrqI2pE3bUctn5KtJgYqgvO0Ap9vJEHBNj6mjSKqFbTnZeVEPG3yWrOuWRCqPHR3ewcWRisNwJHG3+Mw==
+"@algolia/client-analytics@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/client-analytics/-/client-analytics-4.3.1.tgz#391227f0e2cc1a7fefedbab06f4b2b78f59579a5"
+  integrity sha512-+/gn1z3oAh2CE0xox7/Df9SseHcOuqgm4ngSXGh1cWpldsF+gioA9HWSh/4RSydViASKu3YIk5O61zFzVTKbOA==
   dependencies:
-    "@algolia/client-common" "4.3.0"
-    "@algolia/client-search" "4.3.0"
-    "@algolia/requester-common" "4.3.0"
-    "@algolia/transporter" "4.3.0"
+    "@algolia/client-common" "4.3.1"
+    "@algolia/client-search" "4.3.1"
+    "@algolia/requester-common" "4.3.1"
+    "@algolia/transporter" "4.3.1"
 
 "@algolia/client-common@4.2.0":
   version "4.2.0"
@@ -86,13 +86,13 @@
     "@algolia/requester-common" "4.2.0"
     "@algolia/transporter" "4.2.0"
 
-"@algolia/client-common@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/client-common/-/client-common-4.3.0.tgz#d386f67a8068e5ca2d2a00d37fab10a653744951"
-  integrity sha512-8Ohj6zXZkpwDKc8ZWVTZo2wPO4+LT5D258suGg/C6nh4UxOrFOp6QaqeQo8JZ1eqMqtfb3zv5SHgW4fZ00NCLQ==
+"@algolia/client-common@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/client-common/-/client-common-4.3.1.tgz#053580c0c2ed982eb2f65c7d728238f3da67db4e"
+  integrity sha512-1dcADKy3F/gMN+s+p5yvYdF6A4L5YEY0ll4JjSHGKXvZyWLDxKjyu/ToeUuHlrutWQu9w8UT2X7urES8BZU5WQ==
   dependencies:
-    "@algolia/requester-common" "4.3.0"
-    "@algolia/transporter" "4.3.0"
+    "@algolia/requester-common" "4.3.1"
+    "@algolia/transporter" "4.3.1"
 
 "@algolia/client-recommendation@4.2.0":
   version "4.2.0"
@@ -103,14 +103,14 @@
     "@algolia/requester-common" "4.2.0"
     "@algolia/transporter" "4.2.0"
 
-"@algolia/client-recommendation@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/client-recommendation/-/client-recommendation-4.3.0.tgz#4dce100c85f044b9070ba4a4e5b129f4d466d4b3"
-  integrity sha512-jCMIAWPA2hsxc5CCtoTtQAcohaG+10CxXK122Tc47t4w1K8qzSJnCjC2cHvM4UNJO+k7NrmjOYW0EXp9RKc7SQ==
+"@algolia/client-recommendation@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/client-recommendation/-/client-recommendation-4.3.1.tgz#e693b16cdf6ec7fa532f9ab39143c8dabed5cc76"
+  integrity sha512-4WZ9Pa2waOkpqv5acom4f8XBBlrnafeEwcSK4R0msubHJpUdkvD/+rxT5Ya1/0FAGvBPhOvtOJqsauaJYKM2Dw==
   dependencies:
-    "@algolia/client-common" "4.3.0"
-    "@algolia/requester-common" "4.3.0"
-    "@algolia/transporter" "4.3.0"
+    "@algolia/client-common" "4.3.1"
+    "@algolia/requester-common" "4.3.1"
+    "@algolia/transporter" "4.3.1"
 
 "@algolia/client-search@4.2.0":
   version "4.2.0"
@@ -121,24 +121,24 @@
     "@algolia/requester-common" "4.2.0"
     "@algolia/transporter" "4.2.0"
 
-"@algolia/client-search@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/client-search/-/client-search-4.3.0.tgz#9f28df3b97d0b26605b9d6c5e69ea0df39e81c53"
-  integrity sha512-KCgcIsNMW1/0F5OILiFTddbTAKduJHRvXQS4NxY1H9gQWMTVeWJS7VZQ/ukKBiUMLatwUQHJz2qpYm9fmqOjkQ==
+"@algolia/client-search@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/client-search/-/client-search-4.3.1.tgz#e0a3d9b757855901a185d3d918b27af28d520a5b"
+  integrity sha512-BGI8+8Gi3OELHtyXHflGz0Ms0DQLUQFu2Hs4us3L9gidyYhuvjl76x8EOOQRkXhQcWzEeqx+L2c2InTKtNfQfg==
   dependencies:
-    "@algolia/client-common" "4.3.0"
-    "@algolia/requester-common" "4.3.0"
-    "@algolia/transporter" "4.3.0"
+    "@algolia/client-common" "4.3.1"
+    "@algolia/requester-common" "4.3.1"
+    "@algolia/transporter" "4.3.1"
 
 "@algolia/logger-common@4.2.0":
   version "4.2.0"
   resolved "https://registry.npmjs.org/@algolia/logger-common/-/logger-common-4.2.0.tgz#dd373b267594656d72a1563f6621ab7f727c4373"
   integrity sha512-VQcJE5lr78oc+lbcGfPonCDTRwLNSxwtPrUP6Tj+CoDedsVHZhODAlHzLHhxc4vuyrU7xomvKJLqTUgfDNxzXQ==
 
-"@algolia/logger-common@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/logger-common/-/logger-common-4.3.0.tgz#ab01dd0458f9e5c1dd8e9ea43d604d7e4b76ad33"
-  integrity sha512-vQ+aukjZkRAyO9iyINBefT366UtF/B9QoA1Kw8PlY67T6fYmklFgYp3LNH/e7h/gz0py5LYY/HIwSsaTKk8/VQ==
+"@algolia/logger-common@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/logger-common/-/logger-common-4.3.1.tgz#31d2ff5f81a3e2424cfb4b205e64cfd7b1acfba5"
+  integrity sha512-HOY89EkxFFR0LjeqE+fqaF3EeQUAYFdVdrAXsnrWhm/OsAlXiy+vsoHL4EaJLXvTQlJRBbgNyyQv8ZPAN9JLCw==
 
 "@algolia/logger-console@4.2.0":
   version "4.2.0"
@@ -147,12 +147,12 @@
   dependencies:
     "@algolia/logger-common" "4.2.0"
 
-"@algolia/logger-console@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/logger-console/-/logger-console-4.3.0.tgz#7fc504328e3b0b7834ad21bc8f791d50f6aa791b"
-  integrity sha512-7pWtcv1cSSa7F48gRBOZLcEWN073+WbnKjbpRrIGej+abZppw/h+22jtVZZORC8EIjFffGqz2/2e6bZiX+Jg7A==
+"@algolia/logger-console@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/logger-console/-/logger-console-4.3.1.tgz#f61f2e0ed67ae92556d7e1b1cb4f08e270b2734b"
+  integrity sha512-aIJ2N++eTVLkwGFxb1AY60hxYIrNf3FgaEMkokPOAV7sPoWThITSQPj/2vruRLJsYZS2EnD8jxiETrCwSet7mw==
   dependencies:
-    "@algolia/logger-common" "4.3.0"
+    "@algolia/logger-common" "4.3.1"
 
 "@algolia/requester-browser-xhr@4.2.0":
   version "4.2.0"
@@ -161,22 +161,22 @@
   dependencies:
     "@algolia/requester-common" "4.2.0"
 
-"@algolia/requester-browser-xhr@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/requester-browser-xhr/-/requester-browser-xhr-4.3.0.tgz#9ba90588224809797f05f966d3388f4cfb6b2c94"
-  integrity sha512-CpUwgQhXZsnZmjEd5DTwQv1BKQNCt83bzyVdUqvljsFxZOsNQacS6lOYs0B1eD18tKHCwVMuwbYqTaLPGBXTKQ==
+"@algolia/requester-browser-xhr@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/requester-browser-xhr/-/requester-browser-xhr-4.3.1.tgz#c664be05dbdddbd63cb66c4e32b598b563ab83d1"
+  integrity sha512-aSkBWqt9IjZYzmJpP14ISO9tizjyumwAmGxnx2t/QuE3LUh/sJG2FL3Vvq44wjNk9yTPC/c1yiQA85IqeqGZ7g==
   dependencies:
-    "@algolia/requester-common" "4.3.0"
+    "@algolia/requester-common" "4.3.1"
 
 "@algolia/requester-common@4.2.0":
   version "4.2.0"
   resolved "https://registry.npmjs.org/@algolia/requester-common/-/requester-common-4.2.0.tgz#df67a940516d5a313bbf79bcbceddadfff9f8ce2"
   integrity sha512-SSKPRM/7UP54/dxyK6EYt4p6nTeJxYb1P6xVh/Ic6noBTCfqg5vBEKDa1DZD5MBtCvABoODd97UOfAo3ECG/jg==
 
-"@algolia/requester-common@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/requester-common/-/requester-common-4.3.0.tgz#1529e51082a9b43d324290f3c07b6acb7cc34cd8"
-  integrity sha512-1v73KyspJBiTzfyXupjHxikxTYjh5MoxI6mOIvAtQxRqc4ehUPAEdPCNHEvvLiCK96iKWzZaULmV0U7pj3yvTw==
+"@algolia/requester-common@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/requester-common/-/requester-common-4.3.1.tgz#215084aa1ea025b1f2f73eb03b437de89c7c6c39"
+  integrity sha512-2lu0gOB2Rt4mn9gKDxjB8rY2IvU4usDA8bZVGl5tf/E81kRovtDZcgZjuKQ5zMyJ/xuIYXjx+ECXAxjUnNhieA==
 
 "@algolia/requester-node-http@4.2.0":
   version "4.2.0"
@@ -185,12 +185,12 @@
   dependencies:
     "@algolia/requester-common" "4.2.0"
 
-"@algolia/requester-node-http@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/requester-node-http/-/requester-node-http-4.3.0.tgz#ec9b4dbf7f8e563927b6e96c7c68e4b21d17284d"
-  integrity sha512-Hg9Y8sUeSGQgoO1FpoL5jbkDzCtXI/8HXHybU6bimsX93DAz3HZWaoQFKmIpQDNhQ8G9FLgAtzDAxS6eckDxzg==
+"@algolia/requester-node-http@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/requester-node-http/-/requester-node-http-4.3.1.tgz#8ffaeef57c1410e32d59565fbd2db6705bffaa92"
+  integrity sha512-CnVQ5fHJVsvOZjOIagAIWW315NwGF/spBT5o8/+9ZFTuKQTeLk8/jdj7OXKZ2+vbWkqDM1sKMFXH2jyHOlZjtQ==
   dependencies:
-    "@algolia/requester-common" "4.3.0"
+    "@algolia/requester-common" "4.3.1"
 
 "@algolia/transporter@4.2.0":
   version "4.2.0"
@@ -201,14 +201,14 @@
     "@algolia/logger-common" "4.2.0"
     "@algolia/requester-common" "4.2.0"
 
-"@algolia/transporter@4.3.0":
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/@algolia/transporter/-/transporter-4.3.0.tgz#17dcafcd20bb30d2bef8886c34e86c5d47e1c560"
-  integrity sha512-BTKHAtdQdfOJ0xzZkiyEK/2QVQJTiVgBZlOBfXp2gBtztjV26OqfW4n6Xz0o7eBRzLEwY1ot3mHF5QIVUjAsMg==
+"@algolia/transporter@4.3.1":
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/@algolia/transporter/-/transporter-4.3.1.tgz#8320b29cabf54a1486435bea51d1c562952337ce"
+  integrity sha512-fbA/XHjdVoO+sp+rPVe/+oK/mCac0S6VugMycg7Etujb4+6nv3STIZxtPiC+Xppbouh5tEEOE81F1aALHXBkBQ==
   dependencies:
-    "@algolia/cache-common" "4.3.0"
-    "@algolia/logger-common" "4.3.0"
-    "@algolia/requester-common" "4.3.0"
+    "@algolia/cache-common" "4.3.1"
+    "@algolia/logger-common" "4.3.1"
+    "@algolia/requester-common" "4.3.1"
 
 "@analytics/cookie-utils@^0.2.3":
   version "0.2.3"
@@ -968,6 +968,32 @@
     util.promisify "^1.0.1"
     yargs "^15.3.1"
 
+"@netlify/zip-it-and-ship-it@^1.3.3":
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/@netlify/zip-it-and-ship-it/-/zip-it-and-ship-it-1.3.3.tgz#cf33bcbc313dd06f0a7ba1e4ee69de59344ca0a8"
+  integrity sha512-MCsTgFa6SKj233Uv3+6DO6wZxQ7931W5PcrYDkGRxwdiksMyMJfeP5ZcREFkPxxUjIZ+66eEUoXffkhoDwy3WQ==
+  dependencies:
+    archiver "^4.0.0"
+    common-path-prefix "^2.0.0"
+    cp-file "^7.0.0"
+    elf-tools "^1.1.1"
+    end-of-stream "^1.4.4"
+    find-up "^4.1.0"
+    glob "^7.1.6"
+    junk "^3.1.0"
+    locate-path "^5.0.0"
+    make-dir "^3.1.0"
+    p-map "^3.0.0"
+    path-exists "^4.0.0"
+    pkg-dir "^4.2.0"
+    precinct "^6.3.1"
+    require-package-name "^2.0.1"
+    resolve "^2.0.0-next.1"
+    semver "^7.3.2"
+    unixify "^1.0.0"
+    util.promisify "^1.0.1"
+    yargs "^15.4.1"
+
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
   resolved "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.3.tgz#3a582bdb53804c6ba6d146579c46e52130cf4a3b"
@@ -1182,12 +1208,12 @@
     "@octokit/types" "^2.0.1"
     deprecation "^2.3.1"
 
-"@octokit/plugin-rest-endpoint-methods@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/@octokit/plugin-rest-endpoint-methods/-/plugin-rest-endpoint-methods-4.0.0.tgz#b02a2006dda8e908c3f8ab381dd5475ef5a810a8"
-  integrity sha512-emS6gysz4E9BNi9IrCl7Pm4kR+Az3MmVB0/DoDCmF4U48NbYG3weKyDlgkrz6Jbl4Mu4nDx8YWZwC4HjoTdcCA==
+"@octokit/plugin-rest-endpoint-methods@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@octokit/plugin-rest-endpoint-methods/-/plugin-rest-endpoint-methods-4.1.0.tgz#338c568177c4d4d753f9525af88b29cd0f091734"
+  integrity sha512-zbRTjm+xplSNlixotTVMvLJe8aRogUXS+r37wZK5EjLsNYH4j02K5XLMOWyYaSS4AJEZtPmzCcOcui4VzVGq+A==
   dependencies:
-    "@octokit/types" "^5.0.0"
+    "@octokit/types" "^5.1.0"
     deprecation "^2.3.1"
 
 "@octokit/request-error@^1.0.2":
@@ -1222,15 +1248,15 @@
     once "^1.4.0"
     universal-user-agent "^5.0.0"
 
-"@octokit/rest@18.0.0":
-  version "18.0.0"
-  resolved "https://registry.npmjs.org/@octokit/rest/-/rest-18.0.0.tgz#7f401d9ce13530ad743dfd519ae62ce49bcc0358"
-  integrity sha512-4G/a42lry9NFGuuECnua1R1eoKkdBYJap97jYbWDNYBOUboWcM75GJ1VIcfvwDV/pW0lMPs7CEmhHoVrSV5shg==
+"@octokit/rest@18.0.1":
+  version "18.0.1"
+  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-18.0.1.tgz#46ee234770c5ff4c646f7e18708c56b6d7fa3c66"
+  integrity sha512-KLlJpgsJx88OZ0VLBH3gvUK4sfcXjr/nE0Qzyoe76dNqMzDzkSmmvILF3f2XviGgrzuP6Ie0ay/QX478Vrpn9A==
   dependencies:
     "@octokit/core" "^3.0.0"
     "@octokit/plugin-paginate-rest" "^2.2.0"
     "@octokit/plugin-request-log" "^1.0.0"
-    "@octokit/plugin-rest-endpoint-methods" "4.0.0"
+    "@octokit/plugin-rest-endpoint-methods" "4.1.0"
 
 "@octokit/rest@^16.28.1":
   version "16.43.2"
@@ -1265,6 +1291,13 @@
   version "5.0.1"
   resolved "https://registry.npmjs.org/@octokit/types/-/types-5.0.1.tgz#5459e9a5e9df8565dcc62c17a34491904d71971e"
   integrity sha512-GorvORVwp244fGKEt3cgt/P+M0MGy4xEDbckw+K5ojEezxyMDgCaYPKVct+/eWQfZXOT7uq0xRpmrl/+hliabA==
+  dependencies:
+    "@types/node" ">= 8"
+
+"@octokit/types@^5.1.0":
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/@octokit/types/-/types-5.1.1.tgz#f9f4fd5af0751ce9520a52c3a7353dbec155cc4f"
+  integrity sha512-8LDEbrxJrYiwzBrfZhoMFEq9+1o7Kg4ydiNgZt2DBU6n34iEd37qNqOkawrjJZZ6iUS5IXYf6EmGONn34YLgzw==
   dependencies:
     "@types/node" ">= 8"
 
@@ -1332,6 +1365,11 @@
   integrity sha512-PyRA9sm1Yayuj5OIoJ1hGt2YISX45w9WcFbh6ddT0Z/0yaFxOtGLInr4jUfU1EAFVs0Yfyfev4RNwBlUaHdlDQ==
   dependencies:
     defer-to-connect "^2.0.0"
+
+"@tailwindcss/typography@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.2.0.tgz#b597c83502e3c3c6641a8aaabda223cd494ab349"
+  integrity sha512-aPgMH+CjQiScLZculoDNOQUrrK2ktkbl3D6uCLYp1jgYRlNDrMONu9nMu8LfwAeetYNpVNeIGx7WzHSu0kvECg==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.9"
@@ -1735,21 +1773,21 @@ abbrev@1:
   resolved "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@1.11.0:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.11.0.tgz#24b955b7bce1466450e6d0f801530d0c9f1583b9"
-  integrity sha512-FR5My1kfVzqZ9uIeuukfeGKBTkr7aUjWZBxiD+FjBUA6v1XAd17jqZg5PhsHmK8FDa01wRuGPZz6M1jDDi7Grw==
+aberlaas@1.12.1:
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.12.1.tgz#3cff35d62b7a95f8a67f31fbf1e94b2e720d1431"
+  integrity sha512-VD+e1jSVdnt/RST/kuKxN++UEnj0TdfaY4nylEt2NiL1qndhxJ9qBWt5A4PWYePpJ1ES0AdXzFrcsm5VwolaSw==
   dependencies:
-    "@octokit/rest" "18.0.0"
+    "@octokit/rest" "18.0.1"
     ci-info "2.0.0"
     dedent "0.7.0"
-    eslint "7.4.0"
+    eslint "7.5.0"
     eslint-config-prettier "6.11.0"
     eslint-plugin-jest "23.18.0"
-    eslint-plugin-jsdoc "28.6.1"
+    eslint-plugin-jsdoc "28.7.0"
     eslint-plugin-node "11.1.0"
     eslint-plugin-prettier "3.1.4"
-    firost "1.11.0"
+    firost "1.11.1"
     golgoth "1.3.0"
     husky "4.2.5"
     jasmine-fail-fast "2.0.1"
@@ -1805,7 +1843,7 @@ acorn@^6.4.1:
   resolved "https://registry.npmjs.org/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
   integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
-acorn@^7.0.0, acorn@^7.1.1, acorn@^7.2.0:
+acorn@^7.0.0, acorn@^7.1.1, acorn@^7.3.1:
   version "7.3.1"
   resolved "https://registry.npmjs.org/acorn/-/acorn-7.3.1.tgz#85010754db53c3fbaf3b9ea3e083aa5c5d147ffd"
   integrity sha512-tLc0wSnatxAQHVHUapaHdz72pi9KUyHjq5KyHjGg9Y8Ifdc79pTh2XvI6I1/chZbnM7QtNKzh66ooDogPZSleA==
@@ -1875,25 +1913,25 @@ algoliasearch@4.2.0:
     "@algolia/requester-node-http" "4.2.0"
     "@algolia/transporter" "4.2.0"
 
-algoliasearch@4.3.0:
-  version "4.3.0"
-  resolved "https://registry.npmjs.org/algoliasearch/-/algoliasearch-4.3.0.tgz#4f6db58d405d7ecc38073e17c2996066455e9979"
-  integrity sha512-H2woXyqmd1nFYDrQKLZXgghNkLBTcBXJ7Q/bxQ+F9WWS4H0Kb7IlQvNi7bDzHyldhDhIthImaUwcKqr5iiyMFQ==
+algoliasearch@4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/algoliasearch/-/algoliasearch-4.3.1.tgz#dea6ad87705e0439855cf3e5a4406b74e794b874"
+  integrity sha512-q8aIYgdZZWOMzmvlIwxcbktVa8+M5cyI8hIrgd/NcSz/XKHfVTKdNYbnsmPqmYrssAmepx8C8vHnJrPuumUnYA==
   dependencies:
-    "@algolia/cache-browser-local-storage" "4.3.0"
-    "@algolia/cache-common" "4.3.0"
-    "@algolia/cache-in-memory" "4.3.0"
-    "@algolia/client-account" "4.3.0"
-    "@algolia/client-analytics" "4.3.0"
-    "@algolia/client-common" "4.3.0"
-    "@algolia/client-recommendation" "4.3.0"
-    "@algolia/client-search" "4.3.0"
-    "@algolia/logger-common" "4.3.0"
-    "@algolia/logger-console" "4.3.0"
-    "@algolia/requester-browser-xhr" "4.3.0"
-    "@algolia/requester-common" "4.3.0"
-    "@algolia/requester-node-http" "4.3.0"
-    "@algolia/transporter" "4.3.0"
+    "@algolia/cache-browser-local-storage" "4.3.1"
+    "@algolia/cache-common" "4.3.1"
+    "@algolia/cache-in-memory" "4.3.1"
+    "@algolia/client-account" "4.3.1"
+    "@algolia/client-analytics" "4.3.1"
+    "@algolia/client-common" "4.3.1"
+    "@algolia/client-recommendation" "4.3.1"
+    "@algolia/client-search" "4.3.1"
+    "@algolia/logger-common" "4.3.1"
+    "@algolia/logger-console" "4.3.1"
+    "@algolia/requester-browser-xhr" "4.3.1"
+    "@algolia/requester-common" "4.3.1"
+    "@algolia/requester-node-http" "4.3.1"
+    "@algolia/transporter" "4.3.1"
 
 analytics-utils@^0.1.2:
   version "0.1.3"
@@ -2081,6 +2119,19 @@ archiver@^3.0.0:
     tar-stream "^2.1.0"
     zip-stream "^2.1.2"
 
+archiver@^4.0.0:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/archiver/-/archiver-4.0.2.tgz#43c72865eadb4ddaaa2fb74852527b6a450d927c"
+  integrity sha512-B9IZjlGwaxF33UN4oPbfBkyA4V1SxNLeIhR1qY8sRXSsbdUkEHrrOvwlYFPx+8uQeCe9M+FG6KgO+imDmQ79CQ==
+  dependencies:
+    archiver-utils "^2.1.0"
+    async "^3.2.0"
+    buffer-crc32 "^0.2.1"
+    glob "^7.1.6"
+    readable-stream "^3.6.0"
+    tar-stream "^2.1.2"
+    zip-stream "^3.0.1"
+
 argparse@^1.0.7:
   version "1.0.10"
   resolved "https://registry.npmjs.org/argparse/-/argparse-1.0.10.tgz#bcd6791ea5ae09725e17e5ad988134cd40b3d911"
@@ -2241,7 +2292,7 @@ async@^2.6.3:
   dependencies:
     lodash "^4.17.14"
 
-async@^3.1.0:
+async@^3.1.0, async@^3.2.0:
   version "3.2.0"
   resolved "https://registry.npmjs.org/async/-/async-3.2.0.tgz#b3a2685c5ebb641d3de02d161002c60fc9f85720"
   integrity sha512-TR2mEZFVOj2pLStYxLht7TyfuRzaydfpxr3k9RpHIzMgw7A64dzsdqCxH1WJyQdoe8T10nDXd9wnEigmiuHIZw==
@@ -2266,7 +2317,20 @@ atob@^2.1.2:
   resolved "https://registry.npmjs.org/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-autoprefixer@9.8.4, autoprefixer@^9.4.5, autoprefixer@^9.8.0:
+autoprefixer@9.8.5:
+  version "9.8.5"
+  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.8.5.tgz#2c225de229ddafe1d1424c02791d0c3e10ccccaa"
+  integrity sha512-C2p5KkumJlsTHoNv9w31NrBRgXhf6eCMteJuHZi2xhkgC+5Vm40MEtCKPhc0qdgAOhox0YPy1SQHTAky05UoKg==
+  dependencies:
+    browserslist "^4.12.0"
+    caniuse-lite "^1.0.30001097"
+    colorette "^1.2.0"
+    normalize-range "^0.1.2"
+    num2fraction "^1.2.2"
+    postcss "^7.0.32"
+    postcss-value-parser "^4.1.0"
+
+autoprefixer@^9.4.5, autoprefixer@^9.8.0:
   version "9.8.4"
   resolved "https://registry.npmjs.org/autoprefixer/-/autoprefixer-9.8.4.tgz#736f1012673a70fa3464671d78d41abd54512863"
   integrity sha512-84aYfXlpUe45lvmS+HoAWKCkirI/sw4JK0/bTeeqgHYco3dcsOn0NqdejISjptsYwNji/21dnkDri9PsYKk89A==
@@ -2881,6 +2945,11 @@ caniuse-lite@^1.0.30001087, caniuse-lite@^1.0.30001093:
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001094.tgz#0b11d02e1cdc201348dbd8e3e57bd9b6ce82b175"
   integrity sha512-ufHZNtMaDEuRBpTbqD93tIQnngmJ+oBknjvr0IbFympSdtFpAUFmNv4mVKbb53qltxFx0nK3iy32S9AqkLzUNA==
 
+caniuse-lite@^1.0.30001097:
+  version "1.0.30001105"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001105.tgz#d2cb0b31e5cf2f3ce845033b61c5c01566549abf"
+  integrity sha512-JupOe6+dGMr7E20siZHIZQwYqrllxotAhiaej96y6x00b/48rPt42o+SzOSCPbrpsDWvRja40Hwrj0g0q6LZJg==
+
 capture-exit@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/capture-exit/-/capture-exit-2.0.0.tgz#fb953bfaebeb781f62898239dabb426d08a509a4"
@@ -2929,7 +2998,7 @@ chalk@3.0.0, chalk@^3.0.0, chalk@^3.0.0-beta.2:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chalk@4.1.0, chalk@^4.0.0, chalk@^4.1.0:
+chalk@4.1.0, "chalk@^3.0.0 || ^4.0.0", chalk@^4.0.0, chalk@^4.1.0:
   version "4.1.0"
   resolved "https://registry.npmjs.org/chalk/-/chalk-4.1.0.tgz#4e14870a618d9e2edd97dd8345fd9d9dc315646a"
   integrity sha512-qwx12AxXe2Q5xQ43Ac//I6v5aXTipYrSESdOgzrN+9XjgEpyjpKuvSGaN4qE93f7TQTlerQQ8S+EQ0EyDoVL1A==
@@ -3450,6 +3519,16 @@ compress-commons@^2.1.1:
     crc32-stream "^3.0.1"
     normalize-path "^3.0.0"
     readable-stream "^2.3.6"
+
+compress-commons@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/compress-commons/-/compress-commons-3.0.0.tgz#833944d84596e537224dd91cf92f5246823d4f1d"
+  integrity sha512-FyDqr8TKX5/X0qo+aVfaZ+PVmNJHJeckFBlq8jZGSJOgnynhfifoyl24qaqdUdDIBe0EVTHByN6NAkqYvE/2Xg==
+  dependencies:
+    buffer-crc32 "^0.2.13"
+    crc32-stream "^3.0.1"
+    normalize-path "^3.0.0"
+    readable-stream "^2.3.7"
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -4600,10 +4679,10 @@ eslint-plugin-jest@23.18.0:
   dependencies:
     "@typescript-eslint/experimental-utils" "^2.5.0"
 
-eslint-plugin-jsdoc@28.6.1:
-  version "28.6.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jsdoc/-/eslint-plugin-jsdoc-28.6.1.tgz#c9e9da59d0d3cef4fb45ffb91c0acde43af4e418"
-  integrity sha512-Z3y7hcNPDuhL339D1KOf9SY8pMAxYxhaG4QLtu3KVn20k/hNF1u6WQv44wvuSCb6OfPJ4say37RUlSNqIjR+mw==
+eslint-plugin-jsdoc@28.7.0:
+  version "28.7.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jsdoc/-/eslint-plugin-jsdoc-28.7.0.tgz#94600cdd5462fc7d8c832a672bc7efed8324adb8"
+  integrity sha512-+iLTot3brWZCq7tm+YmMAHpZHgDPH8JMMETBSrsDXU+IxdkOvqlPoDj2dQOdcImUqaVVhvdIyvrHiuFGtz1cUA==
   dependencies:
     comment-parser "^0.7.5"
     debug "^4.1.1"
@@ -4648,22 +4727,22 @@ eslint-scope@^5.0.0, eslint-scope@^5.1.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-utils@^2.0.0:
+eslint-utils@^2.0.0, eslint-utils@^2.1.0:
   version "2.1.0"
   resolved "https://registry.npmjs.org/eslint-utils/-/eslint-utils-2.1.0.tgz#d2de5e03424e707dc10c74068ddedae708741b27"
   integrity sha512-w94dQYoauyvlDc43XnGB8lU3Zt713vNChgt4EWwhXAP2XkBvndfxF0AgIqKOOasjPIPzj9JqgwkwbCYD0/V3Zg==
   dependencies:
     eslint-visitor-keys "^1.1.0"
 
-eslint-visitor-keys@^1.1.0, eslint-visitor-keys@^1.2.0:
+eslint-visitor-keys@^1.1.0, eslint-visitor-keys@^1.3.0:
   version "1.3.0"
   resolved "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-1.3.0.tgz#30ebd1ef7c2fdff01c3a4f151044af25fab0523e"
   integrity sha512-6J72N8UNa462wa/KFODt/PJ3IU60SDpC3QXC1Hjc1BXXpfL2C9R5+AU7jhe0F6GREqVMh4Juu+NY7xn+6dipUQ==
 
-eslint@7.4.0:
-  version "7.4.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.4.0.tgz#4e35a2697e6c1972f9d6ef2b690ad319f80f206f"
-  integrity sha512-gU+lxhlPHu45H3JkEGgYhWhkR9wLHHEXC9FbWFnTlEkbKyZKWgWRLgf61E8zWmBuI6g5xKBph9ltg3NtZMVF8g==
+eslint@7.5.0:
+  version "7.5.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.5.0.tgz#9ecbfad62216d223b82ac9ffea7ef3444671d135"
+  integrity sha512-vlUP10xse9sWt9SGRtcr1LAC67BENcQMFeV+w5EvLEoFe3xJ8cF1Skd0msziRx/VMC+72B4DxreCE+OR12OA6Q==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     ajv "^6.10.0"
@@ -4673,9 +4752,9 @@ eslint@7.4.0:
     doctrine "^3.0.0"
     enquirer "^2.3.5"
     eslint-scope "^5.1.0"
-    eslint-utils "^2.0.0"
-    eslint-visitor-keys "^1.2.0"
-    espree "^7.1.0"
+    eslint-utils "^2.1.0"
+    eslint-visitor-keys "^1.3.0"
+    espree "^7.2.0"
     esquery "^1.2.0"
     esutils "^2.0.2"
     file-entry-cache "^5.0.1"
@@ -4689,7 +4768,7 @@ eslint@7.4.0:
     js-yaml "^3.13.1"
     json-stable-stringify-without-jsonify "^1.0.1"
     levn "^0.4.1"
-    lodash "^4.17.14"
+    lodash "^4.17.19"
     minimatch "^3.0.4"
     natural-compare "^1.4.0"
     optionator "^0.9.1"
@@ -4707,14 +4786,14 @@ esm@3.2.25:
   resolved "https://registry.npmjs.org/esm/-/esm-3.2.25.tgz#342c18c29d56157688ba5ce31f8431fbb795cc10"
   integrity sha512-U1suiZ2oDVWv4zPO56S0NcR5QriEahGtdN2OR6FiOG4WJvcjBVFB0qI4+eKoWFH483PKGuLuu6V8Z4T5g63UVA==
 
-espree@^7.1.0:
-  version "7.1.0"
-  resolved "https://registry.npmjs.org/espree/-/espree-7.1.0.tgz#a9c7f18a752056735bf1ba14cb1b70adc3a5ce1c"
-  integrity sha512-dcorZSyfmm4WTuTnE5Y7MEN1DyoPYy1ZR783QW1FJoenn7RailyWFsq/UL6ZAAA7uXurN9FIpYyUs3OfiIW+Qw==
+espree@^7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/espree/-/espree-7.2.0.tgz#1c263d5b513dbad0ac30c4991b93ac354e948d69"
+  integrity sha512-H+cQ3+3JYRMEIOl87e7QdHX70ocly5iW4+dttuR8iYSPr/hXKFb+7dBsZ7+u1adC4VrnPlTkv0+OwuPnDop19g==
   dependencies:
-    acorn "^7.2.0"
+    acorn "^7.3.1"
     acorn-jsx "^5.2.0"
-    eslint-visitor-keys "^1.2.0"
+    eslint-visitor-keys "^1.3.0"
 
 esprima@^4.0.0, esprima@^4.0.1, esprima@~4.0.0:
   version "4.0.1"
@@ -5303,33 +5382,6 @@ find-versions@^3.2.0:
   integrity sha512-P8WRou2S+oe222TOCHitLy8zj+SIsVJh52VP4lvXkaFVnOFFdoWv1H1Jjvel1aI6NCFOAaeAVm8qrI0odiLcww==
   dependencies:
     semver-regex "^2.0.0"
-
-firost@1.11.0:
-  version "1.11.0"
-  resolved "https://registry.npmjs.org/firost/-/firost-1.11.0.tgz#2e06333c21a51d92ac3b85bc1de6606236c50268"
-  integrity sha512-acYFkO9r7pWVpoMyp5IXFey9paPbBQuHPiIrUN0Z4NLyofTjfBQVidIQsXwNMsGt8x2n67JhSNxA6C+6yEEAqA==
-  dependencies:
-    callsites "3.1.0"
-    chokidar "3.4.0"
-    clear-module "4.1.1"
-    eventemitter2 "6.4.3"
-    execa "4.0.2"
-    find-up "4.1.0"
-    fs-extra "9.0.1"
-    globby "11.0.1"
-    golgoth "1.3.0"
-    inquirer "7.3.0"
-    is-glob "4.0.1"
-    json-stable-stringify "1.0.1"
-    nanoid "3.1.10"
-    normalize-url "5.0.0"
-    ora "4.0.4"
-    shelljs "0.8.4"
-    std-mocks "1.0.1"
-    strip-ansi "6.0.0"
-    tempy "0.5.0"
-    untildify "4.0.0"
-    which "2.0.2"
 
 firost@1.11.1:
   version "1.11.1"
@@ -6144,6 +6196,14 @@ hasha@^3.0.0:
   integrity sha1-UqMvq4Vp1BymmmH/GiFPjrfIvTk=
   dependencies:
     is-stream "^1.0.1"
+
+hasha@^5.0.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/hasha/-/hasha-5.2.0.tgz#33094d1f69c40a4a6ac7be53d5fe3ff95a269e0c"
+  integrity sha512-2W+jKdQbAdSIrggA8Q35Br8qKadTrqCTC8+XZvBWepKDK6m9XkX6Iz1a2yh2KP01kzAR/dpuMeUnocoLYDcskw==
+  dependencies:
+    is-stream "^2.0.0"
+    type-fest "^0.8.0"
 
 he@1.2.0:
   version "1.2.0"
@@ -8207,6 +8267,11 @@ lodash@4.17.15, lodash@^4.11.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.1
   resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
+lodash@^4.17.19:
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
+
 lodash@^4.2.1:
   version "4.17.17"
   resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.17.tgz#d9018b3acc57a95c9dcf4a45c6b63b877b6c2d45"
@@ -8345,7 +8410,7 @@ make-dir@^2.0.0:
     pify "^4.0.1"
     semver "^5.6.0"
 
-make-dir@^3.0.0, make-dir@^3.0.2:
+make-dir@^3.0.0, make-dir@^3.0.2, make-dir@^3.1.0:
   version "3.1.0"
   resolved "https://registry.npmjs.org/make-dir/-/make-dir-3.1.0.tgz#415e967046b3a7f1d185277d84aa58203726a13f"
   integrity sha512-g3FeP20LNwhALb/6Cz6Dd4F2ngze0jz7tbzrD2wAV+o9FeNHe4rL+yK2md0J/fiSf1sa1ADhXqi5+oVwOM/eGw==
@@ -9014,7 +9079,37 @@ netlify-redirector@^0.2.0:
   resolved "https://registry.npmjs.org/netlify-redirector/-/netlify-redirector-0.2.0.tgz#2037bf92520459277c9ae17f46e4df56104cd787"
   integrity sha512-5SSUu++MXvE/tik90Hx7lzISBHCl5k4TqpVeTuBEoHp5K7uWitY7c3MjPNiY3kB83GSZiTNLbuIY7bo6mpyU3Q==
 
-netlify@4.3.5, netlify@^4.1.7, netlify@^4.3.5:
+netlify@4.3.6:
+  version "4.3.6"
+  resolved "https://registry.yarnpkg.com/netlify/-/netlify-4.3.6.tgz#db9ca34da0f9574b2de51d2b991446fdcf4c37e4"
+  integrity sha512-HPuIzS6eR5X704GJWz8vUV/pmG9S08F8GH1T47VF7tznNX0FytbQ+dM/1rAFMzGmObRo2+64FAJObcr3MSjv9Q==
+  dependencies:
+    "@netlify/open-api" "^0.15.0"
+    "@netlify/zip-it-and-ship-it" "^1.3.3"
+    backoff "^2.5.0"
+    clean-deep "^3.3.0"
+    filter-obj "^2.0.1"
+    flush-write-stream "^2.0.0"
+    folder-walker "^3.2.0"
+    from2-array "0.0.4"
+    hasha "^5.0.0"
+    lodash.camelcase "^4.3.0"
+    lodash.flatten "^4.4.0"
+    lodash.get "^4.4.2"
+    lodash.set "^4.3.2"
+    micro-api-client "^3.3.0"
+    node-fetch "^2.2.0"
+    p-map "^3.0.0"
+    p-wait-for "^3.1.0"
+    parallel-transform "^1.1.0"
+    pump "^3.0.0"
+    qs "^6.9.3"
+    rimraf "^3.0.2"
+    tempy "^0.3.0"
+    through2-filter "^3.0.0"
+    through2-map "^3.0.0"
+
+netlify@^4.1.7, netlify@^4.3.5:
   version "4.3.5"
   resolved "https://registry.npmjs.org/netlify/-/netlify-4.3.5.tgz#a386d0c5a23765362765057a8138cd2441a06c42"
   integrity sha512-Weq2swCfaB3pvQjVrnZmYoTwB8MdkKg/hGRRmHQWWtdh9llBKXf7UsWiIjkmDOD78xMXN9Xym6Vgi2shN+3SzQ==
@@ -9220,10 +9315,10 @@ normalize.css@^8.0.1:
   resolved "https://registry.npmjs.org/normalize.css/-/normalize.css-8.0.1.tgz#9b98a208738b9cc2634caacbc42d131c97487bf3"
   integrity sha512-qizSNPO93t1YUuUhP22btGOo3chcvDFqFaj2TRybP0DMxkHOCTYwp3n34fel4a31ORXy4m1Xq0Gyqpb5m33qIg==
 
-norska-assets@^0.14.3:
-  version "0.14.3"
-  resolved "https://registry.npmjs.org/norska-assets/-/norska-assets-0.14.3.tgz#a17b37a6817be9eadadc64a48a63735430ab8b0e"
-  integrity sha512-LPEBt5/i+QtWVG20XYop31TUhYxfifQhk0U3a/K44Wkyqo2h6xonYQBhemgo1tWdl77X4x6ZL8sUhPJIauFWHw==
+norska-assets@^0.14.6:
+  version "0.14.6"
+  resolved "https://registry.yarnpkg.com/norska-assets/-/norska-assets-0.14.6.tgz#c54ed23e7f1b6008d322fb6999d2fa8c197ea691"
+  integrity sha512-XGy0jCyvTTa4tAc8fbA5wM/8XfRcFVGkOIW3iJSCbN7hQAVPlO1cOhU9BHuPWqTJ6MN0C94XIkC8N0eJfi2z3A==
   dependencies:
     firost "1.11.1"
     golgoth "1.3.0"
@@ -9237,10 +9332,10 @@ norska-cloudinary@^0.14.3:
     norska-config "^0.14.3"
     norska-helper "^0.14.3"
 
-norska-cms@^0.14.4:
-  version "0.14.4"
-  resolved "https://registry.npmjs.org/norska-cms/-/norska-cms-0.14.4.tgz#9285dd27fb5e9c28cbf64ce04f5e35c1b5c58edf"
-  integrity sha512-oRBL6H83dRM8E7luFgUiFD66ZmaX1xHbWzcV7/guEZFpVMZALMtBCTHu7EoQfNs8ngiCJrc0iSc8hYBefUKw4g==
+norska-cms@^0.14.8:
+  version "0.14.8"
+  resolved "https://registry.yarnpkg.com/norska-cms/-/norska-cms-0.14.8.tgz#0a4d8c23912d7f878cf6e74d9af448f201c13a9d"
+  integrity sha512-ywkxGLl7hFjUq33hNygD8QsIatlKQL/RRUSmdM2mOHBjWfJJhK6jZmkWviB6q5YmZh5OXvEHCtRbBiHvMAckLA==
   dependencies:
     connect-livereload "0.6.1"
     express "4.17.1"
@@ -9250,9 +9345,9 @@ norska-cms@^0.14.4:
     multer "1.4.2"
     nodemon "2.0.4"
     norska-config "^0.14.3"
-    norska-css "^0.14.4"
+    norska-css "^0.14.8"
     norska-helper "^0.14.3"
-    open "7.0.4"
+    open "7.1.0"
 
 norska-config@^0.14.3:
   version "0.14.3"
@@ -9263,13 +9358,13 @@ norska-config@^0.14.3:
     golgoth "1.3.0"
     norska-helper "^0.14.3"
 
-norska-css@^0.14.4:
-  version "0.14.4"
-  resolved "https://registry.npmjs.org/norska-css/-/norska-css-0.14.4.tgz#51fa91bed56b204ad18a202306109abfae08b3b9"
-  integrity sha512-XwN2hSva/BCsfV1VukZ3ILyOcJH5j+EwAOrkMeHVnCkCFfWJ/fvm237Jp5hkiYxFBAhViFNpsAwwbJwz0F0k9A==
+norska-css@^0.14.8:
+  version "0.14.8"
+  resolved "https://registry.yarnpkg.com/norska-css/-/norska-css-0.14.8.tgz#5a04170ab8bee8e23b1dc66a5f247f9acd751867"
+  integrity sha512-EOBS03mULXrcP0Lp6MQ00Y7TFtl27Qq2+eOfnRYmARkdY2ReR4NFoi6C2YVBqlG9DKToRoOCSq9rLJpBqurVuA==
   dependencies:
     "@fullhuman/postcss-purgecss" "1.3.0"
-    autoprefixer "9.8.4"
+    autoprefixer "9.8.5"
     firost "1.11.1"
     golgoth "1.3.0"
     norska-config "^0.14.3"
@@ -9279,8 +9374,8 @@ norska-css@^0.14.4:
     postcss-import "12.0.1"
     postcss-nested "4.2.3"
     purge-from-html "1.0.3"
-    tailwind-config-norska "0.3.0"
-    tailwindcss "1.4.6"
+    tailwind-config-norska "0.4.2"
+    tailwindcss "1.5.1"
 
 norska-data@^0.14.3:
   version "0.14.3"
@@ -9291,12 +9386,12 @@ norska-data@^0.14.3:
     golgoth "1.3.0"
     norska-config "^0.14.3"
 
-norska-frontend@^0.14.4:
-  version "0.14.4"
-  resolved "https://registry.npmjs.org/norska-frontend/-/norska-frontend-0.14.4.tgz#b49061ef9c819b9613052061ca4650e0f32ab20b"
-  integrity sha512-E/UZ0zCMH9OQV8mssY2zQTmbszrwKX/Ccli1uZfMzMkTKPTNY8ts1C/5JHI/QYlp7hoIghUeueHU1Cu1vYyZmQ==
+norska-frontend@^0.14.6:
+  version "0.14.6"
+  resolved "https://registry.yarnpkg.com/norska-frontend/-/norska-frontend-0.14.6.tgz#703718b98a97a8ee5b33c9e5501d7a3a20202c28"
+  integrity sha512-G7kjeAEISYWpTNbHXQxOr9o3T9FKmFqp15qkrctMX9P3HSZp3A7HSyEMU72OzYwyCCU4NB4pJBf8Xh5SFbs5aw==
   dependencies:
-    algoliasearch "4.3.0"
+    algoliasearch "4.3.1"
     instantsearch.js "4.7.0"
     lazysizes "5.2.2"
     lodash-es "4.17.15"
@@ -9310,10 +9405,10 @@ norska-helper@^0.14.3:
     firost "1.11.1"
     golgoth "1.3.0"
 
-norska-html@^0.14.4:
-  version "0.14.4"
-  resolved "https://registry.npmjs.org/norska-html/-/norska-html-0.14.4.tgz#e730b9713aad94505476d400eaabf4f59b5609b4"
-  integrity sha512-olfG0xDul4dTsp8DwGw0TRTj6TKLmJ1wgNNL9KxordxsyT9lr/2KX+SQReUyIic6WKcTwCXXFah9apsRaYTVlQ==
+norska-html@^0.14.6:
+  version "0.14.6"
+  resolved "https://registry.yarnpkg.com/norska-html/-/norska-html-0.14.6.tgz#e146b5279412db6746c20d1ae3ae8bd720b2547a"
+  integrity sha512-0c36nI5Lt8YfKDkp1Uyd/nADqOEAMXcCf4SDBJ8XDQicsVPrDjp3d6CDn3lKB1g4KJaluCLNzYQc1PASCLM3vw==
   dependencies:
     ensure-url-trailing-slash "0.1.4"
     firost "1.11.1"
@@ -9324,20 +9419,20 @@ norska-html@^0.14.4:
     norska-cloudinary "^0.14.3"
     norska-config "^0.14.3"
     norska-data "^0.14.3"
-    norska-frontend "^0.14.4"
+    norska-frontend "^0.14.6"
     norska-helper "^0.14.3"
     norska-revv "^0.14.3"
     pug "3.0.0"
 
-norska-init@^0.14.3:
-  version "0.14.3"
-  resolved "https://registry.npmjs.org/norska-init/-/norska-init-0.14.3.tgz#15a2f2e8dfb429c28b9a6ae4cd6e3042f1da0eae"
-  integrity sha512-No7sXBJ4NzOvVgzsFqiJxG0VXNXV1TA89KUaOsCyAPcgKjWdxBMfM3MSbWiLMd18MtsduTRju9t7A5ueCyWldQ==
+norska-init@^0.14.7:
+  version "0.14.7"
+  resolved "https://registry.yarnpkg.com/norska-init/-/norska-init-0.14.7.tgz#01ccddd4f050d3f87a1a4bc4ed4cbc438a3770ca"
+  integrity sha512-X7Jv0cn/Iu+Ew03HEcGmDE/ET/wo1NHFRGi29KPm5H1BMYSo/kKft9nugMXskZwruaYCwhPbv3q+li34vR+kOg==
   dependencies:
     firost "1.11.1"
     golgoth "1.3.0"
     norska-config "^0.14.3"
-    norska-netlify "^0.14.3"
+    norska-netlify "^0.14.7"
 
 norska-js@^0.14.3:
   version "0.14.3"
@@ -9351,15 +9446,15 @@ norska-js@^0.14.3:
     pug-loader "^2.4.0"
     webpack "4.43.0"
 
-norska-netlify@^0.14.3:
-  version "0.14.3"
-  resolved "https://registry.npmjs.org/norska-netlify/-/norska-netlify-0.14.3.tgz#6ca71849df4e313965fc3efb694f1d835a1f5dff"
-  integrity sha512-Ie3ExHmVi29Oar03V1086I0/ZYIqObYcfCUogBMIBG0BN/HHdv+mtaN9WvZgaKYKZwJzp/ZW0MFS/C38ubjnFA==
+norska-netlify@^0.14.7:
+  version "0.14.7"
+  resolved "https://registry.yarnpkg.com/norska-netlify/-/norska-netlify-0.14.7.tgz#0f8a2999efef1c1f4174d331912f275f444dc04b"
+  integrity sha512-XN+b7vov8zIdkVvYypJLz9yTiAhEwzRlsAguAgJ83UBmfQSQmT3v37j93RrzTCbBO8zHJvi9s9tafETXdKMxYw==
   dependencies:
     firost "1.11.1"
     golgoth "1.3.0"
     multimatch "4.0.0"
-    netlify "4.3.5"
+    netlify "4.3.6"
     netlify-cli "2.58.0"
     norska-config "^0.14.3"
     norska-helper "^0.14.3"
@@ -9375,26 +9470,26 @@ norska-revv@^0.14.3:
     norska-helper "^0.14.3"
     rev-hash "^3.0.0"
 
-norska@0.14.4:
-  version "0.14.4"
-  resolved "https://registry.npmjs.org/norska/-/norska-0.14.4.tgz#bf9922c571567e307225603a3fc9eee2520881a1"
-  integrity sha512-h1lUuWltZp1lY3m74Zlz0d0J852DKT7U+5MwcXoIcCtGayfIS5euVNa5n9rjQy7dKQ+W78aiowFihI2sCagcSg==
+norska@0.14.8:
+  version "0.14.8"
+  resolved "https://registry.yarnpkg.com/norska/-/norska-0.14.8.tgz#5443976ca694a61bbcc8409ef10d51b3c49fa1ef"
+  integrity sha512-eO/OWTOuNNuoAHaNQezJeZuxE/B1dVmKY/IOiOjt7ojxoXZyfaM3Vp5/RXbb33hUYIKoPonHjcEhLCLtP+ChBg==
   dependencies:
     firost "1.11.1"
     golgoth "1.3.0"
     live-server "1.2.1"
     minimist "1.2.5"
-    norska-assets "^0.14.3"
+    norska-assets "^0.14.6"
     norska-cloudinary "^0.14.3"
-    norska-cms "^0.14.4"
+    norska-cms "^0.14.8"
     norska-config "^0.14.3"
-    norska-css "^0.14.4"
-    norska-frontend "^0.14.4"
+    norska-css "^0.14.8"
+    norska-frontend "^0.14.6"
     norska-helper "^0.14.3"
-    norska-html "^0.14.4"
-    norska-init "^0.14.3"
+    norska-html "^0.14.6"
+    norska-init "^0.14.7"
     norska-js "^0.14.3"
-    norska-netlify "^0.14.3"
+    norska-netlify "^0.14.7"
     norska-revv "^0.14.3"
 
 np@pixelastic/np#feat/no-2fa:
@@ -9628,10 +9723,10 @@ onetime@^5.1.0:
   dependencies:
     mimic-fn "^2.1.0"
 
-open@7.0.4, open@^7.0.0:
-  version "7.0.4"
-  resolved "https://registry.npmjs.org/open/-/open-7.0.4.tgz#c28a9d315e5c98340bf979fdcb2e58664aa10d83"
-  integrity sha512-brSA+/yq+b08Hsr4c8fsEW2CRzk1BmfN3SAK/5VCHQ9bdoZJ4qa/+AfR0xHjlbbZUyPkUHs1b8x1RqdyZdkVqQ==
+open@7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/open/-/open-7.1.0.tgz#68865f7d3cb238520fa1225a63cf28bcf8368a1c"
+  integrity sha512-lLPI5KgOwEYCDKXf4np7y1PBEkj7HYIyP2DY8mVDRnx0VIIu6bNrRB0R66TuO7Mack6EnTNLm4uvcl1UoklTpA==
   dependencies:
     is-docker "^2.0.0"
     is-wsl "^2.1.1"
@@ -9642,6 +9737,14 @@ open@^6.4.0:
   integrity sha512-IFenVPgF70fSm1keSd2iDBIDIBZkroLeuffXq+wKTzTJlBpesFWojV9lb8mzOfaAzM1sr7HQHuO0vtV0zYekGg==
   dependencies:
     is-wsl "^1.1.0"
+
+open@^7.0.0:
+  version "7.0.4"
+  resolved "https://registry.npmjs.org/open/-/open-7.0.4.tgz#c28a9d315e5c98340bf979fdcb2e58664aa10d83"
+  integrity sha512-brSA+/yq+b08Hsr4c8fsEW2CRzk1BmfN3SAK/5VCHQ9bdoZJ4qa/+AfR0xHjlbbZUyPkUHs1b8x1RqdyZdkVqQ==
+  dependencies:
+    is-docker "^2.0.0"
+    is-wsl "^2.1.1"
 
 opencollective-postinstall@^2.0.2:
   version "2.0.3"
@@ -10403,7 +10506,7 @@ preact@^10.0.0:
   resolved "https://registry.npmjs.org/preact/-/preact-10.4.5.tgz#457fe034d558595864d0663574c2850f0b43d28e"
   integrity sha512-/GyQOM44xNbM1nx1NWWdEO9RFjOVl3Ji6HTnEP+y9OkfyvJDHXnWJPQnuknrslzu5lZfAtFavS8gka91fbFAPg==
 
-precinct@^6.1.2, precinct@^6.2.0:
+precinct@^6.1.2, precinct@^6.2.0, precinct@^6.3.1:
   version "6.3.1"
   resolved "https://registry.npmjs.org/precinct/-/precinct-6.3.1.tgz#8ad735a8afdfc48b56ed39c9ad3bf999b6b928dc"
   integrity sha512-JAwyLCgTylWminoD7V0VJwMElWmwrVSR6r9HaPWCoswkB4iFzX7aNtO7VBfAVPy+NhmjKb8IF8UmlWJXzUkOIQ==
@@ -12343,24 +12446,25 @@ table@^5.2.3, table@^5.4.6:
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
-tailwind-config-norska@0.3.0:
-  version "0.3.0"
-  resolved "https://registry.npmjs.org/tailwind-config-norska/-/tailwind-config-norska-0.3.0.tgz#21bf0328ef021c56de7767811aad669ba9c6cfac"
-  integrity sha512-kSttNijYGkPYBI+xHH3Sr70GXOvJokzBqZibVjwTJuNqgDekeFMLaZ2EbeDKb3YuuWVkznd9AVPzeaceWkuwkw==
+tailwind-config-norska@0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/tailwind-config-norska/-/tailwind-config-norska-0.4.2.tgz#429a807dd485eabafbf46eb4fd1822ba1acea3b5"
+  integrity sha512-HGpPXPSIsrDUvsC6auJe6pq8B84gXwEGRCA8YDRbxK0cn+ifTZ27V/gEU4Hv9fcIdTFWPSPNu1N4jSDddrX1zA==
   dependencies:
+    "@tailwindcss/typography" "0.2.0"
     golgoth "1.3.0"
     hex-rgb "4.1.0"
 
-tailwindcss@1.4.6:
-  version "1.4.6"
-  resolved "https://registry.npmjs.org/tailwindcss/-/tailwindcss-1.4.6.tgz#17b37166ccda08d7e7f9ca995ea48ce1e0089700"
-  integrity sha512-qV0qInUq1FWih39Bc5CWECdgObSzRrbjGD4ke4kAPSIq6WXrPhv0wwOcUWJgJ66ltT9j+XnSRYikG8WNRU/fTQ==
+tailwindcss@1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-1.5.1.tgz#a3eb10024f8e10786b8b6badcf9665b013bd03ee"
+  integrity sha512-mBOxIk+U+9xECC6wllWiupPVfLuwTDvHb4d+8XTdZ8oYrZEH+NpFSlbATF5xWuCJQxDOZ1Dz7C0KN5tylcFhFg==
   dependencies:
     "@fullhuman/postcss-purgecss" "^2.1.2"
     autoprefixer "^9.4.5"
     browserslist "^4.12.0"
     bytes "^3.0.0"
-    chalk "^4.0.0"
+    chalk "^3.0.0 || ^4.0.0"
     color "^3.1.2"
     detective "^5.2.0"
     fs-extra "^8.0.0"
@@ -12394,7 +12498,7 @@ tar-stream@^1.5.2:
     to-buffer "^1.1.1"
     xtend "^4.0.0"
 
-tar-stream@^2.1.0:
+tar-stream@^2.1.0, tar-stream@^2.1.2:
   version "2.1.3"
   resolved "https://registry.npmjs.org/tar-stream/-/tar-stream-2.1.3.tgz#1e2022559221b7866161660f118255e20fa79e41"
   integrity sha512-Z9yri56Dih8IaK8gncVPx4Wqt86NDmQTSh49XLZgjWpGZL9GK9HKParS2scqHCC4w6X9Gh2jwaU45V47XTKwVA==
@@ -12812,7 +12916,7 @@ type-fest@^0.6.0:
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-0.6.0.tgz#8d2a2370d3df886eb5c90ada1c5bf6188acf838b"
   integrity sha512-q+MB8nYR1KDLrgr4G5yemftpMC7/QLqVndBmEEdqzmNj5dcFOO4Oo8qlwZE3ULT3+Zim1F8Kq4cBnikNhlCMlg==
 
-type-fest@^0.8.1:
+type-fest@^0.8.0, type-fest@^0.8.1:
   version "0.8.1"
   resolved "https://registry.npmjs.org/type-fest/-/type-fest-0.8.1.tgz#09e249ebde851d3b1e48d27c105444667f17b83d"
   integrity sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==
@@ -13716,6 +13820,23 @@ yargs@^15.3.0, yargs@^15.3.1:
     y18n "^4.0.0"
     yargs-parser "^18.1.2"
 
+yargs@^15.4.1:
+  version "15.4.1"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-15.4.1.tgz#0d87a16de01aee9d8bec2bfbf74f67851730f4f8"
+  integrity sha512-aePbxDmcYW++PaqBsJ+HYUFwCdv4LVvdnhBy78E57PIor8/OVvhMrADFFEDh8DHDFRv/O9i3lPhsENjO7QX0+A==
+  dependencies:
+    cliui "^6.0.0"
+    decamelize "^1.2.0"
+    find-up "^4.1.0"
+    get-caller-file "^2.0.1"
+    require-directory "^2.1.1"
+    require-main-filename "^2.0.0"
+    set-blocking "^2.0.0"
+    string-width "^4.2.0"
+    which-module "^2.0.0"
+    y18n "^4.0.0"
+    yargs-parser "^18.1.2"
+
 yargs@^3.19.0:
   version "3.32.0"
   resolved "https://registry.npmjs.org/yargs/-/yargs-3.32.0.tgz#03088e9ebf9e756b69751611d2a5ef591482c995"
@@ -13750,3 +13871,12 @@ zip-stream@^2.1.2:
     archiver-utils "^2.1.0"
     compress-commons "^2.1.1"
     readable-stream "^3.4.0"
+
+zip-stream@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/zip-stream/-/zip-stream-3.0.1.tgz#cb8db9d324a76c09f9b76b31a12a48638b0b9708"
+  integrity sha512-r+JdDipt93ttDjsOVPU5zaq5bAyY+3H19bDrThkvuVxC0xMQzU1PJcS6D+KrP3u96gH9XLomcHPb+2skoDjulQ==
+  dependencies:
+    archiver-utils "^2.1.0"
+    compress-commons "^3.0.0"
+    readable-stream "^3.6.0"
