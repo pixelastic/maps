@@ -3,29 +3,22 @@
 **/
 .ais-SearchBox {
   @apply py-01 px-1 rounded w-100p;
-  @apply bg-gray-2 bg-opacity-25p;
-  &:hover {
-    @apply bg-opacity-50p;
-  }
-  &:focus-within {
-    @apply bg-opacity-75p;
-    .ais-SearchBox-input::placeholder {
-      @apply black text-opacity-50p;
-    }
-  }
-  &:hover:focus-within {
-    @apply bg-opacity-100p;
-  }
 }
 .ais-SearchBox-input {
   @apply h-6 text-4 w-100p bg-transparent;
   @apply white text-opacity-75p;
   &::placeholder {
-    @apply white text-opacity-75p italic text-3;
+    @apply white text-opacity-75p italic text-4;
   }
   &:focus {
-    @apply outline-none gray-9 text-opacity-100p;
+    @apply outline-none gray-9 text-opacity-90p;
+    &::placeholder {
+      @apply gray-9 text-opacity-75p;
+    }
   }
+}
+.__header:focus-within .__filters {
+  @apply black;
 }
 /* Powered By */
 .__poweredBy {

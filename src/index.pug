@@ -1,13 +1,13 @@
-extends /_includes/_layouts/core
+extends /_includes/layouts/core
 
 block content
   include /_includes/header
-  .mt-8.p-2
+  .mt-9.p-2
     #tags
     #authors
     #hits.js-masonryWall.min-h-100vh
 
   textarea#hitTemplate(hidden)
-    include /_includes/_templates/hit
+    include /_includes/templates/hit
   textarea#emptyTemplate(hidden)
-    include /_includes/_templates/empty
+    include /_includes/templates/empty

@@ -12,8 +12,11 @@
   }
 }
 .js-masonryBackToTop {
-  @apply row-span-5 flrnw flc white text-4 pointer hover_underline;
+  @apply row-span-5 flrnw flc white text-4 pointer;
   grid-column: 1 / -1; /* Take all width */
+  &:hover {
+    @apply underline;
+  }
 }
 
 .__hitLink:after {

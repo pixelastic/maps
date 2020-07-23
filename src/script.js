@@ -40,7 +40,7 @@ const widgets = [
       container: '#curated',
       attribute: 'score.isCurated',
       templates: {
-        labelText: 'Only curated authors',
+        labelText: 'Only curated authors:',
       },
     },
   },
@@ -52,9 +52,6 @@ const widgets = [
       sortBy: ['count:desc', 'name:asc'],
     },
   },
-  // Maybe do an index sort:
-  // - byDate
-  // - byPopularity
   /**
    * Hits
    **/
@@ -76,9 +73,9 @@ const widgets = [
     options: {
       container: '#sortBy',
       items: [
-        { label: 'by date', value: credentials.indexName },
+        { label: 'most popular', value: credentials.indexName },
         {
-          label: 'by popularity',
+          label: 'most recent',
           value: `${credentials.indexName}_popularity`,
         },
       ],

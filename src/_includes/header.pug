@@ -1,16 +1,27 @@
-.fixed.top-0.left-0.right-0.z-7.h-8.px-1.white.bg-blue-7
+input.hidden.if(type="checkbox" id="filters")
+.__header.fixed.top-0.left-0.right-0.z-7.h-9.px-1.white.bg-blue-7
   .absolute.left-0.right-0.-bottom-01.h-01.bg-gradient-y.bg-gradient-from-blue-7
-  .flrw.h-100p.flc
-    //- Title
-    .hidden.bold.white.text-6.lg_text-6.sm_flex.rnw
-      a(href=url.base) Maps
+  .container.mx-auto
+    .h-100p.pt-02.flex.flex-col
+      .fla.rounded-4.bg-gray-2.bg-opacity-25p.flex.flex-rows.items-center.px-1.hover_bg-opacity-50p.focus-within_bg-opacity-75p.shadow-2
+        //- Title
+        a.hidden.md_block(href=url.base)
+          img.h-6.grayscale.hover_grayscale-0(src=`${url.pathToRoot}/assets/logo.png`)
+        //- Searchbar
+        .flex-auto
+          #searchbox
+        //- Menu
+        label.__filters.pointer.white.px-1(for="filters")
+          .h-5.w-5.opacity-50p.hover_opacity-75p.then_opacity-100p.then_white
+            include /_includes/svg/sliders
 
-    //- Searchbar
-    .__searchboxContainer.fla.pl-1.fla.flrnw.flrcv.h-100p.relative
-      .__poweredBy.hidden.lg_flex
-        .fln Search powered by
-        a.fln.ml-01.bold.hover_underline.pointer-events-auto(href=`https://www.algolia.com/?utm_source=instantsearch.js&utm_medium=website&utm_content=${url.base}&utm_campaign=poweredby`) Algolia
-      #searchbox.w-100p
-
-    .fln.px-1
-      #curated
+      .relative.mx-2
+        .flex.flex-rows.justify-end.text-01.italic.pt-001.opacity-75p Search powered by Algolia
+        .absolute.right-0.top-0.hidden.then_block
+          .bg-gray-1.rounded.shadow-2.border-001.border-gray-4
+            .flex-cols.text-4.gray-7.px-1
+              .flex.flex-rows.py-1.border-b-001.border-gray-4
+                .mr-1 Sort by:
+                #sortBy
+              .flex.flex-rows.py-1.border-b-001.border-gray-4
+                #curated
