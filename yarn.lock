@@ -11017,6 +11017,15 @@ rechoir@^0.6.2:
   dependencies:
     resolve "^1.1.6"
 
+reddinx@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.npmjs.org/reddinx/-/reddinx-0.0.2.tgz#165017dc5f576275adc4317722cc5c5bf813bef2"
+  integrity sha512-VAxJt91CV0Ky3k1/id2ObskCx3xInmNWiBFqACVRyaV1uKeqwNP6l+M1H61d9Zn66CvxiXMKju72qF20orb+TA==
+  dependencies:
+    firost "1.11.1"
+    golgoth "1.3.0"
+    minimist "1.2.5"
+
 redent@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmjs.org/redent/-/redent-3.0.0.tgz#e557b7998316bb53c9f1f56fa626352c6963059f"

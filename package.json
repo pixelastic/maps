@@ -20,6 +20,8 @@
     "build:prod": "./scripts/build-prod",
     "ci": "./scripts/ci",
     "cms": "./scripts/cms",
+    "data:initial": "reddinx initial dndmaps",
+    "data:incremental": "reddinx incremental dndmaps",
     "data:ids": "node ./scripts/data-ids.js",
     "data:records": "node ./scripts/data-records.js",
     "data:indexing": "node ./scripts/data-indexing.js",
@@ -31,5 +33,8 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "devDependencies": {
+    "reddinx": "0.0.2"
+  }
 }
