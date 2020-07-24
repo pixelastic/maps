@@ -25,6 +25,15 @@ jobs:
       - *yarn_install
       - *save_cache
       - run: 'yarn run ci'
+  dailyUpdate:
+    <<: *defaults
+    steps:
+      - checkout
+      - add_ssh_keys
+      - *restore_cache
+      - *yarn_install
+      - *save_cache
+      - run: 'yarn run ci:dailyUpdate'
 
 workflows:
   version: 2
@@ -32,3 +41,14 @@ workflows:
   commit:
     jobs:
       - ci
+  # Every day: Run an incremental update
+  dailyUpdate:
+    triggers:
+      - schedule:
+          cron: '0 1 * * *'
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - dailyUpdate
