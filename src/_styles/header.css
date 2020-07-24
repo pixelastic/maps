@@ -8,12 +8,33 @@
   @apply h-6 text-4 w-100p bg-transparent;
   @apply white text-opacity-75p;
   &::placeholder {
-    @apply white text-opacity-75p italic text-4;
+    @apply white text-opacity-75p italic text-1;
   }
   &:focus {
     @apply outline-none gray-9 text-opacity-90p;
     &::placeholder {
       @apply gray-9 text-opacity-75p;
+    }
+  }
+}
+@screen sm {
+  .ais-SearchBox-input {
+    &::placeholder {
+      @apply text-2;
+    }
+  }
+}
+@screen md {
+  .ais-SearchBox-input {
+    &::placeholder {
+      @apply text-3;
+    }
+  }
+}
+@screen lg {
+  .ais-SearchBox-input {
+    &::placeholder {
+      @apply text-4;
     }
   }
 }

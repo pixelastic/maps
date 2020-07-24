@@ -4,8 +4,9 @@ const {
   configure,
   refinementList,
   searchBox,
-  toggleRefinement,
   sortBy,
+  stats,
+  toggleRefinement,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
 const infiniteMasonry = require('./_scripts/infiniteMasonry');
@@ -17,7 +18,7 @@ const widgets = [
   {
     type: configure,
     options: {
-      hitsPerPage: 15,
+      hitsPerPage: 40,
     },
   },
   /**
@@ -27,11 +28,29 @@ const widgets = [
     type: searchBox,
     options: {
       container: '#searchbox',
-      placeholder: 'Search for any map',
+      placeholder: 'Search for dungeon, dragon, world, anything!',
       autofocus: true,
       showReset: false,
       showSubmit: false,
       showLoadingIndicator: false,
+    },
+  },
+  {
+    type: stats,
+    options: {
+      container: '#stats',
+      templates: {
+        text(options) {
+          const poweredByUrl =
+            'https://www.algolia.com/?utm_source=instantsearch.js&utm_medium=website&utm_content=gamemaster.pixelastic.com/maps&utm_campaign=poweredby';
+          const suffix = `thanks to <a class="bold hover_underline pointer" href="${poweredByUrl}" target="_blank">Algolia</a>`;
+          const { query, nbHits } = options;
+          if (!query) {
+            return `${nbHits} maps indexed, ${suffix}`;
+          }
+          return `${nbHits} maps found, ${suffix}`;
+        },
+      },
     },
   },
   {
@@ -73,9 +92,9 @@ const widgets = [
     options: {
       container: '#sortBy',
       items: [
-        { label: 'most popular', value: credentials.indexName },
+        { label: 'most recent', value: credentials.indexName },
         {
-          label: 'most recent',
+          label: 'most popular',
           value: `${credentials.indexName}_popularity`,
         },
       ],

@@ -16,7 +16,7 @@ module.exports = {
         callback();
       }),
       {
-        rootMargin: '800px',
+        rootMargin: '1200px',
       }
     );
 

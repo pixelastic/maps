@@ -1,6 +1,5 @@
 const instantsearch = require('norska/frontend/algolia/instantsearch');
 const config = require('./config.js');
-const zoom = require('./zoom.js');
 const hits = require('./hits.js');
 module.exports = {
   /**
@@ -15,7 +14,6 @@ module.exports = {
       // Init the widget
       if (isFirstRender) {
         config.setStable(widgetParams);
-        zoom.enable();
         hits.onInfiniteScroll(() => {
           this.setAppendMode(true);
           showMore();
