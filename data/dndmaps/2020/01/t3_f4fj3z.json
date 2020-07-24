@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1026,
     "value": 1026
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Tomb of Emun-Rah - A Three Level Pyramid and Entrance Halls!",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4fj3z/tomb_of_emunrah_a_three_level_pyramid_and/"
 }

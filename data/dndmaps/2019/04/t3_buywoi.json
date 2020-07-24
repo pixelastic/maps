@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 148,
     "value": 148
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Lava Portal Battle Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/buywoi/lava_portal_battle_map_36x20/"
 }

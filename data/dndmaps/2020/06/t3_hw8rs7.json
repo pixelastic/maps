@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 162,
     "value": 162
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Rugged Path to the Faerie Ring - Poor goblins. They thought they could claim it as their own, but they all just... vanished into the mists one evening. What secrets still lie up there on the rise?",
   "url": "https://www.reddit.com/r/dndmaps/comments/hw8rs7/the_rugged_path_to_the_faerie_ring_poor_goblins/"
 }

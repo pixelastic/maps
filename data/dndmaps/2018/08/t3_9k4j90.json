@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Map I made for a one shot/ one page rpg I'm working on. The dimensions are 22 x 20 for those interested in that information.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9k4j90/map_i_made_for_a_one_shot_one_page_rpg_im_working/"
 }

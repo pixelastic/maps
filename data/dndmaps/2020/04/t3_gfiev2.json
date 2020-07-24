@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Whitecap - port town and campaign base of operations (watabou + photoshop)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gfiev2/whitecap_port_town_and_campaign_base_of/"
 }

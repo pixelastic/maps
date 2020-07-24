@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Ankh' Morlock | The forgotten temple of Essylliss (Check out the 8k goodness of the sunken ships in the water!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/e003p5/ankh_morlock_the_forgotten_temple_of_essylliss/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.89,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Forest Portal - A Portal to Hell? (20x30 grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d1c723/ocbattlemap_the_forest_portal_a_portal_to_hell/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Drew up a ship map, I’m still really new at drawing my own maps but it’s been pretty fun. Hope someone else can find this map useful.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hrakom/drew_up_a_ship_map_im_still_really_new_at_drawing/"
 }

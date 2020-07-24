@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Cathedral of Planar Light",
   "url": "https://www.reddit.com/r/dndmaps/comments/bk4ep3/the_cathedral_of_planar_light/"
 }

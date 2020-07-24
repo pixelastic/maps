@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First World, First Time DM and Having a Blast",
   "url": "https://www.reddit.com/r/dndmaps/comments/7jp5po/first_world_first_time_dm_and_having_a_blast/"
 }

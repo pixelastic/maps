@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "New DM just over here making some maps... Because why not do things 100 right? I present to you the continent of Delorean. The orange lines make it a bit less pretty, but those are just route lines for my players. We use a unique-ish travel mechanic that we find a bit more fun & dynamic.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hqfgu2/new_dm_just_over_here_making_some_maps_because/"
 }

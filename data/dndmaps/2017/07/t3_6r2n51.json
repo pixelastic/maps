@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My 99th map, long road so far. This is a street market ready for a full blown fight.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6r2n51/my_99th_map_long_road_so_far_this_is_a_street/"
 }

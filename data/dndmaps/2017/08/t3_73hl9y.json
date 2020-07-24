@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 161,
     "value": 161
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Magic Item Shop",
   "url": "https://www.reddit.com/r/dndmaps/comments/73hl9y/magic_item_shop/"
 }

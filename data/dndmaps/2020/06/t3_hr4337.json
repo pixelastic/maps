@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Tinderbox Location- The Fane of Chaos: Maps and Lore",
   "url": "https://www.reddit.com/r/dndmaps/comments/hr4337/tinderbox_location_the_fane_of_chaos_maps_and_lore/"
 }

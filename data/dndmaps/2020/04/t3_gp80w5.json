@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 66,
     "value": 66
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "River Run Map (OC) - Take a rowboat/canoe from top to bottom and avoid obstacles with skill checks!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gp80w5/river_run_map_oc_take_a_rowboatcanoe_from_top_to/"
 }

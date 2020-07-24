@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.76,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Candyland-ish map I put together for my evil pug campaign!",
   "url": "https://www.reddit.com/r/dndmaps/comments/g4i5fr/candylandish_map_i_put_together_for_my_evil_pug/"
 }

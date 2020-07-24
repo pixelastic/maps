@@ -16,6 +16,7 @@
   "score": {
     "comments": 24,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1707,
     "value": 1707
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Fellhope Fisk Skull Island",
   "url": "https://www.reddit.com/r/dndmaps/comments/ech3sd/fellhope_fisk_skull_island_50x503600x3600/"
 }

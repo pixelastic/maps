@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Cliff Side Casino with a Waterfall in the Center",
   "url": "https://www.reddit.com/r/dndmaps/comments/fw56wp/cliff_side_casino_with_a_waterfall_in_the_center/"
 }

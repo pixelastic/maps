@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The City of Blackwood - D&D city map",
   "url": "https://www.reddit.com/r/dndmaps/comments/fvhrbj/wip_the_city_of_blackwood_dd_city_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 102,
     "value": 102
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Night at the Guildhall Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fud8f0/night_at_the_guildhall_battlemap_33x24/"
 }

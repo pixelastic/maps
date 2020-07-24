@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Name the Swamp Settlement",
   "url": "https://www.reddit.com/r/dndmaps/comments/ber5sl/ocname_the_swamp_settlement/"
 }

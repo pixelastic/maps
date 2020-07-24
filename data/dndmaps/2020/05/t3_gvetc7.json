@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Cave battlemap  Perfect for big boss fights! Hand drawn",
   "url": "https://www.reddit.com/r/dndmaps/comments/gvetc7/oc_cave_battlemap_46x48_perfect_for_big_boss/"
 }

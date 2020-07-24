@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 576,
     "value": 576
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Mysterious Mountain Monastery",
   "url": "https://www.reddit.com/r/dndmaps/comments/ciwgy9/mysterious_mountain_monastery_18x31/"
 }

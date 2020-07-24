@@ -16,6 +16,7 @@
   "score": {
     "comments": 32,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 836,
     "value": 836
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Land of Mog. Made for my D&D campaign. Still very much in progress. Used lots of satellite and meteorological imagery, bashed and overpainted the details in Photoshop. Feel free to use in your game :)",
   "url": "https://www.reddit.com/r/dndmaps/comments/eqg865/oc_the_land_of_mog_made_for_my_dd_campaign_still/"
 }

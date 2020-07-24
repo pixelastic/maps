@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "This is my very first custom map. What do you guys think about it? (the original was in German, but I translated it roughly)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cu56iy/this_is_my_very_first_custom_map_what_do_you_guys/"
 }

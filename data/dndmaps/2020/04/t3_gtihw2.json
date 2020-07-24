@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 60,
     "value": 60
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I Restored a Map of Kara-Tur for 5th Edition (It's a fantasy analog of Asia that's East of the Sword Coast for those unfamiliar)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtihw2/oc_i_restored_a_map_of_karatur_for_5th_edition/"
 }

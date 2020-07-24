@@ -16,6 +16,7 @@
   "score": {
     "comments": 37,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 905,
     "value": 905
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "An Airship of the Line - \"Tempest of Reckoning\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/cl4hkl/an_airship_of_the_line_tempest_of_reckoning/"
 }

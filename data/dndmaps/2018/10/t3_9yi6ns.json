@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The Source of the Lifespring",
   "url": "https://www.reddit.com/r/dndmaps/comments/9yi6ns/the_source_of_the_lifespring_oc/"
 }

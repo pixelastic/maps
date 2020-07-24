@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Made a custom map for Sapra, chief city on the island of Ilighon in the Vilhon Reach",
   "url": "https://www.reddit.com/r/dndmaps/comments/anahwj/made_a_custom_map_for_sapra_chief_city_on_the/"
 }

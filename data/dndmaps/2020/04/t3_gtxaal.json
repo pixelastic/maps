@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Lake of the Ancestors - south shore, Return to the Glory. 17x6@70px",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtxaal/lake_of_the_ancestors_south_shore_return_to_the/"
 }

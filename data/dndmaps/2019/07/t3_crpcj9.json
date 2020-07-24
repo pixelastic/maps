@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 150,
     "value": 150
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Mouth of the River, Bridge of the Refugees",
   "url": "https://www.reddit.com/r/dndmaps/comments/crpcj9/mouth_of_the_river_bridge_of_the_refugees/"
 }

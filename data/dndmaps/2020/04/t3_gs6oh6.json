@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Chamber of Stolen Souls. It's not pretty, but it's my first battlemap ever. A sandy cavern with sixty coffins. It's a warlock slave trader's operation fronting as a religious funeral home. Zombies and charmed slaves abound. Charmed zombies! T'was a fun fight.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gs6oh6/chamber_of_stolen_souls_its_not_pretty_but_its_my/"
 }

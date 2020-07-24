@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 82,
     "value": 82
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Desert Dungeon: Free",
   "url": "https://www.reddit.com/r/dndmaps/comments/eu95jy/battlemap_50x50_desert_dungeon_free_oc/"
 }

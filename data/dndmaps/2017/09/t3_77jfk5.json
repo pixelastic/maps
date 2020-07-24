@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Someone stole a powerful tome from this arcane library",
   "url": "https://www.reddit.com/r/dndmaps/comments/77jfk5/art_someone_stole_a_powerful_tome_from_this/"
 }

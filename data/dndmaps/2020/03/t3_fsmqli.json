@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 59,
     "value": 59
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A city map of Veriste, Capital city of the Grand Passage",
   "url": "https://www.reddit.com/r/dndmaps/comments/fsmqli/a_city_map_of_veriste_capital_city_of_the_grand/"
 }

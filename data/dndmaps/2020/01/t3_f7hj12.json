@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.92,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Castle + City Gates maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/f7hj12/battlemap30x603500x7000px_castle_city_gates_maps/"
 }

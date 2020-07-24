@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 60,
     "value": 60
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Nordenholm, a nice little region",
   "url": "https://www.reddit.com/r/dndmaps/comments/ab3wzc/nordenholm_a_nice_little_region/"
 }

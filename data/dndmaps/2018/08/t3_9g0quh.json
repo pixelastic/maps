@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 230,
     "value": 230
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Abandoned Tomb",
   "url": "https://www.reddit.com/r/dndmaps/comments/9g0quh/the_abandoned_tomb/"
 }

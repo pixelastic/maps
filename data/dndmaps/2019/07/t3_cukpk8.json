@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A village map created in Adventure Roll by one of our DM users. He's offering one shots if anyone wants to immerse themselves in it. Just DM me and I'll connect you.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cukpk8/a_village_map_created_in_adventure_roll_by_one_of/"
 }

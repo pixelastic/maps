@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 793,
     "value": 793
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "First dungeon map I made",
   "url": "https://www.reddit.com/r/dndmaps/comments/ewtvzp/first_dungeon_map_i_made/"
 }

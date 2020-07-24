@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 178,
     "value": 178
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Deserted Desert Dungeon: A free OC map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ciwcib/battlemap_50x50_deserted_desert_dungeon_a_free_oc/"
 }

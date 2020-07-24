@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 68,
     "value": 68
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Crystal cavern",
   "url": "https://www.reddit.com/r/dndmaps/comments/boiibw/crystal_cavern/"
 }

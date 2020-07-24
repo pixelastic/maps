@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 78,
     "value": 78
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Desert Campsite Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/7gbpq6/desert_campsite_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Heimur; a hopefully final draft",
   "url": "https://www.reddit.com/r/dndmaps/comments/e4hwcg/heimur_a_hopefully_final_draft/"
 }

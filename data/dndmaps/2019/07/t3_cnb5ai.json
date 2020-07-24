@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 855,
     "value": 855
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The trading post of Kneel Bridge",
   "url": "https://www.reddit.com/r/dndmaps/comments/cnb5ai/the_trading_post_of_kneel_bridge/"
 }

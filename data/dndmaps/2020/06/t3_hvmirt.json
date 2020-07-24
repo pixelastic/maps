@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Mountain Pass Ascent Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/hvmirt/mountain_pass_ascent_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 29,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 967,
     "value": 967
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Inspired by WoW Classic: The Deadmines",
   "url": "https://www.reddit.com/r/dndmaps/comments/cvnt17/inspired_by_wow_classic_the_deadmines_60x30/"
 }

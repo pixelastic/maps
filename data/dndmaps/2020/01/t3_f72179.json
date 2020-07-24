@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 299,
     "value": 299
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Greyfalls Cave - someone asked me what elements I really like in a dungeon map",
   "url": "https://www.reddit.com/r/dndmaps/comments/f72179/greyfalls_cave_someone_asked_me_what_elements_i/"
 }

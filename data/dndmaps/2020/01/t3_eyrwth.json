@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 56,
     "value": 56
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "So here's my first map for the initial region of my upcoming campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eyrwth/so_heres_my_first_map_for_the_initial_region_of/"
 }

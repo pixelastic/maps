@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 277,
     "value": 277
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Temple of the Golden Spider high atop the peaks. CC welcome and links in comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtp0fm/temple_of_the_golden_spider_high_atop_the_peaks/"
 }

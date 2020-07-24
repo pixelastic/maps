@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 174,
     "value": 174
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A Small Maze (battlemap & short adventure)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgi2ka/a_small_maze_battlemap_short_adventure/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 27,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 440,
     "value": 440
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Valley Of Rath Fantasy Map Final Version! Many thanks for all the feedback on the previous WIP I posted, it really helped to finish this Region Map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/c05kxs/valley_of_rath_fantasy_map_final_version_many/"
 }

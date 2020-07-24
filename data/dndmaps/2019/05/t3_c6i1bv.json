@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 137,
     "value": 137
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My latest commission: A map of Central Arenda, by the famous traveling bard Degaloo Thipplesbee (heavy file).",
   "url": "https://www.reddit.com/r/dndmaps/comments/c6i1bv/my_latest_commission_a_map_of_central_arenda_by/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 28,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 778,
     "value": 778
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Hero's Guild",
   "url": "https://www.reddit.com/r/dndmaps/comments/c5hpht/the_heros_guild/"
 }

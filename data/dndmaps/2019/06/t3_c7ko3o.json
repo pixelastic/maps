@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 205,
     "value": 205
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Orna, the Floating City and Heart of The Empire",
   "url": "https://www.reddit.com/r/dndmaps/comments/c7ko3o/orna_the_floating_city_and_heart_of_the_empire/"
 }

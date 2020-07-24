@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Getting Better at using Forgotten Adventures assets... Album in Comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ahjr57/getting_better_at_using_forgotten_adventures/"
 }

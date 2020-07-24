@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 149,
     "value": 149
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Cells",
   "url": "https://www.reddit.com/r/dndmaps/comments/dr0492/oc_dungeon_cells/"
 }

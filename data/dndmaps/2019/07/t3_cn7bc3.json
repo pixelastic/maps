@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.76,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Coliseum, I transformed this map into a combat mat for my players for $ 21. It is not perfect but certainly much more comfortable, try to give as much space to fight.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cn7bc3/coliseum_i_transformed_this_map_into_a_combat_mat/"
 }

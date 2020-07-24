@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 319,
     "value": 319
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ship of the line - all decks in comments (52x78)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gfxx8j/ship_of_the_line_all_decks_in_comments_52x78/"
 }

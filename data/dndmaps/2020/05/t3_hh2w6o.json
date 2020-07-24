@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Horselord's Retreat Inn - A comfortable city inn with complimentary dining",
   "url": "https://www.reddit.com/r/dndmaps/comments/hh2w6o/horselords_retreat_inn_a_comfortable_city_inn/"
 }

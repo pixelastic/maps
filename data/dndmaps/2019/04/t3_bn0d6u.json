@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 673,
     "value": 673
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Classic RPG view Demonic Gate",
   "url": "https://www.reddit.com/r/dndmaps/comments/bn0d6u/occlassic_rpg_view_demonic_gate/"
 }

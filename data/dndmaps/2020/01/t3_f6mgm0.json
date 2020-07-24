@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map of The Port of Aegis. I made it via Inkarnate for a DnD campaign that ended because of drama. I think that y'all would appreciate it, though.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f6mgm0/map_of_the_port_of_aegis_i_made_it_via_inkarnate/"
 }

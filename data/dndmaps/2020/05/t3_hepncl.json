@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1230,
     "value": 1230
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A Tea Party in the Feywild? Still not the most peculiar thing I've seen all day. (Inspired by Alice in Wonderland)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hepncl/a_tea_party_in_the_feywild_still_not_the_most/"
 }

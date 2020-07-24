@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The World of Magna Petra. Let me know what you guys think.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2kqzp/the_world_of_magna_petra_let_me_know_what_you/"
 }

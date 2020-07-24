@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The World of Oilem, a homebrew world. The players took the castle by the bay and marched to protect the fortress of Gorich in the south.",
   "url": "https://www.reddit.com/r/dndmaps/comments/go57av/the_world_of_oilem_a_homebrew_world_the_players/"
 }

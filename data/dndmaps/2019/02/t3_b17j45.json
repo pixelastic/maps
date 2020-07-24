@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Tear Province, Northern Oswyth",
   "url": "https://www.reddit.com/r/dndmaps/comments/b17j45/the_tear_province_northern_oswyth/"
 }

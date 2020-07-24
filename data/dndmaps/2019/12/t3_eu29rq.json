@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 458,
     "value": 458
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Work in progress map for my largest campaign ever. I was inspired to draw the map by everyone in this community.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eu29rq/work_in_progress_map_for_my_largest_campaign_ever/"
 }

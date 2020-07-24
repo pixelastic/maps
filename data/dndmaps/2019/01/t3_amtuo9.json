@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Castle 40x40 (not perfect still mistakes) LF pointers",
   "url": "https://www.reddit.com/r/dndmaps/comments/amtuo9/castle_40x40_not_perfect_still_mistakes_lf/"
 }

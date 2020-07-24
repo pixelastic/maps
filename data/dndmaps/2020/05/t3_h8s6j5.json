@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Made my own take on the map for Icewind Dale. Leaks got me excited.",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8s6j5/made_my_own_take_on_the_map_for_icewind_dale/"
 }

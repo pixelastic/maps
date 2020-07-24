@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 799,
     "value": 799
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Cherry Blossom Creek Battle Map 22x35",
   "url": "https://www.reddit.com/r/dndmaps/comments/ekcmz3/cherry_blossom_creek_battle_map_22x35/"
 }

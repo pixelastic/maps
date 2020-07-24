@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Mountain Encounter. Prints on 2 11x17 sheets from the copy center.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f96ivu/mountain_encounter_prints_on_2_11x17_sheets_from/"
 }

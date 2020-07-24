@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "An abandoned tower that was taken by a goblin mage and his clan. Time for a quest ! (OC)",
   "url": "https://www.reddit.com/r/dndmaps/comments/704byx/an_abandoned_tower_that_was_taken_by_a_goblin/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 51,
     "value": 51
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Frontier: A WIP map for my homebrew game I'm starting in January.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9shsk2/the_frontier_a_wip_map_for_my_homebrew_game_im/"
 }

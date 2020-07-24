@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The map of my homebrew PF setting. It ain’t much but i’m proud of it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eca280/the_map_of_my_homebrew_pf_setting_it_aint_much/"
 }

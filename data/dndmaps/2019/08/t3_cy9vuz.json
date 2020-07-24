@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.73,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Boss Room 1 800x800",
   "url": "https://www.reddit.com/r/dndmaps/comments/cy9vuz/dungeon_boss_room_1_800x800_dps/"
 }

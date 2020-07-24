@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 117,
     "value": 117
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A hidden passage variation MAPOC",
   "url": "https://www.reddit.com/r/dndmaps/comments/b2dcx3/free_a_hidden_passage_variation_mapoc/"
 }

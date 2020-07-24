@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "This is a church where a ritual is taking place from my campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/cq4hzp/this_is_a_church_where_a_ritual_is_taking_place/"
 }

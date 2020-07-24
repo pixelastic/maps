@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Tavern Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/hijwmf/48x27_tavern_battlemap/"
 }

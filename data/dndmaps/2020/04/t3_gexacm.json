@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 423,
     "value": 423
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Wasp - Spelljammer Ship - Individual Decks in Comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/gexacm/wasp_spelljammer_ship_individual_decks_in_comments/"
 }

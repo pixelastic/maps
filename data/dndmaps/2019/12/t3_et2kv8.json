@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Pinewood, the newest map creation for my homebrew. Still not as amazing as most of the work you'll see here, but a MUCH better attempt at map creation than my initial outing.",
   "url": "https://www.reddit.com/r/dndmaps/comments/et2kv8/pinewood_the_newest_map_creation_for_my_homebrew/"
 }

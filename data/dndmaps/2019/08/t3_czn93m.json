@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 417,
     "value": 417
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ducal Palace   Free",
   "url": "https://www.reddit.com/r/dndmaps/comments/czn93m/ducal_palace_3500x3500px_50x50_free/"
 }

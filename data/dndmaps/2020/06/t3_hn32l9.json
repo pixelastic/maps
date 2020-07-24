@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Spooky Graveyard - Battle map",
   "url": "https://www.reddit.com/r/dndmaps/comments/hn32l9/ocart30x35_spooky_graveyard_battle_map/"
 }

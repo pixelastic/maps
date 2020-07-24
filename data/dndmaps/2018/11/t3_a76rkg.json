@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 276,
     "value": 276
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Classic Map ‘Waterdeep’ burned into wooden coasters.",
   "url": "https://www.reddit.com/r/dndmaps/comments/a76rkg/classic_map_waterdeep_burned_into_wooden_coasters/"
 }

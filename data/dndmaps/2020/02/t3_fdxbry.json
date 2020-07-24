@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Tavern of the Delfolk -- a halfling tavern and brewery",
   "url": "https://www.reddit.com/r/dndmaps/comments/fdxbry/tavern_of_the_delfolk_a_halfling_tavern_and/"
 }

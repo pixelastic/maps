@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 58,
     "value": 58
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "New to this subreddit, but here is my most recent map!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hduwt8/new_to_this_subreddit_but_here_is_my_most_recent/"
 }

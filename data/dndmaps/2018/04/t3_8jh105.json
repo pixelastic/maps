@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I've been learning to use Oculus Medium, so I made this small 3D D&D dungeon map. (3D&D&D.)",
   "url": "https://www.reddit.com/r/dndmaps/comments/8jh105/ive_been_learning_to_use_oculus_medium_so_i_made/"
 }

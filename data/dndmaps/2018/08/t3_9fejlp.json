@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 72,
     "value": 72
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First map for a new campaign. Complete with ruins, dinosaur parks, pirates, and a flying island!",
   "url": "https://www.reddit.com/r/dndmaps/comments/9fejlp/first_map_for_a_new_campaign_complete_with_ruins/"
 }

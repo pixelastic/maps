@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 304,
     "value": 304
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Barracks/Small Fortress Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/arl4fs/barrackssmall_fortress_map/"
 }

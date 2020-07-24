@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Eroding Ones, Hall of Histories, Return to the Glory. 39x15@70px",
   "url": "https://www.reddit.com/r/dndmaps/comments/gsqvmo/the_eroding_ones_hall_of_histories_return_to_the/"
 }

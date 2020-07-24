@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 277,
     "value": 277
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Morbennhavor - 30x30 x3 levels",
   "url": "https://www.reddit.com/r/dndmaps/comments/b9qrdd/morbennhavor_30x30_x3_levels/"
 }

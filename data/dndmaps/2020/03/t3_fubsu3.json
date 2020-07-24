@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Buried Ruin Entrance - 25 x 25",
   "url": "https://www.reddit.com/r/dndmaps/comments/fubsu3/buried_ruin_entrance_25_x_25/"
 }

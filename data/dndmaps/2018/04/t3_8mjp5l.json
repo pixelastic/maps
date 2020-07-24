@@ -16,6 +16,7 @@
   "score": {
     "comments": 20,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 209,
     "value": 209
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Yuan-ti dungeon made with Dungeon Painter Studio and donjon's map generator, Roll20 ready",
   "url": "https://www.reddit.com/r/dndmaps/comments/8mjp5l/yuanti_dungeon_made_with_dungeon_painter_studio/"
 }

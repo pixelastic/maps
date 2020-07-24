@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My latest regional map, Region of the Lakes",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0if9q/my_latest_regional_map_region_of_the_lakes/"
 }

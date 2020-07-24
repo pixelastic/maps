@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 54,
     "value": 54
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Holy City of Guerras-El-Essat",
   "url": "https://www.reddit.com/r/dndmaps/comments/g9s9nu/the_holy_city_of_guerraselessat/"
 }

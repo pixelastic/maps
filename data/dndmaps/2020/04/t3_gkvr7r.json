@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dwarven Hall",
   "url": "https://www.reddit.com/r/dndmaps/comments/gkvr7r/dwarven_hall/"
 }

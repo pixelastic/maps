@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Chapter 1: This House is not a Home",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtoqyj/chapter_1_this_house_is_not_a_home/"
 }

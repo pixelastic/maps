@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 53,
     "value": 53
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map I was working on in my free time",
   "url": "https://www.reddit.com/r/dndmaps/comments/7zku5z/map_i_was_working_on_in_my_free_time/"
 }

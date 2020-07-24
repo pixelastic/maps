@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My First Map, For My First Adventure: The Ainston Catacombs",
   "url": "https://www.reddit.com/r/dndmaps/comments/a97ycd/my_first_map_for_my_first_adventure_the_ainston/"
 }

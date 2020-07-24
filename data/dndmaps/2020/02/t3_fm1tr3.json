@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Starter area of my new campaign. (OC)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fm1tr3/starter_area_of_my_new_campaign_oc/"
 }

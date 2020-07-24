@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "FREE Monolith of Kal’doram 30x20 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dpxphz/free_monolith_of_kaldoram_30x20_battlemap_oc/"
 }

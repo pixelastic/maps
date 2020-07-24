@@ -16,6 +16,7 @@
   "score": {
     "comments": 35,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 335,
     "value": 335
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first world map for D&D. Tell me what you think!",
   "url": "https://www.reddit.com/r/dndmaps/comments/82nsg3/my_first_world_map_for_dd_tell_me_what_you_think/"
 }

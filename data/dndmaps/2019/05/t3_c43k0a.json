@@ -16,6 +16,7 @@
   "score": {
     "comments": 39,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 820,
     "value": 820
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Updated DnD map for my homebrew city of Verante. Hand drawn and coloured in PS. All feedback welcome! @the_reclusive_cartographer",
   "url": "https://www.reddit.com/r/dndmaps/comments/c43k0a/updated_dnd_map_for_my_homebrew_city_of_verante/"
 }

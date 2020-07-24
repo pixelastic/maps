@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Quick Cave encounter (im made in under a hour)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ffccdi/quick_cave_encounter_im_made_in_under_a_hour/"
 }

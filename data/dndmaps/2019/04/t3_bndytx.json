@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 448,
     "value": 448
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Castle Entrance Battle Map 40x53",
   "url": "https://www.reddit.com/r/dndmaps/comments/bndytx/castle_entrance_battle_map_40x53/"
 }

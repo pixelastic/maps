@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Forest of Caedonia. I made this map in Inkarnate as an extension of the small city of Caedonia. It’s North of the town for those who wish to put these maps together.",
   "url": "https://www.reddit.com/r/dndmaps/comments/epofu2/the_forest_of_caedonia_i_made_this_map_in/"
 }

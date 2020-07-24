@@ -16,6 +16,7 @@
   "score": {
     "comments": 108,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 2005,
     "value": 2005
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Portal Hideout - We're starting a new homebrew campaign that will send players hunting for artifacts across multiple worlds. This is going to be their home base for the near future.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gom8fo/27x27_70px_portal_hideout_were_starting_a_new/"
 }

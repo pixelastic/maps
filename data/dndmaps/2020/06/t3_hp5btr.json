@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 120,
     "value": 120
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My first dungeon map - Devil Cultist basement lair bordering abandoned sewers",
   "url": "https://www.reddit.com/r/dndmaps/comments/hp5btr/my_first_dungeon_map_devil_cultist_basement_lair/"
 }

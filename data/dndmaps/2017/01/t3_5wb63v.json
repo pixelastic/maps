@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 121,
     "value": 121
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Small Town Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/5wb63v/small_town_map/"
 }

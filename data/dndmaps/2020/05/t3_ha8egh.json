@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A map I put together of my homebrew village, Mireside. Made with 2minutetabletop assets.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ha8egh/a_map_i_put_together_of_my_homebrew_village/"
 }

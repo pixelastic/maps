@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 59,
     "value": 59
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first try at Cartography, MS Paint.",
   "url": "https://www.reddit.com/r/dndmaps/comments/81ctmp/my_first_try_at_cartography_ms_paint/"
 }

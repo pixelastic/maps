@@ -16,6 +16,7 @@
   "score": {
     "comments": 49,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 559,
     "value": 559
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Charted Lands of Ethos",
   "url": "https://www.reddit.com/r/dndmaps/comments/ba4qw3/the_charted_lands_of_ethos/"
 }

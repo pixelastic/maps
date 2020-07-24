@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 151,
     "value": 151
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Skywatch: A Castle in the Clouds",
   "url": "https://www.reddit.com/r/dndmaps/comments/hjdha3/skywatch_a_castle_in_the_clouds_41x102/"
 }

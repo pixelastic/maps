@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Hey all, I've been working on this hex map for the past month and a half and finally finished placing the terrain! I've yet to add notable locations, empires, etc., but I'd like feedback on what I've got so far before I continue.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkia0h/hey_all_ive_been_working_on_this_hex_map_for_the/"
 }

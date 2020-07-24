@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Town of Seacliff 30x20 Multi-Level Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/h96lba/town_of_seacliff_30x20_multilevel_battlemap_oc/"
 }

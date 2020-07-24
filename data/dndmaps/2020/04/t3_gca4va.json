@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Animated battle map I managed to put in roll20, for the final boss of an arc (The Tower, 20x20)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gca4va/oc_art_animated_battle_map_i_managed_to_put_in/"
 }

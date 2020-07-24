@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Theater/Stage Map 18x24",
   "url": "https://www.reddit.com/r/dndmaps/comments/fej16d/theaterstage_map_18x24/"
 }

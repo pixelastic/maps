@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 53,
     "value": 53
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Warlord's Tomb",
   "url": "https://www.reddit.com/r/dndmaps/comments/92m5r5/warlords_tomb/"
 }

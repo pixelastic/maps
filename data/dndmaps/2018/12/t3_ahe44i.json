@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "16x24 Forest Campsite Redux",
   "url": "https://www.reddit.com/r/dndmaps/comments/ahe44i/oc_16x24_forest_campsite_redux/"
 }

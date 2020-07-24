@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Pirate Frigate Sailing Ship",
   "url": "https://www.reddit.com/r/dndmaps/comments/h7axu8/pirate_frigate_sailing_ship_20x40/"
 }

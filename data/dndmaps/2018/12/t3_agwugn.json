@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 182,
     "value": 182
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Important landmarks in northwestern Gungnar.",
   "url": "https://www.reddit.com/r/dndmaps/comments/agwugn/important_landmarks_in_northwestern_gungnar/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The canal-side villa of Erno Palozzi   – More details in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gomofw/the_canalside_villa_of_erno_palozzi_21_x_18_2688/"
 }

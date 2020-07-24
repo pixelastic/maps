@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 303,
     "value": 303
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Old Madeleine's Country Inn and Fighting Pit - Someplace to sit by the fire, eat a nice, home-cooked meal and watch people die.",
   "url": "https://www.reddit.com/r/dndmaps/comments/c2gbaf/old_madeleines_country_inn_and_fighting_pit/"
 }

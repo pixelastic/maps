@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Iyassiskaya",
   "url": "https://www.reddit.com/r/dndmaps/comments/f28pn6/homebrew_rpg_iyassiskaya/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Woodrest Manor",
   "url": "https://www.reddit.com/r/dndmaps/comments/eensia/woodrest_manor/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 270,
     "value": 270
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "\"Lost Continent Of Elderaak\" Map! Little fantasy map side project just for fun!",
   "url": "https://www.reddit.com/r/dndmaps/comments/bfeurp/lost_continent_of_elderaak_map_little_fantasy_map/"
 }

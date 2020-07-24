@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 106,
     "value": 106
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The Cave of Visions - An Underground Mushroom Garden",
   "url": "https://www.reddit.com/r/dndmaps/comments/9ircov/the_cave_of_visions_an_underground_mushroom_garden/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map handouts I've been working on for my players!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hv4xvy/map_handouts_ive_been_working_on_for_my_players/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I challenged myself to make a Dragon Statue in DungeonDraft",
   "url": "https://www.reddit.com/r/dndmaps/comments/gf3ywm/i_challenged_myself_to_make_a_dragon_statue_in/"
 }

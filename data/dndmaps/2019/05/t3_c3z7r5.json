@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 81,
     "value": 81
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The City of Breitstrom, capital of Whithamia",
   "url": "https://www.reddit.com/r/dndmaps/comments/c3z7r5/the_city_of_breitstrom_capital_of_whithamia/"
 }

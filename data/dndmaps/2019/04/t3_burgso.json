@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.68,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first Inkarnate map (Free version didn't have enough so I dropped a few bucks on pro)",
   "url": "https://www.reddit.com/r/dndmaps/comments/burgso/my_first_inkarnate_map_free_version_didnt_have/"
 }

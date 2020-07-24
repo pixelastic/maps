@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 243,
     "value": 243
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A new city for my players to explore: Drinsveil",
   "url": "https://www.reddit.com/r/dndmaps/comments/ee2ls0/a_new_city_for_my_players_to_explore_drinsveil/"
 }

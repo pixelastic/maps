@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Bludmarshe Isle, homebrew country the size of mainland UK, main settlements are marked, not fully fleshed out.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d4hvwy/bludmarshe_isle_homebrew_country_the_size_of/"
 }

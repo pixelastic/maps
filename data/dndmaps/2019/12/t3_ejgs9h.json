@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A region map I did for a client last month",
   "url": "https://www.reddit.com/r/dndmaps/comments/ejgs9h/a_region_map_i_did_for_a_client_last_month/"
 }

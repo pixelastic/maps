@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Generic Dungeon, #5 from my series.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8n28dy/generic_dungeon_5_from_my_series/"
 }

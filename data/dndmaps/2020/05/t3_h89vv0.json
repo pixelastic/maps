@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Ainsley Manor   More details in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/h89vv0/ainsley_manor_25_x_20_3200_x_2560_more_details_in/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.96,
     "ups": 58,
     "value": 58
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Toxic Canyons Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fra9tv/toxic_canyons_battlemap_14x32/"
 }

@@ -15,6 +15,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 22,
     "value": 22
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Hamlet of Hal's Rookery",
   "url": "https://www.reddit.com/r/dndmaps/comments/a812wd/hamlet_of_hals_rookery/"
 }

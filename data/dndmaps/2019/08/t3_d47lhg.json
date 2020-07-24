@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 584,
     "value": 584
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Hag Coven - My Very First Isometric Dungeon Map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d47lhg/hag_coven_my_very_first_isometric_dungeon_map/"
 }

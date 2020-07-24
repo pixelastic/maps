@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Waterdeep City of the Dead Mausoleum Interior",
   "url": "https://www.reddit.com/r/dndmaps/comments/bxk50x/waterdeep_city_of_the_dead_mausoleum_interior/"
 }

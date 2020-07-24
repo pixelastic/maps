@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 146,
     "value": 146
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Autumnal Forest Lake Battle Map 20x28",
   "url": "https://www.reddit.com/r/dndmaps/comments/de3kp7/autumnal_forest_lake_battle_map_20x28/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 78,
     "value": 78
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A Fighting Pit battle map I thought you'd enjoy",
   "url": "https://www.reddit.com/r/dndmaps/comments/huklmr/oc_a_fighting_pit_battle_map_i_thought_youd_enjoy/"
 }

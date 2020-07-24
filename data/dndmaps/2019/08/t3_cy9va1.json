@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.64,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Winter Farm 1 3850 x 2100",
   "url": "https://www.reddit.com/r/dndmaps/comments/cy9va1/winter_farm_1_3850_x_2100_dps/"
 }

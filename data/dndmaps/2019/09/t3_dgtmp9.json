@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 652,
     "value": 652
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": ", , Animated map: Desert Temple Entrance (6 versions)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgtmp9/free_oc_animated_map_desert_temple_entrance_6/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first in depth map using Inkarnate. Using this for a pirate campaign, any ideas for some quirky locations for them to find?",
   "url": "https://www.reddit.com/r/dndmaps/comments/gaepl0/my_first_in_depth_map_using_inkarnate_using_this/"
 }

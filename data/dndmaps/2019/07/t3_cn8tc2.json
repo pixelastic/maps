@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.76,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The second floor of the Dungeon I'm working on. Descriptions and link in comment.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cn8tc2/the_second_floor_of_the_dungeon_im_working_on/"
 }

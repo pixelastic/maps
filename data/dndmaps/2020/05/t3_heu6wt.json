@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My world map. Both the continent and world are called Rule.",
   "url": "https://www.reddit.com/r/dndmaps/comments/heu6wt/my_world_map_both_the_continent_and_world_are/"
 }

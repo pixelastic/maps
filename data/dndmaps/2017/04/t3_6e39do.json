@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 55,
     "value": 55
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Finished the whole continent for my Homebrew!",
   "url": "https://www.reddit.com/r/dndmaps/comments/6e39do/finished_the_whole_continent_for_my_homebrew/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My homebrew world: URUZANI",
   "url": "https://www.reddit.com/r/dndmaps/comments/dfa6sc/my_homebrew_world_uruzani/"
 }

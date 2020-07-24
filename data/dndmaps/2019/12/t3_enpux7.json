@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Underground Arena",
   "url": "https://www.reddit.com/r/dndmaps/comments/enpux7/battlemap30x303500x3500px_underground_arena_ocart/"
 }

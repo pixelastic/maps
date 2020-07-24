@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 399,
     "value": 399
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The full version of my Abandoned Dwarven Outpost map",
   "url": "https://www.reddit.com/r/dndmaps/comments/9i7id8/the_full_version_of_my_abandoned_dwarven_outpost/"
 }

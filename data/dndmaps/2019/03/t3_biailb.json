@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 179,
     "value": 179
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "SLEEPY VILLAGE MAP",
   "url": "https://www.reddit.com/r/dndmaps/comments/biailb/oc_sleepy_village_map/"
 }

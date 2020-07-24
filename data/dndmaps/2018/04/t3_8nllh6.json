@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 168,
     "value": 168
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Lighthouse",
   "url": "https://www.reddit.com/r/dndmaps/comments/8nllh6/lighthouse/"
 }

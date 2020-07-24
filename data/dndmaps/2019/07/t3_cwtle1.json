@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Eastwatch Garrison at Night - A Four Storey Keep, Guard Barracks and Jailhouse",
   "url": "https://www.reddit.com/r/dndmaps/comments/cwtle1/eastwatch_garrison_at_night_a_four_storey_keep/"
 }

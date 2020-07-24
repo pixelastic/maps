@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Grand Mithraeum: the biggest temple in elven lands.",
   "url": "https://www.reddit.com/r/dndmaps/comments/c5s8r6/the_grand_mithraeum_the_biggest_temple_in_elven/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A sporting adventure, my pcs are playing a magical game of golf based on dexterity skill checks or strength and luck make your own rules because mine are way to complicated to explain and are untested. failing that use it for a combat encounter.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fgv8b0/a_sporting_adventure_my_pcs_are_playing_a_magical/"
 }

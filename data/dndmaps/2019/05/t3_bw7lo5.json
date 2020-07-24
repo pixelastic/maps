@@ -16,6 +16,7 @@
   "score": {
     "comments": 52,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1013,
     "value": 1013
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "DnD Pen and Paper campaign map I drew for an upcoming game I'll be running. Let me know that you think!",
   "url": "https://www.reddit.com/r/dndmaps/comments/bw7lo5/dnd_pen_and_paper_campaign_map_i_drew_for_an/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Izoreth, my homebrew campain's map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bp5sp8/izoreth_my_homebrew_campains_map/"
 }

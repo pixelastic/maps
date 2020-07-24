@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Riversbend, a location from my Ethren campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/h04r21/riversbend_a_location_from_my_ethren_campaign/"
 }

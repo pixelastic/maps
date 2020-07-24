@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 86,
     "value": 86
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Elder Brain Incubatorium - 30 x 40 Battle Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/dp9hi8/elder_brain_incubatorium_30_x_40_battle_map/"
 }

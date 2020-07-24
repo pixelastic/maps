@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I present Vrehune, possibly the map for my upcoming campaign (if I can manage to fill out a party, that is)",
   "url": "https://www.reddit.com/r/dndmaps/comments/br5fzt/i_present_vrehune_possibly_the_map_for_my/"
 }

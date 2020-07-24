@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 61,
     "value": 61
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Trying an indoor (Cave-like) map this time, let me know what you think.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d1pcxn/trying_an_indoor_cavelike_map_this_time_let_me/"
 }

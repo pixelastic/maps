@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 353,
     "value": 353
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A church (with roof and without)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9pixhi/a_church_with_roof_and_without/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1237,
     "value": 1237
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Undersea Horror Battle Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/hfranv/the_undersea_horror_battle_map_50x50battlemapoc/"
 }

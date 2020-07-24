@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A land of ghosts and gunpowder! Made in Inkarnate.",
   "url": "https://www.reddit.com/r/dndmaps/comments/etnou6/a_land_of_ghosts_and_gunpowder_made_in_inkarnate/"
 }

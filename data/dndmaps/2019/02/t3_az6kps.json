@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 90,
     "value": 90
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Red Boar Inn - 24x18 x3",
   "url": "https://www.reddit.com/r/dndmaps/comments/az6kps/the_red_boar_inn_24x18_x3/"
 }

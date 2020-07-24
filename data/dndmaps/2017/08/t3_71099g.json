@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I present Noth Mesis, or what's known of it at least...",
   "url": "https://www.reddit.com/r/dndmaps/comments/71099g/i_present_noth_mesis_or_whats_known_of_it_at_least/"
 }

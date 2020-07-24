@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Free high res generic region map",
   "url": "https://www.reddit.com/r/dndmaps/comments/dbwlpx/region_map_oc_free_high_res_generic_region_map/"
 }

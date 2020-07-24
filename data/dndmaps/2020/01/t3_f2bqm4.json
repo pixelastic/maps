@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World Map for my new campaign, set at the end of a bronze age. They will have to use this map to travel on a great pilgrimage.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2bqm4/world_map_for_my_new_campaign_set_at_the_end_of_a/"
 }

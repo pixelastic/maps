@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Hand-drawn blacksmith shop (14x9)",
   "url": "https://www.reddit.com/r/dndmaps/comments/htlk0x/handdrawn_blacksmith_shop_14x9/"
 }

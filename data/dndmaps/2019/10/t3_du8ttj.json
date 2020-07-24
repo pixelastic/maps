@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 982,
     "value": 982
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Welcome to White Hollow.",
   "url": "https://www.reddit.com/r/dndmaps/comments/du8ttj/welcome_to_white_hollow_oc/"
 }

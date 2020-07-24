@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Church of St Hubbins  (1st attempt with Dungeondraft)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fdkyoi/the_church_of_st_hubbins_25_x_20_1st_attempt_with/"
 }

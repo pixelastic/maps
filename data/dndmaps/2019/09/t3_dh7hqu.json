@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 887,
     "value": 887
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Mine battlemap with a Vault at the end",
   "url": "https://www.reddit.com/r/dndmaps/comments/dh7hqu/mine_battlemap_with_a_vault_at_the_end/"
 }

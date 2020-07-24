@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Doomrun Sallyport -Map03",
   "url": "https://www.reddit.com/r/dndmaps/comments/awtg32/the_doomrun_sallyport_map03_oc_34x22_battlemap/"
 }

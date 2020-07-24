@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1104,
     "value": 1104
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A Pirate hideout map made from modular tiles",
   "url": "https://www.reddit.com/r/dndmaps/comments/bst3mw/a_pirate_hideout_map_made_from_modular_tiles/"
 }

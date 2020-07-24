@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "World map update. Some color and now mountains. It's meant as a general continent map for showing city and kingdoms. It's my 1st time, hownam I doing?",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2u8g6/world_map_update_some_color_and_now_mountains_its/"
 }

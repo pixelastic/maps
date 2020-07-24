@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "First 2d Map, of my previous upload Shrine of the Gloth",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4ho9p/first_2d_map_of_my_previous_upload_shrine_of_the/"
 }

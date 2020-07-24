@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Gateway to the North Tavern and Inn",
   "url": "https://www.reddit.com/r/dndmaps/comments/6a0o4n/the_gateway_to_the_north_tavern_and_inn/"
 }

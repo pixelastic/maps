@@ -16,6 +16,7 @@
   "score": {
     "comments": 41,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1116,
     "value": 1116
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Eladrin city in the Feywild",
   "url": "https://www.reddit.com/r/dndmaps/comments/eyc4ws/eladrin_city_in_the_feywild/"
 }

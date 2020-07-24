@@ -16,6 +16,7 @@
   "score": {
     "comments": 48,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 2017,
     "value": 2017
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Canals Marketplace",
   "url": "https://www.reddit.com/r/dndmaps/comments/h9g4vn/the_canals_marketplace_battlemap_36x49/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "River Styx Ruins, a map for Descent into Avernus and other hellish adventures (17x24 Grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d7u2qx/ocbattlemap_river_styx_ruins_a_map_for_descent/"
 }

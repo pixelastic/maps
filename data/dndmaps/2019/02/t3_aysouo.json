@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Made this map on Inkarnate for an old game. Coming back to it now and want to improve. Any suggestions? :)",
   "url": "https://www.reddit.com/r/dndmaps/comments/aysouo/made_this_map_on_inkarnate_for_an_old_game_coming/"
 }

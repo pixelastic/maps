@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Palace of the Sands",
   "url": "https://www.reddit.com/r/dndmaps/comments/acmydl/palace_of_the_sands/"
 }

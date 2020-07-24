@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 845,
     "value": 845
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The war on sand was going poorly...",
   "url": "https://www.reddit.com/r/dndmaps/comments/dyhuvr/the_war_on_sand_was_going_poorly/"
 }

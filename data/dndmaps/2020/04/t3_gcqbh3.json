@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 118,
     "value": 118
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "A silver mine. Context and adventure hooks in comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gcqbh3/a_silver_mine_context_and_adventure_hooks_in/"
 }

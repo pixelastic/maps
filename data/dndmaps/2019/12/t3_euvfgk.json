@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Dwarven Clanhold Level 1 - Free to use.",
   "url": "https://www.reddit.com/r/dndmaps/comments/euvfgk/dwarven_clanhold_level_1_free_to_use/"
 }

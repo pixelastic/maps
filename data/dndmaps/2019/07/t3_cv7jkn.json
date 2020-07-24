@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Almyros: The Salty Shores",
   "url": "https://www.reddit.com/r/dndmaps/comments/cv7jkn/almyros_the_salty_shores/"
 }

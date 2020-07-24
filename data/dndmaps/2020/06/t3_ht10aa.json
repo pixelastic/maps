@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Cave System with Underground Lake",
   "url": "https://www.reddit.com/r/dndmaps/comments/ht10aa/cave_system_with_underground_lake/"
 }

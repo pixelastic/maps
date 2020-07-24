@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 405,
     "value": 405
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "DnD pen and paper map drawn and digitised today. Quite new to digital painting, all feedback welcome :)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bw2rkg/dnd_pen_and_paper_map_drawn_and_digitised_today/"
 }

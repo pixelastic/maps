@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.78,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "This is Illuskan, a city in the North of the Trilys Empire (Homebrew). Made with Inkarnate. It's the first city map I've ever made, so I would really appreciate any tips.",
   "url": "https://www.reddit.com/r/dndmaps/comments/c7mgde/this_is_illuskan_a_city_in_the_north_of_the/"
 }

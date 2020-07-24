@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.95,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Great Tree Clearing",
   "url": "https://www.reddit.com/r/dndmaps/comments/gkwslz/great_tree_clearing/"
 }

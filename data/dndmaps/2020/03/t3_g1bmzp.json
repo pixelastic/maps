@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Grand Duchy of Bastónne",
   "url": "https://www.reddit.com/r/dndmaps/comments/g1bmzp/the_grand_duchy_of_bastónne/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First time attempting world building! The known world of Mildora (done in Photoshop",
   "url": "https://www.reddit.com/r/dndmaps/comments/f3clue/first_time_attempting_world_building_the_known/"
 }

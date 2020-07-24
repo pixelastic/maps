@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Tomb of Gul'Galdar 34x35",
   "url": "https://www.reddit.com/r/dndmaps/comments/hre52e/the_tomb_of_gulgaldar_34x35/"
 }

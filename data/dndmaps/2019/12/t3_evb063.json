@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "I am not a professional artist but I am still quite happy as to how that map I've drawn turned out. If you need a small hamlet for your TTRPG and want to use this map go right ahead.",
   "url": "https://www.reddit.com/r/dndmaps/comments/evb063/i_am_not_a_professional_artist_but_i_am_still/"
 }

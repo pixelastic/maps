@@ -16,6 +16,7 @@
   "score": {
     "comments": 27,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 709,
     "value": 709
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Homebrew map for my upcoming campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/c1lvi3/homebrew_map_for_my_upcoming_campaign/"
 }

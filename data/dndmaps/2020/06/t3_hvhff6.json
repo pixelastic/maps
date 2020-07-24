@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 591,
     "value": 591
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Moathouse Dungeons",
   "url": "https://www.reddit.com/r/dndmaps/comments/hvhff6/the_moathouse_dungeons/"
 }

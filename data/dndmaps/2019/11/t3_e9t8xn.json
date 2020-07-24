@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 71,
     "value": 71
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Last Shrine of the Emperor of Bones",
   "url": "https://www.reddit.com/r/dndmaps/comments/e9t8xn/last_shrine_of_the_emperor_of_bones/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.73,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Just Another Undead-Ridden Crypt",
   "url": "https://www.reddit.com/r/dndmaps/comments/gowaep/just_another_undeadridden_crypt/"
 }

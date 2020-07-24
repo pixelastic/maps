@@ -16,6 +16,7 @@
   "score": {
     "comments": 69,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 3069,
     "value": 3069
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Boulder Dash - rolling boulder dungeon map",
   "url": "https://www.reddit.com/r/dndmaps/comments/ehas9h/boulder_dash_rolling_boulder_dungeon_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 20,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1876,
     "value": 1876
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Roman inspired trading town in the mountains that I recently drew.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d4y6a5/roman_inspired_trading_town_in_the_mountains_that/"
 }

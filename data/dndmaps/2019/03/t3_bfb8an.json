@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 67,
     "value": 67
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Settlements of Tal'Dorei - Jorenn Village",
   "url": "https://www.reddit.com/r/dndmaps/comments/bfb8an/settlements_of_taldorei_jorenn_village/"
 }

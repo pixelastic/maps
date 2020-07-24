@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 92,
     "value": 92
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Little sea fort battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/bxgt7p/little_sea_fort_battlemap/"
 }

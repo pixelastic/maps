@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The super continent pf Hellara and her major cities. (AKA my DnD and Fantasy WIP setting)",
   "url": "https://www.reddit.com/r/dndmaps/comments/b4a5r5/the_super_continent_pf_hellara_and_her_major/"
 }

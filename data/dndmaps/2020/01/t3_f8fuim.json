@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The tree of Helena. One of three heroes who slew the last ancient dragon. Now with a dragon in the mountains, a party of ragtag criminals will pilfer her tomb, hoping to gather her staff to aid in killing this new threat",
   "url": "https://www.reddit.com/r/dndmaps/comments/f8fuim/the_tree_of_helena_one_of_three_heroes_who_slew/"
 }

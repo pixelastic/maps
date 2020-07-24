@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 232,
     "value": 232
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "New dungeon I’m working on. Not sure what to put in it yet but feel free to use it and make it your own!",
   "url": "https://www.reddit.com/r/dndmaps/comments/daqo7a/new_dungeon_im_working_on_not_sure_what_to_put_in/"
 }

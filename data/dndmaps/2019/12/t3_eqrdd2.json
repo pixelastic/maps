@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.67,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Sekain Isles! My in-the-works world map. I'm colourblind, and also having writers-block on how to fill in this map with more detail, as well as improving what I already did! Any suggestions welcome!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eqrdd2/feedback_needed_the_sekain_isles_my_intheworks/"
 }

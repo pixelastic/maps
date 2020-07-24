@@ -16,6 +16,7 @@
   "score": {
     "comments": 26,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 292,
     "value": 292
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "This is the continent Cirilia! Followed a bunch of guides for GIMP, and used pre-existing names for some cities, but for a first-time map maker/DM- advice? I’m trying to figure out how to do curved text or something like that for water/mountains/forests etc. still learning!",
   "url": "https://www.reddit.com/r/dndmaps/comments/bpv0pi/this_is_the_continent_cirilia_followed_a_bunch_of/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Skycastle Plateau & Chambers - Dragon Wing Free One-Shot",
   "url": "https://www.reddit.com/r/dndmaps/comments/erc5u2/skycastle_plateau_chambers_dragon_wing_free/"
 }

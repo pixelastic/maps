@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Free Ship Maps & Assets for Quarantined DMs",
   "url": "https://www.reddit.com/r/dndmaps/comments/fqxnz2/free_ship_maps_assets_for_quarantined_dms/"
 }

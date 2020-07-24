@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 445,
     "value": 445
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Autumnal Forest Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fgcanc/autumnal_forest_battlemap_45x25/"
 }

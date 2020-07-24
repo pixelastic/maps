@@ -16,6 +16,7 @@
   "score": {
     "comments": 126,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 2211,
     "value": 2211
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Genial Jack and the Symbiotic City of Jackburg",
   "url": "https://www.reddit.com/r/dndmaps/comments/e6rtr3/genial_jack_and_the_symbiotic_city_of_jackburg/"
 }

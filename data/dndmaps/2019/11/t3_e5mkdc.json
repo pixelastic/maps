@@ -15,6 +15,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 10,
     "value": 10
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Estate of Unrest",
   "url": "https://www.reddit.com/r/dndmaps/comments/e5mkdc/estate_of_unrest_103x76wipeverquest/"
 }

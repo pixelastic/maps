@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Wolf Den - Free to use - Made in DPS",
   "url": "https://www.reddit.com/r/dndmaps/comments/ez3wzb/wolf_den_free_to_use_made_in_dps/"
 }

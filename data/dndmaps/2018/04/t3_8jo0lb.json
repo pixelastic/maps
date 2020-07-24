@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 161,
     "value": 161
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "LMoP Sword Coast Map for Players (final draft)",
   "url": "https://www.reddit.com/r/dndmaps/comments/8jo0lb/lmop_sword_coast_map_for_players_final_draft/"
 }

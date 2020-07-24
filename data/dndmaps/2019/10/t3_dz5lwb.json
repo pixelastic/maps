@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Warforged Kingdoms",
   "url": "https://www.reddit.com/r/dndmaps/comments/dz5lwb/warforged_kingdoms/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Freebie Dungeon Map 5-7-2019",
   "url": "https://www.reddit.com/r/dndmaps/comments/blxztb/freebie_dungeon_map_572019/"
 }

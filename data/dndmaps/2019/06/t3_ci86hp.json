@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 102,
     "value": 102
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "CROMLECH ON A HANGING ROCK FREE BATTLEMAP (30x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ci86hp/cromlech_on_a_hanging_rock_free_battlemap_30x30/"
 }

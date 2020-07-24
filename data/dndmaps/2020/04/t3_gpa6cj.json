@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Duergar Fire Mine | Free Map Gridless/Squared/Hex | 140 & 300ppi",
   "url": "https://www.reddit.com/r/dndmaps/comments/gpa6cj/duergar_fire_mine_free_map_gridlesssquaredhex_140/"
 }

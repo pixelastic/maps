@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Village Gatehouse 30x20 Multi-Level Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/f31a2p/village_gatehouse_30x20_multilevel_battlemap_oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 31,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 476,
     "value": 476
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "My first completed battlemap: Temple",
   "url": "https://www.reddit.com/r/dndmaps/comments/aowuyp/my_first_completed_battlemap_temple/"
 }

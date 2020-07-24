@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Underground Elvish City: Valle De La Nuit",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0ivqv/underground_elvish_city_valle_de_la_nuit/"
 }

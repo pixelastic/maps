@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A History of the Korachani empire",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2vpxk/a_history_of_the_korachani_empire/"
 }

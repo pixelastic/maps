@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Made a rough island map for my next D&D game.. Pirates!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gapg7l/made_a_rough_island_map_for_my_next_dd_game/"
 }

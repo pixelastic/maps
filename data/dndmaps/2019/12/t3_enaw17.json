@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first campaign DMing is coming to an end, here's a map I made of their travels so far.",
   "url": "https://www.reddit.com/r/dndmaps/comments/enaw17/my_first_campaign_dming_is_coming_to_an_end_heres/"
 }

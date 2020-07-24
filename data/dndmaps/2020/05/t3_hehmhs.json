@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Overcast City",
   "url": "https://www.reddit.com/r/dndmaps/comments/hehmhs/overcast_city_part_02_28x17/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "It’s like camping... but for ne’er-do-wells.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fw0e82/its_like_camping_but_for_neerdowells_30_x_40/"
 }

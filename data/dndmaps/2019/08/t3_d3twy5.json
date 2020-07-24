@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Small section of a world map I'm creating",
   "url": "https://www.reddit.com/r/dndmaps/comments/d3twy5/small_section_of_a_world_map_im_creating_world_map/"
 }

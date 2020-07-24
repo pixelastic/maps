@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World Map I made, free for y'all to use! \"Newen Empire\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/aymz7w/world_map_i_made_free_for_yall_to_use_newen/"
 }

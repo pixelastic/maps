@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 177,
     "value": 177
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Arena Pit",
   "url": "https://www.reddit.com/r/dndmaps/comments/g6xqp2/arena_pit/"
 }

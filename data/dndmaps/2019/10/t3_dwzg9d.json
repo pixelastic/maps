@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 408,
     "value": 408
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "After exploring some temple ruins in the middle of a forest, the party discovers cracks under large stone. Pushing the stone reveals a large hole in the ground, looking in the hole you see a room with four sarcophagi... do you enter the dungeon of the great boar?",
   "url": "https://www.reddit.com/r/dndmaps/comments/dwzg9d/after_exploring_some_temple_ruins_in_the_middle/"
 }

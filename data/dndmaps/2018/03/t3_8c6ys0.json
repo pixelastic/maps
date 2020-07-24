@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 112,
     "value": 112
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The arcane Prison dungeon",
   "url": "https://www.reddit.com/r/dndmaps/comments/8c6ys0/the_arcane_prison_dungeon/"
 }

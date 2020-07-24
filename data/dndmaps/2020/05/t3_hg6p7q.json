@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Cliffs of Revod (Skill Challenge Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hg6p7q/the_cliffs_of_revod_skill_challenge_map/"
 }

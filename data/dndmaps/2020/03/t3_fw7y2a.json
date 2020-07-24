@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Cute Wizard's Tower of Charm 2 maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/fw7y2a/cute_wizards_tower_of_charm_2_maps_20x20/"
 }

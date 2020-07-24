@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 95,
     "value": 95
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Created an A5 Handout mini map, Perfect for a recent One-Shot",
   "url": "https://www.reddit.com/r/dndmaps/comments/elshbm/created_an_a5_handout_mini_map_perfect_for_a/"
 }

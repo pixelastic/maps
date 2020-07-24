@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Desert Battle Map (50 by 50 inch)",
   "url": "https://www.reddit.com/r/dndmaps/comments/btbqa4/oc_desert_battle_map_50_by_50_inch/"
 }

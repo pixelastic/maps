@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My Traditional Made Pine Forest/Hills Hex Crawl Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/9osobs/my_traditional_made_pine_foresthills_hex_crawl_map/"
 }

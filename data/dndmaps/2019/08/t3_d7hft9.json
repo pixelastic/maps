@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "New region I'm working on (WIP, comments welcome)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d7hft9/new_region_im_working_on_wip_comments_welcome/"
 }

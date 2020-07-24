@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ambush! (Along the Road)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gzda7b/ambush_along_the_road/"
 }

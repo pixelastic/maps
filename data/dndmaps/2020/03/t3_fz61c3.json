@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 133,
     "value": 133
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Drow City of Vlyn'darastyl on the shore of the Black Loch",
   "url": "https://www.reddit.com/r/dndmaps/comments/fz61c3/the_drow_city_of_vlyndarastyl_on_the_shore_of_the/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 78,
     "value": 78
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Weird little isometric underdark map - the Juicer",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtmz0v/weird_little_isometric_underdark_map_the_juicer/"
 }

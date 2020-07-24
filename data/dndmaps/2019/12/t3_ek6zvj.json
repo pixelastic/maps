@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map of Volconia, made for a campaign my friend and I are building",
   "url": "https://www.reddit.com/r/dndmaps/comments/ek6zvj/map_of_volconia_made_for_a_campaign_my_friend_and/"
 }

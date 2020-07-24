@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Red Dragon Volcano Lair",
   "url": "https://www.reddit.com/r/dndmaps/comments/hlj58w/red_dragon_volcano_lair/"
 }

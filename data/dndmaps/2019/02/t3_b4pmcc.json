@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A Map of the Commonwealth (a nation from my world, Castarith)",
   "url": "https://www.reddit.com/r/dndmaps/comments/b4pmcc/a_map_of_the_commonwealth_a_nation_from_my_world/"
 }

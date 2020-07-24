@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Roadside Tavern",
   "url": "https://www.reddit.com/r/dndmaps/comments/7okzjo/roadside_tavern/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Asmirique (First Attempt at Larger World Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bd6gnx/asmirique_first_attempt_at_larger_world_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Farmhouse in the Woods (part of my \"In The Woods\" series!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/70sdx0/farmhouse_in_the_woods_part_of_my_in_the_woods/"
 }

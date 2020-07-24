@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 178,
     "value": 178
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map based on the wonderful Medieval City Generator",
   "url": "https://www.reddit.com/r/dndmaps/comments/8q19vt/map_based_on_the_wonderful_medieval_city_generator/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 472,
     "value": 472
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "This is where an adventure starts",
   "url": "https://www.reddit.com/r/dndmaps/comments/9a5vsk/this_is_where_an_adventure_starts/"
 }

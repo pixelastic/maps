@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 669,
     "value": 669
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Untitled (as of yet) Mediterranean-style map I made for an old friend",
   "url": "https://www.reddit.com/r/dndmaps/comments/bvfg6f/untitled_as_of_yet_mediterraneanstyle_map_i_made/"
 }

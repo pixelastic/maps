@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Welcome to Lathanderia! I made this world and map for my first ever one-shot as DM. More info in comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gt0oxo/welcome_to_lathanderia_i_made_this_world_and_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.88,
     "ups": 42,
     "value": 42
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Dragon's Lair Free Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/d0yxng/dragons_lair_free_battlemap_30x30/"
 }

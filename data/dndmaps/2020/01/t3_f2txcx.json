@@ -16,6 +16,7 @@
   "score": {
     "comments": 29,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1062,
     "value": 1062
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "My first try of a hand drawn DnD map for a short adventure.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2txcx/my_first_try_of_a_hand_drawn_dnd_map_for_a_short/"
 }

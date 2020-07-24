@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.93,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The burned down House - Ashes",
   "url": "https://www.reddit.com/r/dndmaps/comments/byieko/oc_the_burned_down_house_ashes/"
 }

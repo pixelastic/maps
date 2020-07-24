@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Wintery Keep B1 - only one left in this set, what do you want to see next?",
   "url": "https://www.reddit.com/r/dndmaps/comments/esxmn9/wintery_keep_b1_only_one_left_in_this_set_what_do/"
 }

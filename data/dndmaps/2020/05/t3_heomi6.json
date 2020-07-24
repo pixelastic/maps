@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 213,
     "value": 213
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "DunJune 15 - The Daemon Shrine",
   "url": "https://www.reddit.com/r/dndmaps/comments/heomi6/dunjune_15_the_daemon_shrine/"
 }

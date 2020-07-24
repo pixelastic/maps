@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "WIP screen print of a very smal, part of a city map, i am wokring on atm.",
   "url": "https://www.reddit.com/r/dndmaps/comments/enoequ/wip_screen_print_of_a_very_smal_part_of_a_city/"
 }

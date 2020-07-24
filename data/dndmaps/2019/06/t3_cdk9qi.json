@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Halfling Village",
   "url": "https://www.reddit.com/r/dndmaps/comments/cdk9qi/halfling_village/"
 }

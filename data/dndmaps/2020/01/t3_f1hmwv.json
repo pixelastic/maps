@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 58,
     "value": 58
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map of the Town of Herzog for my Homebrew DnD Campaign I DM. The original sketch was by me, but my friend /u/saxophonistspace made this awesome color map!",
   "url": "https://www.reddit.com/r/dndmaps/comments/f1hmwv/map_of_the_town_of_herzog_for_my_homebrew_dnd/"
 }

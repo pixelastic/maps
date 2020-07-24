@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Bally Farrell - Halfling Town",
   "url": "https://www.reddit.com/r/dndmaps/comments/cq7p2s/bally_farrell_halfling_town/"
 }

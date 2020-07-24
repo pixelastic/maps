@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Whitebriar Manor w/o Grid by Request. Second Floor and Basement in Comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gwrunn/oc_whitebriar_manor_wo_grid_by_request_second/"
 }

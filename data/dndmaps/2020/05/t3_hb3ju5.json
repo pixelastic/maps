@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.75,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Prepping for a new campaign soon so I started with a map of the continent, Welcome to Apeth home to many kingdoms and tribes. I’ll post some more maps with a description of each province let me know what you think.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hb3ju5/prepping_for_a_new_campaign_soon_so_i_started/"
 }

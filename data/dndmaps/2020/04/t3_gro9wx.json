@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "D&D Scene map inspired by Kattegat (Vikings)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gro9wx/dd_scene_map_inspired_by_kattegat_vikings/"
 }

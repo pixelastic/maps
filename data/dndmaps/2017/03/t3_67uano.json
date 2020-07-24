@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 75,
     "value": 75
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map of the main continent for my games. Turned by my brother from ugly sketch on piece of paper into this beauty.",
   "url": "https://www.reddit.com/r/dndmaps/comments/67uano/map_of_the_main_continent_for_my_games_turned_by/"
 }

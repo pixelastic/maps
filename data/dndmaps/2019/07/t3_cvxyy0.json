@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 174,
     "value": 174
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My entire monster hunting campaign takes place in one city, Fearguarde",
   "url": "https://www.reddit.com/r/dndmaps/comments/cvxyy0/my_entire_monster_hunting_campaign_takes_place_in/"
 }

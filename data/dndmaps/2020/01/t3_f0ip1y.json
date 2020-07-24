@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Lizard's Chasm (37x46) (Experimenting with a new style. Free ungridded/color palette swap/line-art/raw files in the comments!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0ip1y/the_lizards_chasm_37x46_experimenting_with_a_new/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 39,
     "value": 39
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My first test run of making voxel map dungeon maps, what do you think?",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0afjp/my_first_test_run_of_making_voxel_map_dungeon/"
 }

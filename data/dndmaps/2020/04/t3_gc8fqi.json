@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "50 Free RPG Battlemaps from Czepeku!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gc8fqi/50_free_rpg_battlemaps_from_czepeku/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Castle Maarav - Island of Trisk - Purple Rocks - Faerun",
   "url": "https://www.reddit.com/r/dndmaps/comments/ga6j2i/castle_maarav_island_of_trisk_purple_rocks_faerun/"
 }

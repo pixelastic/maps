@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 83,
     "value": 83
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My First Dungeon - Kobold Lair - feel free to ask any questions!",
   "url": "https://www.reddit.com/r/dndmaps/comments/7xuzgw/my_first_dungeon_kobold_lair_feel_free_to_ask_any/"
 }

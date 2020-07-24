@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 139,
     "value": 139
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Firas",
   "url": "https://www.reddit.com/r/dndmaps/comments/8dfk8c/firas/"
 }

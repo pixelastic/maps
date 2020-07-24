@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Thall Nuvalis - A forest map I needed (human for scale).",
   "url": "https://www.reddit.com/r/dndmaps/comments/enpg4c/thall_nuvalis_a_forest_map_i_needed_human_for/"
 }

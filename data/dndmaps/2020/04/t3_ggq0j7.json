@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A Secret Chapel",
   "url": "https://www.reddit.com/r/dndmaps/comments/ggq0j7/a_secret_chapel/"
 }

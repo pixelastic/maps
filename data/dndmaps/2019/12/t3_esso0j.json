@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Sniper River, a 33x8 long map with a camp and river at one end, perfect for small sieges!",
   "url": "https://www.reddit.com/r/dndmaps/comments/esso0j/sniper_river_a_33x8_long_map_with_a_camp_and/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 138,
     "value": 138
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Camp In The Forest",
   "url": "https://www.reddit.com/r/dndmaps/comments/dbak12/ocart_camp_in_the_forest22_x_30/"
 }

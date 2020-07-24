@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.93,
     "ups": 67,
     "value": 67
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Forest Temple - A Greek Themed Temple in the Woods. Day, Night and Gridless Variants included!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hl8n38/forest_temple_a_greek_themed_temple_in_the_woods/"
 }

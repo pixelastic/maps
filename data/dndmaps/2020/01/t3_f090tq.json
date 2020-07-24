@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 61,
     "value": 61
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Simple Cave Encounter Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/f090tq/simple_cave_encounter_map/"
 }

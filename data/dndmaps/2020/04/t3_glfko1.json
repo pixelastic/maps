@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 792,
     "value": 792
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Great Library",
   "url": "https://www.reddit.com/r/dndmaps/comments/glfko1/the_great_library_part_01_13x33/"
 }

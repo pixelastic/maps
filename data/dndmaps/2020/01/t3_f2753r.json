@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Pleasure Baths, a new 11x8 encounter map for the hedonists in your party! (more formats in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2753r/pleasure_baths_a_new_11x8_encounter_map_for_the/"
 }

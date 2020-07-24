@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1039,
     "value": 1039
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Graveyard Battle Map 22x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/dp69gr/graveyard_battle_map_22x30/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 72,
     "value": 72
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My third attempt at making a city, feedback welcome!",
   "url": "https://www.reddit.com/r/dndmaps/comments/9b5s5d/my_third_attempt_at_making_a_city_feedback_welcome/"
 }

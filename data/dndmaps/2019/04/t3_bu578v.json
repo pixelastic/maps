@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Campaign Map for my group",
   "url": "https://www.reddit.com/r/dndmaps/comments/bu578v/campaign_map_for_my_group/"
 }

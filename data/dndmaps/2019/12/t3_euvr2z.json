@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My redesign of my college clubs map we will use this semester.",
   "url": "https://www.reddit.com/r/dndmaps/comments/euvr2z/my_redesign_of_my_college_clubs_map_we_will_use/"
 }

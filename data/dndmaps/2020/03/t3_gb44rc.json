@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 96,
     "value": 96
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Griffin's Nest",
   "url": "https://www.reddit.com/r/dndmaps/comments/gb44rc/griffins_nest/"
 }

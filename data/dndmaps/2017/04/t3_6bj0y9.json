@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I tired incorporating the use of architecture software to create the 3d perspective in my illustration. It's still a work in progress and I consider that this isn't really different from what I already did, but it is a first step towards integrating stuff you don't normally see in tabletop RPG maps.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6bj0y9/i_tired_incorporating_the_use_of_architecture/"
 }

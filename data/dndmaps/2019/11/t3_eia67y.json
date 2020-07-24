@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1171,
     "value": 1171
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Another attempt to break Inkarnate, a mountain region with an inset dungeon cross section",
   "url": "https://www.reddit.com/r/dndmaps/comments/eia67y/another_attempt_to_break_inkarnate_a_mountain/"
 }

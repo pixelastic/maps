@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Woodland Waterfall Map | Domigorgon on Patreon",
   "url": "https://www.reddit.com/r/dndmaps/comments/9uiig5/woodland_waterfall_map_domigorgon_on_patreon/"
 }

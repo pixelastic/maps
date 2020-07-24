@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Ansalon - Another in game map I made for my Dragonlance AD&D game",
   "url": "https://www.reddit.com/r/dndmaps/comments/by5rg2/ansalon_another_in_game_map_i_made_for_my/"
 }

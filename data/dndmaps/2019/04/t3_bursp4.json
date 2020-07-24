@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Some basic locations in a flat, simple style. (Town square, forest, cave)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bursp4/some_basic_locations_in_a_flat_simple_style_town/"
 }

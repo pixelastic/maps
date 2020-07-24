@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 100,
     "value": 100
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Infestation in the Stone",
   "url": "https://www.reddit.com/r/dndmaps/comments/beq5t8/infestation_in_the_stone/"
 }

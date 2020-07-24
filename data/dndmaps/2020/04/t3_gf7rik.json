@@ -16,6 +16,7 @@
   "score": {
     "comments": 36,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 227,
     "value": 227
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Farm village. Does the bridge look okay in this map? It's not straight-down like everything else.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gf7rik/farm_village_does_the_bridge_look_okay_in_this/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 83,
     "value": 83
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "FREE \"The Wardens Keep\" 20x30 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/cc7rgk/free_the_wardens_keep_20x30_battlemap_oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Created a Feywild town. What do you think",
   "url": "https://www.reddit.com/r/dndmaps/comments/eosu1d/oc_created_a_feywild_town_what_do_you_think/"
 }

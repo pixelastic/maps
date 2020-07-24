@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Sin-Dawn-eh Ahsmahn, the Home Village of The Patrons' Saints",
   "url": "https://www.reddit.com/r/dndmaps/comments/eytzxs/sindawneh_ahsmahn_the_home_village_of_the_patrons/"
 }

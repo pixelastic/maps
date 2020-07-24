@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 151,
     "value": 151
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Valian-Dominion Border",
   "url": "https://www.reddit.com/r/dndmaps/comments/btov5q/the_valiandominion_border/"
 }

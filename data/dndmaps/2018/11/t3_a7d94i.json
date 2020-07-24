@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.64,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Donjon Random Maps - Dorthelond",
   "url": "https://www.reddit.com/r/dndmaps/comments/a7d94i/donjon_random_maps_dorthelond/"
 }

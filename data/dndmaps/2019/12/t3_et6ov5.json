@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Inconspicuous Abode/Thieves Hideout + Derelict Sewer Section",
   "url": "https://www.reddit.com/r/dndmaps/comments/et6ov5/inconspicuous_abodethieves_hideout_derelict_sewer/"
 }

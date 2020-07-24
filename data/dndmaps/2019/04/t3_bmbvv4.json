@@ -15,6 +15,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 18,
     "value": 18
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Tolkien inspired map for my Dungeon & Dragons campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bmbvv4/tolkien_inspired_map_for_my_dungeon_dragons/"
 }

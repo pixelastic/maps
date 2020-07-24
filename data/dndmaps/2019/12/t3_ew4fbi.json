@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 67,
     "value": 67
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Raurin Region Map from Far East Faerun - Created using Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/ew4fbi/raurin_region_map_from_far_east_faerun_created/"
 }

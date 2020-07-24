@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Tried My Hand At Map Creating. its very fun!",
   "url": "https://www.reddit.com/r/dndmaps/comments/6te2g7/tried_my_hand_at_map_creating_its_very_fun/"
 }

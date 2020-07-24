@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Took my group through this Goonies-inspired pirate cavern, complete with a secret cave behind the waterfall.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hmmsuq/took_my_group_through_this_gooniesinspired_pirate/"
 }

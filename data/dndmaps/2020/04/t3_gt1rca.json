@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first world map! Drawn for my friend's campaign. More gets added and labeled as our group explores",
   "url": "https://www.reddit.com/r/dndmaps/comments/gt1rca/my_first_world_map_drawn_for_my_friends_campaign/"
 }

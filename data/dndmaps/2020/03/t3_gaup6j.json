@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first map! It's for my campaign on the water with my older brother.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gaup6j/my_first_map_its_for_my_campaign_on_the_water/"
 }

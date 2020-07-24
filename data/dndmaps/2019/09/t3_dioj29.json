@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Battle Forest",
   "url": "https://www.reddit.com/r/dndmaps/comments/dioj29/ocart_battle_forest_22_x_30/"
 }

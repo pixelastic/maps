@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Agarnoth's Hold 40x30 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eskdmw/agarnoths_hold_40x30_battlemap_oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Mayor's Mansion Battlemap! 100% made in Inkarnate, with custom texture uploads for the rugs.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hktkl9/mayors_mansion_battlemap_100_made_in_inkarnate/"
 }

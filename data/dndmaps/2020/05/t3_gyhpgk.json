@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Feywild Unseelie (Winter) Court",
   "url": "https://www.reddit.com/r/dndmaps/comments/gyhpgk/feywild_unseelie_winter_court_24x32/"
 }

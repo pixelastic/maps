@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.95,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Mirror of Mephistopheles",
   "url": "https://www.reddit.com/r/dndmaps/comments/hvxr40/mirror_of_mephistopheles/"
 }

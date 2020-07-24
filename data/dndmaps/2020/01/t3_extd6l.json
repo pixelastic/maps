@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first attempt at making a world map, still needs more added to it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/extd6l/my_first_attempt_at_making_a_world_map_still/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 741,
     "value": 741
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Single island for a 5e archipelago setting I'm homebrewing.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hs20my/single_island_for_a_5e_archipelago_setting_im/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 161,
     "value": 161
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Athenaeum of the Lost",
   "url": "https://www.reddit.com/r/dndmaps/comments/a0aq6v/athenaeum_of_the_lost/"
 }

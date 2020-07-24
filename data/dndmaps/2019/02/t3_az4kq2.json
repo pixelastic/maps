@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A set of dungeon maps!",
   "url": "https://www.reddit.com/r/dndmaps/comments/az4kq2/a_set_of_dungeon_maps/"
 }

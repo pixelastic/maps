@@ -16,6 +16,7 @@
   "score": {
     "comments": 30,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 912,
     "value": 912
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Question: How do DMs use isometric maps? What is their purpose? Like a reference for theater of the mind? Or other? Art by @Dysonlogos",
   "url": "https://www.reddit.com/r/dndmaps/comments/cf9r8l/question_how_do_dms_use_isometric_maps_what_is/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Cross Hatch Dungeon",
   "url": "https://www.reddit.com/r/dndmaps/comments/f1kj2e/wip_oc_cross_hatch_dungeon/"
 }

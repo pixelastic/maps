@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "DunJune 05 The Icy Floor",
   "url": "https://www.reddit.com/r/dndmaps/comments/gxcqw7/dunjune_05_the_icy_floor/"
 }

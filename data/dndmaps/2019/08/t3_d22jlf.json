@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 68,
     "value": 68
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ballista break the cart",
   "url": "https://www.reddit.com/r/dndmaps/comments/d22jlf/ballista_break_the_cart/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Ryūshū, the Dragon Island Nation",
   "url": "https://www.reddit.com/r/dndmaps/comments/ap5892/ryūshū_the_dragon_island_nation/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 126,
     "value": 126
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Abandoned temple in the woods -",
   "url": "https://www.reddit.com/r/dndmaps/comments/dyqivb/oc_abandoned_temple_in_the_woods/"
 }

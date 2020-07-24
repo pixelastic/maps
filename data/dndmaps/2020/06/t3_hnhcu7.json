@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Nation of Zarlan",
   "url": "https://www.reddit.com/r/dndmaps/comments/hnhcu7/the_nation_of_zarlan/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Basement layer of Bjorn's Tavern",
   "url": "https://www.reddit.com/r/dndmaps/comments/ar6amn/basement_layer_of_bjorns_tavern/"
 }

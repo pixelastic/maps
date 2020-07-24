@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 263,
     "value": 263
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Geomorphs - Jails / Dungeons / Temple / Magic Pools",
   "url": "https://www.reddit.com/r/dndmaps/comments/bgmjo6/dungeon_geomorphs_jails_dungeons_temple_magic/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 435,
     "value": 435
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Experimenting with a \"chunky\" hex style for this regional map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dbh3ke/experimenting_with_a_chunky_hex_style_for_this/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 118,
     "value": 118
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Knightmare Throne Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/feyg1q/knightmare_throne_battlemap_17x48/"
 }

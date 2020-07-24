@@ -16,6 +16,7 @@
   "score": {
     "comments": 34,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1127,
     "value": 1127
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My first Incarnate map. Welcome to Santavinca.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fwgv2d/my_first_incarnate_map_welcome_to_santavinca/"
 }

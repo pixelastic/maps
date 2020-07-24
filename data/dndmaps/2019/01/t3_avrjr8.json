@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 450,
     "value": 450
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Ranger Outpost",
   "url": "https://www.reddit.com/r/dndmaps/comments/avrjr8/ranger_outpost/"
 }

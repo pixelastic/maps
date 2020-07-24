@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Delvers' Rest - A waystation along the path to the underdark",
   "url": "https://www.reddit.com/r/dndmaps/comments/bynvoh/delvers_rest_a_waystation_along_the_path_to_the/"
 }

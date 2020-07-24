@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Historical city map series number 2; Utrecht in 1582, The Netherlands",
   "url": "https://www.reddit.com/r/dndmaps/comments/encpeg/historical_city_map_series_number_2_utrecht_in/"
 }

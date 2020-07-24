@@ -16,6 +16,7 @@
   "score": {
     "comments": 71,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1628,
     "value": 1628
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "I made a map of Neuschwanstein in Bavaria, the most famous of the Mad King Ludwig's castles. Drawn directly from floor plans and photos.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bbml3b/i_made_a_map_of_neuschwanstein_in_bavaria_the/"
 }

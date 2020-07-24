@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The land of Turim (photoshop made)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bbv4du/the_land_of_turim_photoshop_made/"
 }

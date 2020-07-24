@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 158,
     "value": 158
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A lighthouse keeper's time is a maddening mix of tedious labor and crippling isolation. CC welcome and links in comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gph93n/a_lighthouse_keepers_time_is_a_maddening_mix_of/"
 }

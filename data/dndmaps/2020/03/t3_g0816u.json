@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 56,
     "value": 56
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Sawmill",
   "url": "https://www.reddit.com/r/dndmaps/comments/g0816u/sawmill_30x25oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A different take on Toril - Following my long term DnD 5e campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/a9fba5/a_different_take_on_toril_following_my_long_term/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.58,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The continent of Hesperia - Made in Superobot1's World Map Generator",
   "url": "https://www.reddit.com/r/dndmaps/comments/gohkeo/the_continent_of_hesperia_made_in_superobot1s/"
 }

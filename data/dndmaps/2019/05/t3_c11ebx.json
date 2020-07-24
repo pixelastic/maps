@@ -16,6 +16,7 @@
   "score": {
     "comments": 34,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 928,
     "value": 928
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Tomb of the Sleeping One",
   "url": "https://www.reddit.com/r/dndmaps/comments/c11ebx/oc_tomb_of_the_sleeping_one/"
 }

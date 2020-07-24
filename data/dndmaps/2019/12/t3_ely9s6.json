@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "City Street",
   "url": "https://www.reddit.com/r/dndmaps/comments/ely9s6/city_street_36x48/"
 }

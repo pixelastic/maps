@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Old map of City state of the world emperor",
   "url": "https://www.reddit.com/r/dndmaps/comments/euxgad/old_map_of_city_state_of_the_world_emperor/"
 }

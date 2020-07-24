@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Northmarch, a map, and setting I'm working on for an upcoming campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgbfsx/northmarch_a_map_and_setting_im_working_on_for_an/"
 }

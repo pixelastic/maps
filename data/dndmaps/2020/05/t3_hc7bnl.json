@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest encounter battle map (30x30) (First battlemap, feeback welcome!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hc7bnl/forest_encounter_battle_map_30x30_first_battlemap/"
 }

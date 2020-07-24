@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 350,
     "value": 350
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Back in time for Valentine's Day: The Temple of Love",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2ylwo/back_in_time_for_valentines_day_the_temple_of_love/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 108,
     "value": 108
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Prison Chambers - still version of an animated map",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgeydi/prison_chambers_still_version_of_an_animated_map/"
 }

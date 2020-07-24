@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 225,
     "value": 225
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I'm planning a mini Castlevania-inspired campaign. This was a challenge for me.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8l6pan/im_planning_a_mini_castlevaniainspired_campaign/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Underground Mansion for Ravnica adventures (My first time using CC3+, am I doing this right?)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hu25m9/underground_mansion_for_ravnica_adventures_my/"
 }

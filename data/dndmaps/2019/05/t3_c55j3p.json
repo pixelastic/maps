@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 730,
     "value": 730
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Buckled Bridge. Once an important trade route through the Ashen Forest, an earthquake years ago bent the bridge to the point of collapse. The locals have made do but long gone are the caravans and traders, only the occasional bandit remain. Hope you like it! All feedback welcome, particularly",
   "url": "https://www.reddit.com/r/dndmaps/comments/c55j3p/the_buckled_bridge_once_an_important_trade_route/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "0-0-0 The Hub: The center of the dungeon complex",
   "url": "https://www.reddit.com/r/dndmaps/comments/achq13/000_the_hub_the_center_of_the_dungeon_complex/"
 }

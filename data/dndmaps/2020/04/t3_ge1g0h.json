@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.64,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Corrupted Giants Lair - Battle map",
   "url": "https://www.reddit.com/r/dndmaps/comments/ge1g0h/oc_corrupted_giants_lair_battle_map_50x30/"
 }

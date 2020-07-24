@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 97,
     "value": 97
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Dragons Bridge",
   "url": "https://www.reddit.com/r/dndmaps/comments/hf1jcx/battlemap_the_dragons_bridge_2724x2430_37x33_grid/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dwarven Mine with no Labels",
   "url": "https://www.reddit.com/r/dndmaps/comments/faw580/dwarven_mine_with_no_labels/"
 }

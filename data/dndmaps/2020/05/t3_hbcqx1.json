@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Legend of Drizzt: Underdark Acid Lake",
   "url": "https://www.reddit.com/r/dndmaps/comments/hbcqx1/battlemap_legend_of_drizzt_underdark_acid_lake/"
 }

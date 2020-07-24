@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 134,
     "value": 134
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Rusty Dragon Tavern",
   "url": "https://www.reddit.com/r/dndmaps/comments/a4rhgt/the_rusty_dragon_tavern/"
 }

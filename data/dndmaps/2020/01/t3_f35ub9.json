@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "WIP: Raw Scan, Pre-edits",
   "url": "https://www.reddit.com/r/dndmaps/comments/f35ub9/wip_raw_scan_preedits/"
 }

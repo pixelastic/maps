@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "First Dungeon Draft Map: Inside the Belly of the Beast! For a Homebrew Campaign I am writing!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hdgxjm/first_dungeon_draft_map_inside_the_belly_of_the/"
 }

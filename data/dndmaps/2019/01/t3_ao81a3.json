@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Island of Arasaka (Made with QGIS)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ao81a3/the_island_of_arasaka_made_with_qgis/"
 }

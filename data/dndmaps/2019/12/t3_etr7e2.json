@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 906,
     "value": 906
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Thracia lvl 2",
   "url": "https://www.reddit.com/r/dndmaps/comments/etr7e2/thracia_lvl_2_dungeon_map/"
 }

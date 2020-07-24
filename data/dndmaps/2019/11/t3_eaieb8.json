@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 268,
     "value": 268
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "50x50 Eldritch Vault Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/eaieb8/50x50_eldritch_vault_map/"
 }

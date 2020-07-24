@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Khainen Monastery",
   "url": "https://www.reddit.com/r/dndmaps/comments/9yv7w9/the_khainen_monastery/"
 }

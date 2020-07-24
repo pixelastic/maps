@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The second version of my game world, Zlomenia. Criticism is more than welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/et5hz9/the_second_version_of_my_game_world_zlomenia/"
 }

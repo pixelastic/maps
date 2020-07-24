@@ -16,6 +16,7 @@
   "score": {
     "comments": 35,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 177,
     "value": 177
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Looking for some feedback! Made this map as a starting continent for my players.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ew99g9/looking_for_some_feedback_made_this_map_as_a/"
 }

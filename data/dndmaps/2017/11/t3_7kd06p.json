@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Detailed Map of My World",
   "url": "https://www.reddit.com/r/dndmaps/comments/7kd06p/detailed_map_of_my_world/"
 }

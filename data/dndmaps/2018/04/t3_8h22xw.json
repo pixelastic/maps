@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "8 Tropical City Street Maps with Layout Guide, Night, and Beach/Sand Versions",
   "url": "https://www.reddit.com/r/dndmaps/comments/8h22xw/8_tropical_city_street_maps_with_layout_guide/"
 }

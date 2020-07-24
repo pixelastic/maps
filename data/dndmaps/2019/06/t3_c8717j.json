@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 97,
     "value": 97
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Chapter house of the Knights Viper",
   "url": "https://www.reddit.com/r/dndmaps/comments/c8717j/chapter_house_of_the_knights_viper/"
 }

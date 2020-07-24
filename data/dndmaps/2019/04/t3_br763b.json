@@ -16,6 +16,7 @@
   "score": {
     "comments": 22,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 556,
     "value": 556
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Made this map for my Saturday Session. Hope my players like it 😬",
   "url": "https://www.reddit.com/r/dndmaps/comments/br763b/made_this_map_for_my_saturday_session_hope_my/"
 }

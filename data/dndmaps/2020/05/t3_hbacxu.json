@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 56,
     "value": 56
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "First Battle map : The Sahuagins' Caves Dungeon (33x32) (Dungeondraft)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hbacxu/first_battle_map_the_sahuagins_caves_dungeon/"
 }

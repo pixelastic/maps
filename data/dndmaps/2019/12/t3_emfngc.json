@@ -16,6 +16,7 @@
   "score": {
     "comments": 101,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 3242,
     "value": 3242
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon pit trap – Entombed",
   "url": "https://www.reddit.com/r/dndmaps/comments/emfngc/oc_dungeon_pit_trap_entombed/"
 }

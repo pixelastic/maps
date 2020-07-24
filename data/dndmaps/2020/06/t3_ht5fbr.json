@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Foothills of Mount Oscar—A wild territory where the party can encounter Orcish tribes, fey, old ruins, and giant monsters! (Description in Comments; Made for D&D levels 4-6)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ht5fbr/the_foothills_of_mount_oscara_wild_territory/"
 }

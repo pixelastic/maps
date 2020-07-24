@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 604,
     "value": 604
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "City map I just finished for a friend. Cleaned up with no labels, in case you want to label it yourself.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cp66u2/city_map_i_just_finished_for_a_friend_cleaned_up/"
 }

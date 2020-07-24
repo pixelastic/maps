@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Saint Pedin's Cemetery, Watercut.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g5fh6x/saint_pedins_cemetery_watercut/"
 }

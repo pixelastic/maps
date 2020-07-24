@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.95,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ice Pyramid",
   "url": "https://www.reddit.com/r/dndmaps/comments/f89dy8/ice_pyramid/"
 }

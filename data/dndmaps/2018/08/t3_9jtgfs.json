@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first homebrew, my first time using Inkarnate... These are the Wildlands! still learning so CC is welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9jtgfs/my_first_homebrew_my_first_time_using_inkarnate/"
 }

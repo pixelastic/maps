@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Library of Gravenhollow from Out of the Abyss",
   "url": "https://www.reddit.com/r/dndmaps/comments/g8jarj/the_library_of_gravenhollow_from_out_of_the_abyss/"
 }

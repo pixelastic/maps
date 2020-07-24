@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 77,
     "value": 77
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Region Map of the Earldoms of Almandy, a decentralised and agrarian feudal setup (definitely GoT and Skyrim inspired). I'm about to do worldbuilding so any suggestions are very much welcome",
   "url": "https://www.reddit.com/r/dndmaps/comments/bqwuvo/region_map_of_the_earldoms_of_almandy_a/"
 }

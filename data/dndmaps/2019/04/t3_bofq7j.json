@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 220,
     "value": 220
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Preparing for a campaign based off of Final Fantasy 9. First Time using Inkarnate and based this off of the mist continent.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bofq7j/preparing_for_a_campaign_based_off_of_final/"
 }

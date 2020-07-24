@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 301,
     "value": 301
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Imperial Tribute Wagon Cutaway",
   "url": "https://www.reddit.com/r/dndmaps/comments/abjta2/imperial_tribute_wagon_cutaway/"
 }

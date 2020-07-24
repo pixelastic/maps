@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 84,
     "value": 84
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "City Bonfire Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/hhhjqs/city_bonfire_battlemap_23x36/"
 }

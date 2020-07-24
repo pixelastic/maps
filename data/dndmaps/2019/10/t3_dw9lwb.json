@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.95,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Road",
   "url": "https://www.reddit.com/r/dndmaps/comments/dw9lwb/ocart_forest_road_22_x_30/"
 }

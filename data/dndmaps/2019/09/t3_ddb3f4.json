@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 51,
     "value": 51
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Under the Giant Tree (27x19)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ddb3f4/under_the_giant_tree_27x19/"
 }

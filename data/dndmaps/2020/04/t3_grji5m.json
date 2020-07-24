@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 189,
     "value": 189
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Heart of the Temple (16x16 Grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/grji5m/ocbuilding_the_heart_of_the_temple_16x16_grid/"
 }

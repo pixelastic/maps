@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 331,
     "value": 331
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Free Map - Campfire Stories",
   "url": "https://www.reddit.com/r/dndmaps/comments/bkmzen/oc_free_map_campfire_stories/"
 }

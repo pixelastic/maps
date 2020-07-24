@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 121,
     "value": 121
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Shattered Gates – The Last Remnant of an Ancient City",
   "url": "https://www.reddit.com/r/dndmaps/comments/bzrk1u/the_shattered_gates_the_last_remnant_of_an/"
 }

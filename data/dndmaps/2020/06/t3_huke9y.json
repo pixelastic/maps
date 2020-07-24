@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 110,
     "value": 110
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Trying my hand at an old school blue map. The Shrine of Jorik Ironfist is a long-abandoned dwarven treasure vault. C&C welcome!",
   "url": "https://www.reddit.com/r/dndmaps/comments/huke9y/trying_my_hand_at_an_old_school_blue_map_the/"
 }

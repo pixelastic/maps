@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My homebrew campaign setting, Amaria",
   "url": "https://www.reddit.com/r/dndmaps/comments/g7gue0/my_homebrew_campaign_setting_amaria_made_w/"
 }

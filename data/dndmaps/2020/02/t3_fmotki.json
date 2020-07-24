@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The city of Krakenbay for all to enjoy!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fmotki/the_city_of_krakenbay_for_all_to_enjoy/"
 }

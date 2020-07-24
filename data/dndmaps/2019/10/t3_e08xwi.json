@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Quick volcanic caves map made with Isometric Dungeon Designer, Caves Edition",
   "url": "https://www.reddit.com/r/dndmaps/comments/e08xwi/quick_volcanic_caves_map_made_with_isometric/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Abandoned Lighthouse 35x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/gn8km2/abandoned_lighthouse_35x30/"
 }

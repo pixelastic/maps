@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.75,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Caves of Chaos - Keep on the Borderlands Ravine Map - Players Version",
   "url": "https://www.reddit.com/r/dndmaps/comments/7p4k7o/caves_of_chaos_keep_on_the_borderlands_ravine_map/"
 }

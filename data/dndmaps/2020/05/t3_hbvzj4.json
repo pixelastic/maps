@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My second map, Wellcome to a peaceful region call Meredin. Maybe i'll will use it for my Witcher P&P session.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hbvzj4/my_second_map_wellcome_to_a_peaceful_region_call/"
 }

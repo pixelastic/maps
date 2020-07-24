@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map over a region of my homebrew world Tannar",
   "url": "https://www.reddit.com/r/dndmaps/comments/b9css5/map_over_a_region_of_my_homebrew_world_tannar/"
 }

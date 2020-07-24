@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1033,
     "value": 1033
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Skull Waterfall Battle Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/gnywqj/skull_waterfall_battle_map/"
 }

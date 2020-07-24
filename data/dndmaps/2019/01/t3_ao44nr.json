@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 68,
     "value": 68
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Corridors: A section of my megadungeon",
   "url": "https://www.reddit.com/r/dndmaps/comments/ao44nr/corridors_a_section_of_my_megadungeon/"
 }

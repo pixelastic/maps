@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 162,
     "value": 162
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Swamp - Lost Ship",
   "url": "https://www.reddit.com/r/dndmaps/comments/gh0hro/25x25_swamp_lost_ship/"
 }

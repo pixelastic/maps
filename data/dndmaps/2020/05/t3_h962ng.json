@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 54,
     "value": 54
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Great Maze of Tadon-Or",
   "url": "https://www.reddit.com/r/dndmaps/comments/h962ng/the_great_maze_of_tadonor_oc/"
 }

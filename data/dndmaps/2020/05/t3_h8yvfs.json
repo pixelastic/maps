@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1489,
     "value": 1489
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Undercroft Summoning",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8yvfs/undercroft_summoning_16_x_23/"
 }

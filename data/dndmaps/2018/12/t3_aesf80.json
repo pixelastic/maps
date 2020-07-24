@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "This is the World of \"Catanogues\" made in Worldographer.",
   "url": "https://www.reddit.com/r/dndmaps/comments/aesf80/this_is_the_world_of_catanogues_made_in/"
 }

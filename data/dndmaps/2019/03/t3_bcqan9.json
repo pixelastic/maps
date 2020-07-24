@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.75,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A WIP map for my homebrew campaign. I've never been successful at making maps so help would be great.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bcqan9/a_wip_map_for_my_homebrew_campaign_ive_never_been/"
 }

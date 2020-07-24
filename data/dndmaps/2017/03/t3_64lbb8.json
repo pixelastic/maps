@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 74,
     "value": 74
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Cool dungeon map to explore !",
   "url": "https://www.reddit.com/r/dndmaps/comments/64lbb8/cool_dungeon_map_to_explore/"
 }

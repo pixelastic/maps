@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 66,
     "value": 66
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Not my best but proud of the forest",
   "url": "https://www.reddit.com/r/dndmaps/comments/dvqkfk/not_my_best_but_proud_of_the_forest/"
 }

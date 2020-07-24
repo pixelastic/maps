@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 942,
     "value": 942
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Frozen Tomb",
   "url": "https://www.reddit.com/r/dndmaps/comments/d6vg1c/oc_frozen_tomb/"
 }

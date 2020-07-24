@@ -16,6 +16,7 @@
   "score": {
     "comments": 34,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1547,
     "value": 1547
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hilltop Tomb 40x22",
   "url": "https://www.reddit.com/r/dndmaps/comments/dmf4ut/hilltop_tomb_40x22/"
 }

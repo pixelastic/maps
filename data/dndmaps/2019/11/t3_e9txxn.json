@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 85,
     "value": 85
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I was inspired by a map made by a fellow user and so I decided to make my own map of something similar.",
   "url": "https://www.reddit.com/r/dndmaps/comments/e9txxn/i_was_inspired_by_a_map_made_by_a_fellow_user_and/"
 }

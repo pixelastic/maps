@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "On popular demand I created this underground vault full of traps for low level parties. Meat-grinder time.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6vtoxy/on_popular_demand_i_created_this_underground/"
 }

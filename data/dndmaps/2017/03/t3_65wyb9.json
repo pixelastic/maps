@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Vrullia, one of the northernmost continents in my homebrew setting of Ishora! (x-post from r/DnD)",
   "url": "https://www.reddit.com/r/dndmaps/comments/65wyb9/vrullia_one_of_the_northernmost_continents_in_my/"
 }

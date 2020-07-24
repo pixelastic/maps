@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 144,
     "value": 144
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "When your randomly generated map looks suspiciously like Ireland",
   "url": "https://www.reddit.com/r/dndmaps/comments/8c8tf7/when_your_randomly_generated_map_looks/"
 }

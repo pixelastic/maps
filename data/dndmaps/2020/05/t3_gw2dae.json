@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 96,
     "value": 96
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Custom Wave Echo Cave Variaiton",
   "url": "https://www.reddit.com/r/dndmaps/comments/gw2dae/custom_wave_echo_cave_variaiton_lmop/"
 }

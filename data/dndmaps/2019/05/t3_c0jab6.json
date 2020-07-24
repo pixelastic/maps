@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 69,
     "value": 69
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map of Zelkor's Ferry (for Rappan Athuk)",
   "url": "https://www.reddit.com/r/dndmaps/comments/c0jab6/map_of_zelkors_ferry_for_rappan_athuk/"
 }

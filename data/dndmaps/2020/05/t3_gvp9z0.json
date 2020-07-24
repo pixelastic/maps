@@ -16,6 +16,7 @@
   "score": {
     "comments": 40,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 860,
     "value": 860
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My first drawing for DND, feedback is welcome:)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gvp9z0/my_first_drawing_for_dnd_feedback_is_welcome/"
 }

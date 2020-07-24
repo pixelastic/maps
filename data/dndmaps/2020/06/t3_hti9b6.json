@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Farmers Market in Fountain Square",
   "url": "https://www.reddit.com/r/dndmaps/comments/hti9b6/farmers_market_in_fountain_square_30x30oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 39,
     "value": 39
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Crypt of the Plague Goddess - how can I make the walls feel more claustrophobic?",
   "url": "https://www.reddit.com/r/dndmaps/comments/ecfeu7/the_crypt_of_the_plague_goddess_how_can_i_make/"
 }

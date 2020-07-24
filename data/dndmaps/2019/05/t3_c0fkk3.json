@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World map made with Inkarnate. I'll try to answer any questions about locations if necessary but feel free to add your own stories if you'd like!",
   "url": "https://www.reddit.com/r/dndmaps/comments/c0fkk3/world_map_made_with_inkarnate_ill_try_to_answer/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Cinderwatch Tower",
   "url": "https://www.reddit.com/r/dndmaps/comments/d1nei1/cinderwatch_tower/"
 }

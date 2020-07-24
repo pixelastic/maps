@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Waterdeep Sewer Map Sections",
   "url": "https://www.reddit.com/r/dndmaps/comments/dhvds6/waterdeep_sewer_map_sections/"
 }

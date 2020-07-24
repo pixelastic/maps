@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Dauder Tombs - A Map from my Homebrew Adventure",
   "url": "https://www.reddit.com/r/dndmaps/comments/hpybtk/the_dauder_tombs_a_map_from_my_homebrew_adventure/"
 }

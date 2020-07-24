@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Pits of Justice - A Dwarven Prison",
   "url": "https://www.reddit.com/r/dndmaps/comments/c1mbm1/the_pits_of_justice_a_dwarven_prison/"
 }

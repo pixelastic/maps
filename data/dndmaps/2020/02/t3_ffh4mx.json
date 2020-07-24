@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Mines of Tranquillity - DM notes in comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/ffh4mx/mines_of_tranquillity_dm_notes_in_comments/"
 }

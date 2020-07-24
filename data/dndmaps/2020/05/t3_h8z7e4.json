@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A trapped room leading to a statue holding some sort of artifact. The trap in the center is visible because that's a trap in itself. It appears to be an easily disarmed pressure plate but in fact it's a weight holding down a plate and when raising the plate to disarm its activated unleashing fire.",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8z7e4/a_trapped_room_leading_to_a_statue_holding_some/"
 }

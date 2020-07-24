@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Foribazu Ichi / City of Four Rivers - Capital of the Hokori Nation, predominately comprised of Orcs. Another map for my homebrew made with Inkarnate Pro. Questions, queries and critiques welcome!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gf19bb/foribazu_ichi_city_of_four_rivers_capital_of_the/"
 }

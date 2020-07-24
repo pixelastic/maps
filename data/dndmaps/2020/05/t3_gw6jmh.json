@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The tiny fishing village of Port Darien for a D&D 5e campaign adventure - made with Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/gw6jmh/the_tiny_fishing_village_of_port_darien_for_a_dd/"
 }

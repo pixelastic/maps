@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "An evening at the ol' watering hole  encounter map",
   "url": "https://www.reddit.com/r/dndmaps/comments/faogti/an_evening_at_the_ol_watering_hole_20x30/"
 }

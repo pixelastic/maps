@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 200,
     "value": 200
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "SMALL BRIDGE MAP",
   "url": "https://www.reddit.com/r/dndmaps/comments/bs6jz7/small_bridge_map/"
 }

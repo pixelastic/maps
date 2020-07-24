@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Yabetsu - Lantern of The Fujikoshi Range",
   "url": "https://www.reddit.com/r/dndmaps/comments/g2kg0t/yabetsu_lantern_of_the_fujikoshi_range/"
 }

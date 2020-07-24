@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.8,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Pier where they meet a new friend, Blowfish Jim, Island Hopping Campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/70vng9/the_pier_where_they_meet_a_new_friend_blowfish/"
 }

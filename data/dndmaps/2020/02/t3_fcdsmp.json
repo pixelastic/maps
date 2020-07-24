@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Interior view of one chamber in the Adventure Roll cave map to be released later this month",
   "url": "https://www.reddit.com/r/dndmaps/comments/fcdsmp/interior_view_of_one_chamber_in_the_adventure/"
 }

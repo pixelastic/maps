@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Patreon Monthly Goal - Free map resource and adventure about a brothel and NPCs.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8k4ihm/patreon_monthly_goal_free_map_resource_and/"
 }

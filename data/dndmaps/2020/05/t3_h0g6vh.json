@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 337,
     "value": 337
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Winter Ambush Site - Battle map",
   "url": "https://www.reddit.com/r/dndmaps/comments/h0g6vh/ocart25x22_winter_ambush_site_battle_map/"
 }

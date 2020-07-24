@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1078,
     "value": 1078
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Light Oak Forest Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fx49wy/48x27_light_oak_forest_battlemap/"
 }

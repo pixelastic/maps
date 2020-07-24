@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1545,
     "value": 1545
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hidden Cove map",
   "url": "https://www.reddit.com/r/dndmaps/comments/fxt8p4/hidden_cove_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Strike The Earth - A Dwarf Fotress style deathmatch map from the 5TDM Kickstarter (rules in the comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9y65ip/strike_the_earth_a_dwarf_fotress_style_deathmatch/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.96,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Cursed Pyramid",
   "url": "https://www.reddit.com/r/dndmaps/comments/gsyayj/the_cursed_pyramid_30x30battlemapocart/"
 }

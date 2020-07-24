@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Chambers of the Overlox, Return to the Glory.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gsqtis/chambers_of_the_overlox_return_to_the_glory/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 762,
     "value": 762
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Lookout position (battlemap)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cnnjl3/lookout_position_battlemap/"
 }

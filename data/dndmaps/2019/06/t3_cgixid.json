@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 423,
     "value": 423
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Winter Ambush Site",
   "url": "https://www.reddit.com/r/dndmaps/comments/cgixid/winter_ambush_site_25x22/"
 }

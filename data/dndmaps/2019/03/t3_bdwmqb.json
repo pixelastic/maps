@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 66,
     "value": 66
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "10 Metallic Dragon Lairs and entrances",
   "url": "https://www.reddit.com/r/dndmaps/comments/bdwmqb/battlemap50x50_10_metallic_dragon_lairs_and/"
 }

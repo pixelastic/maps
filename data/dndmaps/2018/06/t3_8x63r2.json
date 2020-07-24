@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I made a few 5x5 dungeon room maps in an animated style (print and digital download link in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/8x63r2/i_made_a_few_5x5_dungeon_room_maps_in_an_animated/"
 }

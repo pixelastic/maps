@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 335,
     "value": 335
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Feywilds Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/av0xzd/feywilds_battlemap_23x28/"
 }

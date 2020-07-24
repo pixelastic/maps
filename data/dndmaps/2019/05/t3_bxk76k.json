@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Korinn Archipelago Fishing Village",
   "url": "https://www.reddit.com/r/dndmaps/comments/bxk76k/korinn_archipelago_fishing_village/"
 }

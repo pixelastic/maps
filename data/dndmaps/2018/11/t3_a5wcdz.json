@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Deep in the desert sands lies a ruined, sun-bleached village perched atop a rocky plateau...hidden inside, the stronghold of a band of desert slavers!",
   "url": "https://www.reddit.com/r/dndmaps/comments/a5wcdz/deep_in_the_desert_sands_lies_a_ruined/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 60,
     "value": 60
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "The Dragonlance - The first Airship I designed! (37x28 Grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f09r7t/ocvessel_map_the_dragonlance_the_first_airship_i/"
 }

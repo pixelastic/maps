@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 203,
     "value": 203
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "I make lazy style maps for Roll20. Thoughts?",
   "url": "https://www.reddit.com/r/dndmaps/comments/bx57ab/i_make_lazy_style_maps_for_roll20_thoughts/"
 }

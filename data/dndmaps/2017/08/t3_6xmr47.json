@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 51,
     "value": 51
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Graveyard I created for my homebrew world. Feel free to comment and leave feedback!",
   "url": "https://www.reddit.com/r/dndmaps/comments/6xmr47/graveyard_i_created_for_my_homebrew_world_feel/"
 }

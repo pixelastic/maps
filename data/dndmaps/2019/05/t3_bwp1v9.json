@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Map Collection 3: 10 forest maps celebrating my first pack available in the Roll20 Marketplace  (info in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bwp1v9/forest_map_collection_3_10_forest_maps/"
 }

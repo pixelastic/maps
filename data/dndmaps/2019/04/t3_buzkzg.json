@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 349,
     "value": 349
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The world map for the homebrew campaign I’m running this summer!",
   "url": "https://www.reddit.com/r/dndmaps/comments/buzkzg/the_world_map_for_the_homebrew_campaign_im/"
 }

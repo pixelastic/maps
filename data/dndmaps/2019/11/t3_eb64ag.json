@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Wilphern - First iteration of my campaign’s world as a first time DM",
   "url": "https://www.reddit.com/r/dndmaps/comments/eb64ag/wilphern_first_iteration_of_my_campaigns_world_as/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 108,
     "value": 108
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Island | 24x39",
   "url": "https://www.reddit.com/r/dndmaps/comments/dsc8xm/the_island_24x39/"
 }

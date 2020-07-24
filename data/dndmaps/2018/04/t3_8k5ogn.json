@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map of my Campaign World! Comments and Criticism Welcome!",
   "url": "https://www.reddit.com/r/dndmaps/comments/8k5ogn/map_of_my_campaign_world_comments_and_criticism/"
 }

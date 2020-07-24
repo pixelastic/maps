@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Made this for my home game! Let me know what you think.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ez2cbp/made_this_for_my_home_game_let_me_know_what_you/"
 }

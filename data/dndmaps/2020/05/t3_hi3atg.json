@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My campaign setting I've put together, Riven Weald. Chuffed with how it turned out. Made using inkarnate.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hi3atg/my_campaign_setting_ive_put_together_riven_weald/"
 }

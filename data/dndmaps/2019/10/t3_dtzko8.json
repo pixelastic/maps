@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Wizards's Secret Workshop - Free Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/dtzko8/battlemap30x303500x3500px_wizardss_secret/"
 }

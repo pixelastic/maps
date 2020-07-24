@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.71,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Small Swamp Encounter Map used in Tabletop Sim",
   "url": "https://www.reddit.com/r/dndmaps/comments/bmdzii/small_swamp_encounter_map_used_in_tabletop_sim/"
 }

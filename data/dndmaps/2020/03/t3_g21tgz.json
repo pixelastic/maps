@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Sci-Fi Fantasy Apocalypse Hex Map !",
   "url": "https://www.reddit.com/r/dndmaps/comments/g21tgz/scifi_fantasy_apocalypse_hex_map/"
 }

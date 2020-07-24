@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 785,
     "value": 785
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Working on world maps. Trying to match style of my city maps.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gx2bwc/working_on_world_maps_trying_to_match_style_of_my/"
 }

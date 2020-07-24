@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 115,
     "value": 115
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Submarine Battle Map (Made with Inkarnate Pro)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gkcb4o/submarine_battle_map_made_with_inkarnate_pro/"
 }

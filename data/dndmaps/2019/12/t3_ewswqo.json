@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 125,
     "value": 125
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "This is a map I drew for my campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/ewswqo/oc_this_is_a_map_i_drew_for_my_campaign/"
 }

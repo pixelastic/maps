@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Bandit Camp 40x40 (72 DPI)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hl4q3g/bandit_camp_40x40_72_dpi/"
 }

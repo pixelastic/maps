@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 1082,
     "value": 1082
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Temple Ruins Huge Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/hmsesk/oc_temple_ruins_huge_battlemap_60x60/"
 }

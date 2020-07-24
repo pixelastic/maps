@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I made some updates to my first map with some help, and I gotta say making maps is some of the most fun I've ever had in dnd.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gbaxpg/i_made_some_updates_to_my_first_map_with_some/"
 }

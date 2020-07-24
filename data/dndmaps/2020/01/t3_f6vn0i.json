@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 504,
     "value": 504
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Made a player handout map of Barovia for my DM, thought I'd share for others.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f6vn0i/made_a_player_handout_map_of_barovia_for_my_dm/"
 }

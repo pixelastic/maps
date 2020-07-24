@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Part 2 of my attempt at converting Exanima to a playable DnD adventure!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hjdjik/part_2_of_my_attempt_at_converting_exanima_to_a/"
 }

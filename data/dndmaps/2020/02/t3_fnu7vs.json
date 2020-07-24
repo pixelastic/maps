@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My roommates and I have been trying to get a campaign set up for months and because of quarantine we've finally made it happen. The story starts tonight in Ayura! I had so much fun creating this map I wanted to share it with everyone! See how many easter eggs you can spot.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fnu7vs/my_roommates_and_i_have_been_trying_to_get_a/"
 }

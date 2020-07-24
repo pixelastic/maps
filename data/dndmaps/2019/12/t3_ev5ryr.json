@@ -16,6 +16,7 @@
   "score": {
     "comments": 153,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 2019,
     "value": 2019
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I’ve given up on using tropes for fantasy world names – have a night in Nippleton instead.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ev5ryr/ive_given_up_on_using_tropes_for_fantasy_world/"
 }

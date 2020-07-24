@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Paragon - A Magnificent Metropolis of Militant Millionaires 'Midst the Milquetoast Milieu of the Moneyless Majority",
   "url": "https://www.reddit.com/r/dndmaps/comments/g941xt/paragon_a_magnificent_metropolis_of_militant/"
 }

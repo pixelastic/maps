@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Re-imagination: Fort Greymoor Interiors",
   "url": "https://www.reddit.com/r/dndmaps/comments/gt5gau/reimagination_fort_greymoor_interiors_44x30/"
 }

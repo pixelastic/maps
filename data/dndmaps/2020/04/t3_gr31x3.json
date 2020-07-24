@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "In an era of playing D&amp;D online, I've decided to complicate my life by drawing maps on paper. Here are a few of my favorites.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gr31x3/in_an_era_of_playing_dampd_online_ive_decided_to/"
 }

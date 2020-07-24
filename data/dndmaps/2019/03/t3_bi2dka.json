@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Scandia - (Made a map for my norse-mythology inspired DnD world)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bi2dka/scandia_made_a_map_for_my_norsemythology_inspired/"
 }

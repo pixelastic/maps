@@ -16,6 +16,7 @@
   "score": {
     "comments": 35,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1076,
     "value": 1076
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My Campaigns map! (oc)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ewna15/my_campaigns_map_oc/"
 }

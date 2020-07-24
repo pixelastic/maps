@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 88,
     "value": 88
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My latest D&D campaign map - welcome to Pondby, with a slapdash attempt at naming...",
   "url": "https://www.reddit.com/r/dndmaps/comments/fe1ixn/my_latest_dd_campaign_map_welcome_to_pondby_with/"
 }

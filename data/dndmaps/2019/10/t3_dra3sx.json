@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "After making some updates based on the fine people of Reddit here is the updated version of my improved map of Korth, capital of Karrnath from my Eberron game! Please I would love to hear what you all have to think. City description is in the comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/dra3sx/after_making_some_updates_based_on_the_fine/"
 }

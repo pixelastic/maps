@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A continent map I made for my dnd game",
   "url": "https://www.reddit.com/r/dndmaps/comments/8z7l22/a_continent_map_i_made_for_my_dnd_game/"
 }

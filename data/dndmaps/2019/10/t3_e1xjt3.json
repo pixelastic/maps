@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 73,
     "value": 73
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My DM friend asked me to make the map for his game.",
   "url": "https://www.reddit.com/r/dndmaps/comments/e1xjt3/my_dm_friend_asked_me_to_make_the_map_for_his_game/"
 }

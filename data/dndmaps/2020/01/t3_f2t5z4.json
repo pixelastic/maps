@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Pirate's Pillar Hideout (20x20)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2t5z4/the_pirates_pillar_hideout_20x20/"
 }

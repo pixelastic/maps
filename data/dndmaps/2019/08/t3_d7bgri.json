@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "New map I'm working on. What can I do better?",
   "url": "https://www.reddit.com/r/dndmaps/comments/d7bgri/new_map_im_working_on_what_can_i_do_better/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 53,
     "value": 53
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "I started making pixelart maps for dnd, this is just a room",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8truj/i_started_making_pixelart_maps_for_dnd_this_is/"
 }

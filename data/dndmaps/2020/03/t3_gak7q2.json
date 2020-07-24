@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Cihua'tal Jungle Village - A Two Level Tropical Settlement",
   "url": "https://www.reddit.com/r/dndmaps/comments/gak7q2/cihuatal_jungle_village_a_two_level_tropical/"
 }

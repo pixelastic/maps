@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 192,
     "value": 192
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I don't think anything will come of this map, but it was fun to do.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9k9h9b/i_dont_think_anything_will_come_of_this_map_but/"
 }

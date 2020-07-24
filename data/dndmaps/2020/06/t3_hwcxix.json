@@ -16,6 +16,7 @@
   "score": {
     "comments": 57,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1056,
     "value": 1056
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Hand Drawn (In PS) My most detailed map ever!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hwcxix/hand_drawn_in_ps_my_most_detailed_map_ever/"
 }

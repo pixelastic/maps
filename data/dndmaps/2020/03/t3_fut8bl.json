@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First map using inkarnate of the war torn West Cestris : Any criticism welcome",
   "url": "https://www.reddit.com/r/dndmaps/comments/fut8bl/first_map_using_inkarnate_of_the_war_torn_west/"
 }

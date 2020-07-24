@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Here's a map of the second floor of a dragon's castle (Filled with Kobolds of course) in an rp I'm doing, what do you think?",
   "url": "https://www.reddit.com/r/dndmaps/comments/eqkfmz/heres_a_map_of_the_second_floor_of_a_dragons/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Altaris, town of the Infinite Dungeon! Fiddling around with Inkarnate 1.0",
   "url": "https://www.reddit.com/r/dndmaps/comments/fh0cr6/altaris_town_of_the_infinite_dungeon_fiddling/"
 }

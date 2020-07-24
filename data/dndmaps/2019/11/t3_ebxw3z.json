@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 155,
     "value": 155
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first map, no labels yet",
   "url": "https://www.reddit.com/r/dndmaps/comments/ebxw3z/my_first_map_no_labels_yet/"
 }

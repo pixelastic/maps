@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Drew this today, not bad for a first attempt at something so small",
   "url": "https://www.reddit.com/r/dndmaps/comments/gm4mph/drew_this_today_not_bad_for_a_first_attempt_at/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Something I'm working on for a post-apocalyptic campaign setting. Victoria, BC and surroundings with a 60m sea level rise.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dupayj/something_im_working_on_for_a_postapocalyptic/"
 }

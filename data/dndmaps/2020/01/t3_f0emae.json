@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 101,
     "value": 101
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Broken Bridge Battlemap    Print and VTT Versions",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0emae/broken_bridge_battlemap_22x32_all_free_oc_print/"
 }

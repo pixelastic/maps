@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Rose Point Manor",
   "url": "https://www.reddit.com/r/dndmaps/comments/apl8gn/rose_point_manor/"
 }

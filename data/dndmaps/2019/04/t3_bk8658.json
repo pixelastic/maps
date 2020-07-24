@@ -16,6 +16,7 @@
   "score": {
     "comments": 20,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 362,
     "value": 362
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "WIP... maps of my homebrew western continent using inkarnate...",
   "url": "https://www.reddit.com/r/dndmaps/comments/bk8658/wip_maps_of_my_homebrew_western_continent_using/"
 }

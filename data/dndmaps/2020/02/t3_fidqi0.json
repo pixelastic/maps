@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Today's prompt was \"Arcane Classroom\". Trying to figure out isometric drawing!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fidqi0/todays_prompt_was_arcane_classroom_trying_to/"
 }

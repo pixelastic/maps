@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Fortified City at the Foot of the Mountain",
   "url": "https://www.reddit.com/r/dndmaps/comments/erdjuw/oc_fortified_city_at_the_foot_of_the_mountain/"
 }

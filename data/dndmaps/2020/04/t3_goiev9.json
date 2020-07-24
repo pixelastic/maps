@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Upon advice from people I added the approach from the south and stitched it together in GIMP. First time stitching a map together so C&C are welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/goiev9/upon_advice_from_people_i_added_the_approach_from/"
 }

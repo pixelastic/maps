@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 413,
     "value": 413
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Ruined Keep - Ground Floor",
   "url": "https://www.reddit.com/r/dndmaps/comments/fka144/the_ruined_keep_ground_floor_1600x1600_25x25/"
 }

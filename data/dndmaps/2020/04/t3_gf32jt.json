@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I'm not an artist and I struggle a lot when doing anything related to drawing, but here's a region map I am pretty proud of and will be using in my campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/gf32jt/im_not_an_artist_and_i_struggle_a_lot_when_doing/"
 }

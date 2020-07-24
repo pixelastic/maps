@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Old Well   - More details in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gsfx70/the_old_well_25_x_25_3200_x_3200_more_details_in/"
 }

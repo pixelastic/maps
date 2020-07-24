@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1117,
     "value": 1117
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Escape of the Neothelid Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fuvov4/escape_of_the_neothelid_battlemap_23x42/"
 }

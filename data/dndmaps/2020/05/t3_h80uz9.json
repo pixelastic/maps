@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 830,
     "value": 830
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Gnome Village Battle Map 30x35",
   "url": "https://www.reddit.com/r/dndmaps/comments/h80uz9/gnome_village_battle_map_30x35/"
 }

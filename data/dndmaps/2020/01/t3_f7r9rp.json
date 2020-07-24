@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 857,
     "value": 857
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Barovia Handout. Fixed some big mistakes and made the text easier to see.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f7r9rp/reupload_barovia_handout_fixed_some_big_mistakes/"
 }

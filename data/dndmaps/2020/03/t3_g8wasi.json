@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 164,
     "value": 164
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Tovac - The starting city for my new campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/g8wasi/tovac_the_starting_city_for_my_new_campaign/"
 }

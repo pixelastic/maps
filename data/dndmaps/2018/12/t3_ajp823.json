@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 361,
     "value": 361
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Shipwreck Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/ajp823/shipwreck_battlemap/"
 }

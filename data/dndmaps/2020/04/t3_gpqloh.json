@@ -16,6 +16,7 @@
   "score": {
     "comments": 45,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1271,
     "value": 1271
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Airship and Dragon Sky Adventure",
   "url": "https://www.reddit.com/r/dndmaps/comments/gpqloh/airship_and_dragon_sky_adventure_45x45/"
 }

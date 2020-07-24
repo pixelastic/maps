@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.89,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Realm of Dreams Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/bzjq04/realm_of_dreams_battlemap_30x30/"
 }

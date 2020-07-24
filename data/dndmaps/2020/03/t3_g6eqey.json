@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Forge of the Legion (28 x 23)",
   "url": "https://www.reddit.com/r/dndmaps/comments/g6eqey/oc_forge_of_the_legion_28_x_23/"
 }

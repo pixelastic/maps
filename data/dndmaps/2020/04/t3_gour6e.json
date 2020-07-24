@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Welcome to Exanthum, my WIP homebrew world!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gour6e/welcome_to_exanthum_my_wip_homebrew_world/"
 }

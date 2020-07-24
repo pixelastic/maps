@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 57,
     "value": 57
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "City of Saltspray 30x20 Multi-Level Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hnto7f/city_of_saltspray_30x20_multilevel_battlemap_oc/"
 }

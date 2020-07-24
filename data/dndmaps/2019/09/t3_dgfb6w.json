@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "New Map, c&c welcome",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgfb6w/new_map_cc_welcome/"
 }

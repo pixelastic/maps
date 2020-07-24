@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 705,
     "value": 705
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Port City of Annabelle Lee",
   "url": "https://www.reddit.com/r/dndmaps/comments/do5h9z/the_port_city_of_annabelle_lee/"
 }

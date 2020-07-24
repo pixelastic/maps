@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Modern / Cyberpunk Apartment Map - Hard to find sci-fi and modern resources, so I cracked and made one. Comes with space to plant down doors & windows.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9cz2so/modern_cyberpunk_apartment_map_hard_to_find_scifi/"
 }

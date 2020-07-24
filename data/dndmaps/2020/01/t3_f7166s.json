@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 53,
     "value": 53
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Vandal's Rock, the ancient home to the Sons of Dagon, a crew of Kraken worshiping pirates.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f7166s/vandals_rock_the_ancient_home_to_the_sons_of/"
 }

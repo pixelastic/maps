@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 104,
     "value": 104
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Welcome to the kingdom of Ondondia! Handmade map for my homebrew world.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6yeabe/welcome_to_the_kingdom_of_ondondia_handmade_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The island kingdom of Sawa, my first shot at a campaign map",
   "url": "https://www.reddit.com/r/dndmaps/comments/btpgqf/the_island_kingdom_of_sawa_my_first_shot_at_a/"
 }

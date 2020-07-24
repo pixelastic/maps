@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Efrore - Land of Apotheosis (Looking for feedback)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2k0zh/efrore_land_of_apotheosis_looking_for_feedback/"
 }

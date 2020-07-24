@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Portertown, the friendly logging town (reupload, v2.0)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fit5dq/portertown_the_friendly_logging_town_reupload_v20/"
 }

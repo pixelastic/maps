@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "On a world called Seteria there is a continent called Trishore",
   "url": "https://www.reddit.com/r/dndmaps/comments/c8r0yw/on_a_world_called_seteria_there_is_a_continent/"
 }

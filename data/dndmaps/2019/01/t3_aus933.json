@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 117,
     "value": 117
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Banished finds even more worth!",
   "url": "https://www.reddit.com/r/dndmaps/comments/aus933/banished_finds_even_more_worth/"
 }

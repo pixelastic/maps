@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 335,
     "value": 335
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Everweald 6K (now with adjusted scale/larger landmass)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fxs871/the_everweald_6k_now_with_adjusted_scalelarger/"
 }

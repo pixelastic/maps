@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 56,
     "value": 56
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Harvest Inn - The best inn in Cooper's Rest (if you ask the proprietor)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkzie3/the_harvest_inn_the_best_inn_in_coopers_rest_if/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 42,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 450,
     "value": 450
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Vassal-state of Pelasgos, and the Free-isles of Pelasgos",
   "url": "https://www.reddit.com/r/dndmaps/comments/ckzzzf/the_vassalstate_of_pelasgos_and_the_freeisles_of/"
 }

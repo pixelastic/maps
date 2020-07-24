@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Castle Balduris 60x40 Modular Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/grw4xx/castle_balduris_60x40_modular_battlemap_oc/"
 }

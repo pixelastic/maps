@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Hand drawn map style made on photoshop",
   "url": "https://www.reddit.com/r/dndmaps/comments/e3l24n/hand_drawn_map_style_made_on_photoshop/"
 }

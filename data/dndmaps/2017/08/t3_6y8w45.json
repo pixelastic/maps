@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Smhee Hamlet, population 50  Hand drawn",
   "url": "https://www.reddit.com/r/dndmaps/comments/6y8w45/smhee_hamlet_population_50_oc_hand_drawn/"
 }

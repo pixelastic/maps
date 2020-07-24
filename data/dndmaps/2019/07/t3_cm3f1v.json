@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 292,
     "value": 292
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First map/post on Reddit. Not sure how I feel about the sea monsters.. But it’s a work in progress! Wonderdraft is great!",
   "url": "https://www.reddit.com/r/dndmaps/comments/cm3f1v/first_mappost_on_reddit_not_sure_how_i_feel_about/"
 }

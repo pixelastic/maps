@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Shipwreck | Links to free still image pack in comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtft8o/ocanimatedbattlemap_shipwreck_links_to_free_still/"
 }

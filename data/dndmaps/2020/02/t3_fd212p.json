@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Wyrmsan, the “City in the Mud” with a creeping class war",
   "url": "https://www.reddit.com/r/dndmaps/comments/fd212p/wyrmsan_the_city_in_the_mud_with_a_creeping_class/"
 }

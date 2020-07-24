@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 248,
     "value": 248
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Abandoned house floor maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/espust/abandoned_house_floor_maps/"
 }

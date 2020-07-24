@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Dwarven City of Brazenthrone: The Eastern Halls",
   "url": "https://www.reddit.com/r/dndmaps/comments/hau7au/the_dwarven_city_of_brazenthrone_the_eastern/"
 }

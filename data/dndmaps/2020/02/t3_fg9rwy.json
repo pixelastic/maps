@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.93,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Trollskull Alley - Upper City District",
   "url": "https://www.reddit.com/r/dndmaps/comments/fg9rwy/trollskull_alley_upper_city_district/"
 }

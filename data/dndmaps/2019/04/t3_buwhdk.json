@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map of Orizon for my upcoming DND campaign (More details in the comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/buwhdk/map_of_orizon_for_my_upcoming_dnd_campaign_more/"
 }

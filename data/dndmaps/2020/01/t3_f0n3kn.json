@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Level 12 Undermountain The Maze Level (Full Color and Prop Filled)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0n3kn/level_12_undermountain_the_maze_level_full_color/"
 }

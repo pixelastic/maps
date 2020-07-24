@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Graupel, a frozen village and the surrounding lands leading from Hatcher Pass.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ev7741/graupel_a_frozen_village_and_the_surrounding/"
 }

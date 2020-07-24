@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Cursed forest by Darnoc703",
   "url": "https://www.reddit.com/r/dndmaps/comments/f1pcbh/ocbattlemap29x35_cursed_forest_by_darnoc703/"
 }

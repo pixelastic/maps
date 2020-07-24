@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 258,
     "value": 258
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Witch's Cottage Battle Map (30x30 Grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/aey7fe/witchs_cottage_battle_map_30x30_grid/"
 }

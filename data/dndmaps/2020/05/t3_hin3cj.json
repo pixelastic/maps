@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Road to Ruin _ A Post Apocalyptic Location",
   "url": "https://www.reddit.com/r/dndmaps/comments/hin3cj/road_to_ruin_a_post_apocalyptic_location/"
 }

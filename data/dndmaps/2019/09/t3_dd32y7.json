@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The lost City Far‘Randul - the runes are standard draconic, so if anyone has fun in translating them i‘ll give them the English translation",
   "url": "https://www.reddit.com/r/dndmaps/comments/dd32y7/the_lost_city_farrandul_the_runes_are_standard/"
 }

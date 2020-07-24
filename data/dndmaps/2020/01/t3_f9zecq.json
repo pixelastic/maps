@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 326,
     "value": 326
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Port of Fyre - Made with Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/f9zecq/the_port_of_fyre_made_with_inkarnate/"
 }

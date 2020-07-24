@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Eon Lost Crypt waiting to be explored !",
   "url": "https://www.reddit.com/r/dndmaps/comments/65ryro/eon_lost_crypt_waiting_to_be_explored/"
 }

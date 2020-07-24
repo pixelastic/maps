@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 353,
     "value": 353
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Today's hand drawn DnD map. (Coloured in PS)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bzr3l1/todays_hand_drawn_dnd_map_coloured_in_ps/"
 }

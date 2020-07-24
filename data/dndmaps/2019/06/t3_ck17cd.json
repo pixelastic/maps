@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 452,
     "value": 452
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Jodak's Mill at Night - A Four Storey Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/ck17cd/jodaks_mill_at_night_a_four_storey_battlemap/"
 }

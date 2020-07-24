@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Yakorat Province within the Holinian Empire",
   "url": "https://www.reddit.com/r/dndmaps/comments/7qxkh4/yakorat_province_within_the_holinian_empire/"
 }

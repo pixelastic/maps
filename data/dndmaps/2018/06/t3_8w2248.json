@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 82,
     "value": 82
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first map. I'm pretty happy with it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8w2248/oc_my_first_map_im_pretty_happy_with_it/"
 }

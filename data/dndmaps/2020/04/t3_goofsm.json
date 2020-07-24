@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Spiral Eye Entrance",
   "url": "https://www.reddit.com/r/dndmaps/comments/goofsm/the_spiral_eye_entrance_photoshop_work_by_me_base/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 320,
     "value": 320
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Arcane Chambers & Svart Grift Dungeon Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/cfkjng/arcane_chambers_svart_grift_dungeon_map/"
 }

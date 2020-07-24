@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1095,
     "value": 1095
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Green Bastion Battle Map (30x30) - A ruined fort, city or outpost",
   "url": "https://www.reddit.com/r/dndmaps/comments/d0vdii/the_green_bastion_battle_map_30x30_a_ruined_fort/"
 }

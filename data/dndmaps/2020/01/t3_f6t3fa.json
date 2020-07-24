@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The map of my homebrew campaign, Aldarak. Made with the free version of inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/f6t3fa/the_map_of_my_homebrew_campaign_aldarak_made_with/"
 }

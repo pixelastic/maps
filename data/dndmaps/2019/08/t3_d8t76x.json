@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Vrouhex, rough region map for my world setting of Akreon (I fit in Saltmarsh)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d8t76x/vrouhex_rough_region_map_for_my_world_setting_of/"
 }

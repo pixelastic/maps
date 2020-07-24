@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Trollskull Manor, credit to u/wulfspyder",
   "url": "https://www.reddit.com/r/dndmaps/comments/em4u0p/trollskull_manor_credit_to_uwulfspyder/"
 }

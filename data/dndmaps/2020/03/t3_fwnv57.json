@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1401,
     "value": 1401
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Guardians of the Depths Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fwnv57/guardians_of_the_depths_battlemap_45x45/"
 }

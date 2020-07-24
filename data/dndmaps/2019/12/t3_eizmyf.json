@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 163,
     "value": 163
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Some Kobold Tunnels to Test Your Party",
   "url": "https://www.reddit.com/r/dndmaps/comments/eizmyf/some_kobold_tunnels_to_test_your_party/"
 }

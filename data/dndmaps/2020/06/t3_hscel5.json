@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Cursed Glade - A secret summoning circle in the woods exacts a high toll for its services. (The low opacity trees are to show the overhead canopy without obscuring the map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hscel5/the_cursed_glade_a_secret_summoning_circle_in_the/"
 }

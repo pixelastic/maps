@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 81,
     "value": 81
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map drawn by a friend for my first dnd campain. She draw whatever she wanted and now my players are excited to see whats on the floating island and so am i xD.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bb69g0/map_drawn_by_a_friend_for_my_first_dnd_campain/"
 }

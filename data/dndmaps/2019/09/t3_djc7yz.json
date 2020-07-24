@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Ruined Cities of Red-Litten Yoth",
   "url": "https://www.reddit.com/r/dndmaps/comments/djc7yz/ruined_cities_of_redlitten_yoth/"
 }

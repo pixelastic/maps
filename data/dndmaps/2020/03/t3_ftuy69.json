@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 1147,
     "value": 1147
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Desert Reach",
   "url": "https://www.reddit.com/r/dndmaps/comments/ftuy69/oc_desert_reach_17x23/"
 }

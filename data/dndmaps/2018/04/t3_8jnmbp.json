@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Looking for feedback on a cavern battle map I drew up for an upcoming one shot.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8jnmbp/looking_for_feedback_on_a_cavern_battle_map_i/"
 }

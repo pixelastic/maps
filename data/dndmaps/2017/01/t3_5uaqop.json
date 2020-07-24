@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Coastal City Map for my first homebrew campaign!",
   "url": "https://www.reddit.com/r/dndmaps/comments/5uaqop/coastal_city_map_for_my_first_homebrew_campaign/"
 }

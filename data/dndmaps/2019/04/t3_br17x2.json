@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I wanted a dungeon that changed from session to session... The Geomorphic Halls!",
   "url": "https://www.reddit.com/r/dndmaps/comments/br17x2/i_wanted_a_dungeon_that_changed_from_session_to/"
 }

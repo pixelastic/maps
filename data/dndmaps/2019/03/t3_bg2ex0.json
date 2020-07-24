@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 39,
     "value": 39
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Fort Hexamand (40x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bg2ex0/fort_hexamand_40x30/"
 }

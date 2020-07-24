@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Shadowdale Map I drew (I needed an updated one, so you can have it too)",
   "url": "https://www.reddit.com/r/dndmaps/comments/asq1gy/shadowdale_map_i_drew_i_needed_an_updated_one_so/"
 }

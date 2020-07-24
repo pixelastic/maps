@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Red Thumb’s Warehouse (A.K.A. The Midnight Melee)   – More details in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gxk3ta/red_thumbs_warehouse_aka_the_midnight_melee_30_x/"
 }

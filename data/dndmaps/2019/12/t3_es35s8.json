@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Never Gonna Dungeon These Dragons: maps for a DND one-shot themed around Rickrolling your party",
   "url": "https://www.reddit.com/r/dndmaps/comments/es35s8/never_gonna_dungeon_these_dragons_maps_for_a_dnd/"
 }

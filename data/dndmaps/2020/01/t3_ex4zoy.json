@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Watermill by Kmarak",
   "url": "https://www.reddit.com/r/dndmaps/comments/ex4zoy/ocbattlemap26x24_watermill_by_kmarak/"
 }

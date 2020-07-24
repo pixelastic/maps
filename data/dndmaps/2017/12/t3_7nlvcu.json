@@ -15,6 +15,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 61,
     "value": 61
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My new campaign map-still have to put in location names",
   "url": "https://www.reddit.com/r/dndmaps/comments/7nlvcu/my_new_campaign_mapstill_have_to_put_in_location/"
 }

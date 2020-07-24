@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.96,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Wandering Emporium (Descent into Avernus)",
   "url": "https://www.reddit.com/r/dndmaps/comments/e5n3zg/wandering_emporium_descent_into_avernus/"
 }

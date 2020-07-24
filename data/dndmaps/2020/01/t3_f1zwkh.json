@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "This house of this tavern owner I made last night for my dm",
   "url": "https://www.reddit.com/r/dndmaps/comments/f1zwkh/this_house_of_this_tavern_owner_i_made_last_night/"
 }

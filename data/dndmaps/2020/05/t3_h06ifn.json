@@ -16,6 +16,7 @@
   "score": {
     "comments": 40,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 917,
     "value": 917
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Enura - The five kingdoms and the world beyond",
   "url": "https://www.reddit.com/r/dndmaps/comments/h06ifn/enura_the_five_kingdoms_and_the_world_beyond/"
 }

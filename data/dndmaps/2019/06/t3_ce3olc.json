@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I'm a first time DM for a homebrew, we took a handful of dice and assigned each a land mass of some kind and the number a height/depth/size and then drew our map. I name things when the party discovers them and we draw roads and caves and things when I feel like adding something else.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ce3olc/im_a_first_time_dm_for_a_homebrew_we_took_a/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Red Tower, Etrian & cosmic horror inspired",
   "url": "https://www.reddit.com/r/dndmaps/comments/fckqop/the_red_tower_etrian_cosmic_horror_inspired/"
 }

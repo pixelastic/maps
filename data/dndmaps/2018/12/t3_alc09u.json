@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 114,
     "value": 114
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Camarae, the first actual city my players reached. Part of my homebrew reworking of the Vilhon Reach region.",
   "url": "https://www.reddit.com/r/dndmaps/comments/alc09u/camarae_the_first_actual_city_my_players_reached/"
 }

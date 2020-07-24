@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Bloodmoon Monastery",
   "url": "https://www.reddit.com/r/dndmaps/comments/cms3eo/bloodmoon_monastery_18x31/"
 }

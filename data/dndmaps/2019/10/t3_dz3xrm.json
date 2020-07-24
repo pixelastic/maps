@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 70,
     "value": 70
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "I finished my first battlemap! The Maw Of Golloth - Colour variations in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dz3xrm/i_finished_my_first_battlemap_the_maw_of_golloth/"
 }

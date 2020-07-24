@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A Map through Time: The Age of Griffins (Part 5/6)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ghqpey/a_map_through_time_the_age_of_griffins_part_56/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 176,
     "value": 176
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Burrows. An expansion to The One Million battlemaps 4 50 x 50 maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/bs5mi9/the_burrows_an_expansion_to_the_one_million/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My homebrewed version of Nimpeth, one of the free cities of the Vilhon Reach",
   "url": "https://www.reddit.com/r/dndmaps/comments/auvro6/my_homebrewed_version_of_nimpeth_one_of_the_free/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Area map for a future session I'm planning. Gonna give the party a change of pace and drop them in the middle of a martial arts movie.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtmyny/area_map_for_a_future_session_im_planning_gonna/"
 }

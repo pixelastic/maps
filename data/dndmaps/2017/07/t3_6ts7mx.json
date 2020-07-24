@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 127,
     "value": 127
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Inkarnate is fantastic! if a idiot like me can do this any DM can",
   "url": "https://www.reddit.com/r/dndmaps/comments/6ts7mx/inkarnate_is_fantastic_if_a_idiot_like_me_can_do/"
 }

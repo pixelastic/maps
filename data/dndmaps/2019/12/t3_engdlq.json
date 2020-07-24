@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 887,
     "value": 887
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A battlemap for a dnd inspired homebrew board/card game I'm working on.",
   "url": "https://www.reddit.com/r/dndmaps/comments/engdlq/a_battlemap_for_a_dnd_inspired_homebrew_boardcard/"
 }

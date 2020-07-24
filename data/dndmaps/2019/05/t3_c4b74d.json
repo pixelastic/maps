@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 574,
     "value": 574
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Druid Circle - Day Version",
   "url": "https://www.reddit.com/r/dndmaps/comments/c4b74d/the_druid_circle_day_version/"
 }

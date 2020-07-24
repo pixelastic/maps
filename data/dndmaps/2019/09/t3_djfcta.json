@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1071,
     "value": 1071
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Knight at the Museum - A Three Level Museum and Gallery!",
   "url": "https://www.reddit.com/r/dndmaps/comments/djfcta/knight_at_the_museum_a_three_level_museum_and/"
 }

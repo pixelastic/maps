@@ -16,6 +16,7 @@
   "score": {
     "comments": 44,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1555,
     "value": 1555
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Erubescence, the Red City, Seat of the Night Queen",
   "url": "https://www.reddit.com/r/dndmaps/comments/e7keue/erubescence_the_red_city_seat_of_the_night_queen/"
 }

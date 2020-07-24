@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Cabotage Cutter Airship 40x22",
   "url": "https://www.reddit.com/r/dndmaps/comments/fcuho2/ocartbattlemapperspectiveanimated_cabotage_cutter/"
 }

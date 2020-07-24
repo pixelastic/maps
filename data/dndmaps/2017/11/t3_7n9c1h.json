@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The map I made for my campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/7n9c1h/the_map_i_made_for_my_campaign/"
 }

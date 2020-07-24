@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Time-Lost Cenote, Quick and Dirty Map w/ Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/dfky1z/the_timelost_cenote_quick_and_dirty_map_w/"
 }

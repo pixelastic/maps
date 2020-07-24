@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.78,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The continent of Inax for all my future campaigns. Made in Wonderdraft",
   "url": "https://www.reddit.com/r/dndmaps/comments/fiwviv/the_continent_of_inax_for_all_my_future_campaigns/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.77,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "My own little autumn walkway battlemap (OC)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cyywxf/my_own_little_autumn_walkway_battlemap_oc/"
 }

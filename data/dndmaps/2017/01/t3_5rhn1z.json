@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Flying Fortress map ! 3D view ! - Elven Tower",
   "url": "https://www.reddit.com/r/dndmaps/comments/5rhn1z/flying_fortress_map_3d_view_elven_tower/"
 }

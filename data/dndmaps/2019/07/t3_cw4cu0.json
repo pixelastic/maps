@@ -16,6 +16,7 @@
   "score": {
     "comments": 36,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 846,
     "value": 846
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Regional map for a d&d campaign, CC welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cw4cu0/regional_map_for_a_dd_campaign_cc_welcome/"
 }

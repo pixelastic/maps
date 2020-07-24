@@ -16,6 +16,7 @@
   "score": {
     "comments": 96,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1094,
     "value": 1094
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "First shot at hand coloring maps with watercolors. This is for my new adventures on the DMs guild. It's supposed to be a spider-thing hive. Thoughts?",
   "url": "https://www.reddit.com/r/dndmaps/comments/habm46/first_shot_at_hand_coloring_maps_with_watercolors/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "This is my first map, asking for some constructive criticism. Thanks!",
   "url": "https://www.reddit.com/r/dndmaps/comments/frcwd9/this_is_my_first_map_asking_for_some_constructive/"
 }

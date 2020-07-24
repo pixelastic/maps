@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My second map. Thanks u/onslaughtsix and u/ijustcomment for tips, really appreciate that.",
   "url": "https://www.reddit.com/r/dndmaps/comments/davzu4/my_second_map_thanks_uonslaughtsix_and/"
 }

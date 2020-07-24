@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 532,
     "value": 532
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A summer adventure to Icedarrow? Say hello to Gerald while you're there...",
   "url": "https://www.reddit.com/r/dndmaps/comments/cayp7a/a_summer_adventure_to_icedarrow_say_hello_to/"
 }

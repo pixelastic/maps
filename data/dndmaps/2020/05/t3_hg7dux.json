@@ -16,6 +16,7 @@
   "score": {
     "comments": 28,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1976,
     "value": 1976
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The new Inkarnate battle map tool is live!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hg7dux/the_new_inkarnate_battle_map_tool_is_live/"
 }

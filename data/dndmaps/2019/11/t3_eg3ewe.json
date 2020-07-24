@@ -15,6 +15,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 13,
     "value": 13
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "WIP: Regional Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/eg3ewe/wip_regional_map/"
 }

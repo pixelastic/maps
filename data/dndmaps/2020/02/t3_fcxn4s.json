@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Some people have been asking about our maps so I wanted to show this forest town map from a top-down view to give a sense of the scale of maps that you can play. Lots more maps coming in our Beta release later this month",
   "url": "https://www.reddit.com/r/dndmaps/comments/fcxn4s/some_people_have_been_asking_about_our_maps_so_i/"
 }

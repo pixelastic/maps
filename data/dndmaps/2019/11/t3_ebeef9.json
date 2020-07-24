@@ -16,6 +16,7 @@
   "score": {
     "comments": 23,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1402,
     "value": 1402
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Sailing Ship Windbourne 32x32",
   "url": "https://www.reddit.com/r/dndmaps/comments/ebeef9/sailing_ship_windbourne_32x32/"
 }

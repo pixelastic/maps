@@ -16,6 +16,7 @@
   "score": {
     "comments": 54,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 820,
     "value": 820
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon map making is the greatest part of being a DM, change my mind.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f5ik79/dungeon_map_making_is_the_greatest_part_of_being/"
 }

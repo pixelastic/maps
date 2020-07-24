@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "20x20 Crypt in Dungeondraft, made with Forgotten Adventures assets. See if you can find the corpse-eating mimic.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gqgq5f/20x20_crypt_in_dungeondraft_made_with_forgotten/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Talons -  The Regional map for my upcoming nautical themed campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkod3g/the_talons_oc_the_regional_map_for_my_upcoming/"
 }

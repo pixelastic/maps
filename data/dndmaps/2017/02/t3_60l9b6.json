@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 65,
     "value": 65
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "My first battle map with just PS + assets, I call it: \"The biggest catch\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/60l9b6/my_first_battle_map_with_just_ps_assets_i_call_it/"
 }

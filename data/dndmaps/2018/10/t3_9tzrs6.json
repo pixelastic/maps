@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 58,
     "value": 58
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map for the port city of Aehara that my players are starting in this week, I figured others could use it as well.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9tzrs6/map_for_the_port_city_of_aehara_that_my_players/"
 }

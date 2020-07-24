@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I Made the Moathouse Player Friendly",
   "url": "https://www.reddit.com/r/dndmaps/comments/b4mxwy/i_made_the_moathouse_player_friendly/"
 }

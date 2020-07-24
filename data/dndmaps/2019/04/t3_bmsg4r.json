@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Tavern Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/bmsg4r/tavern_map/"
 }

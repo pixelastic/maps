@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Considering how well the previous maps I shown here were recieved, I decided to listen to the comments and create a patreon. Here is a WIP of a giant 10800x10800 city map. On a side note, how can I find DnD players near me?",
   "url": "https://www.reddit.com/r/dndmaps/comments/ekoutt/considering_how_well_the_previous_maps_i_shown/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Continents (WIP) (This is the West continent)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ete5as/the_continents_wip_this_is_the_west_continent/"
 }

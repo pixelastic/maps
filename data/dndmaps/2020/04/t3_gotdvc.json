@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Continent map for DnD, roughly the size of Iceland",
   "url": "https://www.reddit.com/r/dndmaps/comments/gotdvc/continent_map_for_dnd_roughly_the_size_of_iceland/"
 }

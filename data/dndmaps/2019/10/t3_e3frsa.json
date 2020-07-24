@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 89,
     "value": 89
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Unlabeled Large Continental Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/e3frsa/unlabeled_large_continental_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First ever attempt at anything at all like this, preparing for my first ever homebrew D&D campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ery0ql/wip_first_ever_attempt_at_anything_at_all_like/"
 }

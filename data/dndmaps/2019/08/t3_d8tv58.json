@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Just finished this map for my campaign: Kingdom Of Termor",
   "url": "https://www.reddit.com/r/dndmaps/comments/d8tv58/just_finished_this_map_for_my_campaign_kingdom_of/"
 }

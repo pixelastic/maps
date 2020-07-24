@@ -16,6 +16,7 @@
   "score": {
     "comments": 70,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 772,
     "value": 772
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "As yet untitled map - would love to hear your thoughts.",
   "url": "https://www.reddit.com/r/dndmaps/comments/boj3xv/as_yet_untitled_map_would_love_to_hear_your/"
 }

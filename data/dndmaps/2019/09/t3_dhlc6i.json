@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "New Map, the context of this region is that refugees from a neighboring kingdom all escaped to this forgotten corner of the world to hide from their previous masters and slaveowners. But now, after a hundered years or so, the people living their learn why nobody lived there. C&C welcome",
   "url": "https://www.reddit.com/r/dndmaps/comments/dhlc6i/new_map_the_context_of_this_region_is_that/"
 }

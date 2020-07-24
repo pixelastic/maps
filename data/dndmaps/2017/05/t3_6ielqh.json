@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Snowy village, still working on 2nd story, 50x50 units.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6ielqh/snowy_village_still_working_on_2nd_story_50x50/"
 }

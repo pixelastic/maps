@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 316,
     "value": 316
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Ancient Battlefield Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/c4czgo/ancient_battlefield_battlemap_25x45/"
 }

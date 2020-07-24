@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 168,
     "value": 168
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The People's Republic of Aqualibrium - a hand drawn map for Starter Set podcast.",
   "url": "https://www.reddit.com/r/dndmaps/comments/e8pwic/the_peoples_republic_of_aqualibrium_a_hand_drawn/"
 }

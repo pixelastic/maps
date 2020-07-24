@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "I created some fantastic locations and thought they needed some encounter/battle maps!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gmvqny/i_created_some_fantastic_locations_and_thought/"
 }

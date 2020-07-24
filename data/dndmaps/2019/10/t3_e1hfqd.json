@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 59,
     "value": 59
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Little topical island I completed yesterday for a recent commission. What adventures could you have on this island?",
   "url": "https://www.reddit.com/r/dndmaps/comments/e1hfqd/little_topical_island_i_completed_yesterday_for_a/"
 }

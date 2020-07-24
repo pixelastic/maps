@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A revamped Dandrial. My players will begin their first adventure here on Friday.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d5r2en/a_revamped_dandrial_my_players_will_begin_their/"
 }

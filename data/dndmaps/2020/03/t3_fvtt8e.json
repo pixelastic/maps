@@ -16,6 +16,7 @@
   "score": {
     "comments": 20,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1097,
     "value": 1097
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Fractured Zone",
   "url": "https://www.reddit.com/r/dndmaps/comments/fvtt8e/the_fractured_zone/"
 }

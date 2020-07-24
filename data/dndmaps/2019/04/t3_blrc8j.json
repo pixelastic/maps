@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 655,
     "value": 655
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Free Zen Monastery Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/blrc8j/free_zen_monastery_battlemap_21x49/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Lands of Astoria: My Homebrew Campaign Setting",
   "url": "https://www.reddit.com/r/dndmaps/comments/9hm45v/the_lands_of_astoria_my_homebrew_campaign_setting/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 124,
     "value": 124
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Efkratos - a northerly region connected by airship travel, located near the Transthermal Boundary",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0wkqh/efkratos_a_northerly_region_connected_by_airship/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Gracklstugh, Duergar Underdark City",
   "url": "https://www.reddit.com/r/dndmaps/comments/c1bfn3/gracklstugh_duergar_underdark_city/"
 }

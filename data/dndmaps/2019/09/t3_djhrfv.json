@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "1st Attempt at a Map - The Continent of Rasta - CC Appreciated",
   "url": "https://www.reddit.com/r/dndmaps/comments/djhrfv/1st_attempt_at_a_map_the_continent_of_rasta_cc/"
 }

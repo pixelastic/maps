@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 324,
     "value": 324
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Just got Inkarnate pro, and decided to create a map of my world.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cj645s/just_got_inkarnate_pro_and_decided_to_create_a/"
 }

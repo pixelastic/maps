@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 135,
     "value": 135
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "I just made my first city map for my homebrew, here's Port Aldlyn",
   "url": "https://www.reddit.com/r/dndmaps/comments/89y55t/i_just_made_my_first_city_map_for_my_homebrew/"
 }

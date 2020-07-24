@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Seaside Passage (lore, scale, and 1200dpi version inside)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gdklb4/seaside_passage_lore_scale_and_1200dpi_version/"
 }

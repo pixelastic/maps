@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Morray: 60, 59, 58... people and a wendigo",
   "url": "https://www.reddit.com/r/dndmaps/comments/c6av1p/morray_60_59_58_people_and_a_wendigo/"
 }

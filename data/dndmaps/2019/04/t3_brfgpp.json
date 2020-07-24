@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Merchants of Swag at the Swamp of Doom",
   "url": "https://www.reddit.com/r/dndmaps/comments/brfgpp/merchants_of_swag_at_the_swamp_of_doom/"
 }

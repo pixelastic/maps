@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The starting province for my campaign, The Ghosts of Bastion (Inkarnate)",
   "url": "https://www.reddit.com/r/dndmaps/comments/6d0q1s/the_starting_province_for_my_campaign_the_ghosts/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Kingdoms of Misthalin and Asgarnia. I'm running a RuneScape inspired campaign where the map, lore and characters are taken from the game. Here is a map I made for the region my players are starting their adventure in.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f27di8/kingdoms_of_misthalin_and_asgarnia_im_running_a/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The newly discovered world of Escanor! Looking for help filling in the blanks or any concepts you think would enhance my player's experience.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cfgvkl/the_newly_discovered_world_of_escanor_looking_for/"
 }

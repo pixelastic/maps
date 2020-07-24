@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Made the ground floor of grimshackle prison (from the iron road adventurers league module released for free recently) using dungeondraft- 1st ever attempt!",
   "url": "https://www.reddit.com/r/dndmaps/comments/g9mqwd/made_the_ground_floor_of_grimshackle_prison_from/"
 }

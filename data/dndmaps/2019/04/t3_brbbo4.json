@@ -16,6 +16,7 @@
   "score": {
     "comments": 31,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 607,
     "value": 607
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Finally done: A map that YOU can own with custom names and symbols !",
   "url": "https://www.reddit.com/r/dndmaps/comments/brbbo4/oc_finally_done_a_map_that_you_can_own_with/"
 }

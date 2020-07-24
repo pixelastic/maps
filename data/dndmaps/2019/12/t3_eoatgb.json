@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 101,
     "value": 101
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "New Year, New Campaign - the Iyesgarten Regional HexMap",
   "url": "https://www.reddit.com/r/dndmaps/comments/eoatgb/new_year_new_campaign_the_iyesgarten_regional/"
 }

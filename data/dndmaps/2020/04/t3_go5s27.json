@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Hello isometric lovers! I just drew an underwater map! I'm feeling more at ease with coloring and overlapping layers to contrast two different colors as you can see in the underwater sections of the map. I really had fun making this drawing, I hope you like it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/go5s27/battlemap_oc_hello_isometric_lovers_i_just_drew/"
 }

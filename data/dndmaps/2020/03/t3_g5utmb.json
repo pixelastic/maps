@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Godvsky City, Capital of Dadabea kingdom   - Made using DeepNight by Me",
   "url": "https://www.reddit.com/r/dndmaps/comments/g5utmb/godvsky_city_capital_of_dadabea_kingdom_80x80_oc/"
 }

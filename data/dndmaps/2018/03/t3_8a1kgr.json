@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.68,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Llewin - Small Coastal Town with a Lighthouse",
   "url": "https://www.reddit.com/r/dndmaps/comments/8a1kgr/oc_llewin_small_coastal_town_with_a_lighthouse/"
 }

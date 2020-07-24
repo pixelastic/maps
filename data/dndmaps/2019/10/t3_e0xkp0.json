@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 117,
     "value": 117
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First Hand Drawn Weathered continental map for running my first game",
   "url": "https://www.reddit.com/r/dndmaps/comments/e0xkp0/first_hand_drawn_weathered_continental_map_for/"
 }

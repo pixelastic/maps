@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Menoriand - A World Map for an Upcoming Campaign Setting.",
   "url": "https://www.reddit.com/r/dndmaps/comments/br4t81/menoriand_a_world_map_for_an_upcoming_campaign/"
 }

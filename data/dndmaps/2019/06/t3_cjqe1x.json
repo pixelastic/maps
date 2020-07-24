@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 512,
     "value": 512
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Brabhal Deeps (battlemap)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cjqe1x/brabhal_deeps_battlemap/"
 }

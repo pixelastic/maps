@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Village of Snake Crick - After the Curse",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4h9d3/village_of_snake_crick_after_the_curse/"
 }

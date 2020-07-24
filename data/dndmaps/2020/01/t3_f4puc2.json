@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 211,
     "value": 211
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Academy. Upper levels.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4puc2/oc_academy_upper_levels/"
 }

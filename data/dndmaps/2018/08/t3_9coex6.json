@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 58,
     "value": 58
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Akosa - Map for my former and next campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/9coex6/akosa_map_for_my_former_and_next_campaign/"
 }

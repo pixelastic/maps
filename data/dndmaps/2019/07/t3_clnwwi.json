@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 90,
     "value": 90
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Apothecary's Secret - A Two Level XL Battlemap, Forest above and Caverns Below!",
   "url": "https://www.reddit.com/r/dndmaps/comments/clnwwi/the_apothecarys_secret_a_two_level_xl_battlemap/"
 }

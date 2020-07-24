@@ -16,6 +16,7 @@
   "score": {
     "comments": 33,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 687,
     "value": 687
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "New DM. Just created a map for my first homebrew campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/dhigsq/new_dm_just_created_a_map_for_my_first_homebrew/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Lair of Tohmet, egyptian dungeon",
   "url": "https://www.reddit.com/r/dndmaps/comments/ehoqvm/lair_of_tohmet_egyptian_dungeon/"
 }

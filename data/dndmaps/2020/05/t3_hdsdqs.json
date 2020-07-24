@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Cave Den  An encounter in a sprawling, inhabited cave, perfect for jail breaks!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hdsdqs/cave_den_55x34_an_encounter_in_a_sprawling/"
 }

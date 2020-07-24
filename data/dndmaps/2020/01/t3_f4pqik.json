@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 739,
     "value": 739
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A large region map for a quick start or just to steal names from.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4pqik/a_large_region_map_for_a_quick_start_or_just_to/"
 }

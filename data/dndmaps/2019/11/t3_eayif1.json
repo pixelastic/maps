@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 247,
     "value": 247
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "On Thin Ice Battle Map 24x36",
   "url": "https://www.reddit.com/r/dndmaps/comments/eayif1/on_thin_ice_battle_map_24x36/"
 }

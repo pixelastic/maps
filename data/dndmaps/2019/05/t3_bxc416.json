@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.57,
     "ups": 1,
     "value": 1
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "City Map of my town Bastow in the world of Lyria",
   "url": "https://www.reddit.com/r/dndmaps/comments/bxc416/city_map_of_my_town_bastow_in_the_world_of_lyria/"
 }

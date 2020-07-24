@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.73,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Isometric Dungeon Pack 6 is now available, free map inside!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ckuz63/ocisometric_dungeon_pack_6_is_now_available_free/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.78,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ancient Buer demons, druids as giant sloths, skellys, petrodactyls for mounts. It was a great weekend.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ec5dzg/ocencounter_ancient_buer_demons_druids_as_giant/"
 }

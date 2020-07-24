@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "2 Year, 8 Map Project finally done with Alpha!!",
   "url": "https://www.reddit.com/r/dndmaps/comments/c67cc3/2_year_8_map_project_finally_done_with_alpha/"
 }

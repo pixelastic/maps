@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Region Map: Homebrew Campaign for Former Kingdom of Abbass",
   "url": "https://www.reddit.com/r/dndmaps/comments/86ab85/region_map_homebrew_campaign_for_former_kingdom/"
 }

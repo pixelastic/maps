@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 73,
     "value": 73
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Zoom out of an area in my campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ez7fiz/zoom_out_of_an_area_in_my_campaign/"
 }

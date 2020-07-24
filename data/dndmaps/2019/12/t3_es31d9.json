@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 84,
     "value": 84
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "One of my players is a Dwarven Noble who got his land stolen from him in a power struggle. I decided to make this to show him what he's fighting for.",
   "url": "https://www.reddit.com/r/dndmaps/comments/es31d9/one_of_my_players_is_a_dwarven_noble_who_got_his/"
 }

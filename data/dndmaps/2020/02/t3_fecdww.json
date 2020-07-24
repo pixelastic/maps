@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Welcome to Tutha, home of the Eleven Great Cities.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fecdww/welcome_to_tutha_home_of_the_eleven_great_cities/"
 }

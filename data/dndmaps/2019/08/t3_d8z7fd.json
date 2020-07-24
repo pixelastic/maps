@@ -16,6 +16,7 @@
   "score": {
     "comments": 41,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1218,
     "value": 1218
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Temple of Branches - my first attempt at a 3d dungeon. Would love some C&C",
   "url": "https://www.reddit.com/r/dndmaps/comments/d8z7fd/the_temple_of_branches_my_first_attempt_at_a_3d/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Generic Wizard Tower. What do you think?(Check my profile for ground and 1st floor) (Mind the little door mistake).",
   "url": "https://www.reddit.com/r/dndmaps/comments/aubhpt/generic_wizard_tower_what_do_you_thinkcheck_my/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "FREE \"Ruins of Ironfel Keep\" 20x30 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/c541sm/free_ruins_of_ironfel_keep_20x30_battlemap_oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Dredgeberry Inn 2nd Level 12x6",
   "url": "https://www.reddit.com/r/dndmaps/comments/cfye3q/dredgeberry_inn_2nd_level_12x6/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 78,
     "value": 78
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The map is unfinished but I'm pretty proud of how it looks so far.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ei6v0g/the_map_is_unfinished_but_im_pretty_proud_of_how/"
 }

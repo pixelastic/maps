@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 700,
     "value": 700
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Arabian Castle",
   "url": "https://www.reddit.com/r/dndmaps/comments/gizqm3/arabian_castle_40x50batllemap/"
 }

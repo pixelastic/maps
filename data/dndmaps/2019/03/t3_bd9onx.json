@@ -15,6 +15,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 72,
     "value": 72
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "First homebrew map. also where do y'all make the full color ones at ?",
   "url": "https://www.reddit.com/r/dndmaps/comments/bd9onx/first_homebrew_map_also_where_do_yall_make_the/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 703,
     "value": 703
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Mahadi's Infernal Rapture",
   "url": "https://www.reddit.com/r/dndmaps/comments/gncfzx/mahadis_infernal_rapture/"
 }

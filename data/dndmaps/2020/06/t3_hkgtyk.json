@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Anyone remember Gothic 1? First map I ever made for my first campaign as GM",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkgtyk/anyone_remember_gothic_1_first_map_i_ever_made/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The map of my custom campain made with Wonderdraft",
   "url": "https://www.reddit.com/r/dndmaps/comments/g12rzc/the_map_of_my_custom_campain_made_with_wonderdraft/"
 }

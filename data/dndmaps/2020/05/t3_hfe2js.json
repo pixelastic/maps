@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First Map I made for a future campaign (this version has some features that are hidden from players)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hfe2js/first_map_i_made_for_a_future_campaign_this/"
 }

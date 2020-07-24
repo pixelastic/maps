@@ -16,6 +16,7 @@
   "score": {
     "comments": 29,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 872,
     "value": 872
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "This isn’t super great or anything, and I don’t think my maps are really like anyone else’s but I needed a broken bridge and some sharks and I couldn’t find one so I drew this and threw it onto roll20. I think it’s pretty good for not being an artist",
   "url": "https://www.reddit.com/r/dndmaps/comments/hiyzcy/this_isnt_super_great_or_anything_and_i_dont/"
 }

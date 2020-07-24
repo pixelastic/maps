@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Region Surrounding Lake Barren",
   "url": "https://www.reddit.com/r/dndmaps/comments/ef2nil/the_region_surrounding_lake_barren/"
 }

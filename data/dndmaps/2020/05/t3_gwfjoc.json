@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "9 Tile dungeon - Cages hang from the ceiling, pus oozes from cracks in the floor & something is moving around in the dark",
   "url": "https://www.reddit.com/r/dndmaps/comments/gwfjoc/9_tile_dungeon_cages_hang_from_the_ceiling_pus/"
 }

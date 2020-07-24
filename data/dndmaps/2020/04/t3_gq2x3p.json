@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Cellar of Death - Zaldara's Basement",
   "url": "https://www.reddit.com/r/dndmaps/comments/gq2x3p/cellar_of_death_zaldaras_basement_tomb_of/"
 }

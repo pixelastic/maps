@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 345,
     "value": 345
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Village Docks",
   "url": "https://www.reddit.com/r/dndmaps/comments/bncoll/village_docks/"
 }

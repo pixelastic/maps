@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 110,
     "value": 110
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Clearing Camp (Spring & Autumn) | 22\"x16\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/hllgcz/forest_clearing_camp_spring_autumn_22x16/"
 }

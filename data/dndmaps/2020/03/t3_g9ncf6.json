@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Sachsbrook, a thriving trade hub with a mysterious abandoned district for shady business. Made on Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/g9ncf6/sachsbrook_a_thriving_trade_hub_with_a_mysterious/"
 }

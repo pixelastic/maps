@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Curse of the Winter Mandrake - Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/gz31ex/curse_of_the_winter_mandrake_battlemap_10x11/"
 }

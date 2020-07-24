@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 131,
     "value": 131
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "- Incredible homebrew map for my campaign setting",
   "url": "https://www.reddit.com/r/dndmaps/comments/ego49f/region_map_incredible_homebrew_map_for_my/"
 }

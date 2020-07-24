@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Current progress on my world map, any thoughts on things to improve or add. (These are four images stitched, will fix the edges after final product)",
   "url": "https://www.reddit.com/r/dndmaps/comments/duz8x1/current_progress_on_my_world_map_any_thoughts_on/"
 }

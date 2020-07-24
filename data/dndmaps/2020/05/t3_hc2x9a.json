@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Campfire in the Forest (20x20)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hc2x9a/oc_battlemap_campfire_in_the_forest_20x20/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A storm destroyed this city, what secrets lie hidden under the waves?",
   "url": "https://www.reddit.com/r/dndmaps/comments/7ao2x8/a_storm_destroyed_this_city_what_secrets_lie/"
 }

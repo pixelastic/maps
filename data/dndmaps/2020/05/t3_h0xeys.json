@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1505,
     "value": 1505
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Fortress Bridge",
   "url": "https://www.reddit.com/r/dndmaps/comments/h0xeys/fortress_bridge/"
 }

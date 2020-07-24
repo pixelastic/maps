@@ -16,6 +16,7 @@
   "score": {
     "comments": 46,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 1128,
     "value": 1128
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I've been working on my own world map for a while now, and I think it's finally done!",
   "url": "https://www.reddit.com/r/dndmaps/comments/e1c1bz/ive_been_working_on_my_own_world_map_for_a_while/"
 }

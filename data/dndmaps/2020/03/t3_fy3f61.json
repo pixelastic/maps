@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A garrison keep (WIP) (more maps linked in the comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fy3f61/a_garrison_keep_wip_more_maps_linked_in_the/"
 }

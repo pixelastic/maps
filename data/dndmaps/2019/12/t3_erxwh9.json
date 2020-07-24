@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 65,
     "value": 65
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Airship Battlemaps!",
   "url": "https://www.reddit.com/r/dndmaps/comments/erxwh9/airship_battlemaps_36x48/"
 }

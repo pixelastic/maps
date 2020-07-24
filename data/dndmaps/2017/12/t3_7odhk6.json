@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Frozen Lake w/ Hill Giant Corpse (Info in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/7odhk6/frozen_lake_w_hill_giant_corpse_info_in_comments/"
 }

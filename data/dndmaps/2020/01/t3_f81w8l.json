@@ -16,6 +16,7 @@
   "score": {
     "comments": 22,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 177,
     "value": 177
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I want to draw maps for the adventures I write. I'm still getting used to drawing on the computer but I'm really happy with how this is looking, let me know what you think! I'd love to hear your feedback.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f81w8l/i_want_to_draw_maps_for_the_adventures_i_write_im/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 255,
     "value": 255
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Siege Camp – Testing out some new brushes",
   "url": "https://www.reddit.com/r/dndmaps/comments/8ysbzy/the_siege_camp_testing_out_some_new_brushes/"
 }

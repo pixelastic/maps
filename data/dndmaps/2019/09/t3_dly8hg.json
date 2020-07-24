@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 888,
     "value": 888
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Bridge",
   "url": "https://www.reddit.com/r/dndmaps/comments/dly8hg/ocart_bridge_22_x_30/"
 }

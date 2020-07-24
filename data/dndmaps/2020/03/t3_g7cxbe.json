@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "V1.1 Sima's Bridge. There. I messed up, but I made some changes. A drying riverbed should make it better.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g7cxbe/v11_simas_bridge_there_i_messed_up_but_i_made/"
 }

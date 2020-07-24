@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "20 x 20 Ruined City/Town Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/ett619/20_x_20_ruined_citytown_battlemap/"
 }

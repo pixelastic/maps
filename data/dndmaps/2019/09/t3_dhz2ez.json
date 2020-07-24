@@ -15,6 +15,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 20,
     "value": 20
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Mahoneyi",
   "url": "https://www.reddit.com/r/dndmaps/comments/dhz2ez/mahoneyi/"
 }

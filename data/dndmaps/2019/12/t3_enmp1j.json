@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 157,
     "value": 157
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hag's Hut In a Bog",
   "url": "https://www.reddit.com/r/dndmaps/comments/enmp1j/oc_hags_hut_in_a_bog/"
 }

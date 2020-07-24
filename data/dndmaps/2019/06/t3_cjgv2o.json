@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Frogs' Reliquary",
   "url": "https://www.reddit.com/r/dndmaps/comments/cjgv2o/the_frogs_reliquary/"
 }

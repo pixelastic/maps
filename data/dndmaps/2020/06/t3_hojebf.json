@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 617,
     "value": 617
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Tower of the Impolite Mage",
   "url": "https://www.reddit.com/r/dndmaps/comments/hojebf/tower_of_the_impolite_mage/"
 }

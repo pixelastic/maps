@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The land of Kings. Once United now fractured by war.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gflvdq/the_land_of_kings_once_united_now_fractured_by_war/"
 }

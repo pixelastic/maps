@@ -15,6 +15,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 20,
     "value": 20
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "New town for my campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d2b2dv/new_town_for_my_campaign/"
 }

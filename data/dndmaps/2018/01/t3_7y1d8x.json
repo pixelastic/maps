@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 171,
     "value": 171
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The City of Twin Docks",
   "url": "https://www.reddit.com/r/dndmaps/comments/7y1d8x/the_city_of_twin_docks/"
 }

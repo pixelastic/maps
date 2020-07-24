@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 437,
     "value": 437
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Dragon Grave",
   "url": "https://www.reddit.com/r/dndmaps/comments/ctf4k8/dragon_grave/"
 }

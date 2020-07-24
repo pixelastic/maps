@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 537,
     "value": 537
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "I'm really excited for my urban campaign because this map came out so well!",
   "url": "https://www.reddit.com/r/dndmaps/comments/deru4c/inkarnate_im_really_excited_for_my_urban_campaign/"
 }

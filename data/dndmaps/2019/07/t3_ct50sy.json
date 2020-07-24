@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "You might find this useful for a village overview.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ct50sy/you_might_find_this_useful_for_a_village_overview/"
 }

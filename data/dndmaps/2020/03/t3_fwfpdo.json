@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Come look at the Isle of Laming, a commission I did for a friend!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fwfpdo/come_look_at_the_isle_of_laming_a_commission_i/"
 }

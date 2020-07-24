@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Libraria Arcania: Isometric Dungeon Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/9j73ef/libraria_arcania_isometric_dungeon_map/"
 }

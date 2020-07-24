@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Tarran's Cradle (stylized like World of Warcraft)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9w2y5e/tarrans_cradle_stylized_like_world_of_warcraft/"
 }

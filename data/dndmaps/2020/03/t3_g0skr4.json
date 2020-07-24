@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Crossposting this map I made on Inkarnate. Based on a map from an OSR adventure called Winter's Daughter by Necrotic Gnome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g0skr4/crossposting_this_map_i_made_on_inkarnate_based/"
 }

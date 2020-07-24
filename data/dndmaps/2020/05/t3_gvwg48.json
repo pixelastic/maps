@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 480,
     "value": 480
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Bridge Ambush Battlemap   – More details in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gvwg48/the_bridge_ambush_battlemap_30_x_10_3840_x_1280/"
 }

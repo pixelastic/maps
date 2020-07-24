@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 150,
     "value": 150
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Avernus Path battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/f1rmlq/avernus_path_battlemap/"
 }

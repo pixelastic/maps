@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.76,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Animated 'Goblin Ambush' for LMoP (high-res and extras in comment)",
   "url": "https://www.reddit.com/r/dndmaps/comments/h7jq76/reupload_animated_goblin_ambush_for_lmop_highres/"
 }

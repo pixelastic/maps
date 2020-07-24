@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 70,
     "value": 70
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Bakers by the edge - Borderless version in comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/fa9vsb/bakers_by_the_edge_borderless_version_in_comments/"
 }

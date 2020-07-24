@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Random caverns",
   "url": "https://www.reddit.com/r/dndmaps/comments/5tcqw0/random_caverns/"
 }

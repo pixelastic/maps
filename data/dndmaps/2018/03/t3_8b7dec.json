@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 86,
     "value": 86
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Slime-kids and a baby purple worm",
   "url": "https://www.reddit.com/r/dndmaps/comments/8b7dec/slimekids_and_a_baby_purple_worm/"
 }

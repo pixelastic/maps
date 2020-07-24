@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 184,
     "value": 184
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Ravenwood’s Crypt 30x20 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hw83av/ravenwoods_crypt_30x20_battlemap_oc/"
 }

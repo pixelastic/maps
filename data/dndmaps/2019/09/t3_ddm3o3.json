@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 728,
     "value": 728
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Drawing and stippling a simple dungeon map",
   "url": "https://www.reddit.com/r/dndmaps/comments/ddm3o3/ocart_drawing_and_stippling_a_simple_dungeon_map/"
 }

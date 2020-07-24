@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 338,
     "value": 338
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Dungeon of Polite Commentary",
   "url": "https://www.reddit.com/r/dndmaps/comments/a7tnwv/the_dungeon_of_polite_commentary/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first home brewed World Map for the continent of Phaea and the hidden land of Chiton. My first ever DnD game, and one I chose to DM for my friends! Loving all of the world building!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hdqal4/my_first_home_brewed_world_map_for_the_continent/"
 }

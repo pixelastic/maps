@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Ency Glowlands",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8ee9j/gamma_world_fallout_map_the_ency_glowlands/"
 }

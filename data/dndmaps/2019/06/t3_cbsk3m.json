@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 483,
     "value": 483
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "My first map for my first run as a GM, not perfect, but was super fun.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cbsk3m/my_first_map_for_my_first_run_as_a_gm_not_perfect/"
 }

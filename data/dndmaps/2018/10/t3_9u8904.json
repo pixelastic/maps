@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 109,
     "value": 109
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Gilded Sea and its Surroundings",
   "url": "https://www.reddit.com/r/dndmaps/comments/9u8904/the_gilded_sea_and_its_surroundings/"
 }

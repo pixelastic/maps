@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Rotting Root, Return to the Glory. 15x19@70px",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtxbja/rotting_root_return_to_the_glory_15x1970px/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "UVORIA my homebrew campaign overworld map",
   "url": "https://www.reddit.com/r/dndmaps/comments/gme9ax/uvoria_my_homebrew_campaign_overworld_map/"
 }

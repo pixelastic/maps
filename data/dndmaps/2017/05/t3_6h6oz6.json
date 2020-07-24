@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Found yet another way to design a random city.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6h6oz6/found_yet_another_way_to_design_a_random_city/"
 }

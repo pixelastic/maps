@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Trying to learn how to make maps. one of first few attempts.",
   "url": "https://www.reddit.com/r/dndmaps/comments/620clb/trying_to_learn_how_to_make_maps_one_of_first_few/"
 }

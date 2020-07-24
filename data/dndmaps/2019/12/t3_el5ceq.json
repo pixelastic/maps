@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I drew this for a homebrew I'm working on, and I'd love suggestions to recreate/improve the map. Feel free to ask questions. (The red dots are important locations for the story, like cities that I haven't added yet)",
   "url": "https://www.reddit.com/r/dndmaps/comments/el5ceq/i_drew_this_for_a_homebrew_im_working_on_and_id/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Small part of my D&D world - Tangarian islands. By vb.maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/fpus33/oc_art_small_part_of_my_dd_world_tangarian/"
 }

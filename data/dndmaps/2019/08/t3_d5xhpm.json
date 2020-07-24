@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 630,
     "value": 630
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Weaver's Way - Spooky Forest Battle Map (30x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d5xhpm/the_weavers_way_spooky_forest_battle_map_30x30/"
 }

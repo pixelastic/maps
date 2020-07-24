@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Haunted Manor - 1st Floor (Link to 2nd in replies)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ah2v1s/haunted_manor_1st_floor_link_to_2nd_in_replies/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 279,
     "value": 279
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Hand drawn map of Uogralas, City of the Frogs, from one of my D&D campaigns.",
   "url": "https://www.reddit.com/r/dndmaps/comments/exc4ra/hand_drawn_map_of_uogralas_city_of_the_frogs_from/"
 }

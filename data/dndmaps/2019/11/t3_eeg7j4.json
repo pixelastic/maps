@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "A natural cave complex that has been taken over by a Necromancer or Witch or some type of summoner. Just hand drawn. Will drop it into my players game if I need something to fill a gap. :)",
   "url": "https://www.reddit.com/r/dndmaps/comments/eeg7j4/a_natural_cave_complex_that_has_been_taken_over/"
 }

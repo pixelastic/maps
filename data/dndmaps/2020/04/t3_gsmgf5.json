@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Edrael Kingdom map (homebrew.) This is the map ive been building for my campaign. as my players move over the map the have been finding new towns",
   "url": "https://www.reddit.com/r/dndmaps/comments/gsmgf5/edrael_kingdom_map_homebrew_this_is_the_map_ive/"
 }

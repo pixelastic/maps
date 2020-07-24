@@ -16,6 +16,7 @@
   "score": {
     "comments": 30,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1563,
     "value": 1563
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Capital City for our campaign - Used 2minutetabletop.com assets",
   "url": "https://www.reddit.com/r/dndmaps/comments/g955ot/capital_city_for_our_campaign_used/"
 }

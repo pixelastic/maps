@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hey guys! I just joined this community and I want to share this battle map I made.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fgfoua/hey_guys_i_just_joined_this_community_and_i_want/"
 }

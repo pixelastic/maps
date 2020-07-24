@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 145,
     "value": 145
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Here's the dungeon I made to introduce my players to Tucker's Kobolds!",
   "url": "https://www.reddit.com/r/dndmaps/comments/8lxixj/heres_the_dungeon_i_made_to_introduce_my_players/"
 }

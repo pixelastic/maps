@@ -16,6 +16,7 @@
   "score": {
     "comments": 22,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 868,
     "value": 868
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Banquet Hall",
   "url": "https://www.reddit.com/r/dndmaps/comments/gwg34v/banquet_hall/"
 }

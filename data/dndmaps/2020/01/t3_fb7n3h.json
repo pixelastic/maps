@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first 2 maps, Suina and The Guarded Lands (one is a blown up version of a portion the continent)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fb7n3h/my_first_2_maps_suina_and_the_guarded_lands_one/"
 }

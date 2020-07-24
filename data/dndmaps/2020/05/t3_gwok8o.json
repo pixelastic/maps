@@ -16,6 +16,7 @@
   "score": {
     "comments": 34,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1459,
     "value": 1459
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "DunJune 04 - The Chessboard",
   "url": "https://www.reddit.com/r/dndmaps/comments/gwok8o/dunjune_04_the_chessboard/"
 }

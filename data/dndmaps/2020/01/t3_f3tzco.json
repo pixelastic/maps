@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1407,
     "value": 1407
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Throne of Bones",
   "url": "https://www.reddit.com/r/dndmaps/comments/f3tzco/battlemap_throne_of_bones/"
 }

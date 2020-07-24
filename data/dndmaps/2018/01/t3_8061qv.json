@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Coastal Map Making Practice (Region Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/8061qv/coastal_map_making_practice_region_map/"
 }

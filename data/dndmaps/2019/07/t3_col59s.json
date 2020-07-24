@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.77,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first map! Glendeas, the Abyssal Wastes, and the Shards. C&C welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/col59s/my_first_map_glendeas_the_abyssal_wastes_and_the/"
 }

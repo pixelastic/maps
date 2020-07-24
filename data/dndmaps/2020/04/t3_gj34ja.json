@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Is this the right place for this? Map drawn by me for a friend!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gj34ja/is_this_the_right_place_for_this_map_drawn_by_me/"
 }

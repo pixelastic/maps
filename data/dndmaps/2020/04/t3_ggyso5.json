@@ -16,6 +16,7 @@
   "score": {
     "comments": 43,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1204,
     "value": 1204
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Over the last year I have created millions of square feet of battlemaps for our community. These are now available all in one place.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ggyso5/over_the_last_year_i_have_created_millions_of/"
 }

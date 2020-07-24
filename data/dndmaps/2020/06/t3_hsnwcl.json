@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.92,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Elementalist’s Crucible 30x20 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hsnwcl/elementalists_crucible_30x20_battlemap_oc/"
 }

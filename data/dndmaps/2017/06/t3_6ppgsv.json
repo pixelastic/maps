@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A demonic lair I drew over the weekend. took me around 5 hours to finish",
   "url": "https://www.reddit.com/r/dndmaps/comments/6ppgsv/a_demonic_lair_i_drew_over_the_weekend_took_me/"
 }

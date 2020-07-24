@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Here's an isometric tower map for the release of Isometric Dungeon Pack 5! 3000x3000px",
   "url": "https://www.reddit.com/r/dndmaps/comments/c5c5o1/ocheres_an_isometric_tower_map_for_the_release_of/"
 }

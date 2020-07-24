@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 166,
     "value": 166
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "My wife is helping me out with some hand painted maps for an online game... What do you think about her first try?",
   "url": "https://www.reddit.com/r/dndmaps/comments/7gpbco/my_wife_is_helping_me_out_with_some_hand_painted/"
 }

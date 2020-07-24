@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 99,
     "value": 99
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "I colored \"Sirens of Sea and Blood\" by Michael Prescott and Kira Magrann (xpost from /battlemaps)",
   "url": "https://www.reddit.com/r/dndmaps/comments/8i0wtz/i_colored_sirens_of_sea_and_blood_by_michael/"
 }

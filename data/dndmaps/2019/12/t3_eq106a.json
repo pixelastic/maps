@@ -16,6 +16,7 @@
   "score": {
     "comments": 44,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1179,
     "value": 1179
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I know it's not much, but this is my first map for an incoming campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eq106a/i_know_its_not_much_but_this_is_my_first_map_for/"
 }

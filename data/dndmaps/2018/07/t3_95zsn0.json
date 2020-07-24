@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 116,
     "value": 116
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Just uploaded a 4 pack of my drone battle maps to my Patreon!",
   "url": "https://www.reddit.com/r/dndmaps/comments/95zsn0/just_uploaded_a_4_pack_of_my_drone_battle_maps_to/"
 }

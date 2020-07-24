@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 160,
     "value": 160
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A tavern in the sewers? The Stone Troll's Lantern in Waterdeep",
   "url": "https://www.reddit.com/r/dndmaps/comments/dg3bp2/a_tavern_in_the_sewers_the_stone_trolls_lantern/"
 }

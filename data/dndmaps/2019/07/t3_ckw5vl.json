@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 60,
     "value": 60
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World map of Altera. Latest commission all finished",
   "url": "https://www.reddit.com/r/dndmaps/comments/ckw5vl/world_map_of_altera_latest_commission_all_finished/"
 }

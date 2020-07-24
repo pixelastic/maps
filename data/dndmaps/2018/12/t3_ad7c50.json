@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Outer City of Frostward - Unlabelled Inkarnate City Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/ad7c50/the_outer_city_of_frostward_unlabelled_inkarnate/"
 }

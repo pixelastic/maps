@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 168,
     "value": 168
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Verusa",
   "url": "https://www.reddit.com/r/dndmaps/comments/9jlkm6/verusa/"
 }

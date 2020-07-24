@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "East Iduin - The Empire of Glennox",
   "url": "https://www.reddit.com/r/dndmaps/comments/asf5wf/east_iduin_the_empire_of_glennox/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Guilds' Town 5 HQ maps: Normal w/ and w/o labels, Normal w/danger zones, Undercity w/ and w/o labels.",
   "url": "https://www.reddit.com/r/dndmaps/comments/5ykbup/guilds_town_5_hq_maps_normal_w_and_wo_labels/"
 }

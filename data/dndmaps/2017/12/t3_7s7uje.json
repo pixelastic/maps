@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Capital City of Gembrite, the jewel of the north. - Free adventure included",
   "url": "https://www.reddit.com/r/dndmaps/comments/7s7uje/the_capital_city_of_gembrite_the_jewel_of_the/"
 }

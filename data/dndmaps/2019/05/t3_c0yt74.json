@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I made a Hobgoblin fortress a while ago, before Volo's Guide came out",
   "url": "https://www.reddit.com/r/dndmaps/comments/c0yt74/i_made_a_hobgoblin_fortress_a_while_ago_before/"
 }

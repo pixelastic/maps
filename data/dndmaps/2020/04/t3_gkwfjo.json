@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.95,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Blacksmithy Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/gkwfjo/blacksmithy_battlemap_9x12/"
 }

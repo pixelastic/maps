@@ -16,6 +16,7 @@
   "score": {
     "comments": 46,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1469,
     "value": 1469
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The sun had set by the time you reached the blacksmith's house ... something was wrong",
   "url": "https://www.reddit.com/r/dndmaps/comments/ha1z4w/the_sun_had_set_by_the_time_you_reached_the/"
 }

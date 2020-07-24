@@ -16,6 +16,7 @@
   "score": {
     "comments": 32,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 835,
     "value": 835
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Horror of the eldritch sacrifices. Advice, critiques, questions welcome!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gjdz78/horror_of_the_eldritch_sacrifices_advice/"
 }

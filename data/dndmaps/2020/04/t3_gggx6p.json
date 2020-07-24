@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon of the unknow - Made with MAster Mapper",
   "url": "https://www.reddit.com/r/dndmaps/comments/gggx6p/oc_dungeon_of_the_unknow_made_with_master_mapper/"
 }

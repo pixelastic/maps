@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "\"Secret Room\" - Printable, use with minis ;)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bk39w4/secret_room_printable_use_with_minis/"
 }

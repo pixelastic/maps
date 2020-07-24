@@ -16,6 +16,7 @@
   "score": {
     "comments": 28,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 526,
     "value": 526
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I drew this for an upcoming campaign. Any suggestion for improvements? The beast on the right is called Boris...O",
   "url": "https://www.reddit.com/r/dndmaps/comments/cgrqn0/i_drew_this_for_an_upcoming_campaign_any/"
 }

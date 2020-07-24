@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Harpy Cliffs: Town Layer, Building Interior Level, Cave Level, and Cliff Level 50x50 units. More map variations in the comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/65ks76/harpy_cliffs_town_layer_building_interior_level/"
 }

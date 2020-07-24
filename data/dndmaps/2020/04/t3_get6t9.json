@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 92,
     "value": 92
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Gnasher Camp - A Minor Bandit Faction (50x50) (1800x1800px)",
   "url": "https://www.reddit.com/r/dndmaps/comments/get6t9/the_gnasher_camp_a_minor_bandit_faction_50x50/"
 }

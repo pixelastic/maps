@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 297,
     "value": 297
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hall of the Elementals Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fj6vy3/hall_of_the_elementals_battlemap_35x35/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Because I made a dumb error, my first two maps are free! Enjoy!",
   "url": "https://www.reddit.com/r/dndmaps/comments/6mbf84/because_i_made_a_dumb_error_my_first_two_maps_are/"
 }

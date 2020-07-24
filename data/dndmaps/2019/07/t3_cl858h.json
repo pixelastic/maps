@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Shores of Porcelain sea, one of first maps i drawn",
   "url": "https://www.reddit.com/r/dndmaps/comments/cl858h/region_map_oc_shores_of_porcelain_sea_one_of/"
 }

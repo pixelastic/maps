@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Demonic Crossroads, I wonder where these portals should lead?",
   "url": "https://www.reddit.com/r/dndmaps/comments/f5x9s8/demonic_crossroads_i_wonder_where_these_portals/"
 }

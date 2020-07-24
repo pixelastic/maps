@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.63,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Created the basic layout for the start of my players new adventure!",
   "url": "https://www.reddit.com/r/dndmaps/comments/g2xkn8/created_the_basic_layout_for_the_start_of_my/"
 }

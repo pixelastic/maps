@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 66,
     "value": 66
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The land of Ehrodean",
   "url": "https://www.reddit.com/r/dndmaps/comments/80dx2o/the_land_of_ehrodean/"
 }

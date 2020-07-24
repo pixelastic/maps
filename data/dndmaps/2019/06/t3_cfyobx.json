@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Dredgeberry Creek Camp -24 x 21 This is where the creek ends up if the adventurers take the boat",
   "url": "https://www.reddit.com/r/dndmaps/comments/cfyobx/dredgeberry_creek_camp_24_x_21_this_is_where_the/"
 }

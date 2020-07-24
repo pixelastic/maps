@@ -16,6 +16,7 @@
   "score": {
     "comments": 143,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1790,
     "value": 1790
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I'm working on a stone-age 5E setting where the planes of existence haven't separated yet... welcome to PLANEGEA.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gs5kcc/im_working_on_a_stoneage_5e_setting_where_the/"
 }

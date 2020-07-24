@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Winter Lakeside Path Battle Map 24x34",
   "url": "https://www.reddit.com/r/dndmaps/comments/hpqvlv/winter_lakeside_path_battle_map_24x34/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 859,
     "value": 859
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Guild HQ 26x24",
   "url": "https://www.reddit.com/r/dndmaps/comments/evl2ec/guild_hq_26x24/"
 }

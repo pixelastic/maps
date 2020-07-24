@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My ever updating home-brew world that I'm using for my campaign made with Inkarnate. First time making my own world so constantly learning!",
   "url": "https://www.reddit.com/r/dndmaps/comments/flzbyx/my_ever_updating_homebrew_world_that_im_using_for/"
 }

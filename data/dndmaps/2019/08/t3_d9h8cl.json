@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "ELFSONG TAVERN FIRST FLOOR (Descent into Avernus)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d9h8cl/elfsong_tavern_first_floor_descent_into_avernus/"
 }

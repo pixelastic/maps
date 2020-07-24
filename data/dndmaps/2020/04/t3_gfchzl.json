@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Welcome to the Twin Norkers - a busy tavern with a few quiet secrets",
   "url": "https://www.reddit.com/r/dndmaps/comments/gfchzl/welcome_to_the_twin_norkers_a_busy_tavern_with_a/"
 }

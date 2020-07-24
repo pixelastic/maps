@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 53,
     "value": 53
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Continent Map for my Campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/8mgape/continent_map_for_my_campaign/"
 }

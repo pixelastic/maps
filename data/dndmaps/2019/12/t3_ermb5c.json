@@ -16,6 +16,7 @@
   "score": {
     "comments": 59,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 1162,
     "value": 1162
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "This is my homebrew continent of Joral!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ermb5c/this_is_my_homebrew_continent_of_joral/"
 }

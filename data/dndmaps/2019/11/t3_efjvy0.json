@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 102,
     "value": 102
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Desert Oasis (21x29 Grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/efjvy0/ocbattlemap_the_desert_oasis_21x29_grid/"
 }

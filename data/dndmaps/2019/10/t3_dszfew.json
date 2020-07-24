@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 43,
     "value": 43
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Here is the final update for my Dmainian Empire map! Thanks to all redditors who suggested coffee to old the map. More details in the comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/dszfew/here_is_the_final_update_for_my_dmainian_empire/"
 }

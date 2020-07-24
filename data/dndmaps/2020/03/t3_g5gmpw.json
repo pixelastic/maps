@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 61,
     "value": 61
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Trial of the Forest, made using Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/g5gmpw/trial_of_the_forest_made_using_inkarnate/"
 }

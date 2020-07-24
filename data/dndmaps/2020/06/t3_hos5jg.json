@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 129,
     "value": 129
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Helmet Cave Entrance Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/hos5jg/oc_helmet_cave_entrance_battlemap_25x35_3500x4900/"
 }

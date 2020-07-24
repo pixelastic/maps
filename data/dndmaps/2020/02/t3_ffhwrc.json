@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Fondo - Bongo and 'Mom' the one with the pet spider Residence",
   "url": "https://www.reddit.com/r/dndmaps/comments/ffhwrc/fondo_bongo_and_mom_the_one_with_the_pet_spider/"
 }

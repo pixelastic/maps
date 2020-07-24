@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Volstheim: The Broken Kingdom of Ice",
   "url": "https://www.reddit.com/r/dndmaps/comments/geqpg2/volstheim_the_broken_kingdom_of_ice/"
 }

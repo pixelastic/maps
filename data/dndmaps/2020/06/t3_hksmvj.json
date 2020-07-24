@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Have a drone map (quite a few more to come)!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hksmvj/have_a_drone_map_quite_a_few_more_to_come/"
 }

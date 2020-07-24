@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 74,
     "value": 74
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Village Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/5rnkzl/village_map/"
 }

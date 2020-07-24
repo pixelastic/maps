@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map I drew for the region my campaign is set in, feedback?",
   "url": "https://www.reddit.com/r/dndmaps/comments/8muaf2/map_i_drew_for_the_region_my_campaign_is_set_in/"
 }

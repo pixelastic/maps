@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 61,
     "value": 61
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Cloud Giant Castle- 139x120",
   "url": "https://www.reddit.com/r/dndmaps/comments/eaif48/cloud_giant_castle_139x120/"
 }

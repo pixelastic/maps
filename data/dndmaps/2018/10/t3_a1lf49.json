@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Athenaeum of the Lost - Upper Level Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/a1lf49/athenaeum_of_the_lost_upper_level_map/"
 }

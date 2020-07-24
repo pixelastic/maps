@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World map for my homebrew campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/a2imdk/art_oc_world_map_for_my_homebrew_campaign/"
 }

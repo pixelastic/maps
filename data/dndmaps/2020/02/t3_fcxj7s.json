@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Pandemonium Labyrinth, first branch off of Daemonic Crossroad",
   "url": "https://www.reddit.com/r/dndmaps/comments/fcxj7s/pandemonium_labyrinth_first_branch_off_of/"
 }

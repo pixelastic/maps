@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 114,
     "value": 114
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Land of Elaria - The back of the map had lines drawn between points of interest, the players eventually discovered the subsurge, an underground network of water filled tunnels.",
   "url": "https://www.reddit.com/r/dndmaps/comments/alo2f3/the_land_of_elaria_the_back_of_the_map_had_lines/"
 }

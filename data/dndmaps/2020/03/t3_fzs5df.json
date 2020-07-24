@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 482,
     "value": 482
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Cove in the Forest (Alternate version in Comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fzs5df/cove_in_the_forest_alternate_version_in_comments/"
 }

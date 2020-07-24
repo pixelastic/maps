@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.93,
     "ups": 65,
     "value": 65
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Czepeku's First 20 DnD Battlemaps",
   "url": "https://www.reddit.com/r/dndmaps/comments/c7sflz/czepekus_first_20_dnd_battlemaps/"
 }

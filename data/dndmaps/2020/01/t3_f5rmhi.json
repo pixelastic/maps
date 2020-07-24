@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Winter encounter or campsite for my campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f5rmhi/winter_encounter_or_campsite_for_my_campaign/"
 }

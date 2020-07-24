@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Welcome to Harün, a continent separated from the world by divine retribution",
   "url": "https://www.reddit.com/r/dndmaps/comments/eh2awr/welcome_to_harün_a_continent_separated_from_the/"
 }

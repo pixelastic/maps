@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hand-drawn Smuggler's Camp / Clifftop Ruin",
   "url": "https://www.reddit.com/r/dndmaps/comments/gmbczn/handdrawn_smugglers_camp_clifftop_ruin/"
 }

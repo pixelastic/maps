@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The first map I'm happy with the result (Part of \"The Lighthouse of Fortune\")",
   "url": "https://www.reddit.com/r/dndmaps/comments/848ypm/the_first_map_im_happy_with_the_result_part_of/"
 }

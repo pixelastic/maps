@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 256,
     "value": 256
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first map using Wonderdraft. Behold, the countries of Gwynland, the Clovian Empire, and the Sharridian Caliphates.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ajjs7l/my_first_map_using_wonderdraft_behold_the/"
 }

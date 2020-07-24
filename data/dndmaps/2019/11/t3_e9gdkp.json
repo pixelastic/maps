@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 73,
     "value": 73
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Encounter Map for another upcoming battle my party will be having: this one in Limbo!",
   "url": "https://www.reddit.com/r/dndmaps/comments/e9gdkp/encounter_map_for_another_upcoming_battle_my/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Region update (Still a WIP, but this is after about 8 or 9 more hours worth of work, comments welcome)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d8t766/region_update_still_a_wip_but_this_is_after_about/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A meander in the woods (30x30 battlemap)",
   "url": "https://www.reddit.com/r/dndmaps/comments/e21trt/a_meander_in_the_woods_30x30_battlemap/"
 }

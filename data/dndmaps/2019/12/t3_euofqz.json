@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "So I made this map of Valinor, Kingdom in which the adventure of Caedonia passes. I have also created a story for each place and a calendar of events.",
   "url": "https://www.reddit.com/r/dndmaps/comments/euofqz/so_i_made_this_map_of_valinor_kingdom_in_which/"
 }

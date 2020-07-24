@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "40 x 35 Prison Cells/Slave Pens.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dmkz2w/40_x_35_prison_cellsslave_pens/"
 }

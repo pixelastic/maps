@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 629,
     "value": 629
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hideout in the Sewers (20x20) - lore included",
   "url": "https://www.reddit.com/r/dndmaps/comments/fp6df5/hideout_in_the_sewers_20x20_lore_included/"
 }

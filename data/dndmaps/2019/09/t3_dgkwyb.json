@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 83,
     "value": 83
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The view from a cave on a great Dwarven prison",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgkwyb/the_view_from_a_cave_on_a_great_dwarven_prison/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first map, it's not very good and without premium but I like it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gajqfq/my_first_map_its_not_very_good_and_without/"
 }

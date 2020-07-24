@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Lost Garden   Constructive criticism wanted",
   "url": "https://www.reddit.com/r/dndmaps/comments/egffjs/the_lost_garden_25x25_oc_constructive_criticism/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 109,
     "value": 109
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Wintery Keep Sub basement, aquatic assault or sea monster battle!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eywl91/wintery_keep_sub_basement_aquatic_assault_or_sea/"
 }

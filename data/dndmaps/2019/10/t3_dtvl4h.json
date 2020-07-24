@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 43,
     "value": 43
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Glacial Cave Battle Map 30x35",
   "url": "https://www.reddit.com/r/dndmaps/comments/dtvl4h/glacial_cave_battle_map_30x35/"
 }

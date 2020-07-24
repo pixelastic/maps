@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I figured I'd upload the maps I made for my campaign so far to here so others could use them. I hope I've helped at least one of you.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8hk6yz/i_figured_id_upload_the_maps_i_made_for_my/"
 }

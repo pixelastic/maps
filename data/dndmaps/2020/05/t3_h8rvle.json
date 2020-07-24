@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 77,
     "value": 77
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Lava River",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8rvle/lava_river_22x47/"
 }

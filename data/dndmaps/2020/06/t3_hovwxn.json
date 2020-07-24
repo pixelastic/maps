@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "1 vs 1 Warrior Valley Battle Stage",
   "url": "https://www.reddit.com/r/dndmaps/comments/hovwxn/1_vs_1_warrior_valley_battle_stage/"
 }

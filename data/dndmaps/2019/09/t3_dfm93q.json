@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Main Street Battle Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/dfm93q/main_street_battle_map/"
 }

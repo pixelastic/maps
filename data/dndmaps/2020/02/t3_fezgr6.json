@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 55,
     "value": 55
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dragon's Hoard",
   "url": "https://www.reddit.com/r/dndmaps/comments/fezgr6/battlemap30x303500x3500px_dragons_hoard_ocart/"
 }

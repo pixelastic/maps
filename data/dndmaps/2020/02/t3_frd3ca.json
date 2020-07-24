@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 113,
     "value": 113
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first attempt at making a map in Inkarnate, it's a wonderful program and I feel like it went pretty well.",
   "url": "https://www.reddit.com/r/dndmaps/comments/frd3ca/my_first_attempt_at_making_a_map_in_inkarnate_its/"
 }

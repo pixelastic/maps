@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Im hand drawing a serie of random dungeon tiles to be scanned and uploaded on pdf for free download, ideal for use with miniatures on some rpg games, any rec for extra tiles? is the concept interesting?",
   "url": "https://www.reddit.com/r/dndmaps/comments/do01yw/im_hand_drawing_a_serie_of_random_dungeon_tiles/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Old map I made, some names on Spanish C's players are Spanish speakers",
   "url": "https://www.reddit.com/r/dndmaps/comments/dvulbo/old_map_i_made_some_names_on_spanish_cs_players/"
 }

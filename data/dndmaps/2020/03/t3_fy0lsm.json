@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First pass on a map I’ve been working on in quarantine, and I’d love any feedback! A little nod to Critical Role as well!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fy0lsm/first_pass_on_a_map_ive_been_working_on_in/"
 }

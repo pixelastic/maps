@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Cathedral of Fessa   – More details about all 6 maps in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/huxstn/the_cathedral_of_fessa_41_x_56_1024_x_1399_more/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Dwarven Clanhold Level 3 - Free to use.",
   "url": "https://www.reddit.com/r/dndmaps/comments/euvsbj/dwarven_clanhold_level_3_free_to_use/"
 }

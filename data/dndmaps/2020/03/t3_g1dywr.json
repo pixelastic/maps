@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.73,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Just finished this hand drawn map of Morvan: a gothic land of vampires, dark knights and long, harsh winters. Loosely based on the cultures of Eastern Europe... would be great to hear some feedback! See some more history in the comment below.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g1dywr/just_finished_this_hand_drawn_map_of_morvan_a/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first homebrew map! The continent of Arkapay.",
   "url": "https://www.reddit.com/r/dndmaps/comments/822y5u/region_my_first_homebrew_map_the_continent_of/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "New Campaign? New Inn! The Iyesgarten Inn",
   "url": "https://www.reddit.com/r/dndmaps/comments/emgzrr/new_campaign_new_inn_the_iyesgarten_inn/"
 }

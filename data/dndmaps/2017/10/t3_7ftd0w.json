@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Realm of Aberyum, my nearly finished homebrew campaign setting.",
   "url": "https://www.reddit.com/r/dndmaps/comments/7ftd0w/the_realm_of_aberyum_my_nearly_finished_homebrew/"
 }

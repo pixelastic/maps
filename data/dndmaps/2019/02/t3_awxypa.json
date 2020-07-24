@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hut in the Woods v2.0 based on feedback",
   "url": "https://www.reddit.com/r/dndmaps/comments/awxypa/oc_hut_in_the_woods_v20_based_on_feedback/"
 }

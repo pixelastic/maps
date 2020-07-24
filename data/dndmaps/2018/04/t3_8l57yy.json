@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Looking for some C&C on my first map that I plan to use for an upcoming campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/8l57yy/looking_for_some_cc_on_my_first_map_that_i_plan/"
 }

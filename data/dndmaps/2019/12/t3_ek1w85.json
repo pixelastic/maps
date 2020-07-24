@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I found a Dyson Logos sewer map I liked and decided to recreate it by hand on A3 paper...",
   "url": "https://www.reddit.com/r/dndmaps/comments/ek1w85/i_found_a_dyson_logos_sewer_map_i_liked_and/"
 }

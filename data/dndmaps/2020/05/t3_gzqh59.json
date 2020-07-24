@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1263,
     "value": 1263
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Medieval Armour Shop Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/gzqh59/medieval_armour_shop_battlemap_16x14/"
 }

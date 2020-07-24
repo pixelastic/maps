@@ -16,6 +16,7 @@
   "score": {
     "comments": 38,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1366,
     "value": 1366
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Desert Temple",
   "url": "https://www.reddit.com/r/dndmaps/comments/g13mme/oc49_x_80_desert_temple/"
 }

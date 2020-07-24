@@ -16,6 +16,7 @@
   "score": {
     "comments": 47,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1045,
     "value": 1045
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map of Neverwinter, with French annotations. Made it for LMoP as it was frustrating to have nothing to offer my players in search of allies, items and quests. Took some liberties with the city layout, architecture style, bridges, temples, the Chasm, etc. as my group knows very little 5E lore.",
   "url": "https://www.reddit.com/r/dndmaps/comments/e512dq/map_of_neverwinter_with_french_annotations_made/"
 }

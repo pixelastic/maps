@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.75,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Anyone ever use this map for dnd?",
   "url": "https://www.reddit.com/r/dndmaps/comments/fs1yqj/anyone_ever_use_this_map_for_dnd/"
 }

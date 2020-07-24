@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 288,
     "value": 288
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The next map in my quest to get better at isometric maps, that I’m dubbing the “and other cliches you can throw at your players” collection",
   "url": "https://www.reddit.com/r/dndmaps/comments/gk2zke/the_next_map_in_my_quest_to_get_better_at/"
 }

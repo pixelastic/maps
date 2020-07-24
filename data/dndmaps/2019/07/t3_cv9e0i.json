@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 141,
     "value": 141
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Desert Portal Map (Free)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cv9e0i/desert_portal_map_free/"
 }

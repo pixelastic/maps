@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Fields of Sativan, The Spring Kingdom. Part of the Ganjaria Campaign Setting for WeeDnD (Link in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/giop4h/the_fields_of_sativan_the_spring_kingdom_part_of/"
 }

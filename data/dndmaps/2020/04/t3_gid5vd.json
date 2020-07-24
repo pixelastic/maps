@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 175,
     "value": 175
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Work in progress on my new map battle map",
   "url": "https://www.reddit.com/r/dndmaps/comments/gid5vd/oc_work_in_progress_on_my_new_map_battle_map/"
 }

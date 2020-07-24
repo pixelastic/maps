@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 862,
     "value": 862
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Treetop Town Marketplace - 52x55",
   "url": "https://www.reddit.com/r/dndmaps/comments/cptg9a/treetop_town_marketplace_52x55/"
 }

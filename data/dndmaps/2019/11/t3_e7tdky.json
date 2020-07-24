@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1006,
     "value": 1006
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Arena Battle Map 36x25",
   "url": "https://www.reddit.com/r/dndmaps/comments/e7tdky/forest_arena_battle_map_36x25/"
 }

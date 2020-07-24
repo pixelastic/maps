@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Any suggestions to make my world map look better",
   "url": "https://www.reddit.com/r/dndmaps/comments/7hxtvp/any_suggestions_to_make_my_world_map_look_better/"
 }

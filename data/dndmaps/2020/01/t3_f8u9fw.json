@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 167,
     "value": 167
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Trouble at the Crystal Mines",
   "url": "https://www.reddit.com/r/dndmaps/comments/f8u9fw/trouble_at_the_crystal_mines_21x33/"
 }

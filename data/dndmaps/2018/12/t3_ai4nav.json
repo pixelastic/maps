@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first map based on Bretonnia for a warhammer adventure.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ai4nav/my_first_map_based_on_bretonnia_for_a_warhammer/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 159,
     "value": 159
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Spider’s Cleft 40x22",
   "url": "https://www.reddit.com/r/dndmaps/comments/g4tr7x/ocanimatedperspective_spiders_cleft_40x22/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.95,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Beneath the Red Spring Tavern",
   "url": "https://www.reddit.com/r/dndmaps/comments/dwa43h/beneath_the_red_spring_tavern/"
 }

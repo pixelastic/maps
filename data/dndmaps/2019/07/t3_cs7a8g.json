@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first ever attempt at an original map for a campaign I just started last month, kinda square I know, I actually did most of it on mobile which is my excuse.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cs7a8g/my_first_ever_attempt_at_an_original_map_for_a/"
 }

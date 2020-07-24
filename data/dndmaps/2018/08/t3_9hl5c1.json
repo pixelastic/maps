@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 39,
     "value": 39
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Since the original wasn't the best picture I went over the lines with pen on a new copy to scan it in properly.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9hl5c1/update_since_the_original_wasnt_the_best_picture/"
 }

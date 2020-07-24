@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I heard from a friend of mine that I should post the map I drew here, because it perfectly fits the game, so I hope you like that 🐉🧭",
   "url": "https://www.reddit.com/r/dndmaps/comments/diwmhl/i_heard_from_a_friend_of_mine_that_i_should_post/"
 }

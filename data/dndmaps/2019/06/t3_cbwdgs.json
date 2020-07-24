@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 80,
     "value": 80
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "MY FIRST DND MAP: Layer 1 of a Fortress Based On The Pathfinder Map of Cassomir (80x80 unit map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cbwdgs/my_first_dnd_map_layer_1_of_a_fortress_based_on/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "0-1-0 Secrets: Symmetrical complex filled with secrets south of caverns with a chasm",
   "url": "https://www.reddit.com/r/dndmaps/comments/aejvjo/010_secrets_symmetrical_complex_filled_with/"
 }

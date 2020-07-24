@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.67,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A Map through Time: The Age of Reclamation (Part 6/6!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ghrw3h/a_map_through_time_the_age_of_reclamation_part_66/"
 }

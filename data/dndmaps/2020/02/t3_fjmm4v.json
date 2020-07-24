@@ -16,6 +16,7 @@
   "score": {
     "comments": 64,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1842,
     "value": 1842
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Mont-Saint-Michel, the great French fortress abbey, drawn directly from floor plans where possible. One of the biggest maps I've ever made. There are useful things in the comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fjmm4v/montsaintmichel_the_great_french_fortress_abbey/"
 }

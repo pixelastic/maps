@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Hotun-Shûl, an ancient stone giants temple - a nice side dungeon for Storm King's Thunder",
   "url": "https://www.reddit.com/r/dndmaps/comments/9jtl8a/hotunshûl_an_ancient_stone_giants_temple_a_nice/"
 }

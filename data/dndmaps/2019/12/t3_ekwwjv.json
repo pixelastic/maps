@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Been working on this map for a long time.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ekwwjv/been_working_on_this_map_for_a_long_time/"
 }

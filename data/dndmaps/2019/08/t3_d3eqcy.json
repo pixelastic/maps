@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The island nation of Dandrial. It is a series of several island nations created after the Great Drowning.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d3eqcy/the_island_nation_of_dandrial_it_is_a_series_of/"
 }

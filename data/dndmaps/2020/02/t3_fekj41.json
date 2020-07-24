@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Three stories of The Rusty Mule Tavern, for my homebrew campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/fekj41/three_stories_of_the_rusty_mule_tavern_for_my/"
 }

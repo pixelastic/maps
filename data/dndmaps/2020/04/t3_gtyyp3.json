@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1371,
     "value": 1371
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Acrophobia Abyss 40x22",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtyyp3/ocanimatedperspectiveacrophobia_abyss_40x22/"
 }

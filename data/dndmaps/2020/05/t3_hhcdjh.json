@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "5 Room Dungeon: My neighbor and his kid were interested in learning DnD, so I set up a little dungeon crawl in a cave. They were asked with retrieving some of Gundren Rockseeker's family treasure from a cave on his property. The cave had been taken over by two kobolds. (more details in the comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hhcdjh/5_room_dungeon_my_neighbor_and_his_kid_were/"
 }

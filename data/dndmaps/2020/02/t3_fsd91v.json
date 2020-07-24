@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1006,
     "value": 1006
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Drew a dungeon map for my players",
   "url": "https://www.reddit.com/r/dndmaps/comments/fsd91v/drew_a_dungeon_map_for_my_players/"
 }

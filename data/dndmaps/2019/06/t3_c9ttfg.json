@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 165,
     "value": 165
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Snowy Hill Battle Map 30x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/c9ttfg/snowy_hill_battle_map_30x30/"
 }

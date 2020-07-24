@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 99,
     "value": 99
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Enchanted Tree Village",
   "url": "https://www.reddit.com/r/dndmaps/comments/ex93q5/oc_enchanted_tree_village/"
 }

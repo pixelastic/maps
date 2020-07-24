@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.8,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Atlas Elyden #41 Aquariia",
   "url": "https://www.reddit.com/r/dndmaps/comments/asotra/atlas_elyden_41_aquariia/"
 }

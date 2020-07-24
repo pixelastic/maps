@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A disgusting incomprehensible giant brain dungeon! The Illithid Oneiric Collective.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8s46f7/a_disgusting_incomprehensible_giant_brain_dungeon/"
 }

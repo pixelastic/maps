@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Regional map of a seafaring campaign I'm currently preparing - the Sea of Exploit",
   "url": "https://www.reddit.com/r/dndmaps/comments/6o5eec/regional_map_of_a_seafaring_campaign_im_currently/"
 }

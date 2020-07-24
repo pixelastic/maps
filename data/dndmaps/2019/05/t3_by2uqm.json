@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 138,
     "value": 138
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Docks 50x50",
   "url": "https://www.reddit.com/r/dndmaps/comments/by2uqm/the_docks_50x50/"
 }

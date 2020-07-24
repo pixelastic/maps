@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 264,
     "value": 264
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Encampment",
   "url": "https://www.reddit.com/r/dndmaps/comments/cm04n9/encampment/"
 }

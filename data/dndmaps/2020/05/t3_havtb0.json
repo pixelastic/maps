@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 61,
     "value": 61
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Around the Wheatsea - A little area in the west of my homebrew world",
   "url": "https://www.reddit.com/r/dndmaps/comments/havtb0/around_the_wheatsea_a_little_area_in_the_west_of/"
 }

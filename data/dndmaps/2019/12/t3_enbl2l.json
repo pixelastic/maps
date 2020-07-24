@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 435,
     "value": 435
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Hunting Lodge - A Three Level Manor, Courtyard and Ritual Chamber!",
   "url": "https://www.reddit.com/r/dndmaps/comments/enbl2l/the_hunting_lodge_a_three_level_manor_courtyard/"
 }

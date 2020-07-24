@@ -16,6 +16,7 @@
   "score": {
     "comments": 23,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 674,
     "value": 674
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ice Wall Battle Map (34x50)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bqxfs5/oc_ice_wall_battle_map_34x50/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 27,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1614,
     "value": 1614
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Bridge Crossing for my next encounter.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f8o0i7/the_bridge_crossing_for_my_next_encounter/"
 }

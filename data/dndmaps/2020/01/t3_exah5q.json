@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World Map of my campaing - The New World, 1503 E.G.",
   "url": "https://www.reddit.com/r/dndmaps/comments/exah5q/world_map_of_my_campaing_the_new_world_1503_eg/"
 }

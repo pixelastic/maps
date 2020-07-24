@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "'Ecor', western ocean continent. I would appreciate any feedback.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gpzep4/oc_ecor_western_ocean_continent_i_would/"
 }

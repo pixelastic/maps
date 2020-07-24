@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Just spent a few hours on my first map for my dnd campaign and would love some feedback!",
   "url": "https://www.reddit.com/r/dndmaps/comments/g6w484/just_spent_a_few_hours_on_my_first_map_for_my_dnd/"
 }

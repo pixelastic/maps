@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 249,
     "value": 249
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Neverwinter: House of Knowledge Plan (Useable!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/c9iow2/neverwinter_house_of_knowledge_plan_useable/"
 }

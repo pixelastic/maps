@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Inkarnate's new parchment mode has become my new favorite real quick. Started a new game just so I can use this map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fwmr9g/inkarnates_new_parchment_mode_has_become_my_new/"
 }

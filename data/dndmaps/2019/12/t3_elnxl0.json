@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Khorvaire (Eberron) with all text, roads, and railroads removed.",
   "url": "https://www.reddit.com/r/dndmaps/comments/elnxl0/khorvaire_eberron_with_all_text_roads_and/"
 }

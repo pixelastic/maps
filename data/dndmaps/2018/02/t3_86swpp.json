@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Region map of the main continent of my homebrew world",
   "url": "https://www.reddit.com/r/dndmaps/comments/86swpp/region_map_of_the_main_continent_of_my_homebrew/"
 }

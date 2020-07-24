@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Cagair Caoin | Regional setting for my one shots.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9sj5qi/cagair_caoin_regional_setting_for_my_one_shots/"
 }

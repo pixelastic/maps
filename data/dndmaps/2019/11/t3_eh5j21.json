@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 876,
     "value": 876
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Path Battle Map 24x36",
   "url": "https://www.reddit.com/r/dndmaps/comments/eh5j21/forest_path_battle_map_24x36/"
 }

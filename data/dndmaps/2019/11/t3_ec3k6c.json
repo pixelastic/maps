@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Kerrisbur, a first attempt at something on vanilla Inkarnate. Any advice of \"Do's and Don'ts\" for campaign mapping is welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ec3k6c/kerrisbur_a_first_attempt_at_something_on_vanilla/"
 }

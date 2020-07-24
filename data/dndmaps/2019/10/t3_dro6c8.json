@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Expanding the sewers from Waterdeep Dragon Heist - the Cage Street Sewer Nexus",
   "url": "https://www.reddit.com/r/dndmaps/comments/dro6c8/expanding_the_sewers_from_waterdeep_dragon_heist/"
 }

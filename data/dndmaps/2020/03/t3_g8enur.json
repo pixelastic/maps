@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1342,
     "value": 1342
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Northern Land of Giants",
   "url": "https://www.reddit.com/r/dndmaps/comments/g8enur/northern_land_of_giants_part_03_15x26/"
 }

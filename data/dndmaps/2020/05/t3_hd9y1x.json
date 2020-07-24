@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 59,
     "value": 59
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Lair of Primus Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/hd9y1x/lair_of_primus_battlemap_26x42/"
 }

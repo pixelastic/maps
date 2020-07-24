@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 71,
     "value": 71
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Skjærgård, a viking archipelago and one of my first attempts at a fantasy map",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2w0x5/skjærgård_a_viking_archipelago_and_one_of_my/"
 }

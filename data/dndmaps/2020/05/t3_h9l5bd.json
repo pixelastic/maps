@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Unkeyed city map in case anyone needs",
   "url": "https://www.reddit.com/r/dndmaps/comments/h9l5bd/oc_unkeyed_city_map_in_case_anyone_needs/"
 }

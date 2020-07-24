@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World Map for a Western Inspired D&D Campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/e2uamj/world_map_for_a_western_inspired_dd_campaign/"
 }

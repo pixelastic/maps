@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 180,
     "value": 180
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I made this map with my new tool that also features playing online. More info in comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkz7fg/i_made_this_map_with_my_new_tool_that_also/"
 }

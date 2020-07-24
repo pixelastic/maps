@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Darkwind Crypt",
   "url": "https://www.reddit.com/r/dndmaps/comments/gx7xj6/oc_darkwind_crypt_dungeonbattlemap2000x200050px/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 42,
     "value": 42
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Church w/ Undercity 50x50 units, multiple variations: no dungeon dressing, dark/light, etc.",
   "url": "https://www.reddit.com/r/dndmaps/comments/64vgtf/church_w_undercity_50x50_units_multiple/"
 }

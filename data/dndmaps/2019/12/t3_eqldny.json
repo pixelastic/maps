@@ -16,6 +16,7 @@
   "score": {
     "comments": 55,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 2635,
     "value": 2635
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Crawl – a creepy crawly dungeon trap",
   "url": "https://www.reddit.com/r/dndmaps/comments/eqldny/oc_dungeon_crawl_a_creepy_crawly_dungeon_trap/"
 }

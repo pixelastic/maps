@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "3 Levels Tavern, With Fight Pit and Prision",
   "url": "https://www.reddit.com/r/dndmaps/comments/bhuf7c/3_levels_tavern_with_fight_pit_and_prision/"
 }

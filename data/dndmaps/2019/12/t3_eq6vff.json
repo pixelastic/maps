@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Running my first campaign tomorrow. Here is the dungeon I drew. First time drawing a map, feedback welcome! 24 X 36",
   "url": "https://www.reddit.com/r/dndmaps/comments/eq6vff/running_my_first_campaign_tomorrow_here_is_the/"
 }

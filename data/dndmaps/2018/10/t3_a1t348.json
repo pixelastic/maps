@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 281,
     "value": 281
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Old Rampart Inn - An inn built amid the ruins of an old fortress",
   "url": "https://www.reddit.com/r/dndmaps/comments/a1t348/the_old_rampart_inn_an_inn_built_amid_the_ruins/"
 }

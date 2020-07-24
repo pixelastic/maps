@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 194,
     "value": 194
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Plaza - 30x20 Battle Map (Ideal for Port Nyanzaru, Chult)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bk935j/the_plaza_30x20_battle_map_ideal_for_port/"
 }

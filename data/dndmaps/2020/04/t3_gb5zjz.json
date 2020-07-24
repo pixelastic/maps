@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 235,
     "value": 235
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Desert Castle battle map (+quest)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gb5zjz/desert_castle_battle_map_quest/"
 }

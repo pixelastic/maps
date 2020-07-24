@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 57,
     "value": 57
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Temple of the Sun   – More details in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gkg9l2/the_temple_of_the_sun_15x25_1900x3200_more/"
 }

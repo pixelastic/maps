@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The Mangrove Portal, A bottomless pit that leads into a cave system where the remains of a Draco-Lich have been mined for powerful ritual components for a sinister mage order. Until the shipments of bone shards stopped coming.",
   "url": "https://www.reddit.com/r/dndmaps/comments/esi2sh/the_mangrove_portal_a_bottomless_pit_that_leads/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 818,
     "value": 818
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Cultist Underground Hideout",
   "url": "https://www.reddit.com/r/dndmaps/comments/hhs9wp/oc_cultist_underground_hideout/"
 }

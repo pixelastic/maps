@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Portals of Cyphus   – More details about all 6 maps in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hqo9xo/the_portals_of_cyphus_20_x_20_2560_x_2560_more/"
 }

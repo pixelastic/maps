@@ -16,6 +16,7 @@
   "score": {
     "comments": 29,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1806,
     "value": 1806
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A Lonely Hilltop - Battle Map 30x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/gehx1k/a_lonely_hilltop_battle_map_30x30/"
 }

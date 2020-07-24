@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Trying out a pen and paper maps for my session notes",
   "url": "https://www.reddit.com/r/dndmaps/comments/dkzwki/trying_out_a_pen_and_paper_maps_for_my_session/"
 }

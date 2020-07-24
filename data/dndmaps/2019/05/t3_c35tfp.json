@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 84,
     "value": 84
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "FREE \"Bandits Hideout\" 20x30 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/c35tfp/free_bandits_hideout_20x30_battlemap_oc/"
 }

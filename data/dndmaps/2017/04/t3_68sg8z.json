@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 93,
     "value": 93
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Temple of a Tree",
   "url": "https://www.reddit.com/r/dndmaps/comments/68sg8z/temple_of_a_tree/"
 }

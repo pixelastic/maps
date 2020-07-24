@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The metropolis of Alanwick - the first city map I ever made; done with paint.net.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ctjjlj/the_metropolis_of_alanwick_the_first_city_map_i/"
 }

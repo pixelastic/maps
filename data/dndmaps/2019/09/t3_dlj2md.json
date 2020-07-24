@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "High Hall Cathedral - Balcony (Descent into Avernus)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dlj2md/high_hall_cathedral_balcony_descent_into_avernus/"
 }

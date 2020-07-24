@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Fortified Quarry in a Canyon",
   "url": "https://www.reddit.com/r/dndmaps/comments/c0a7uj/fortified_quarry_in_a_canyon/"
 }

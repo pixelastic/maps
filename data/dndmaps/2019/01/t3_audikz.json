@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 299,
     "value": 299
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Outpost of the southern walls",
   "url": "https://www.reddit.com/r/dndmaps/comments/audikz/oc_outpost_of_the_southern_walls/"
 }

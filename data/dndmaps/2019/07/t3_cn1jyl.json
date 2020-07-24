@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 274,
     "value": 274
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Battlemap - Desert Mountain Mine",
   "url": "https://www.reddit.com/r/dndmaps/comments/cn1jyl/battlemap_desert_mountain_mine/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 278,
     "value": 278
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Smuggler's Lodge",
   "url": "https://www.reddit.com/r/dndmaps/comments/d3eb4v/smugglers_lodge/"
 }

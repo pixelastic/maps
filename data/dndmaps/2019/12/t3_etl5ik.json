@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 156,
     "value": 156
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My First Map - Coffee Stained it as well. I’m very happy with the finished product.",
   "url": "https://www.reddit.com/r/dndmaps/comments/etl5ik/my_first_map_coffee_stained_it_as_well_im_very/"
 }

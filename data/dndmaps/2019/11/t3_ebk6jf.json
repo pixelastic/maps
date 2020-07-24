@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 56,
     "value": 56
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Fowlsfield Citadel - a FREE 61 x 75 Fortress with 3 stories and an underground dungeon",
   "url": "https://www.reddit.com/r/dndmaps/comments/ebk6jf/fowlsfield_citadel_a_free_61_x_75_fortress_with_3/"
 }

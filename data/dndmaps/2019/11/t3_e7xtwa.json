@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 890,
     "value": 890
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Phandalin - years later",
   "url": "https://www.reddit.com/r/dndmaps/comments/e7xtwa/phandalin_years_later/"
 }

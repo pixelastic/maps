@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 365,
     "value": 365
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Floating bridges and an island surrounded by lava. This is where we battle a BBEG",
   "url": "https://www.reddit.com/r/dndmaps/comments/ahm7uy/floating_bridges_and_an_island_surrounded_by_lava/"
 }

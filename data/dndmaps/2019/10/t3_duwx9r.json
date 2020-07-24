@@ -16,6 +16,7 @@
   "score": {
     "comments": 48,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1466,
     "value": 1466
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A hand-drawn and coffee-stained map I made for my brother’s first homebrew campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/duwx9r/a_handdrawn_and_coffeestained_map_i_made_for_my/"
 }

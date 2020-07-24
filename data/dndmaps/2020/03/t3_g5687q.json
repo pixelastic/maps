@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Town map I made for a homebrew campaign. My first time map making, what do you lot think?",
   "url": "https://www.reddit.com/r/dndmaps/comments/g5687q/town_map_i_made_for_a_homebrew_campaign_my_first/"
 }

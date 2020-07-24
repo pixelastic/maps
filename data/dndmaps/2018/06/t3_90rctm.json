@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A valley map with swamp. Looking to improve my work. Feedback is always appreciated, as are ideas for other maps.",
   "url": "https://www.reddit.com/r/dndmaps/comments/90rctm/a_valley_map_with_swamp_looking_to_improve_my/"
 }

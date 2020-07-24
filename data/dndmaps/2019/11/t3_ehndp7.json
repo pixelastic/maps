@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 39,
     "value": 39
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Watchtower in the hills - An A1 printable map also ready for VTT",
   "url": "https://www.reddit.com/r/dndmaps/comments/ehndp7/watchtower_in_the_hills_an_a1_printable_map_also/"
 }

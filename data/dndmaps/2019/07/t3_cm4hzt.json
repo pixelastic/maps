@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 94,
     "value": 94
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My most recent hand drawn map. Feel free to use it for your homebrew :)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cm4hzt/my_most_recent_hand_drawn_map_feel_free_to_use_it/"
 }

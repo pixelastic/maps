@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 87,
     "value": 87
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "This is a culture map of my original Rhodoyevan Republic. I dedicate this to my father for father's day, I wouldn't be here doing what I do without him. He has been there every step of the way, and I owe him much more than anything I can give.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hdm713/this_is_a_culture_map_of_my_original_rhodoyevan/"
 }

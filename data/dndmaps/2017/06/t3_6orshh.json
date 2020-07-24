@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Working on a my first true home brew campaign, \"The Lesser Realm of Myermyth\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/6orshh/working_on_a_my_first_true_home_brew_campaign_the/"
 }

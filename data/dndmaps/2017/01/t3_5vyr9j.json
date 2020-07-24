@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 110,
     "value": 110
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Hey I want to share today's drawing in isometric style.",
   "url": "https://www.reddit.com/r/dndmaps/comments/5vyr9j/hey_i_want_to_share_todays_drawing_in_isometric/"
 }

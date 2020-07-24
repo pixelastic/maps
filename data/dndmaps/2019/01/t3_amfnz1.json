@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Grand Waterfall, with a cave behind it and both summer/winter versions. Perfect for a lair!",
   "url": "https://www.reddit.com/r/dndmaps/comments/amfnz1/grand_waterfall_with_a_cave_behind_it_and_both/"
 }

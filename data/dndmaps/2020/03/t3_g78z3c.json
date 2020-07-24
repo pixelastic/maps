@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 639,
     "value": 639
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A region map for our live-streamed D&D sessions!",
   "url": "https://www.reddit.com/r/dndmaps/comments/g78z3c/a_region_map_for_our_livestreamed_dd_sessions/"
 }

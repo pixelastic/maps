@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Did some DM prepwork in Inkarnate yesterday. Welcome to the Ice Cavern!",
   "url": "https://www.reddit.com/r/dndmaps/comments/g8i87f/did_some_dm_prepwork_in_inkarnate_yesterday/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 783,
     "value": 783
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "DEMON TEMPLE FREE BATLLEMAP (30x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/c92fok/demon_temple_free_batllemap_30x30/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "3-story executive mansion map (OC)",
   "url": "https://www.reddit.com/r/dndmaps/comments/by5ecj/3story_executive_mansion_map_oc/"
 }

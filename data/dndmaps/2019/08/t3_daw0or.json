@@ -16,6 +16,7 @@
   "score": {
     "comments": 38,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 72,
     "value": 72
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Giant Octopus Skeleton 15x18",
   "url": "https://www.reddit.com/r/dndmaps/comments/daw0or/giant_octopus_skeleton_15x18/"
 }

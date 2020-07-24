@@ -16,6 +16,7 @@
   "score": {
     "comments": 26,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 828,
     "value": 828
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Mountain Pass Free Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/bdifl6/the_mountain_pass_free_map/"
 }

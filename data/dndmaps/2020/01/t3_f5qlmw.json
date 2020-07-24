@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "1st attempt at a cave. Mine of Firsk",
   "url": "https://www.reddit.com/r/dndmaps/comments/f5qlmw/1st_attempt_at_a_cave_mine_of_firsk/"
 }

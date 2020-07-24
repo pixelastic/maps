@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.78,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First map, its roughly New England, game is set in post apocalypse.",
   "url": "https://www.reddit.com/r/dndmaps/comments/daa7oz/first_map_its_roughly_new_england_game_is_set_in/"
 }

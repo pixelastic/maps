@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 628,
     "value": 628
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Nentir - My campaign map",
   "url": "https://www.reddit.com/r/dndmaps/comments/cr8sxj/nentir_my_campaign_map/"
 }

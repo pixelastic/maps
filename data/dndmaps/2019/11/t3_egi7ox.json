@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 940,
     "value": 940
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A pirate-city port, inspired by someone's comment.",
   "url": "https://www.reddit.com/r/dndmaps/comments/egi7ox/a_piratecity_port_inspired_by_someones_comment/"
 }

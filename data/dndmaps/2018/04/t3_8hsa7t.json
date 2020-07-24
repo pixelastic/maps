@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.67,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "This is a map I'm making for my first campaign of D&D I'm running. Any constructive criticism is welcomed.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8hsa7t/this_is_a_map_im_making_for_my_first_campaign_of/"
 }

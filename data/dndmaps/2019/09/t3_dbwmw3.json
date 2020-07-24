@@ -16,6 +16,7 @@
   "score": {
     "comments": 30,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 58,
     "value": 58
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map for our campaign. Blue line is player progression. Work in progress!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dbwmw3/map_for_our_campaign_blue_line_is_player/"
 }

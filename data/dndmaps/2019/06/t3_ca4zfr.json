@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Ruins of Ill, a once growing City fallen to a mysterious plague.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ca4zfr/the_ruins_of_ill_a_once_growing_city_fallen_to_a/"
 }

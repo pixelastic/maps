@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A hideout/base map I call The Skinner's Sanctum (for use in personal campaigns)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fl8kkh/a_hideoutbase_map_i_call_the_skinners_sanctum_for/"
 }

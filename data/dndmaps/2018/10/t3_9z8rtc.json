@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My world map of Atlanett (traced straight from ATLA, avatar the last airbender)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9z8rtc/my_world_map_of_atlanett_traced_straight_from/"
 }

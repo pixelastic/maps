@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Two provinces in the continent I'm working on. I wanted a larger scale so I photoshopped two pieces together.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6m7jrk/two_provinces_in_the_continent_im_working_on_i/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I'm making the megadungeon from the video game Exanima into a playable dungeon for DnD!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hix1m4/im_making_the_megadungeon_from_the_video_game/"
 }

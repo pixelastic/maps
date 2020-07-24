@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1401,
     "value": 1401
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Sea Hag Lair",
   "url": "https://www.reddit.com/r/dndmaps/comments/hoqbfu/sea_hag_lair_29x44/"
 }

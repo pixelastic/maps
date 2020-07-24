@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A new campaign map for my friend’s DND game inspired by Warhammer Fantasy (Comments would be nice for improvements)",
   "url": "https://www.reddit.com/r/dndmaps/comments/deoxsl/a_new_campaign_map_for_my_friends_dnd_game/"
 }

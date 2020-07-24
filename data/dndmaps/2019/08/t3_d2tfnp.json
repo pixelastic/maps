@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 232,
     "value": 232
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Mage's Tower / School",
   "url": "https://www.reddit.com/r/dndmaps/comments/d2tfnp/mages_tower_school/"
 }

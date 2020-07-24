@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 68,
     "value": 68
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Parnil: A Bigger Region Map with Troll Holes :)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hmsa7c/parnil_a_bigger_region_map_with_troll_holes/"
 }

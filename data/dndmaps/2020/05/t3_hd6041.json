@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "1st map I’ve drawn. I’m so looking for giving it to my players.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hd6041/1st_map_ive_drawn_im_so_looking_for_giving_it_to/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ocultic Camp, 1st map, Dungeoncraft",
   "url": "https://www.reddit.com/r/dndmaps/comments/hcflmx/ocultic_camp_1st_map_dungeoncraft/"
 }

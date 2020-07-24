@@ -15,6 +15,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 225,
     "value": 225
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Riverside Community",
   "url": "https://www.reddit.com/r/dndmaps/comments/dif9be/riverside_community/"
 }

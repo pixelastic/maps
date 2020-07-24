@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 171,
     "value": 171
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Kraken's Garden (30x30 Battle Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cf69mo/the_krakens_garden_30x30_battle_map/"
 }

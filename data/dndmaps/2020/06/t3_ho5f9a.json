@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 63,
     "value": 63
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Lorgval - Known part of the world",
   "url": "https://www.reddit.com/r/dndmaps/comments/ho5f9a/lorgval_known_part_of_the_world/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A little map I made. Any and all criticism is welcome",
   "url": "https://www.reddit.com/r/dndmaps/comments/bb0dba/a_little_map_i_made_any_and_all_criticism_is/"
 }

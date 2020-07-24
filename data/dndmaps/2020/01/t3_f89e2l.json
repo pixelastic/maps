@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Minotaur labyrinth magically hovering over an underground lake! Complete with mysterious pit leading to the underdark. monsters not included.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f89e2l/minotaur_labyrinth_magically_hovering_over_an/"
 }

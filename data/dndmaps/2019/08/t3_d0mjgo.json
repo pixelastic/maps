@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 168,
     "value": 168
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Gardens of the Absent City - a ledger-sized dungeon",
   "url": "https://www.reddit.com/r/dndmaps/comments/d0mjgo/gardens_of_the_absent_city_a_ledgersized_dungeon/"
 }

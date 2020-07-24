@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 67,
     "value": 67
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Recreation: Helgen Keep Cave of Skyrim",
   "url": "https://www.reddit.com/r/dndmaps/comments/gl4g9l/recreation_helgen_keep_cave_of_skyrim_30x70/"
 }

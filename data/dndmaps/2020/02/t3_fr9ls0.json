@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Cabin in the Woods 30 x 40",
   "url": "https://www.reddit.com/r/dndmaps/comments/fr9ls0/cabin_in_the_woods_30_x_40/"
 }

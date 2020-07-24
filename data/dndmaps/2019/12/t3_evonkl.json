@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Crustacean Keep -  Full Layout in comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/evonkl/oc_crustacean_keep_83x61_full_layout_in_comments/"
 }

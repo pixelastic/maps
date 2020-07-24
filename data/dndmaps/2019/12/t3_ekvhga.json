@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.92,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Village in the hills",
   "url": "https://www.reddit.com/r/dndmaps/comments/ekvhga/village_in_the_hills/"
 }

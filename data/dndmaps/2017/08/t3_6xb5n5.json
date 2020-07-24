@@ -15,6 +15,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 211,
     "value": 211
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Brand names often sound like fantasy names, so...",
   "url": "https://www.reddit.com/r/dndmaps/comments/6xb5n5/brand_names_often_sound_like_fantasy_names_so/"
 }

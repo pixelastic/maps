@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 545,
     "value": 545
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Sixth (and final?) round of Geomorphs - Rotate'Em! Swap'Em! Shuffle'Em! Trade'Em with your DM Friends!",
   "url": "https://www.reddit.com/r/dndmaps/comments/cx7030/sixth_and_final_round_of_geomorphs_rotateem/"
 }

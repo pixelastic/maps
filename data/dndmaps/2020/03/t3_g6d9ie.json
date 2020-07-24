@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Hi guys, this is my first map! Any feedback would be appreciated.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g6d9ie/hi_guys_this_is_my_first_map_any_feedback_would/"
 }

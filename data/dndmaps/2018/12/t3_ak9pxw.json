@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Thought I'd post a world map I've been working on for a while here",
   "url": "https://www.reddit.com/r/dndmaps/comments/ak9pxw/thought_id_post_a_world_map_ive_been_working_on/"
 }

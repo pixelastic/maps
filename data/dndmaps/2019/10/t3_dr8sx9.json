@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A political map of my Setting for DnD",
   "url": "https://www.reddit.com/r/dndmaps/comments/dr8sx9/a_political_map_of_my_setting_for_dnd/"
 }

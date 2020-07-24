@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 90,
     "value": 90
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map of Ekarthia - My W.I.P. long-term campaign map made using GIMP (Looking for advice!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/8tbea0/map_of_ekarthia_my_wip_longterm_campaign_map_made/"
 }

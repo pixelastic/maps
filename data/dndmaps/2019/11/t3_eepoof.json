@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first hand-drawn campaign map: the kingdoms of Enebia, Koadia, and their surroundings. Color is a bit odd, looks better irl.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eepoof/my_first_handdrawn_campaign_map_the_kingdoms_of/"
 }

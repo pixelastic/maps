@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 87,
     "value": 87
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "55+ Free battle maps, Share the Love!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fty2ts/55_free_battle_maps_share_the_love/"
 }

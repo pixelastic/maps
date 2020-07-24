@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.88,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Clenched Fist Blacksmith at Night - A Three Storey Battlemap and Underground Fight Club! (14x14x3)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ckwufu/the_clenched_fist_blacksmith_at_night_a_three/"
 }

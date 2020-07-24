@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Revelstone Region, my first map! Please give me any criticism you might have.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ccpqat/revelstone_region_my_first_map_please_give_me_any/"
 }

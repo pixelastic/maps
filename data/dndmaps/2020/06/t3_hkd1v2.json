@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.76,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map of Fort Ligonier (French and Indian War Era, Pennsylvania). Much of his might be applicable to D&D or similar.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkd1v2/map_of_fort_ligonier_french_and_indian_war_era/"
 }

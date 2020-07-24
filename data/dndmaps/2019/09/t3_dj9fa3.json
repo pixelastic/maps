@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Etz - A map for my upcoming campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/dj9fa3/etz_a_map_for_my_upcoming_campaign/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 244,
     "value": 244
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "One Page Horror Dungeon - The Creeper Beneath",
   "url": "https://www.reddit.com/r/dndmaps/comments/838dly/one_page_horror_dungeon_the_creeper_beneath/"
 }

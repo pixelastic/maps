@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "I had a pet project for our steampunk based game, this is the airship of the party made with FreeShip (Opensource Shipbuilding CAD program)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dhoou4/i_had_a_pet_project_for_our_steampunk_based_game/"
 }

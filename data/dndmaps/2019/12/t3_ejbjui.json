@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Coastal City and Harbour on Submerged River Valley (Hand-drawn + Digital Colorized)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ejbjui/coastal_city_and_harbour_on_submerged_river/"
 }

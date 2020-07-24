@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "This is Avora. A stitched together map we made for a few campaigns we have going now.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gcvexz/this_is_avora_a_stitched_together_map_we_made_for/"
 }

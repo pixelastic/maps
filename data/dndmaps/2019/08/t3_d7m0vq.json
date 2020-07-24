@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 71,
     "value": 71
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Bandit Hideout/Mansion Cellar",
   "url": "https://www.reddit.com/r/dndmaps/comments/d7m0vq/saltmarsh28x38sq1960_x_2660px_bandit/"
 }

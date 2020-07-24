@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Area map I am currently working on for my very first homebrew campaign! Ran a one-shot to test the DMing waters in location in this world someplace else and started working on this! I have very little illustration experience, it's a huge challenge getting it to come together nicely!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ezbz9f/area_map_i_am_currently_working_on_for_my_very/"
 }

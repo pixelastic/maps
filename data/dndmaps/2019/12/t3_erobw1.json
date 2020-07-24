@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.8,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Dray: All That Remains of the Homeworld of the Elves.",
   "url": "https://www.reddit.com/r/dndmaps/comments/erobw1/dray_all_that_remains_of_the_homeworld_of_the/"
 }

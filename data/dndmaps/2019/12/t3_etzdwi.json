@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A small map I drew for my session tomorrow",
   "url": "https://www.reddit.com/r/dndmaps/comments/etzdwi/a_small_map_i_drew_for_my_session_tomorrow/"
 }

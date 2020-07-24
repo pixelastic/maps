@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 42,
     "value": 42
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "High Ground: Forest Battle Map (36x36)",
   "url": "https://www.reddit.com/r/dndmaps/comments/c39wl2/high_ground_forest_battle_map_36x36/"
 }

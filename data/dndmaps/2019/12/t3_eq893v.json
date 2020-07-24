@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 42,
     "value": 42
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Town of Westwatch - my first city map for the campaign I run!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eq893v/the_town_of_westwatch_my_first_city_map_for_the/"
 }

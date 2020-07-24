@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A map I'm making of the ösforsø region",
   "url": "https://www.reddit.com/r/dndmaps/comments/dqg1aq/a_map_im_making_of_the_ösforsø_region/"
 }

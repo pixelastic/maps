@@ -16,6 +16,7 @@
   "score": {
     "comments": 86,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1600,
     "value": 1600
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Town Map in the style of a board game. Thoughts?",
   "url": "https://www.reddit.com/r/dndmaps/comments/c0getd/town_map_in_the_style_of_a_board_game_thoughts/"
 }

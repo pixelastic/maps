@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 563,
     "value": 563
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Mistmoor Outpost - isometric settlement map. Ink on paper.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gj5jiv/oc_mistmoor_outpost_isometric_settlement_map_ink/"
 }

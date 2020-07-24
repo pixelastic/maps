@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 160,
     "value": 160
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "This is my first map made in this style, and my first publication in this group. Any comments and suggestions are welcome!",
   "url": "https://www.reddit.com/r/dndmaps/comments/d39es5/this_is_my_first_map_made_in_this_style_and_my/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.9,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "VILLAGE CEMETERY (30X30) FREE BATTLEMAP",
   "url": "https://www.reddit.com/r/dndmaps/comments/bynktl/village_cemetery_30x30_free_battlemap/"
 }

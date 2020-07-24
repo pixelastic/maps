@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 61,
     "value": 61
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Novalun City, Capital of the Lumen Isles",
   "url": "https://www.reddit.com/r/dndmaps/comments/fg3me3/novalun_city_capital_of_the_lumen_isles_5325_x/"
 }

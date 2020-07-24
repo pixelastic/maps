@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 935,
     "value": 935
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Corsair Seas - A tropical region full of opportunity and danger",
   "url": "https://www.reddit.com/r/dndmaps/comments/ezag73/corsair_seas_a_tropical_region_full_of/"
 }

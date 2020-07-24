@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I made a map of the Underdark for Out of The Abyss",
   "url": "https://www.reddit.com/r/dndmaps/comments/amgne5/i_made_a_map_of_the_underdark_for_out_of_the_abyss/"
 }

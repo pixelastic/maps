@@ -16,6 +16,7 @@
   "score": {
     "comments": 32,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1152,
     "value": 1152
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "High-res city map. Playing with perspective so a bit unconventional.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eoe1uc/highres_city_map_playing_with_perspective_so_a/"
 }

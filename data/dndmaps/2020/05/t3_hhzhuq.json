@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1211,
     "value": 1211
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Overcast City",
   "url": "https://www.reddit.com/r/dndmaps/comments/hhzhuq/overcast_city_part_03_23x19/"
 }

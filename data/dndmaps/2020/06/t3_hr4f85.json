@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 76,
     "value": 76
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Crossroads in the Wild Lands, battlemap 30x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/hr4f85/crossroads_in_the_wild_lands_battlemap_30x30/"
 }

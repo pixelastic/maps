@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Irundel - Continental map for the two campaigns I'm running (more info inside)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgctch/irundel_continental_map_for_the_two_campaigns_im/"
 }

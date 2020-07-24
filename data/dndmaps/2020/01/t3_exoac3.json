@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Great Yakundra - First map for my new DnD campaign (Region)",
   "url": "https://www.reddit.com/r/dndmaps/comments/exoac3/great_yakundra_first_map_for_my_new_dnd_campaign/"
 }

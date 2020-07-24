@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 474,
     "value": 474
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Lava Bridge Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/bi1jzp/oc_lava_bridge_battlemap/"
 }

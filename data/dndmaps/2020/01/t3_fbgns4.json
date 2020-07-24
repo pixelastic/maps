@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.93,
     "ups": 56,
     "value": 56
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Leap - A Cliff Top Encounter Map for Feb 29th! (Day & Night)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fbgns4/the_leap_a_cliff_top_encounter_map_for_feb_29th/"
 }

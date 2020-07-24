@@ -16,6 +16,7 @@
   "score": {
     "comments": 23,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 705,
     "value": 705
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Ester Islands",
   "url": "https://www.reddit.com/r/dndmaps/comments/fv93oq/the_ester_islands/"
 }

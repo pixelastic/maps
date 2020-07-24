@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 964,
     "value": 964
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Mine in a Basalt Cave",
   "url": "https://www.reddit.com/r/dndmaps/comments/gp49ps/mine_in_a_basalt_cave_50x35/"
 }

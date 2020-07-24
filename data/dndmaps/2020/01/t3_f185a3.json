@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Just finished up this map for my abyssal campaign!",
   "url": "https://www.reddit.com/r/dndmaps/comments/f185a3/region_map_just_finished_up_this_map_for_my/"
 }

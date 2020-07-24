@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Country map from my past posts showing. Here you can see where the town of Stalwart is located. Along with where the province of brookhedge is located. I would like some feedback on the map, if it is missing anything.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f3lh8d/country_map_from_my_past_posts_showing_here_you/"
 }

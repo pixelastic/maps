@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 269,
     "value": 269
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Castle Donan based on Eilean Donan in Scotland",
   "url": "https://www.reddit.com/r/dndmaps/comments/au4ng8/castle_donan_based_on_eilean_donan_in_scotland/"
 }

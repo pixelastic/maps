@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The continent we have been playing in for last 3 years",
   "url": "https://www.reddit.com/r/dndmaps/comments/5yt3gt/the_continent_we_have_been_playing_in_for_last_3/"
 }

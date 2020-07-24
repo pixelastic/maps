@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 42,
     "value": 42
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Path",
   "url": "https://www.reddit.com/r/dndmaps/comments/7vvm9k/forest_path/"
 }

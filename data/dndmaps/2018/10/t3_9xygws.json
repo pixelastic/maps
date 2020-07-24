@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 288,
     "value": 288
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Abbey of the Golden Leaf (Battle Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9xygws/abbey_of_the_golden_leaf_battle_map/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Tsolyani colony city of Linyaró on the mysterious Southern Continent",
   "url": "https://www.reddit.com/r/dndmaps/comments/hbkv21/the_tsolyani_colony_city_of_linyaró_on_the/"
 }

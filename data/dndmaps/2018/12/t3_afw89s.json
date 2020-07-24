@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 160,
     "value": 160
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Druid Grove",
   "url": "https://www.reddit.com/r/dndmaps/comments/afw89s/druid_grove/"
 }

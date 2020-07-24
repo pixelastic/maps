@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 254,
     "value": 254
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Time for a Bathhouse Episode? (30x20 Battle Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/c05394/time_for_a_bathhouse_episode_30x20_battle_map/"
 }

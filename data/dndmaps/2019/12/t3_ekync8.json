@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Delphi, a city in the Kingdom of Ladon that serves as an intersection connecting the Capital in the west to the other major towns/cities within the Kingdom.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ekync8/delphi_a_city_in_the_kingdom_of_ladon_that_serves/"
 }

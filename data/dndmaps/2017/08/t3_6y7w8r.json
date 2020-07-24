@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 75,
     "value": 75
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My first city map for comment.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6y7w8r/my_first_city_map_for_comment/"
 }

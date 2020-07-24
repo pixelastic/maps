@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ruins of Thundertree (Video Links in Comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/g0oz5v/ruins_of_thundertree_video_links_in_comments/"
 }

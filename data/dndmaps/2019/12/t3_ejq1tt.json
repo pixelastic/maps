@@ -16,6 +16,7 @@
   "score": {
     "comments": 77,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 985,
     "value": 985
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "One of the countries in my homebrew world of Tesoro. Super proud of this one, and I’d love any feedback.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ejq1tt/one_of_the_countries_in_my_homebrew_world_of/"
 }

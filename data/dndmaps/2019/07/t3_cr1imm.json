@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 117,
     "value": 117
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Trying a New Map Style for My Campaigns' Starting City",
   "url": "https://www.reddit.com/r/dndmaps/comments/cr1imm/city_map_trying_a_new_map_style_for_my_campaigns/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The MAD Cartographer | Caverns Map 05 | Free: Hideout Variant Map | 22\"x16\"/Gridless/140ppi & 300ppi",
   "url": "https://www.reddit.com/r/dndmaps/comments/ge2wry/the_mad_cartographer_caverns_map_05_free_hideout/"
 }

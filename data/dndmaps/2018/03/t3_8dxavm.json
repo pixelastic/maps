@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 78,
     "value": 78
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Kingdom of Thayal",
   "url": "https://www.reddit.com/r/dndmaps/comments/8dxavm/the_kingdom_of_thayal/"
 }

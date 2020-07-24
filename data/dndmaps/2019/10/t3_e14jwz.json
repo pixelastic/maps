@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 126,
     "value": 126
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Snowy Forest and Runestones (30x20)",
   "url": "https://www.reddit.com/r/dndmaps/comments/e14jwz/snowy_forest_and_runestones_30x20/"
 }

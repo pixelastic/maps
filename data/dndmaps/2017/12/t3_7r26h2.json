@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Half of a handout map I made for my campaign. Thought you might enjoy taking a look.",
   "url": "https://www.reddit.com/r/dndmaps/comments/7r26h2/half_of_a_handout_map_i_made_for_my_campaign/"
 }

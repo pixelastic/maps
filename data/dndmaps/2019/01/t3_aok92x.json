@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 43,
     "value": 43
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First map for a new campaign I'm running. Simple, but I'm happy with how it turned out.",
   "url": "https://www.reddit.com/r/dndmaps/comments/aok92x/first_map_for_a_new_campaign_im_running_simple/"
 }

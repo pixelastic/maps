@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "This map of my own made world I call Mallowpine it's the first time I made dnd maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/ege7x2/this_map_of_my_own_made_world_i_call_mallowpine/"
 }

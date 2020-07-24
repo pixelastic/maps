@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I made this map for my dm of his world it still jade some work what do you guys think",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2doba/i_made_this_map_for_my_dm_of_his_world_it_still/"
 }

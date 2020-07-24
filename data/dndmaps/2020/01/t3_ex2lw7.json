@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 54,
     "value": 54
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Mining city up against the mountains I created for my campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ex2lw7/mining_city_up_against_the_mountains_i_created/"
 }

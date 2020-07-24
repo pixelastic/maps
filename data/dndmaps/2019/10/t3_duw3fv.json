@@ -16,6 +16,7 @@
   "score": {
     "comments": 24,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 254,
     "value": 254
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Updated my map to be a bit bigger and more filled. Anything that I should add as filler?",
   "url": "https://www.reddit.com/r/dndmaps/comments/duw3fv/updated_my_map_to_be_a_bit_bigger_and_more_filled/"
 }

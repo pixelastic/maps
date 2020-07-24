@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 156,
     "value": 156
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "City Fighting Pit",
   "url": "https://www.reddit.com/r/dndmaps/comments/dtym1z/city_fighting_pit/"
 }

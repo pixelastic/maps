@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 55,
     "value": 55
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "North easternmost region of my groups current campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/g7wzzh/north_easternmost_region_of_my_groups_current/"
 }

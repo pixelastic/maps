@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "4K Inkarnate 1.0 Early Access Map (With labelless version in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dw08dd/4k_inkarnate_10_early_access_map_with_labelless/"
 }

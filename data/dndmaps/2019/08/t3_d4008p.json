@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Markovia. Another of the island nations of Dandrial.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d4008p/markovia_another_of_the_island_nations_of_dandrial/"
 }

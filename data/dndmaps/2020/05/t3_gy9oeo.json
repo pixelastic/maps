@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1297,
     "value": 1297
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Path Across the Lake",
   "url": "https://www.reddit.com/r/dndmaps/comments/gy9oeo/path_across_the_lake_24x36/"
 }

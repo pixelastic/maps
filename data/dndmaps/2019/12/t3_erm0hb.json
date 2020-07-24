@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My first ever City map (players arrived here in their airship at the end of last session so I thought a map would be helpful.)",
   "url": "https://www.reddit.com/r/dndmaps/comments/erm0hb/my_first_ever_city_map_players_arrived_here_in/"
 }

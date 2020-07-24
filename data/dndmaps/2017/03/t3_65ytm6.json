@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 58,
     "value": 58
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Eilean Mor - location for my next campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/65ytm6/eilean_mor_location_for_my_next_campaign/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 27,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 309,
     "value": 309
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Verdant Valley, a map I’m going to introduce for one of my player’s backgrounds. Any feedback is appreciated!",
   "url": "https://www.reddit.com/r/dndmaps/comments/d58372/the_verdant_valley_a_map_im_going_to_introduce/"
 }

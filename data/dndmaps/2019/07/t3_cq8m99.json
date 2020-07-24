@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Eimlar Kingdom - a 5e campaign map I drew for my players",
   "url": "https://www.reddit.com/r/dndmaps/comments/cq8m99/the_eimlar_kingdom_a_5e_campaign_map_i_drew_for/"
 }

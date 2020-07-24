@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 575,
     "value": 575
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The secret caverns below a mountain. Made with Inkarnate.",
   "url": "https://www.reddit.com/r/dndmaps/comments/elra8n/the_secret_caverns_below_a_mountain_made_with/"
 }

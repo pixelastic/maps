@@ -16,6 +16,7 @@
   "score": {
     "comments": 26,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 203,
     "value": 203
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My latest city map. What do you want most? Battlemaps, dungeon maps, city maps, region maps, or world maps?",
   "url": "https://www.reddit.com/r/dndmaps/comments/gdvs8r/my_latest_city_map_what_do_you_want_most/"
 }

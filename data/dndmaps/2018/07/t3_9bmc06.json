@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Aeternum, world map I made for friends who play DnD.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9bmc06/aeternum_world_map_i_made_for_friends_who_play_dnd/"
 }

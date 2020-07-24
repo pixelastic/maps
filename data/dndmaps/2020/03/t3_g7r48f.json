@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Tea Kettle - Defiance in Phlan - DDEX1-1 Adventurers League",
   "url": "https://www.reddit.com/r/dndmaps/comments/g7r48f/the_tea_kettle_defiance_in_phlan_ddex11/"
 }

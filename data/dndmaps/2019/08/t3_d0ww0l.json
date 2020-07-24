@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Nigh, a city decimated by plague",
   "url": "https://www.reddit.com/r/dndmaps/comments/d0ww0l/nigh_a_city_decimated_by_plague/"
 }

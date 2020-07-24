@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Battlemaps of markets and mansions (Download link in the comments!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/akcm7v/battlemaps_of_markets_and_mansions_download_link/"
 }

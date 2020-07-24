@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 187,
     "value": 187
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Free Floating Sky Castle",
   "url": "https://www.reddit.com/r/dndmaps/comments/bh9cxm/free_floating_sky_castle_24x30/"
 }

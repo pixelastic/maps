@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Nailonia - my first dnd map",
   "url": "https://www.reddit.com/r/dndmaps/comments/ethq3e/nailonia_my_first_dnd_map/"
 }

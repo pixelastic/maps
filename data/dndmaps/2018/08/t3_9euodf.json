@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 207,
     "value": 207
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Fantasy Las Vegas. Baerel: The City That's Often Awake",
   "url": "https://www.reddit.com/r/dndmaps/comments/9euodf/fantasy_las_vegas_baerel_the_city_thats_often/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 177,
     "value": 177
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Forestcreek | A little village build at the base of a mountain, surrounded by forest.",
   "url": "https://www.reddit.com/r/dndmaps/comments/di3u25/forestcreek_a_little_village_build_at_the_base_of/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1342,
     "value": 1342
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Setting up camp",
   "url": "https://www.reddit.com/r/dndmaps/comments/fatqil/setting_up_camp/"
 }

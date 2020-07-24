@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Starting Town and First City from my current D&D Campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/hvzrcx/starting_town_and_first_city_from_my_current_dd/"
 }

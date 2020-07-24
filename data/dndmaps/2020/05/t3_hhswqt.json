@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 300,
     "value": 300
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Sunken Temple Battlemap - Before / After visual effects",
   "url": "https://www.reddit.com/r/dndmaps/comments/hhswqt/sunken_temple_battlemap_before_after_visual/"
 }

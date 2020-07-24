@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Frankfurt City, a great starter town to begin an adventure!",
   "url": "https://www.reddit.com/r/dndmaps/comments/8qvs6f/frankfurt_city_a_great_starter_town_to_begin_an/"
 }

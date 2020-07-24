@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "It’s my cake day. Here’s a little campaign map pack I’ve been working on for a one off adventure. Hope ya’ll like it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g6czle/its_my_cake_day_heres_a_little_campaign_map_pack/"
 }

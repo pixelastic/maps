@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Updated Map of my world Rule. Would post image but it's too big. Feel free to zoom in.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hggrim/updated_map_of_my_world_rule_would_post_image_but/"
 }

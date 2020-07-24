@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Dwarf City, Fun idea I had.",
   "url": "https://www.reddit.com/r/dndmaps/comments/had237/dwarf_city_fun_idea_i_had/"
 }

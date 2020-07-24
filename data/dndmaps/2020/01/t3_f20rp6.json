@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 83,
     "value": 83
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Known world for homebrew campaign, grew from Starter Kit",
   "url": "https://www.reddit.com/r/dndmaps/comments/f20rp6/known_world_for_homebrew_campaign_grew_from/"
 }

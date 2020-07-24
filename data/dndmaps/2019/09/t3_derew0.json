@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 190,
     "value": 190
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Four Winds Respite, A monk/hermit nautical safe haven (made with inkarnate).",
   "url": "https://www.reddit.com/r/dndmaps/comments/derew0/the_four_winds_respite_a_monkhermit_nautical_safe/"
 }

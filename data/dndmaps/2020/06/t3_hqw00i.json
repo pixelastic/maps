@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Continent of Avaris: First Map in Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/hqw00i/the_continent_of_avaris_first_map_in_inkarnate/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Shadows of the Voids",
   "url": "https://www.reddit.com/r/dndmaps/comments/fr6xdv/shadows_of_the_voids_part_02_25x17/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 189,
     "value": 189
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Bottomless Tombs",
   "url": "https://www.reddit.com/r/dndmaps/comments/9eox0d/the_bottomless_tombs/"
 }

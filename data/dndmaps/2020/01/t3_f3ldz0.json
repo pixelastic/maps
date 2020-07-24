@@ -16,6 +16,7 @@
   "score": {
     "comments": 52,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1471,
     "value": 1471
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map i made for a campaign that fell apart. I think I spent more time on the map then we did playing. Oh well maybe next time.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f3ldz0/map_i_made_for_a_campaign_that_fell_apart_i_think/"
 }

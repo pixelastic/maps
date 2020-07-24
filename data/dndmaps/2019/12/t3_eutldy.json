@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Re-imagining the maps of Expedition to the Barrier Peaks - Deck I",
   "url": "https://www.reddit.com/r/dndmaps/comments/eutldy/reimagining_the_maps_of_expedition_to_the_barrier/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The northern hemisphere of my world, Eora, and its main continent, Albion.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9lnfxz/the_northern_hemisphere_of_my_world_eora_and_its/"
 }

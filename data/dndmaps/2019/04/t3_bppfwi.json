@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Isenheim, The map im designing for my upcoming campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/bppfwi/isenheim_the_map_im_designing_for_my_upcoming/"
 }

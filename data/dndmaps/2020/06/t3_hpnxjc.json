@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 156,
     "value": 156
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "A goblin cave I made for my first outing as a DM!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hpnxjc/a_goblin_cave_i_made_for_my_first_outing_as_a_dm/"
 }

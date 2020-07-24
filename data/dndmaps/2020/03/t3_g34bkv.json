@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "La Fortaleza",
   "url": "https://www.reddit.com/r/dndmaps/comments/g34bkv/la_fortaleza_40_x_30_1500_x_1125/"
 }

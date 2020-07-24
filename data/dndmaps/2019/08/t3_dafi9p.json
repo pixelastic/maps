@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Aljarcia, one of the crowns of my homebrew campaign/worldbuilding thing. It's is the size of Syria (190000km2). (Work in Progress)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dafi9p/aljarcia_one_of_the_crowns_of_my_homebrew/"
 }

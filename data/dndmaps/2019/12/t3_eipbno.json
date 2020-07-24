@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Feedback needed. How can i make my battlemap look better.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eipbno/feedback_needed_how_can_i_make_my_battlemap_look/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 81,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 2366,
     "value": 2366
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My expanded first campaign setting - Caldera, the Inner Isles and the Outer Ring. Made in Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/etafov/my_expanded_first_campaign_setting_caldera_the/"
 }

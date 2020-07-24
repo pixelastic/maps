@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Heart of the Mountain - Water variant",
   "url": "https://www.reddit.com/r/dndmaps/comments/hgfp13/heart_of_the_mountain_water_variant_28x49/"
 }

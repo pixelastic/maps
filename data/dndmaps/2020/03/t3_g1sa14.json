@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 69,
     "value": 69
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Finally tried my hand at doing a full colored map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g1sa14/finally_tried_my_hand_at_doing_a_full_colored_map/"
 }

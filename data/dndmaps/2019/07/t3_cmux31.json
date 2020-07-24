@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Snowy Entrance To The Mine - Free Battlemap (35x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cmux31/snowy_entrance_to_the_mine_free_battlemap_35x30/"
 }

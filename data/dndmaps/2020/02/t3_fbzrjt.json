@@ -16,6 +16,7 @@
   "score": {
     "comments": 49,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1497,
     "value": 1497
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Candlehaunt Catacombs",
   "url": "https://www.reddit.com/r/dndmaps/comments/fbzrjt/the_candlehaunt_catacombs/"
 }

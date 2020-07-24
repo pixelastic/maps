@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The continent of Luras another part of the realm in my D&D home-brew campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/dj04t9/the_continent_of_luras_another_part_of_the_realm/"
 }

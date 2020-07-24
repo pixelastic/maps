@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 105,
     "value": 105
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Tower of Anbar - Ritual at night and the morning after",
   "url": "https://www.reddit.com/r/dndmaps/comments/bcpx6n/battlemap_the_tower_of_anbar_ritual_at_night_and/"
 }

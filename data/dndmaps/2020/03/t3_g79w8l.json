@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 189,
     "value": 189
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Just another crypt with, guess what? A bunch of undead! - 51x22",
   "url": "https://www.reddit.com/r/dndmaps/comments/g79w8l/just_another_crypt_with_guess_what_a_bunch_of/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 125,
     "value": 125
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "One of the floors in my dungeon!",
   "url": "https://www.reddit.com/r/dndmaps/comments/6tg6bb/one_of_the_floors_in_my_dungeon/"
 }

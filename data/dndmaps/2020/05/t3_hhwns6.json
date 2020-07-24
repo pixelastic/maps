@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My kobold cave map redone with Inkarnate's beta battle map stuff.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hhwns6/my_kobold_cave_map_redone_with_inkarnates_beta/"
 }

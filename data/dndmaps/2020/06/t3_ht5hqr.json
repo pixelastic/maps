@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A Beach Hideout → Encounter with thieves? Tracking down runaways? Home to some fishermen?",
   "url": "https://www.reddit.com/r/dndmaps/comments/ht5hqr/a_beach_hideout_encounter_with_thieves_tracking/"
 }

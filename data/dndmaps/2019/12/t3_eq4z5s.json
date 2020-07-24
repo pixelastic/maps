@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I’ve posted this a few places. My first time making a map! Please let me know what you think!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eq4z5s/ive_posted_this_a_few_places_my_first_time_making/"
 }

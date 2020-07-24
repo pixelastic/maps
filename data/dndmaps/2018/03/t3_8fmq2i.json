@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A ruined castle turned into a bandit hideout",
   "url": "https://www.reddit.com/r/dndmaps/comments/8fmq2i/a_ruined_castle_turned_into_a_bandit_hideout/"
 }

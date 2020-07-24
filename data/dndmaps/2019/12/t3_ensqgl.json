@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.57,
     "ups": 1,
     "value": 1
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Hideout",
   "url": "https://www.reddit.com/r/dndmaps/comments/ensqgl/forest_hideout/"
 }

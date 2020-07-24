@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 75,
     "value": 75
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Isle of Tooth and Claw. My party doesn't know whats about to hit them",
   "url": "https://www.reddit.com/r/dndmaps/comments/abym5t/the_isle_of_tooth_and_claw_my_party_doesnt_know/"
 }

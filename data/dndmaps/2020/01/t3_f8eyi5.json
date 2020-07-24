@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.7,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Haunted Train, a map for Casket Lands",
   "url": "https://www.reddit.com/r/dndmaps/comments/f8eyi5/haunted_train_a_map_for_casket_lands/"
 }

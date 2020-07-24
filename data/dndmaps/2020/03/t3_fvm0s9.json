@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "The Endless Horizon - A Four Deck Galleon with an Arcane Boost!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fvm0s9/the_endless_horizon_a_four_deck_galleon_with_an/"
 }

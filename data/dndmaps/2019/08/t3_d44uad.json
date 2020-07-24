@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 146,
     "value": 146
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Underground Magic Portals Battle Map 27x35",
   "url": "https://www.reddit.com/r/dndmaps/comments/d44uad/underground_magic_portals_battle_map_27x35/"
 }

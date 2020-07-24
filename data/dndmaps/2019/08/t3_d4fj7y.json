@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "A Lava Cave (or maybe it's just water)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d4fj7y/a_lava_cave_or_maybe_its_just_water/"
 }

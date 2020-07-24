@@ -16,6 +16,7 @@
   "score": {
     "comments": 23,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 656,
     "value": 656
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The City of Pokapú, my first Attempt Hand Drawning a Cityscape",
   "url": "https://www.reddit.com/r/dndmaps/comments/emzzix/the_city_of_pokapú_my_first_attempt_hand_drawning/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 23,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 292,
     "value": 292
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World Map Inspired by D&D Dice (Unlabeled) - My First Submission for this Reddit!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ebqzcj/world_map_inspired_by_dd_dice_unlabeled_my_first/"
 }

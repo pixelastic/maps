@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Eiselcross map for players - Frozen Sick adventure",
   "url": "https://www.reddit.com/r/dndmaps/comments/fwxc8i/eiselcross_map_for_players_frozen_sick_adventure/"
 }

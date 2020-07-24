@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 60,
     "value": 60
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Grove With a Bridge Over a Creek (48 x 30) - made with 2minutetabletop assets",
   "url": "https://www.reddit.com/r/dndmaps/comments/gfb7do/forest_grove_with_a_bridge_over_a_creek_48_x_30/"
 }

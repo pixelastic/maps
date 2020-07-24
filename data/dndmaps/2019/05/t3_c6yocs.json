@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 683,
     "value": 683
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Dunes Battle Map 30x40",
   "url": "https://www.reddit.com/r/dndmaps/comments/c6yocs/dunes_battle_map_30x40/"
 }

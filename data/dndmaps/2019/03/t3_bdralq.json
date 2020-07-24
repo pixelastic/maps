@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "The Rising Peen-ix! Made for my campaign using free assets from 2-Minute Tabletop/Matt's Massive Map Menagerie",
   "url": "https://www.reddit.com/r/dndmaps/comments/bdralq/the_rising_peenix_made_for_my_campaign_using_free/"
 }

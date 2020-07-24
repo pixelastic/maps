@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First side of the “forever cube” completed.",
   "url": "https://www.reddit.com/r/dndmaps/comments/degl5p/first_side_of_the_forever_cube_completed/"
 }

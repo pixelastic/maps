@@ -16,6 +16,7 @@
   "score": {
     "comments": 24,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1231,
     "value": 1231
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Small Dungeon level for a prison break one shot I'm running",
   "url": "https://www.reddit.com/r/dndmaps/comments/dkyyop/small_dungeon_level_for_a_prison_break_one_shot/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 87,
     "value": 87
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The continent of Morlyn, region/world-map I made for for my DnD 5e sessions",
   "url": "https://www.reddit.com/r/dndmaps/comments/9kzpsu/octhe_continent_of_morlyn_regionworldmap_i_made/"
 }

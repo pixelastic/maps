@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.71,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Took me a few hours but my world map is complete 😊",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkzxhu/took_me_a_few_hours_but_my_world_map_is_complete/"
 }

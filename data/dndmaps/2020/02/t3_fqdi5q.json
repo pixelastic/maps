@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.8,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Inn- 2nd Story based on Prancing Pony",
   "url": "https://www.reddit.com/r/dndmaps/comments/fqdi5q/inn_2nd_story_based_on_prancing_pony/"
 }

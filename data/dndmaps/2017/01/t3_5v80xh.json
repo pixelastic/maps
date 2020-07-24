@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 55,
     "value": 55
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Elven City of Efhalond",
   "url": "https://www.reddit.com/r/dndmaps/comments/5v80xh/the_elven_city_of_efhalond_xpost_from_rdnd/"
 }

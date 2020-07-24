@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Southern Theramour (Water and Wilderness Adventure)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dx9p05/southern_theramour_water_and_wilderness_adventure/"
 }

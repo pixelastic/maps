@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Weathervane, the Trade-Post city of my starting area",
   "url": "https://www.reddit.com/r/dndmaps/comments/dz47l6/weathervane_the_tradepost_city_of_my_starting_area/"
 }

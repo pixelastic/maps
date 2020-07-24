@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 81,
     "value": 81
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Fantasy City I drew. Feel free to use!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eh36id/oc_fantasy_city_i_drew_feel_free_to_use/"
 }

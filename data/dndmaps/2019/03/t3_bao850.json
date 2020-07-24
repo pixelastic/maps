@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map of a continent I made during a Field Op",
   "url": "https://www.reddit.com/r/dndmaps/comments/bao850/map_of_a_continent_i_made_during_a_field_op/"
 }

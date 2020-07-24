@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.96,
     "ups": 55,
     "value": 55
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Giant Toadstool Circle",
   "url": "https://www.reddit.com/r/dndmaps/comments/hg9oj6/giant_toadstool_circle_16x23/"
 }

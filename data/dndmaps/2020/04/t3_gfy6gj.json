@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 92,
     "value": 92
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Casino of the High Seas Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/gfy6gj/casino_of_the_high_seas_battlemap_42x19/"
 }

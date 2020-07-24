@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Recreating the Orignal Ravenloft Campaign maps. Night of the walking dead Souragne",
   "url": "https://www.reddit.com/r/dndmaps/comments/ezf0qc/recreating_the_orignal_ravenloft_campaign_maps/"
 }

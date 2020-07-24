@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Hexcrawl Map: The Southern Hills, Home to The Mestus Kingdom",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4wf1x/hexcrawl_map_the_southern_hills_home_to_the/"
 }

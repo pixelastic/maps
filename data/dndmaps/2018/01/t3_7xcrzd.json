@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Map: Sunless Citadel - Fortress Level",
   "url": "https://www.reddit.com/r/dndmaps/comments/7xcrzd/dungeon_map_sunless_citadel_fortress_level/"
 }

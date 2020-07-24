@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World map of a few kingdoms I made for my first time as DM",
   "url": "https://www.reddit.com/r/dndmaps/comments/5ro1vo/world_map_of_a_few_kingdoms_i_made_for_my_first/"
 }

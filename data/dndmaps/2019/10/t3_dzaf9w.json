@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "MapVember update Days 11 - 20 | Links to each map in the comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dzaf9w/oc_battlemaps_mapvember_update_days_11_20_links/"
 }

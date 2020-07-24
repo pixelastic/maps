@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 143,
     "value": 143
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The best part about creating your first campaign setting is making your own map!",
   "url": "https://www.reddit.com/r/dndmaps/comments/99es3b/the_best_part_about_creating_your_first_campaign/"
 }

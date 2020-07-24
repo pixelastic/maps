@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 149,
     "value": 149
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A giant dinosaur with a town on its back! - In collaboration with the Retroverse Kickstarter!",
   "url": "https://www.reddit.com/r/dndmaps/comments/aucl77/a_giant_dinosaur_with_a_town_on_its_back_in/"
 }

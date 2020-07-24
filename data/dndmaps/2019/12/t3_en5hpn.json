@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 252,
     "value": 252
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Long Dark, my second experiment in isometric map making",
   "url": "https://www.reddit.com/r/dndmaps/comments/en5hpn/the_long_dark_my_second_experiment_in_isometric/"
 }

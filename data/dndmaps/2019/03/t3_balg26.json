@@ -16,6 +16,7 @@
   "score": {
     "comments": 47,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 508,
     "value": 508
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "For those who asked for the Kingdom of Ethos without titles:",
   "url": "https://www.reddit.com/r/dndmaps/comments/balg26/for_those_who_asked_for_the_kingdom_of_ethos/"
 }

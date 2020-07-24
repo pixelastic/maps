@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The continent of Naligra. One of the 3 major continents of Daelara.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dhqulr/the_continent_of_naligra_one_of_the_3_major/"
 }

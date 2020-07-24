@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 66,
     "value": 66
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "\"Goddess Fountains\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/gqbqjo/goddess_fountains_battlemap_55x51/"
 }

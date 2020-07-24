@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Firsk Lands PC's map handout. Ugrek the gnome apologies for his doodles. He's had the map a while.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ftcsux/the_firsk_lands_pcs_map_handout_ugrek_the_gnome/"
 }

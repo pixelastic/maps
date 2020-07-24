@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 692,
     "value": 692
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Flooded Tomb",
   "url": "https://www.reddit.com/r/dndmaps/comments/hioley/battlemap_40x32_4000_x_3200px_flooded_tomb/"
 }

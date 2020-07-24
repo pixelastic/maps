@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 681,
     "value": 681
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Abandoned Wagon Battle Map 25x25",
   "url": "https://www.reddit.com/r/dndmaps/comments/fif33d/abandoned_wagon_battle_map_25x25/"
 }

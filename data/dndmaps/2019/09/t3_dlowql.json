@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The map of Lake Pelekànos, a small regional map I made when I took a break from commissions. Was made with community polls on Instagram.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dlowql/the_map_of_lake_pelekànos_a_small_regional_map_i/"
 }

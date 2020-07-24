@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The small tundra province where my current campaign is set",
   "url": "https://www.reddit.com/r/dndmaps/comments/gapzsd/the_small_tundra_province_where_my_current/"
 }

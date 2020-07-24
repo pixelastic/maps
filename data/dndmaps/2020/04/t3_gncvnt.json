@@ -16,6 +16,7 @@
   "score": {
     "comments": 45,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1085,
     "value": 1085
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ruins of Thundertree - The Lost Mine of Phandelver",
   "url": "https://www.reddit.com/r/dndmaps/comments/gncvnt/ruins_of_thundertree_the_lost_mine_of_phandelver/"
 }

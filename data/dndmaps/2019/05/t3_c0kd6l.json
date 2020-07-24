@@ -15,6 +15,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I want your feedback on my map! Please!",
   "url": "https://www.reddit.com/r/dndmaps/comments/c0kd6l/i_want_your_feedback_on_my_map_please/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "An Unmarked Map of the Thaixiv Continent, Part of My Homebrew World",
   "url": "https://www.reddit.com/r/dndmaps/comments/fszfuq/an_unmarked_map_of_the_thaixiv_continent_part_of/"
 }

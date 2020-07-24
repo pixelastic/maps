@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 890,
     "value": 890
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ancient Pharaoh's Tomb Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/gm3ksw/ancient_pharaohs_tomb_battlemap_25x76/"
 }

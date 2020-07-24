@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first map! Faerûn's little pirate island, Mintarn",
   "url": "https://www.reddit.com/r/dndmaps/comments/d164m2/my_first_map_faerûns_little_pirate_island_mintarn/"
 }

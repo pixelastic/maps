@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 206,
     "value": 206
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "„Once these swamps were a sacred meeting place for the druids of the land, but nowadays something else lurks in shadows of those twisted woods…“ 16x11(A3) pathway through the swamp for my current campaign. Made with Dungeondraft. Enjoy!",
   "url": "https://www.reddit.com/r/dndmaps/comments/h075ky/once_these_swamps_were_a_sacred_meeting_place_for/"
 }

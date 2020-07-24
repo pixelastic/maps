@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Tinderbox Locations- Grove of Tsingrelle",
   "url": "https://www.reddit.com/r/dndmaps/comments/g4vphf/tinderbox_locations_grove_of_tsingrelle/"
 }

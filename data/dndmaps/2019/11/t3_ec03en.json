@@ -16,6 +16,7 @@
   "score": {
     "comments": 54,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1363,
     "value": 1363
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Continent of Carthedas. I still have a lot of labeling to do but any feedback is appreciated. (Made in INKARNATE)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ec03en/the_continent_of_carthedas_i_still_have_a_lot_of/"
 }

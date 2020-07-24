@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map for my new campaign, pre-weathering",
   "url": "https://www.reddit.com/r/dndmaps/comments/ef3hif/map_for_my_new_campaign_preweathering/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First time making a map. How’d I do? Planning on using this for a campaign in the future.",
   "url": "https://www.reddit.com/r/dndmaps/comments/buot4m/first_time_making_a_map_howd_i_do_planning_on/"
 }

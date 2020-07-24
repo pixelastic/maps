@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.8,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "WIP 4.2 Community Map Name Update! Thank everyone for participating... this is turning out real cool! Thinking about what to do for the north east side...",
   "url": "https://www.reddit.com/r/dndmaps/comments/bqbrdd/wip_42_community_map_name_update_thank_everyone/"
 }

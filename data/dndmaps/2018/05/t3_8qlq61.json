@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 130,
     "value": 130
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Another colored map coming at you - this time it's Call of the Light from Micheal Prescott!",
   "url": "https://www.reddit.com/r/dndmaps/comments/8qlq61/another_colored_map_coming_at_you_this_time_its/"
 }

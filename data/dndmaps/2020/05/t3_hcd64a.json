@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "In a apocalyptic waterworld, one of civilizations last homes is on the ruins of an old Mountain Fort. All the boats race home as a storm rolls in. Beating one of the last refuge's.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hcd64a/oc_in_a_apocalyptic_waterworld_one_of/"
 }

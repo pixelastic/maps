@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I remade a map from a DnD campaign my buddy built for us and we played one session in",
   "url": "https://www.reddit.com/r/dndmaps/comments/gesr6z/i_remade_a_map_from_a_dnd_campaign_my_buddy_built/"
 }

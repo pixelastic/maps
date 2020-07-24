@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Hungry Hog - A large inn and alehouse",
   "url": "https://www.reddit.com/r/dndmaps/comments/6uqtv3/the_hungry_hog_a_large_inn_and_alehouse/"
 }

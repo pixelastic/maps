@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Mana, the city my players recently visited. It is situated on the southern side of a large floating island. My homebrew campaign's world is comprised entirely of islands in the sky.",
   "url": "https://www.reddit.com/r/dndmaps/comments/guced2/mana_the_city_my_players_recently_visited_it_is/"
 }

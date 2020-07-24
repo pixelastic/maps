@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First map - Feedback and ideas welcome",
   "url": "https://www.reddit.com/r/dndmaps/comments/c1gqqe/first_map_feedback_and_ideas_welcome/"
 }

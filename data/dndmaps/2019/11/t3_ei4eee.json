@@ -16,6 +16,7 @@
   "score": {
     "comments": 22,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1062,
     "value": 1062
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Pirate Island, partner to the Pirate Port map I made.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ei4eee/pirate_island_partner_to_the_pirate_port_map_i/"
 }

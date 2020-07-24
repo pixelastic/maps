@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 75,
     "value": 75
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Southlands. My first drawn map. 8+ months of planning, 30+ hours of drawing.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9c57n7/the_southlands_my_first_drawn_map_8_months_of/"
 }

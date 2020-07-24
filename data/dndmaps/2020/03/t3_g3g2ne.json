@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 252,
     "value": 252
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Trying some new techniques combining hand drawn and digital....",
   "url": "https://www.reddit.com/r/dndmaps/comments/g3g2ne/trying_some_new_techniques_combining_hand_drawn/"
 }

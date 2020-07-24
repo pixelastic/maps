@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 109,
     "value": 109
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Rooftop Chase Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/e6j83u/rooftop_chase_battlemap_16x50/"
 }

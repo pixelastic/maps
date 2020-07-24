@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 63,
     "value": 63
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Church of St Hubbins Catacombs",
   "url": "https://www.reddit.com/r/dndmaps/comments/fe3oen/church_of_st_hubbins_catacombs_35_x_25/"
 }

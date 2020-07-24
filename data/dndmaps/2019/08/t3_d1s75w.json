@@ -15,6 +15,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 16,
     "value": 16
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Part one of a custom DND world. I’m using lore from the game and previous campaigns of mine.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d1s75w/part_one_of_a_custom_dnd_world_im_using_lore_from/"
 }

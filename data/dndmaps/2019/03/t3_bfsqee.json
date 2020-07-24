@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Psychedelic Cellar of the Stone Giants",
   "url": "https://www.reddit.com/r/dndmaps/comments/bfsqee/psychedelic_cellar_of_the_stone_giants/"
 }

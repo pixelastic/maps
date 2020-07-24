@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Owlbear Hill. Guys - this is legit where I'm staying during this long ass isolation. This is more of a scenic map, but I suppose a battle could take place here. Lmk what you think.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g558om/owlbear_hill_guys_this_is_legit_where_im_staying/"
 }

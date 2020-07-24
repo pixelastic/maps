@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My economics lecture was putting me to sleep so I made the Kingdom of Algonia to help stay awake. Thoughts?",
   "url": "https://www.reddit.com/r/dndmaps/comments/7sz86p/my_economics_lecture_was_putting_me_to_sleep_so_i/"
 }

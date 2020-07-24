@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My home brewed 5e campaign world map, Niria.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f3dh2u/my_home_brewed_5e_campaign_world_map_niria/"
 }

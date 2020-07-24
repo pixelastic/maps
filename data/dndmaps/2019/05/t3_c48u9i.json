@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 83,
     "value": 83
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "SMALL VILLAGE SQUARE FREE BATTLEMAP (30x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/c48u9i/small_village_square_free_battlemap_30x30/"
 }

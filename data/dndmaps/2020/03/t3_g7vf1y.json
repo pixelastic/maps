@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1283,
     "value": 1283
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Razed Street",
   "url": "https://www.reddit.com/r/dndmaps/comments/g7vf1y/razed_street/"
 }

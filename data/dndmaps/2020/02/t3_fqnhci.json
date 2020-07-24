@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 214,
     "value": 214
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Far Oasis Inn - isometric settlement map",
   "url": "https://www.reddit.com/r/dndmaps/comments/fqnhci/oc_the_far_oasis_inn_isometric_settlement_map/"
 }

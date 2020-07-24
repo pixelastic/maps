@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first finished map made with Inkarnate, is just a small section of the main country my game will take place in, Comment any questions you have",
   "url": "https://www.reddit.com/r/dndmaps/comments/cputgy/my_first_finished_map_made_with_inkarnate_is_just/"
 }

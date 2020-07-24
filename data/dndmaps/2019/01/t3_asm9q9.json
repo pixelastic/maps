@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 218,
     "value": 218
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "You must gather your party before venturing forth",
   "url": "https://www.reddit.com/r/dndmaps/comments/asm9q9/you_must_gather_your_party_before_venturing_forth/"
 }

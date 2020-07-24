@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 357,
     "value": 357
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Confluence at the Henge (46 x 33)",
   "url": "https://www.reddit.com/r/dndmaps/comments/eq13vn/confluence_at_the_henge_46_x_33/"
 }

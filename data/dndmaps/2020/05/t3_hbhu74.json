@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Reimagined Death Pit of Moloch (51x32) link to module in comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/hbhu74/reimagined_death_pit_of_moloch_51x32_link_to/"
 }

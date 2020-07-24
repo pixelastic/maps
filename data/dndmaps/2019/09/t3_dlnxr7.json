@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Homebrew Map I made. Good for Beginners.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dlnxr7/homebrew_map_i_made_good_for_beginners/"
 }

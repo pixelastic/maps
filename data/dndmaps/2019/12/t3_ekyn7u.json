@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.76,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Lakefall - Starting town for my 1st campaign as DM",
   "url": "https://www.reddit.com/r/dndmaps/comments/ekyn7u/lakefall_starting_town_for_my_1st_campaign_as_dm/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "City Street with Innards (3 layers, 40x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bky3jk/oc_city_street_with_innards_3_layers_40x30/"
 }

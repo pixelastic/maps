@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Viking Longhouse battlemaps with multiple variations including winter, summer, cliffs, village, forest, etc. All 50x50 units",
   "url": "https://www.reddit.com/r/dndmaps/comments/8u09fb/viking_longhouse_battlemaps_with_multiple/"
 }

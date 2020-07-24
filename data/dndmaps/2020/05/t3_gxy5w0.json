@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "36 x 36 Cavern Battle Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/gxy5w0/36_x_36_cavern_battle_map/"
 }

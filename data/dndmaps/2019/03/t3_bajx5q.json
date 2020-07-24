@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map of The Land - From The Chronicles of Thomas Covenant - by author Stephen R. Donaldson",
   "url": "https://www.reddit.com/r/dndmaps/comments/bajx5q/map_of_the_land_from_the_chronicles_of_thomas/"
 }

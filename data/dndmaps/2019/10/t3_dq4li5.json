@@ -16,6 +16,7 @@
   "score": {
     "comments": 24,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 902,
     "value": 902
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Saint's Rock - A fortified cathedral inspired by Ireland's Rock of Cashel",
   "url": "https://www.reddit.com/r/dndmaps/comments/dq4li5/saints_rock_a_fortified_cathedral_inspired_by/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Rhiga (port to Mill Creek Swamp)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gy1k6o/rhiga_port_to_mill_creek_swamp/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 840,
     "value": 840
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "The Endless Horizon - A Four Deck Airship with an Arcane Boost!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fxh1r9/the_endless_horizon_a_four_deck_airship_with_an/"
 }

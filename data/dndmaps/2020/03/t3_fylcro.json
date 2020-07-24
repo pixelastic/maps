@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Defiance in Phlan - Adventurer's League Module Maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/fylcro/defiance_in_phlan_adventurers_league_module_maps/"
 }

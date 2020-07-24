@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 69,
     "value": 69
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The ead Chamber of Naerghast in 3D - Based off MapsByOwen's great work",
   "url": "https://www.reddit.com/r/dndmaps/comments/dt609i/the_ead_chamber_of_naerghast_in_3d_based_off/"
 }

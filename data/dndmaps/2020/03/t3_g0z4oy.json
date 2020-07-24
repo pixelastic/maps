@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 126,
     "value": 126
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The Haunted Edster Mine",
   "url": "https://www.reddit.com/r/dndmaps/comments/g0z4oy/the_haunted_edster_mine_35_x_50_3000_x_4286/"
 }

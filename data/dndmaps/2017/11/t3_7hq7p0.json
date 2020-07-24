@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First Time Mapper - Just the Bones (Critiques?)",
   "url": "https://www.reddit.com/r/dndmaps/comments/7hq7p0/first_time_mapper_just_the_bones_critiques/"
 }

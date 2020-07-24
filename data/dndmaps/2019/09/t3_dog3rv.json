@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.8,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A Knight at Carnival (42x39) made with Dungeon Painter Studio",
   "url": "https://www.reddit.com/r/dndmaps/comments/dog3rv/a_knight_at_carnival_42x39_made_with_dungeon/"
 }

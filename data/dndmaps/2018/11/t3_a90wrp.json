@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Kings Road | Inspired by The Kingsroad from Game of Thrones",
   "url": "https://www.reddit.com/r/dndmaps/comments/a90wrp/battlemap_kings_road_inspired_by_the_kingsroad/"
 }

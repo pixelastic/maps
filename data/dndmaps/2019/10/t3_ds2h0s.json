@@ -16,6 +16,7 @@
   "score": {
     "comments": 27,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 823,
     "value": 823
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Dead Chamber of Naerghast - My first proper (but wonky) go at isometric dungeon mapping",
   "url": "https://www.reddit.com/r/dndmaps/comments/ds2h0s/the_dead_chamber_of_naerghast_my_first_proper_but/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 70,
     "value": 70
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Yassa, City of Portals",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2pam3/oc_region_map_yassa_city_of_portals/"
 }

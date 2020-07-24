@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.89,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Goblin Camp Battle Map 30x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/htci5n/goblin_camp_battle_map_30x30/"
 }

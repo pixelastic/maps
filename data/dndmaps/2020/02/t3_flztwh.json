@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I’m no artist but this is my world map for the campaign I’m running and I wanted to put it somewhere",
   "url": "https://www.reddit.com/r/dndmaps/comments/flztwh/im_no_artist_but_this_is_my_world_map_for_the/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Temple indoors. (Experiment, and made in Blender)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gxh6vd/temple_indoors_experiment_and_made_in_blender/"
 }

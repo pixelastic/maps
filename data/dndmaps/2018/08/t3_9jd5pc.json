@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 158,
     "value": 158
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Smugglers' Lair",
   "url": "https://www.reddit.com/r/dndmaps/comments/9jd5pc/smugglers_lair/"
 }

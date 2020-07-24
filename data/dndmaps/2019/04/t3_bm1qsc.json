@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 387,
     "value": 387
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Region Map of my homebrew setting (with labels in comment)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bm1qsc/region_map_of_my_homebrew_setting_with_labels_in/"
 }

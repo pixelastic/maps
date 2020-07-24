@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 312,
     "value": 312
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Pen and Ink map of Dresden, capitol city of my campaign setting",
   "url": "https://www.reddit.com/r/dndmaps/comments/ad7amu/ocart_pen_and_ink_map_of_dresden_capitol_city_of/"
 }

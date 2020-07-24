@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 189,
     "value": 189
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Airship - No grid - Roll20 - Total size: 67in by 37in",
   "url": "https://www.reddit.com/r/dndmaps/comments/9pw72q/airship_no_grid_roll20_total_size_67in_by_37in/"
 }

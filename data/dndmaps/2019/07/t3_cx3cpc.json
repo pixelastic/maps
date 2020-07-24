@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "This is the Southern Kingdoms for my upcoming D&D campaign! Made in Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/cx3cpc/this_is_the_southern_kingdoms_for_my_upcoming_dd/"
 }

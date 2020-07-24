@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Sabariz and the Almoa river valley",
   "url": "https://www.reddit.com/r/dndmaps/comments/923i6v/sabariz_and_the_almoa_river_valley/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 198,
     "value": 198
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map I made for my home brew campaign. Feel free to use!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dlftwf/map_i_made_for_my_home_brew_campaign_feel_free_to/"
 }

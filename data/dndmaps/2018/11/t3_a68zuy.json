@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 62,
     "value": 62
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Something new - My first ever attempt at a digitally drawn map. A gift to you, the fine people of this subreddit.",
   "url": "https://www.reddit.com/r/dndmaps/comments/a68zuy/something_new_my_first_ever_attempt_at_a/"
 }

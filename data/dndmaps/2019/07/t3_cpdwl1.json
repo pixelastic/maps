@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Just finished my first commissioned map. Behold! The floating continent of Toreifal!",
   "url": "https://www.reddit.com/r/dndmaps/comments/cpdwl1/just_finished_my_first_commissioned_map_behold/"
 }

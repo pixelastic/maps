@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.93,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "FREE Lair of the Black Council Multi-Level 20x30 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/d1oaka/free_lair_of_the_black_council_multilevel_20x30/"
 }

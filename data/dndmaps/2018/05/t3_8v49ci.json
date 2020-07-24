@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "One Page Dungeon 5 - The Broken Dam | I wrote this mini adventure about hobgoblins taking over a dam. Map included",
   "url": "https://www.reddit.com/r/dndmaps/comments/8v49ci/one_page_dungeon_5_the_broken_dam_i_wrote_this/"
 }

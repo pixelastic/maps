@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 252,
     "value": 252
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Temple of Boom",
   "url": "https://www.reddit.com/r/dndmaps/comments/a9snhp/the_temple_of_boom/"
 }

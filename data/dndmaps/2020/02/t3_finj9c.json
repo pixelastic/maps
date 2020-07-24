@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.96,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Dwarven Kingdom Entrance - A Series of Fortified Halls Designed to Keep Enemies at Bay",
   "url": "https://www.reddit.com/r/dndmaps/comments/finj9c/dwarven_kingdom_entrance_a_series_of_fortified/"
 }

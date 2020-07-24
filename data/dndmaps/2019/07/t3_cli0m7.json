@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 664,
     "value": 664
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Crystal Cave (30x25)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cli0m7/ocart_crystal_cave_30x25/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The River Crossing (9x17) (more in the comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/foi0h3/the_river_crossing_9x17_more_in_the_comments/"
 }

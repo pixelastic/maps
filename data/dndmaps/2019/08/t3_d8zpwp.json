@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Elfsong Tavern (Descent into Avernus)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d8zpwp/elfsong_tavern_descent_into_avernus/"
 }

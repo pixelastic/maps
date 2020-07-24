@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 84,
     "value": 84
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Glongud Forest Temple",
   "url": "https://www.reddit.com/r/dndmaps/comments/frlsff/glongud_forest_temple/"
 }

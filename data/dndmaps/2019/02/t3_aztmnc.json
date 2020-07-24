@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Doomrun Sallyport -Map06",
   "url": "https://www.reddit.com/r/dndmaps/comments/aztmnc/the_doomrun_sallyport_map06_oc_34x22_battlemap/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First DnD Homebrew Campaign Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/dsq54o/first_dnd_homebrew_campaign_map/"
 }

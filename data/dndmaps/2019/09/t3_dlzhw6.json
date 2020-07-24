@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 122,
     "value": 122
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "City of Abberdin and and its surroundings",
   "url": "https://www.reddit.com/r/dndmaps/comments/dlzhw6/oc_art_city_of_abberdin_and_and_its_surroundings/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 500,
     "value": 500
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Titan's Helm Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/gb3ibp/oc_titans_helm_battlemap/"
 }

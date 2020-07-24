@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.79,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Wintery keep, just in time for snowy adventures!",
   "url": "https://www.reddit.com/r/dndmaps/comments/edirya/wintery_keep_just_in_time_for_snowy_adventures/"
 }

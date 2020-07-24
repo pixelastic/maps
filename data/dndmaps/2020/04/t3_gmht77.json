@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Multistory Palace (Three Backgrounds) - 69x83",
   "url": "https://www.reddit.com/r/dndmaps/comments/gmht77/multistory_palace_three_backgrounds_69x83/"
 }

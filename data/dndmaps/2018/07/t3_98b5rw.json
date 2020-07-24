@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 462,
     "value": 462
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Naval Transport Battlemaps",
   "url": "https://www.reddit.com/r/dndmaps/comments/98b5rw/naval_transport_battlemaps/"
 }

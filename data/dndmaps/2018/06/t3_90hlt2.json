@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 79,
     "value": 79
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "City Map The college town of Trebilis - created by Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/90hlt2/city_map_the_college_town_of_trebilis_created_by/"
 }

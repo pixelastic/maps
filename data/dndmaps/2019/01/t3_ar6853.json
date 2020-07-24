@@ -16,6 +16,7 @@
   "score": {
     "comments": 28,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 192,
     "value": 192
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Bjorn's Tavern. My first grid pattern map i've made... All criticism is wellcomed. I will upload another image with the basement of this tavern.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ar6853/bjorns_tavern_my_first_grid_pattern_map_ive_made/"
 }

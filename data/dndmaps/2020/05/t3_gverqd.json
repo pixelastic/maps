@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Kyurihim - Continent in my homebrew world where my next campaign will primarily take place",
   "url": "https://www.reddit.com/r/dndmaps/comments/gverqd/kyurihim_continent_in_my_homebrew_world_where_my/"
 }

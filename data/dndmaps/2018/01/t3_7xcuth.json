@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Map: Sunless Citadel - Grove Level",
   "url": "https://www.reddit.com/r/dndmaps/comments/7xcuth/dungeon_map_sunless_citadel_grove_level/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My newly created map made on inkarnate.com",
   "url": "https://www.reddit.com/r/dndmaps/comments/ceo9cz/my_newly_created_map_made_on_inkarnatecom/"
 }

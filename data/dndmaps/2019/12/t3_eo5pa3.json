@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Wintery Keep, F2",
   "url": "https://www.reddit.com/r/dndmaps/comments/eo5pa3/oc4500x3000pxisometricwintery_keep_f2/"
 }

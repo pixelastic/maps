@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 217,
     "value": 217
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The City of Terramere, capital of a shrunken empire. Created using Inkarnate.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gypvgn/the_city_of_terramere_capital_of_a_shrunken/"
 }

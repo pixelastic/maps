@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 125,
     "value": 125
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Colony of Mazowksa, my first proper map designed for a friends Pathfinder campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/awoxqr/the_colony_of_mazowksa_my_first_proper_map/"
 }

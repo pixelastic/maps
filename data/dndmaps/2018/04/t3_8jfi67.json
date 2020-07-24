@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 91,
     "value": 91
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "I colored another map - this time from u/skullfungus",
   "url": "https://www.reddit.com/r/dndmaps/comments/8jfi67/i_colored_another_map_this_time_from_uskullfungus/"
 }

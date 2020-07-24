@@ -16,6 +16,7 @@
   "score": {
     "comments": 22,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 506,
     "value": 506
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Elvolganta's curse: The second of five maps created on request and free to our community",
   "url": "https://www.reddit.com/r/dndmaps/comments/cao7uc/elvolgantas_curse_the_second_of_five_maps_created/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map of Darur v1 (with the counties)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9cptnx/map_of_darur_v1_with_the_counties/"
 }

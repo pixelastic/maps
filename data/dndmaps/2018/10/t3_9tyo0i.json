@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 212,
     "value": 212
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Isometric Ship at Sea",
   "url": "https://www.reddit.com/r/dndmaps/comments/9tyo0i/isometric_ship_at_sea/"
 }

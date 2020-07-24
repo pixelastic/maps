@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 57,
     "value": 57
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Alternate Sacrifice Room FREE Map on Patreon",
   "url": "https://www.reddit.com/r/dndmaps/comments/bemdfs/artalternate_sacrifice_room_free_map_on_patreon/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Battlemap of a basement connected with a tunnels complex Roll20",
   "url": "https://www.reddit.com/r/dndmaps/comments/6yip5g/battlemap_of_a_basement_connected_with_a_tunnels/"
 }

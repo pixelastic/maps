@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 54,
     "value": 54
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "An isometric mini dungeon. Not sure what it is, but I had fun making it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gl1mql/an_isometric_mini_dungeon_not_sure_what_it_is_but/"
 }

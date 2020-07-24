@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 524,
     "value": 524
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "16 Deshase Way, my first serious map attempt",
   "url": "https://www.reddit.com/r/dndmaps/comments/c3m4jz/16_deshase_way_my_first_serious_map_attempt/"
 }

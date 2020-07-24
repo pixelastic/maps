@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Maze 25x25 (DungeonFog)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gafm0r/the_maze_25x25_dungeonfog/"
 }

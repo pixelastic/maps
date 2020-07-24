@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 242,
     "value": 242
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Battlemap Blue Dragon Lair",
   "url": "https://www.reddit.com/r/dndmaps/comments/b7p1tc/battlemap_blue_dragon_lair_oc_free/"
 }

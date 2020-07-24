@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 310,
     "value": 310
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "City Map for Capital in my Campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/dz3u3r/city_map_for_capital_in_my_campaign/"
 }

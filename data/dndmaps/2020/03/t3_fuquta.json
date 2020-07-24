@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I feel like I’m getting a bit stuck in improving, if somebody could give me a bit of advice!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fuquta/feedback_i_feel_like_im_getting_a_bit_stuck_in/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "First attempt at making a map. Any suggestions on how I could improve?",
   "url": "https://www.reddit.com/r/dndmaps/comments/c3u3wv/first_attempt_at_making_a_map_any_suggestions_on/"
 }

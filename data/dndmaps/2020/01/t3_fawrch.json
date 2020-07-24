@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 81,
     "value": 81
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The continent of Verominus - my homebrew campaign setting",
   "url": "https://www.reddit.com/r/dndmaps/comments/fawrch/the_continent_of_verominus_my_homebrew_campaign/"
 }

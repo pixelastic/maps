@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Still a huge work in progress, does anyone have any advice or suggestions?",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8dvdg/still_a_huge_work_in_progress_does_anyone_have/"
 }

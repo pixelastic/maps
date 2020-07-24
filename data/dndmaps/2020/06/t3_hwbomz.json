@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 295,
     "value": 295
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "River Fort 33x28",
   "url": "https://www.reddit.com/r/dndmaps/comments/hwbomz/river_fort_33x28/"
 }

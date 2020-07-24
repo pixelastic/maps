@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon of the Mad Mage: Skull Island Map (for Roll20)",
   "url": "https://www.reddit.com/r/dndmaps/comments/bt2yi6/dungeon_of_the_mad_mage_skull_island_map_for/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 399,
     "value": 399
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "They're coming outta the walls! The Hive! (30x30 Battle Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/amei33/theyre_coming_outta_the_walls_the_hive_30x30/"
 }

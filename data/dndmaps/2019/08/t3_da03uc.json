@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 87,
     "value": 87
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "DARKWELL WETLANDS - work in progress with Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/da03uc/darkwell_wetlands_work_in_progress_with_inkarnate/"
 }

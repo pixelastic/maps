@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Small burial crypt - The Lost Resting Place of Tyrfing",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgrp3v/small_burial_crypt_the_lost_resting_place_of/"
 }

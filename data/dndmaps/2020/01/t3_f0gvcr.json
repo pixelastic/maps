@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Happy Friar Inn and tavern - Made in Dungeon Painter Studio - Forgotten Adventures Tilesets. - Free for use.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0gvcr/the_happy_friar_inn_and_tavern_made_in_dungeon/"
 }

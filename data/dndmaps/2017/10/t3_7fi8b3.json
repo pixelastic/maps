@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 94,
     "value": 94
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My first dungeon - Filkand",
   "url": "https://www.reddit.com/r/dndmaps/comments/7fi8b3/ocmy_first_dungeon_filkand/"
 }

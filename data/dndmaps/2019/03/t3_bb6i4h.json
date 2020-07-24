@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 463,
     "value": 463
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Ground floor \"The Goblin Hall\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/bb6i4h/battlemap_ground_floor_the_goblin_hall/"
 }

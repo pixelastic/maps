@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Road ambush Battle map - Free to use -Made in DPS",
   "url": "https://www.reddit.com/r/dndmaps/comments/f00zub/forest_road_ambush_battle_map_free_to_use_made_in/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A regional map of my campaign setting, Elyden, showing Soleyn and Suor.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ctkbhl/map_a_regional_map_of_my_campaign_setting_elyden/"
 }

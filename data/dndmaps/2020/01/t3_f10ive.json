@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "An update on the city of Eastguard",
   "url": "https://www.reddit.com/r/dndmaps/comments/f10ive/wip_an_update_on_the_city_of_eastguard/"
 }

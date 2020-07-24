@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Sapphire Palace, 1st Floor (1st time digitizing, need recommendations)",
   "url": "https://www.reddit.com/r/dndmaps/comments/60yl4f/sapphire_palace_1st_floor_1st_time_digitizing/"
 }

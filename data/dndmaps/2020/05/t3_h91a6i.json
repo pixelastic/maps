@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Mudwattle - Famous for it's truffle sniffing hogs!",
   "url": "https://www.reddit.com/r/dndmaps/comments/h91a6i/mudwattle_famous_for_its_truffle_sniffing_hogs/"
 }

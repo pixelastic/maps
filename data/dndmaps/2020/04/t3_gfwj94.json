@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Big Ol' 48 x 72 Dungeon Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/gfwj94/big_ol_48_x_72_dungeon_map/"
 }

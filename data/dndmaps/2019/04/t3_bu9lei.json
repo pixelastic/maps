@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 257,
     "value": 257
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Greyborn Brewery with taproom and cellar",
   "url": "https://www.reddit.com/r/dndmaps/comments/bu9lei/greyborn_brewery_with_taproom_and_cellar/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 67,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1304,
     "value": 1304
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Fantasy map version of my Home Village in France",
   "url": "https://www.reddit.com/r/dndmaps/comments/fu6plk/fantasy_map_version_of_my_home_village_in_france/"
 }

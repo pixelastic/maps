@@ -16,6 +16,7 @@
   "score": {
     "comments": 77,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1270,
     "value": 1270
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Everweald, an Inkarnate world map (6K)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fujace/the_everweald_an_inkarnate_world_map_6k/"
 }

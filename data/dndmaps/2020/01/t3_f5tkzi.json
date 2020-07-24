@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 71,
     "value": 71
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The current setting of my campaign and my first attempt at crafting a campaign map, feedback would be greatly appreciated!",
   "url": "https://www.reddit.com/r/dndmaps/comments/f5tkzi/the_current_setting_of_my_campaign_and_my_first/"
 }

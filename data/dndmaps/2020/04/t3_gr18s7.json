@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 81,
     "value": 81
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Bridge Battle Map (Made with Inkarnate Pro EA Battle Map Style)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gr18s7/bridge_battle_map_made_with_inkarnate_pro_ea/"
 }

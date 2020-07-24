@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Forgotten Caverns Battle Map 28x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/ev2nt8/forgotten_caverns_battle_map_28x30/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Two versions of a forest pond battlemap inspired by Czepeku",
   "url": "https://www.reddit.com/r/dndmaps/comments/fg0yaw/two_versions_of_a_forest_pond_battlemap_inspired/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The continent of Eodris, my first attempt at world building. C&C welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fndevl/the_continent_of_eodris_my_first_attempt_at_world/"
 }

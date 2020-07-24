@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Small encounter and a quest -\"The second siege of Brilga\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/exlq9n/small_encounter_and_a_quest_the_second_siege_of/"
 }

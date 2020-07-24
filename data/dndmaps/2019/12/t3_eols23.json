@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Update to Map! I roughed up the edges but I find it hard with only a circle tool to do well. I just added some detail and stuff. I think it's ready!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eols23/update_to_map_i_roughed_up_the_edges_but_i_find/"
 }

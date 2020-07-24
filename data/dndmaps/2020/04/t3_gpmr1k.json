@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Underground Mountain Monastery dedicated to the Study of Portals. First Map of our new Multi-World Homebrew Campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gpmr1k/50x50_70px_underground_mountain_monastery/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 20,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First map ever, feedback would be nice",
   "url": "https://www.reddit.com/r/dndmaps/comments/eiphaf/first_map_ever_feedback_would_be_nice/"
 }

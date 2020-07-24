@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.95,
     "ups": 88,
     "value": 88
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Big Road (42x40)",
   "url": "https://www.reddit.com/r/dndmaps/comments/civcjd/ocart_the_big_road_42x40/"
 }

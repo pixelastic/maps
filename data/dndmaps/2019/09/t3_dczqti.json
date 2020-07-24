@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 59,
     "value": 59
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "1st Floor of Gilarios Manor. The main setting of a Murder Mystery quest I'm creating for my players. Made with Dungeon Painter Studio.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dczqti/1st_floor_of_gilarios_manor_the_main_setting_of_a/"
 }

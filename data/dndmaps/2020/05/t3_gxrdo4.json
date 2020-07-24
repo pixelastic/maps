@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Forgotten Potion Shop Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/gxrdo4/forgotten_potion_shop_battlemap_8x11/"
 }

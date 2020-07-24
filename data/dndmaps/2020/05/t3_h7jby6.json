@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A Mountain Pass (with rope bridge - 30x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/h7jby6/a_mountain_pass_with_rope_bridge_30x30/"
 }

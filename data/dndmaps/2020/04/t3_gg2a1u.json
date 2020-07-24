@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My fully realized world map (w/o labels) I've made for my DnD homebrew campaign. I'll be appreciative of any thoughts/criticism!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gg2a1u/oc_my_fully_realized_world_map_wo_labels_ive_made/"
 }

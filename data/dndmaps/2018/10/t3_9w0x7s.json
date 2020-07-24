@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 149,
     "value": 149
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Necropolis - The Ruins of Il-Aluk (An update of a D&D 2nd Ed. Ravenloft Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9w0x7s/necropolis_the_ruins_of_ilaluk_an_update_of_a_dd/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Ruined City of Azraga'ool 60x40 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ezjwod/ruined_city_of_azragaool_60x40_battlemap_oc/"
 }

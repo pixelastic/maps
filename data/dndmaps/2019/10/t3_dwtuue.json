@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 242,
     "value": 242
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Region Map made with Inkarnate 1.0 EA",
   "url": "https://www.reddit.com/r/dndmaps/comments/dwtuue/region_map_made_with_inkarnate_10_ea/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 163,
     "value": 163
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Sewer Connector Elements",
   "url": "https://www.reddit.com/r/dndmaps/comments/e7yv04/sewer_connector_elements/"
 }

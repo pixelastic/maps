@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 195,
     "value": 195
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Floating Island Battle Map 25x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/cflgvo/floating_island_battle_map_25x30/"
 }

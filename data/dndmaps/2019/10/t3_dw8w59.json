@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 781,
     "value": 781
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "New Inkarnate map for the adventure I am writing",
   "url": "https://www.reddit.com/r/dndmaps/comments/dw8w59/new_inkarnate_map_for_the_adventure_i_am_writing/"
 }

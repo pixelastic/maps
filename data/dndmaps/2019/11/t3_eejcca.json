@@ -16,6 +16,7 @@
   "score": {
     "comments": 24,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 1125,
     "value": 1125
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My current 5e campaign map made with inkarnate 1.0",
   "url": "https://www.reddit.com/r/dndmaps/comments/eejcca/my_current_5e_campaign_map_made_with_inkarnate_10/"
 }

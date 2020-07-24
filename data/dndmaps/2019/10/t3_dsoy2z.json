@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 426,
     "value": 426
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "HIVE - Mapvember day 6 - 50 x 50",
   "url": "https://www.reddit.com/r/dndmaps/comments/dsoy2z/hive_mapvember_day_6_50_x_50/"
 }

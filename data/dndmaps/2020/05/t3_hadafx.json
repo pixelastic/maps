@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "DunJune 14 - The Deathcap Forest (alternate colour variant in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hadafx/dunjune_14_the_deathcap_forest_alternate_colour/"
 }

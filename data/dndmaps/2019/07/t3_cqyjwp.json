@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 371,
     "value": 371
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Dresden's Tower - A Five Storey Wizards Tower in the Snow!",
   "url": "https://www.reddit.com/r/dndmaps/comments/cqyjwp/dresdens_tower_a_five_storey_wizards_tower_in_the/"
 }

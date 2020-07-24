@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Eberron - Starilaskur Lightning rail concourse encounter",
   "url": "https://www.reddit.com/r/dndmaps/comments/hrs2z2/eberron_starilaskur_lightning_rail_concourse/"
 }

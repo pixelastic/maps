@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 246,
     "value": 246
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Old Cat Tavern",
   "url": "https://www.reddit.com/r/dndmaps/comments/a1w6d5/the_old_cat_tavern/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Undermountain Level 8 Slitherswamp Adapted",
   "url": "https://www.reddit.com/r/dndmaps/comments/bje77e/undermountain_level_8_slitherswamp_adapted/"
 }

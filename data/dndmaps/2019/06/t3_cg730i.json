@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Acadian Peninsula, first discovery of the new world.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cg730i/the_acadian_peninsula_first_discovery_of_the_new/"
 }

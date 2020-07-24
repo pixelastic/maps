@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Another Cave Map Experiment 50px=5ft",
   "url": "https://www.reddit.com/r/dndmaps/comments/cs3anh/another_cave_map_experiment_50px5ft/"
 }

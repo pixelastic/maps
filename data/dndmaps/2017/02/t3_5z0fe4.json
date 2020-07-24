@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Awesome pirate camp for maritime adventures",
   "url": "https://www.reddit.com/r/dndmaps/comments/5z0fe4/awesome_pirate_camp_for_maritime_adventures/"
 }

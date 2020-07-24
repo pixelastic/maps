@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 330,
     "value": 330
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Witches Hut - (bonus basement map in comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gom72c/witches_hut_bonus_basement_map_in_comments/"
 }

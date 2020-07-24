@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A more full version of my current campaign’s world map. And before you ask, yes, I based it off Ultima, Adventure Quest, and Warcraft.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dorlhn/a_more_full_version_of_my_current_campaigns_world/"
 }

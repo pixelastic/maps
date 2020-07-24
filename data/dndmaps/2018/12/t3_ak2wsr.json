@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 69,
     "value": 69
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Volcanic Wilderness + Wolf Fire Elemental Token in Comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/ak2wsr/volcanic_wilderness_wolf_fire_elemental_token_in/"
 }

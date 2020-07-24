@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Looking for feedback on temple map",
   "url": "https://www.reddit.com/r/dndmaps/comments/6mre7g/work_in_progress_looking_for_feedback_on_temple/"
 }

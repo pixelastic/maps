@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My rendition of Cimbar, from the Old Empires setting",
   "url": "https://www.reddit.com/r/dndmaps/comments/gi6f1w/my_rendition_of_cimbar_from_the_old_empires/"
 }

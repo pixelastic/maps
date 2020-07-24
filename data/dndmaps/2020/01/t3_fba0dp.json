@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 544,
     "value": 544
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Corym's Casks Inn (15x15 per level)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fba0dp/coryms_casks_inn_15x15_per_level/"
 }

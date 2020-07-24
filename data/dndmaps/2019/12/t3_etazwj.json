@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 88,
     "value": 88
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Cold by the Fire",
   "url": "https://www.reddit.com/r/dndmaps/comments/etazwj/cold_by_the_fire_battlemap_46_x_33/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.96,
     "ups": 85,
     "value": 85
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Broken Compass - A Three Level Trader's Post, General Store and Stables!",
   "url": "https://www.reddit.com/r/dndmaps/comments/cuxk8b/the_broken_compass_a_three_level_traders_post/"
 }

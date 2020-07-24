@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Saltmarsh and Environs (Slightly zoomed in) Running the Ghosts of Saltmarsh for my players!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hbjgdb/saltmarsh_and_environs_slightly_zoomed_in_running/"
 }

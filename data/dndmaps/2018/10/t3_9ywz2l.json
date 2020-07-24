@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Waterdeep Dragon Heist - Trollskull Alley",
   "url": "https://www.reddit.com/r/dndmaps/comments/9ywz2l/waterdeep_dragon_heist_trollskull_alley/"
 }

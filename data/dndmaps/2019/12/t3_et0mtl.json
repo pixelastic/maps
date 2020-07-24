@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Second location of our homebrew campaign, Jakatsk empire.",
   "url": "https://www.reddit.com/r/dndmaps/comments/et0mtl/second_location_of_our_homebrew_campaign_jakatsk/"
 }

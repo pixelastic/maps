@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 47,
     "value": 47
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Amazing commissioned map by u/Brohannes__Brahms",
   "url": "https://www.reddit.com/r/dndmaps/comments/9hg82a/amazing_commissioned_map_by_ubrohannes_brahms/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 91,
     "value": 91
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "A revised map, just done. Don't question the bridge, it's an inside joke.",
   "url": "https://www.reddit.com/r/dndmaps/comments/clp6oj/a_revised_map_just_done_dont_question_the_bridge/"
 }

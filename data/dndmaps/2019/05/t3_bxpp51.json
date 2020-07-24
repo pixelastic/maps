@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Gander - Another in game map I made for my Dragonlance AD&D game",
   "url": "https://www.reddit.com/r/dndmaps/comments/bxpp51/gander_another_in_game_map_i_made_for_my/"
 }

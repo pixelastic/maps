@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 90,
     "value": 90
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Tropical Beach  ... Experimenting with a more 'painterly' style - Constructive criticism welcome",
   "url": "https://www.reddit.com/r/dndmaps/comments/hj8run/tropical_beach_20x20ocbattlemap_experimenting/"
 }

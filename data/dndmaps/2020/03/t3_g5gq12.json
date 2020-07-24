@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Kalara - the continent of my current game",
   "url": "https://www.reddit.com/r/dndmaps/comments/g5gq12/kalara_the_continent_of_my_current_game/"
 }

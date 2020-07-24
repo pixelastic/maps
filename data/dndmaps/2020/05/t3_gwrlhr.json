@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 66,
     "value": 66
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Home to the Tabaxi Clan of the Whispering Falls",
   "url": "https://www.reddit.com/r/dndmaps/comments/gwrlhr/home_to_the_tabaxi_clan_of_the_whispering_falls/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A commission I did a few weeks ago",
   "url": "https://www.reddit.com/r/dndmaps/comments/gohqd6/a_commission_i_did_a_few_weeks_ago/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 940,
     "value": 940
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Rocky Canyon (30x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/btznph/rocky_canyon_30x30/"
 }

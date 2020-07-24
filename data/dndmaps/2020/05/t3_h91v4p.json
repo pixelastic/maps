@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.91,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Dunjune 13 - The Fairy Pond",
   "url": "https://www.reddit.com/r/dndmaps/comments/h91v4p/dunjune_13_the_fairy_pond/"
 }

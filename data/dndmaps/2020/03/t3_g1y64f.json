@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My first town map, that's not terrible and hand drawn. Any advice, either general or Inkarnate specific is greatly appreciated.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g1y64f/my_first_town_map_thats_not_terrible_and_hand/"
 }

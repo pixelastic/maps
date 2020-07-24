@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The World of Equin for my upcomming campaign (made with rhe help of Azgaars fantasy map generator and my photoshop skills)(any feedback is welcomed)",
   "url": "https://www.reddit.com/r/dndmaps/comments/e9kavu/the_world_of_equin_for_my_upcomming_campaign_made/"
 }

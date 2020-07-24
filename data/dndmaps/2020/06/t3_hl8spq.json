@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 138,
     "value": 138
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I made a Pangea map, while recovering from surgery. I'm not an artist but I'm quite proud of it!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hl8spq/i_made_a_pangea_map_while_recovering_from_surgery/"
 }

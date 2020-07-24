@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "White Sail Tavern Interior Ground (15*9) (No Grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hmqgv5/white_sail_tavern_interior_ground_159_no_grid/"
 }

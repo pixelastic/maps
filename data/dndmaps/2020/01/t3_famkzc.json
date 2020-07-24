@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "This is the map I am currently working on in photoshop, any tips?",
   "url": "https://www.reddit.com/r/dndmaps/comments/famkzc/this_is_the_map_i_am_currently_working_on_in/"
 }

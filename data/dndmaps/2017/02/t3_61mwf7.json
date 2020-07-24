@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A collection of 7 battlemaps including variants and night maps.",
   "url": "https://www.reddit.com/r/dndmaps/comments/61mwf7/a_collection_of_7_battlemaps_including_variants/"
 }

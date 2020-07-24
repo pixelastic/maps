@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 145,
     "value": 145
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ice Crossing",
   "url": "https://www.reddit.com/r/dndmaps/comments/egdgk3/battlemap30x303500x3500px_ice_crossing_ocart/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 57,
     "value": 57
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Goblintown | 40\"x20\" Poster Map (2 Levels)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gtdaqb/goblintown_40x20_poster_map_2_levels/"
 }

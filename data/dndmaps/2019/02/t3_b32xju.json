@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Isometric Dungeon Designer, Outdoor Edition released! Here's a free map from it!",
   "url": "https://www.reddit.com/r/dndmaps/comments/b32xju/isometric_dungeon_designer_outdoor_edition/"
 }

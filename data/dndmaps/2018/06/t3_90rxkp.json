@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 82,
     "value": 82
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Mern - Countries and major cities",
   "url": "https://www.reddit.com/r/dndmaps/comments/90rxkp/oc_mern_countries_and_major_cities/"
 }

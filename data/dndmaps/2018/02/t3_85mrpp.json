@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Mid-sized starting town, at the base of a mountain.",
   "url": "https://www.reddit.com/r/dndmaps/comments/85mrpp/midsized_starting_town_at_the_base_of_a_mountain/"
 }

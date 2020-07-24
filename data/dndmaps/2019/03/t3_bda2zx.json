@@ -16,6 +16,7 @@
   "score": {
     "comments": 29,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.75,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My map for my campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bda2zx/my_map_for_my_campaign/"
 }

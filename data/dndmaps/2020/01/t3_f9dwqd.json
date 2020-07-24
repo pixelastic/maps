@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 570,
     "value": 570
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Small Mining Town of Jade Creek - Made with Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/f9dwqd/small_mining_town_of_jade_creek_made_with/"
 }

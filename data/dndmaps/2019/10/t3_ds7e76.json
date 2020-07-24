@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Region map I made. I wanted to share it so anybody can use it. Right is wood elf terrain which is being corrupted. The big castle is dark elf/lich the city is human and the flying island are the high elves. Also got a version with names down in the comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ds7e76/region_map_i_made_i_wanted_to_share_it_so_anybody/"
 }

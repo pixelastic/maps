@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 19,
     "value": 19
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Working on a map and would like suggestions/criticisms before I add locations",
   "url": "https://www.reddit.com/r/dndmaps/comments/cz6w5a/working_on_a_map_and_would_like/"
 }

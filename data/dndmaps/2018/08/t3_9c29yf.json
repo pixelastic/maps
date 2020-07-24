@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 105,
     "value": 105
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "A cave complex with a mysterious portalstone at its center",
   "url": "https://www.reddit.com/r/dndmaps/comments/9c29yf/a_cave_complex_with_a_mysterious_portalstone_at/"
 }

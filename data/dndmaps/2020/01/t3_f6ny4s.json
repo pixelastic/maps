@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 524,
     "value": 524
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Innocent Home (20x16)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f6ny4s/the_innocent_home_20x16/"
 }

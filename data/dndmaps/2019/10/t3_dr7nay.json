@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 974,
     "value": 974
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "An older dungeon, drawn in pencil a decade ago...",
   "url": "https://www.reddit.com/r/dndmaps/comments/dr7nay/an_older_dungeon_drawn_in_pencil_a_decade_ago/"
 }

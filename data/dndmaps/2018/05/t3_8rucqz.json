@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Skithek Warren 1F, description in comment",
   "url": "https://www.reddit.com/r/dndmaps/comments/8rucqz/skithek_warren_1f_description_in_comment/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 39,
     "value": 39
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Pillar of the Igesej Loremaster",
   "url": "https://www.reddit.com/r/dndmaps/comments/ezxtn0/pillar_of_the_igesej_loremaster/"
 }

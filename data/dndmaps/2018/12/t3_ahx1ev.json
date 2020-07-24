@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 307,
     "value": 307
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Barrows Battle Map (30x30 grid)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ahx1ev/the_barrows_battle_map_30x30_grid/"
 }

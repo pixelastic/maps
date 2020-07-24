@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 80,
     "value": 80
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Basic: Free OC",
   "url": "https://www.reddit.com/r/dndmaps/comments/cn6r7l/battlemap_32x22_dungeon_basic_free_oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Created a map of the starting area in my new campaign for my players",
   "url": "https://www.reddit.com/r/dndmaps/comments/c3iz6m/created_a_map_of_the_starting_area_in_my_new/"
 }

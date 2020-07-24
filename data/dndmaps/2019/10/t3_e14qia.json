@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Top half of capital city (3 maps stitched together)",
   "url": "https://www.reddit.com/r/dndmaps/comments/e14qia/top_half_of_capital_city_3_maps_stitched_together/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 42,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1224,
     "value": 1224
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My norse inspired world map for a future D&D-campaign! P.S I'm never drawing swamplands by hand again!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ghn1i3/my_norse_inspired_world_map_for_a_future/"
 }

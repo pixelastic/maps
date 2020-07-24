@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "High Hall Cathedral (Descent into Avernus)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dl4cys/high_hall_cathedral_descent_into_avernus/"
 }

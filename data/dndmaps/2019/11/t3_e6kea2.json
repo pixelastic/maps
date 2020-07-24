@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The completed version of my previous Orden Ogan inspired map. Can you suggest me some names for the continent?",
   "url": "https://www.reddit.com/r/dndmaps/comments/e6kea2/the_completed_version_of_my_previous_orden_ogan/"
 }

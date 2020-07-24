@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Ahoy, Me Hearties a new map fer ya!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dpfa0e/ahoy_me_hearties_a_new_map_fer_ya/"
 }

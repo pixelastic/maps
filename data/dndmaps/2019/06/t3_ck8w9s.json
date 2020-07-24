@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 495,
     "value": 495
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Basic Dungeon: Free",
   "url": "https://www.reddit.com/r/dndmaps/comments/ck8w9s/battlemap_25x25_basic_dungeon_free_oc/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Hex Map Of A City In The Bay (plus a link to a bunch of maps I've put together this weekend!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fn2agi/hex_map_of_a_city_in_the_bay_plus_a_link_to_a/"
 }

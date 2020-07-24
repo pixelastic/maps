@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Hollow Landing: The Port of Magicians",
   "url": "https://www.reddit.com/r/dndmaps/comments/fdqh7m/hollow_landing_the_port_of_magicians/"
 }

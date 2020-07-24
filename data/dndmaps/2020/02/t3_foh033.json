@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Princes of the Apocalypse Dessarin Valley Map Remade by Myself to fit into the Eberron Campaign Setting (Couldn't upload two images so I just sent the player version)",
   "url": "https://www.reddit.com/r/dndmaps/comments/foh033/princes_of_the_apocalypse_dessarin_valley_map/"
 }

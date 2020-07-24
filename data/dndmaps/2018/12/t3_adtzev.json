@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 135,
     "value": 135
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Jarl Odring's Longhouse",
   "url": "https://www.reddit.com/r/dndmaps/comments/adtzev/jarl_odrings_longhouse/"
 }

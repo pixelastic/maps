@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Lightmorrow and Surroundings (a little more rough of a drawing but wanted to post all the area maps I have)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9z8tew/lightmorrow_and_surroundings_a_little_more_rough/"
 }

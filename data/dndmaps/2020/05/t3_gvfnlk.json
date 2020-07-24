@@ -16,6 +16,7 @@
   "score": {
     "comments": 93,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1551,
     "value": 1551
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "I made a Castlevania styled map, full links in comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/gvfnlk/i_made_a_castlevania_styled_map_full_links_in/"
 }

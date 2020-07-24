@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 38,
     "value": 38
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Frozen Wastes - Remastered in Wonderdraft",
   "url": "https://www.reddit.com/r/dndmaps/comments/fdv1sv/the_frozen_wastes_remastered_in_wonderdraft/"
 }

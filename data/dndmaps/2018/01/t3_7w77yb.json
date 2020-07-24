@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Isometric Death Tyrant Lair - 15 hours of work and a nice adventure to come with it.",
   "url": "https://www.reddit.com/r/dndmaps/comments/7w77yb/art_isometric_death_tyrant_lair_15_hours_of_work/"
 }

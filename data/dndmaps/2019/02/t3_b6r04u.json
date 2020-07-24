@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Simple Cave Scene for an upcoming game",
   "url": "https://www.reddit.com/r/dndmaps/comments/b6r04u/simple_cave_scene_for_an_upcoming_game_oc/"
 }

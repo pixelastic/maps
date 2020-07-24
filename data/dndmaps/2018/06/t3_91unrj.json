@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 87,
     "value": 87
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Player map for Lost Mine of Phandalin, Middle Earth style",
   "url": "https://www.reddit.com/r/dndmaps/comments/91unrj/player_map_for_lost_mine_of_phandalin_middle/"
 }

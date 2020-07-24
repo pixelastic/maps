@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 158,
     "value": 158
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Basic Dungeon: Final test. Free",
   "url": "https://www.reddit.com/r/dndmaps/comments/cnnedx/battlemap_50x50_basic_dungeon_final_test_free_oc/"
 }

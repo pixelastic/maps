@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "This is my first map ever, i need some critiques or suggestions, thanks!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ciucdp/this_is_my_first_map_ever_i_need_some_critiques/"
 }

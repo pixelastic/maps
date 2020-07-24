@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first incomplete attempt at making a map for a campaign I'm preparing.",
   "url": "https://www.reddit.com/r/dndmaps/comments/e5gl1w/my_first_incomplete_attempt_at_making_a_map_for_a/"
 }

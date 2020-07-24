@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The place is Thar, The Great Grey Land. The time is 1373 DR. Our upcoming D&D 5e Forgotten Realms adventure module “Year of Rogue Dragons”, playable by evil dragon characters is out soon. Follow us for release date!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dieeb3/oc_the_place_is_thar_the_great_grey_land_the_time/"
 }

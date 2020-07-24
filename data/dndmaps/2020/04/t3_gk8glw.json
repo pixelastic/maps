@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "DND Tabletop - Question - I was thinking of building a static version of this using 11 x 17 Printed maps under a glass top. I need ideas on how to manually do the blackout on the map until ready to reveal.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gk8glw/dnd_tabletop_question_i_was_thinking_of_building/"
 }

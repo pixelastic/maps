@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 18,
     "value": 18
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Just finished this mega dungeon cave after a ton of work. I included an adventure but what is your suggestion for a quest here?",
   "url": "https://www.reddit.com/r/dndmaps/comments/7x2aa1/just_finished_this_mega_dungeon_cave_after_a_ton/"
 }

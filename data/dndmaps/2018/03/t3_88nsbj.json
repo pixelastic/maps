@@ -16,6 +16,7 @@
   "score": {
     "comments": 22,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 65,
     "value": 65
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I'm looking into getting into D&D and so I made a map, thoughts?",
   "url": "https://www.reddit.com/r/dndmaps/comments/88nsbj/im_looking_into_getting_into_dd_and_so_i_made_a/"
 }

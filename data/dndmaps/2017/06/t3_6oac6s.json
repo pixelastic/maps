@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "New Temple map, high res available on my Patreon!",
   "url": "https://www.reddit.com/r/dndmaps/comments/6oac6s/new_temple_map_high_res_available_on_my_patreon/"
 }

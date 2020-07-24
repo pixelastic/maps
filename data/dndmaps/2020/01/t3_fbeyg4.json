@@ -16,6 +16,7 @@
   "score": {
     "comments": 58,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1148,
     "value": 1148
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Forsaken Chambers of Zadicus",
   "url": "https://www.reddit.com/r/dndmaps/comments/fbeyg4/the_forsaken_chambers_of_zadicus/"
 }

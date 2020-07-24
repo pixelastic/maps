@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Galadia, an Oasis of Life on a Frozen World",
   "url": "https://www.reddit.com/r/dndmaps/comments/dnw56m/oc_galadia_an_oasis_of_life_on_a_frozen_world/"
 }

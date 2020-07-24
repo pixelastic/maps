@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Recreation: Labrynthian of Skyrim",
   "url": "https://www.reddit.com/r/dndmaps/comments/hoby6q/recreation_labrynthian_of_skyrim/"
 }

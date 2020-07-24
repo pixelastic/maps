@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 97,
     "value": 97
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Valley Of Rath WIP Map! Feel free to give me some feedback and maybe some ideas to fill up the rest of this map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bzqjf2/valley_of_rath_wip_map_feel_free_to_give_me_some/"
 }

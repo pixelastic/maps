@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1044,
     "value": 1044
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "River Crossing Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/hecum5/48x27_river_crossing_battlemap/"
 }

@@ -15,6 +15,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.75,
     "ups": 4,
     "value": 4
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Small town by a forest",
   "url": "https://www.reddit.com/r/dndmaps/comments/5uazd5/small_town_by_a_forest/"
 }

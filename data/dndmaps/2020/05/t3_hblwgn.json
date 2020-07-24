@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Night of the Undead (Nacht Der Untoten)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hblwgn/night_of_the_undead_nacht_der_untoten_7020_x_3332/"
 }

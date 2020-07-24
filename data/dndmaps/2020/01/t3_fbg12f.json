@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 154,
     "value": 154
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Tree Village- a Collaboration with James' RPG Art",
   "url": "https://www.reddit.com/r/dndmaps/comments/fbg12f/tree_village_a_collaboration_with_james_rpg_art/"
 }

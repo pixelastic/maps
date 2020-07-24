@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My final results for my would map. I'll be working on reign maps withe roads and cities next",
   "url": "https://www.reddit.com/r/dndmaps/comments/cg5lkm/my_final_results_for_my_would_map_ill_be_working/"
 }

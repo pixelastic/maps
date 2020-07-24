@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 126,
     "value": 126
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Secret Societies of the Aquiann: The Divine Path",
   "url": "https://www.reddit.com/r/dndmaps/comments/f5ch7a/secret_societies_of_the_aquiann_the_divine_path/"
 }

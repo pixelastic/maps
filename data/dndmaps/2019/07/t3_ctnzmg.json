@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "27 10x10 floors of Noble & Guard Towers in 3 50x50 maps",
   "url": "https://www.reddit.com/r/dndmaps/comments/ctnzmg/27_10x10_floors_of_noble_guard_towers_in_3_50x50/"
 }

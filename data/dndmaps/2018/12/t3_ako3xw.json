@@ -16,6 +16,7 @@
   "score": {
     "comments": 30,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 287,
     "value": 287
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Circle of the World, from Abercrombie's \"First Law\" series, which I'm adapting to a 5e campaign setting for one of my groups",
   "url": "https://www.reddit.com/r/dndmaps/comments/ako3xw/the_circle_of_the_world_from_abercrombies_first/"
 }

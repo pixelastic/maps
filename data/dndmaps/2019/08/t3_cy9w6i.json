@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.75,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Mini-Dungeon 1 2310x700",
   "url": "https://www.reddit.com/r/dndmaps/comments/cy9w6i/minidungeon_1_2310x700_dps/"
 }

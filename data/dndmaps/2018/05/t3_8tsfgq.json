@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Greenround Town is a place known by its big green cheese wheels.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8tsfgq/greenround_town_is_a_place_known_by_its_big_green/"
 }

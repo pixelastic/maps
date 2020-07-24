@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Practicing making maps during quarantine. This is my second map.",
   "url": "https://www.reddit.com/r/dndmaps/comments/g32t9i/practicing_making_maps_during_quarantine_this_is/"
 }

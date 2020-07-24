@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Spent the day in Krita making this map for my online DnD Coronacation Campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/fqev36/spent_the_day_in_krita_making_this_map_for_my/"
 }

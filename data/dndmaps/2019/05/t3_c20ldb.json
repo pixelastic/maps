@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Tournament Grounds for a one-shot - sorry for the dodgy colouring",
   "url": "https://www.reddit.com/r/dndmaps/comments/c20ldb/tournament_grounds_for_a_oneshot_sorry_for_the/"
 }

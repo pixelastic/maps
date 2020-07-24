@@ -16,6 +16,7 @@
   "score": {
     "comments": 43,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 712,
     "value": 712
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Holy Gynocracy of Naareth & the Technarchy of Saragos",
   "url": "https://www.reddit.com/r/dndmaps/comments/chbt3x/the_holy_gynocracy_of_naareth_the_technarchy_of/"
 }

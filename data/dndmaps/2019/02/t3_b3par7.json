@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 423,
     "value": 423
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Used google earth imagery to make a detailed stylized city map",
   "url": "https://www.reddit.com/r/dndmaps/comments/b3par7/used_google_earth_imagery_to_make_a_detailed/"
 }

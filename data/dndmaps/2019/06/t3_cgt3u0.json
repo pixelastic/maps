@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The map of one of the three main continents of Gondol, my created world. The northern continent here is called Ghâlun, and my players really liked it over the last sessions.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cgt3u0/the_map_of_one_of_the_three_main_continents_of/"
 }

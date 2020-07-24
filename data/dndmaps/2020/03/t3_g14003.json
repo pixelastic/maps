@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "First post! Just started using DungeonFog about two days ago. Here's my first try at a larger overworld map: The Underground Dwarven Kingdom of Dweznarr",
   "url": "https://www.reddit.com/r/dndmaps/comments/g14003/first_post_just_started_using_dungeonfog_about/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Maps of the main continents from my game: Länsi and Itaan, in both a satellite and hand-drawn style.",
   "url": "https://www.reddit.com/r/dndmaps/comments/69u8ud/maps_of_the_main_continents_from_my_game_länsi/"
 }

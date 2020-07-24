@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1473,
     "value": 1473
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Festival of Spring Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/f9wpen/the_festival_of_spring_battlemap_18x31/"
 }

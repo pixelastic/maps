@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "2nd floor to the Church of Lies",
   "url": "https://www.reddit.com/r/dndmaps/comments/62cdce/2nd_floor_to_the_church_of_lies/"
 }

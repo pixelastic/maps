@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "(Edited) Delmni Falls - I took some of your suggestions into account and edited a couple things.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9p0l3j/edited_delmni_falls_i_took_some_of_your/"
 }

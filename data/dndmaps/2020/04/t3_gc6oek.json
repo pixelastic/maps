@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Bridge to the Lost Mountain Shrine",
   "url": "https://www.reddit.com/r/dndmaps/comments/gc6oek/bridge_to_the_lost_mountain_shrine_49x35/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My first map - lost Dwarven city of Gormenghast - Inkarnate & Photoshop - ~1hr",
   "url": "https://www.reddit.com/r/dndmaps/comments/6c6n6q/my_first_map_lost_dwarven_city_of_gormenghast/"
 }

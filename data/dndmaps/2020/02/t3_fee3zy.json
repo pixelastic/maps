@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 200,
     "value": 200
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Sprawling caves that lead into a tomb complex",
   "url": "https://www.reddit.com/r/dndmaps/comments/fee3zy/sprawling_caves_that_lead_into_a_tomb_complex/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Hunt for Thessalhydra - Upside Down",
   "url": "https://www.reddit.com/r/dndmaps/comments/cbx27o/hunt_for_thessalhydra_upside_down/"
 }

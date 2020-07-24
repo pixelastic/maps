@@ -16,6 +16,7 @@
   "score": {
     "comments": 63,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1727,
     "value": 1727
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Adrast, the city at the frontier! My group fell apart before they could explore it, but I hope someone else will find this useful!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkgwmx/adrast_the_city_at_the_frontier_my_group_fell/"
 }

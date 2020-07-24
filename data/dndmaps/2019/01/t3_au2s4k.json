@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 135,
     "value": 135
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Fantasy West Virginia",
   "url": "https://www.reddit.com/r/dndmaps/comments/au2s4k/fantasy_west_virginia/"
 }

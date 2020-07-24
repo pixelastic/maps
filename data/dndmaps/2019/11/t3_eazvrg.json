@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 442,
     "value": 442
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Bandit Camp in the Woods",
   "url": "https://www.reddit.com/r/dndmaps/comments/eazvrg/bandit_camp_in_the_woods/"
 }

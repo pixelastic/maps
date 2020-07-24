@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Perhaps an ancient secret lies hidden here? Or an unfathomable treasure? More likely, though, is a grinning red dragon waiting to surprise a young adventuring party...",
   "url": "https://www.reddit.com/r/dndmaps/comments/fh6tvg/perhaps_an_ancient_secret_lies_hidden_here_or_an/"
 }

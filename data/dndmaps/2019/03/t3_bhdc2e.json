@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Island I am Working On - Any Feed Back Would Be Great - twitch.tv/pixelwizzy",
   "url": "https://www.reddit.com/r/dndmaps/comments/bhdc2e/island_i_am_working_on_any_feed_back_would_be/"
 }

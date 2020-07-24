@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Hellish Lair of Lord Fiyah",
   "url": "https://www.reddit.com/r/dndmaps/comments/9gmsqi/the_hellish_lair_of_lord_fiyah/"
 }

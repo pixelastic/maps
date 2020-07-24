@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Super New to Reddit, Used the free version to make this looking for some feed back :O",
   "url": "https://www.reddit.com/r/dndmaps/comments/gebsl9/super_new_to_reddit_used_the_free_version_to_make/"
 }

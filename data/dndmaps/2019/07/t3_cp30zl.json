@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.97,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "HANGAR 07 - My first Sci-Fi Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/cp30zl/ocbattlemap_hangar_07_my_first_scifi_battlemap/"
 }

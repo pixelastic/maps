@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1003,
     "value": 1003
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Yeti's Cave - Winter Encounter Battle Map (30x30)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ecc9de/the_yetis_cave_winter_encounter_battle_map_30x30/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1186,
     "value": 1186
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Souced Sanctuary 40x22",
   "url": "https://www.reddit.com/r/dndmaps/comments/hswewr/ocanimatedbattlemapperspective_souced_sanctuary/"
 }

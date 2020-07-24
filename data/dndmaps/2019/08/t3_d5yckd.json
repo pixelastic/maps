@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "WIP Island Map ! This is a little side project map I am doing at the moment, any suggestions to improve it would be greatly appreciated.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d5yckd/wip_island_map_this_is_a_little_side_project_map/"
 }

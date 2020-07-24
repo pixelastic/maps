@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Iasanara - own world created for a novel - this is the east part of it where mainly elves are living ...",
   "url": "https://www.reddit.com/r/dndmaps/comments/ev9sd1/iasanara_own_world_created_for_a_novel_this_is/"
 }

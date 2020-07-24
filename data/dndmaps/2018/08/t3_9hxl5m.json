@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 239,
     "value": 239
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Gøtenhägen: The God's Harbor – or The Gods' Harbor, if you're some kind of radical.",
   "url": "https://www.reddit.com/r/dndmaps/comments/9hxl5m/gøtenhägen_the_gods_harbor_or_the_gods_harbor_if/"
 }

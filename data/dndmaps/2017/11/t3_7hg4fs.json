@@ -15,6 +15,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 34,
     "value": 34
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first map for my FR-inspired campaign,in Italian.I'd like any kind of feedback",
   "url": "https://www.reddit.com/r/dndmaps/comments/7hg4fs/my_first_map_for_my_frinspired_campaignin/"
 }

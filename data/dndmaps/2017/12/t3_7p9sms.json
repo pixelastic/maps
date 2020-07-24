@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.84,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Arctic Cavern Wolf Lair",
   "url": "https://www.reddit.com/r/dndmaps/comments/7p9sms/arctic_cavern_wolf_lair/"
 }

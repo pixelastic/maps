@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 280,
     "value": 280
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Steamy Salamander Hotsprings",
   "url": "https://www.reddit.com/r/dndmaps/comments/ckpoj3/steamy_salamander_hotsprings_16x43/"
 }

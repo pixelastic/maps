@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Red Dragon Lair Rework (40x40)",
   "url": "https://www.reddit.com/r/dndmaps/comments/amfjt9/red_dragon_lair_rework_40x40/"
 }

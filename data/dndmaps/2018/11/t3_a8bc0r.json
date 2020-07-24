@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 100,
     "value": 100
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "The Century Pelican - The finest airship in all of... your party's price range.",
   "url": "https://www.reddit.com/r/dndmaps/comments/a8bc0r/the_century_pelican_the_finest_airship_in_all_of/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 940,
     "value": 940
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Lumberjacks near the Goblin Bog",
   "url": "https://www.reddit.com/r/dndmaps/comments/fpu26f/the_lumberjacks_near_the_goblin_bog/"
 }

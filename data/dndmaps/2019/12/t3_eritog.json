@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Yaharr! Here be pirates. A (slightly tongue in cheek) map i made for my pathfinder campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/eritog/yaharr_here_be_pirates_a_slightly_tongue_in_cheek/"
 }

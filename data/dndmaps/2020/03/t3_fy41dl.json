@@ -16,6 +16,7 @@
   "score": {
     "comments": 23,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1496,
     "value": 1496
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Found some great resource packs online, This is what I was able to come up with mashing things up in photoshop",
   "url": "https://www.reddit.com/r/dndmaps/comments/fy41dl/found_some_great_resource_packs_online_this_is/"
 }

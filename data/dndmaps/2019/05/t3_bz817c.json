@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 192,
     "value": 192
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Mossy Dungeon Modular Map Tile set in action!",
   "url": "https://www.reddit.com/r/dndmaps/comments/bz817c/mossy_dungeon_modular_map_tile_set_in_action/"
 }

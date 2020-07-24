@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "OC Map of Necropolis City Streets with a Tavern Inside a Skull",
   "url": "https://www.reddit.com/r/dndmaps/comments/75hdmm/oc_map_of_necropolis_city_streets_with_a_tavern/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "(Edited) Working on a city. Here's the top right corner (harbor district)",
   "url": "https://www.reddit.com/r/dndmaps/comments/doyu30/edited_working_on_a_city_heres_the_top_right/"
 }

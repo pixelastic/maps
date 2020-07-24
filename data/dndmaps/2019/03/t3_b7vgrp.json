@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Autumn Roadside Map Pack (FREE Sample)",
   "url": "https://www.reddit.com/r/dndmaps/comments/b7vgrp/autumn_roadside_map_pack_free_sample/"
 }

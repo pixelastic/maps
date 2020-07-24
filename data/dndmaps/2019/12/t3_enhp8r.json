@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 95,
     "value": 95
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Building a new world for 2020",
   "url": "https://www.reddit.com/r/dndmaps/comments/enhp8r/building_a_new_world_for_2020/"
 }

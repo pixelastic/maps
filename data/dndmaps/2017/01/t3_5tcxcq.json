@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My recently completed DnD campaign map, with bonus textless version.",
   "url": "https://www.reddit.com/r/dndmaps/comments/5tcxcq/my_recently_completed_dnd_campaign_map_with_bonus/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The first map I've made. A small dungeon for a gibbering mouther encounter I've planned for the next session.",
   "url": "https://www.reddit.com/r/dndmaps/comments/7gzl4h/the_first_map_ive_made_a_small_dungeon_for_a/"
 }

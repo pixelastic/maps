@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Emberglen Basin, the setting of the new D&D campaign I'm running.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fplhnw/emberglen_basin_the_setting_of_the_new_dd/"
 }

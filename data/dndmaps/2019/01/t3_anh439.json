@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 160,
     "value": 160
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Isle of the Hempty Sea (Spanish)",
   "url": "https://www.reddit.com/r/dndmaps/comments/anh439/the_isle_of_the_hempty_sea_spanish/"
 }

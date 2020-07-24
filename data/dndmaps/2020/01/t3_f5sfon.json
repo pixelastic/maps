@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Dwarven Mining City in Large Mountain Cavern (Inkarnate)",
   "url": "https://www.reddit.com/r/dndmaps/comments/f5sfon/dwarven_mining_city_in_large_mountain_cavern/"
 }

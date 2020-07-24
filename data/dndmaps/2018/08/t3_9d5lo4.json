@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 191,
     "value": 191
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Ruins of an Abandoned Mine",
   "url": "https://www.reddit.com/r/dndmaps/comments/9d5lo4/ruins_of_an_abandoned_mine/"
 }

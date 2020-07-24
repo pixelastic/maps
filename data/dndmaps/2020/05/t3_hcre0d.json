@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.67,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "How do you guys name your maps? Currently this one is called ‘Blue’",
   "url": "https://www.reddit.com/r/dndmaps/comments/hcre0d/how_do_you_guys_name_your_maps_currently_this_one/"
 }

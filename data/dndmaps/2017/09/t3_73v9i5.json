@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 42,
     "value": 42
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Gallery of my work since march (50x50 units)",
   "url": "https://www.reddit.com/r/dndmaps/comments/73v9i5/gallery_of_my_work_since_march_50x50_units/"
 }

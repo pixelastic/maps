@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 87,
     "value": 87
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Squirming Medusa - 25x22 Tavern Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/g4moh1/the_squirming_medusa_25x22_tavern_map/"
 }

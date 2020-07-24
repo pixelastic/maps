@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World Map Of My Ongoing Campaign (Labels And Descriptions In Comments)",
   "url": "https://www.reddit.com/r/dndmaps/comments/5u4wfm/world_map_of_my_ongoing_campaign_labels_and/"
 }

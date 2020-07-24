@@ -16,6 +16,7 @@
   "score": {
     "comments": 32,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1087,
     "value": 1087
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Port Gavil, made using Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/ep0njc/port_gavil_made_using_inkarnate/"
 }

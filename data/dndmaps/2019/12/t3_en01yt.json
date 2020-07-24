@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 142,
     "value": 142
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Discovered that Excel is a quick and easy digital map making software!",
   "url": "https://www.reddit.com/r/dndmaps/comments/en01yt/discovered_that_excel_is_a_quick_and_easy_digital/"
 }

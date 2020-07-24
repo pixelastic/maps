@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 28,
     "value": 28
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The mausoleum (13x25), ready to use.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gkxn48/oc_battlemap_the_mausoleum_13x25_ready_to_use/"
 }

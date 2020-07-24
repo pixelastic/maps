@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1049,
     "value": 1049
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Swamp Battle Map 22x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/g89vxv/swamp_battle_map_22x30/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 36,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 816,
     "value": 816
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Lost City of Omu",
   "url": "https://www.reddit.com/r/dndmaps/comments/cpi2m7/lost_city_of_omu/"
 }

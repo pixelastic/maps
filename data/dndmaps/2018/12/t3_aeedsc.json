@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Pool of Unmaking Map (5 Room Dungeon by John McCullough) - Take 2",
   "url": "https://www.reddit.com/r/dndmaps/comments/aeedsc/the_pool_of_unmaking_map_5_room_dungeon_by_john/"
 }

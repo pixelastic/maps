@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First map for my homebrew campaign. I can't come up with city names though",
   "url": "https://www.reddit.com/r/dndmaps/comments/8f6fsx/first_map_for_my_homebrew_campaign_i_cant_come_up/"
 }

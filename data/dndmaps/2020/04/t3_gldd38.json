@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "I recently found this great sub and was inspired to make an encounter map for our first campaign!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gldd38/i_recently_found_this_great_sub_and_was_inspired/"
 }

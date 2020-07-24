@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Realm of O'Dar O'Loc (Loosely based on the Front Range region of Colorado)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fx66m5/the_realm_of_odar_oloc_loosely_based_on_the_front/"
 }

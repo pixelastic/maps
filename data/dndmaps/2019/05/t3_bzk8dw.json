@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.72,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I posted one of my 'lazy' maps a few days ago. Here's a follow up; My not so lazy style of map making.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bzk8dw/i_posted_one_of_my_lazy_maps_a_few_days_ago_heres/"
 }

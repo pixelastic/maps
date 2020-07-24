@@ -16,6 +16,7 @@
   "score": {
     "comments": 34,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 723,
     "value": 723
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Homebrew City Map of Levermore",
   "url": "https://www.reddit.com/r/dndmaps/comments/c24leb/oc_homebrew_city_map_of_levermore/"
 }

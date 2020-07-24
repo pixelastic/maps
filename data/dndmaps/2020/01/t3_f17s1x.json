@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 123,
     "value": 123
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Academy. Ground level.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f17s1x/oc_academy_ground_level/"
 }

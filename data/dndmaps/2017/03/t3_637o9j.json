@@ -15,6 +15,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 11,
     "value": 11
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Eight City-States Of The Taranost - The Black Marches",
   "url": "https://www.reddit.com/r/dndmaps/comments/637o9j/the_eight_citystates_of_the_taranost_the_black/"
 }

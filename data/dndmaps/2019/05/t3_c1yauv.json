@@ -16,6 +16,7 @@
   "score": {
     "comments": 42,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 550,
     "value": 550
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Homebrew WIP map for my DnD campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/c1yauv/homebrew_wip_map_for_my_dnd_campaign/"
 }

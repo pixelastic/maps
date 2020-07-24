@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first map in over a year, I'm pretty happy with how it turned out",
   "url": "https://www.reddit.com/r/dndmaps/comments/gaatkk/my_first_map_in_over_a_year_im_pretty_happy_with/"
 }

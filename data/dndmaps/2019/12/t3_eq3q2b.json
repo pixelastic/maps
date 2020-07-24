@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "An update on the city I started a while back: the river city of N’kaza!",
   "url": "https://www.reddit.com/r/dndmaps/comments/eq3q2b/an_update_on_the_city_i_started_a_while_back_the/"
 }

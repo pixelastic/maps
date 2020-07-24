@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Mapvember Day 6: Wonderwall",
   "url": "https://www.reddit.com/r/dndmaps/comments/9uucbo/mapvember_day_6_wonderwall_50x50_units/"
 }

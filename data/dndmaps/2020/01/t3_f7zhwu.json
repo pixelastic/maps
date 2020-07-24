@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 60,
     "value": 60
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The Howling Caves: An Instant Adventure",
   "url": "https://www.reddit.com/r/dndmaps/comments/f7zhwu/the_howling_caves_an_instant_adventure/"
 }

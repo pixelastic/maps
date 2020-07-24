@@ -15,6 +15,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 265,
     "value": 265
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Pyramid Dungeon map I made for an upcoming One Shot - Links to the HR and unlabelled maps in the comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/e8o9my/pyramid_dungeon_map_i_made_for_an_upcoming_one/"
 }

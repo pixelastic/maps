@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 57,
     "value": 57
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Iris's Empire, what do you think of it?",
   "url": "https://www.reddit.com/r/dndmaps/comments/8haal9/the_iriss_empire_what_do_you_think_of_it/"
 }

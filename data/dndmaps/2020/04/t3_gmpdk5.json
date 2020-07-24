@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 21,
     "value": 21
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Tamaria - Hand Drawn City Map from my homebrew campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/gmpdk5/tamaria_hand_drawn_city_map_from_my_homebrew/"
 }

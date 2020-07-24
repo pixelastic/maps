@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 41,
     "value": 41
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "The Arachnis Morbis, A recreated floorplan of 2E's Deathspider",
   "url": "https://www.reddit.com/r/dndmaps/comments/ghz1x3/the_arachnis_morbis_a_recreated_floorplan_of_2es/"
 }

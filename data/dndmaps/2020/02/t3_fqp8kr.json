@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 36,
     "value": 36
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "The Mindforged Temple - An Underground Temple Complex filled with Puzzles & Traps!",
   "url": "https://www.reddit.com/r/dndmaps/comments/fqp8kr/the_mindforged_temple_an_underground_temple/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Realm of Ethros - Cities & Regions",
   "url": "https://www.reddit.com/r/dndmaps/comments/hrq9iu/realm_of_ethros_cities_regions/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map I made for a D&D campaign I'm starting soon",
   "url": "https://www.reddit.com/r/dndmaps/comments/c43nlj/map_i_made_for_a_dd_campaign_im_starting_soon/"
 }

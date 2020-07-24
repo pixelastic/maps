@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Dragon Tyranny Story Arc: The Secret of Sokol Keep - Light House/Beacon Town First Floor (OC)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gmwmtz/dragon_tyranny_story_arc_the_secret_of_sokol_keep/"
 }

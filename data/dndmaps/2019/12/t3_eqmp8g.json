@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 31,
     "value": 31
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Another map of Sharn towers and skybridges",
   "url": "https://www.reddit.com/r/dndmaps/comments/eqmp8g/another_map_of_sharn_towers_and_skybridges/"
 }

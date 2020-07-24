@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "1 of 3 Continents in my Homebrew world.",
   "url": "https://www.reddit.com/r/dndmaps/comments/fxsced/1_of_3_continents_in_my_homebrew_world/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Dreamland - DnD Battlemaps",
   "url": "https://www.reddit.com/r/dndmaps/comments/h7nu5r/dreamland_dnd_battlemaps_90x90/"
 }

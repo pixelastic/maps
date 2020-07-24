@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Here's my home-brew world Averis's map! any critiques/questions?",
   "url": "https://www.reddit.com/r/dndmaps/comments/gqmfjk/heres_my_homebrew_world_averiss_map_any/"
 }

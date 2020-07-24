@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 49,
     "value": 49
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "42 free, printable city tiles made specifically for setting up chase scenes on the go!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gssxdq/42_free_printable_city_tiles_made_specifically/"
 }

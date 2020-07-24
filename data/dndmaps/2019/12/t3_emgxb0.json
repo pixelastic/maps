@@ -15,6 +15,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Desert Railway Station Battle Map I did - Link in Comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/emgxb0/desert_railway_station_battle_map_i_did_link_in/"
 }

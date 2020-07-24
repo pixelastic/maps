@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 203,
     "value": 203
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "It's mine little Rusty world! Hope you will like it!",
   "url": "https://www.reddit.com/r/dndmaps/comments/f2temb/its_mine_little_rusty_world_hope_you_will_like_it/"
 }

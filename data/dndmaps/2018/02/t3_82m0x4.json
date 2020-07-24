@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Iveldesigns Maps of Mapping - 004: City Sewers (pt.1)",
   "url": "https://www.reddit.com/r/dndmaps/comments/82m0x4/iveldesigns_maps_of_mapping_004_city_sewers_pt1/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 488,
     "value": 488
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Fort Toilet Paper",
   "url": "https://www.reddit.com/r/dndmaps/comments/fkugug/fort_toilet_paper_20x20/"
 }

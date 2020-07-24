@@ -16,6 +16,7 @@
   "score": {
     "comments": 47,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1605,
     "value": 1605
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "My longest map project ever: the town of Lifferburgh",
   "url": "https://www.reddit.com/r/dndmaps/comments/hrn4m2/my_longest_map_project_ever_the_town_of/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 394,
     "value": 394
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Festival Fountain 22x40",
   "url": "https://www.reddit.com/r/dndmaps/comments/gna9gi/ocartbattlemapanimatedperspective_festival/"
 }

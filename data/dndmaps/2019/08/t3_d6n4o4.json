@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "So based on some comments I got on my last dungeon post... I decided to update it. I hope you like it. Feel free to use it as you please (:",
   "url": "https://www.reddit.com/r/dndmaps/comments/d6n4o4/so_based_on_some_comments_i_got_on_my_last/"
 }

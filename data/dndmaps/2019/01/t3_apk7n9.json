@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Underground Fighting Pit and Torture Chamber",
   "url": "https://www.reddit.com/r/dndmaps/comments/apk7n9/underground_fighting_pit_and_torture_chamber/"
 }

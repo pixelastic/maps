@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.94,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Night time versions of all 11 of my Chromatic and Metallic Dragon Entrance battlemaps.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bffiq7/night_time_versions_of_all_11_of_my_chromatic_and/"
 }

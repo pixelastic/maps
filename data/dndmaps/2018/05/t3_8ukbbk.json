@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 53,
     "value": 53
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Updated: The Talotian Hegemony - colored",
   "url": "https://www.reddit.com/r/dndmaps/comments/8ukbbk/updated_the_talotian_hegemony_colored/"
 }

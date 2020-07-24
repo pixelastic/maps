@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 96,
     "value": 96
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Village of Jarlang",
   "url": "https://www.reddit.com/r/dndmaps/comments/cu29kg/the_village_of_jarlang/"
 }

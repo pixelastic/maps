@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 203,
     "value": 203
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Finisport, my second map attempt. Looking for tips on what to put in unmarked areas.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bagdfl/finisport_my_second_map_attempt_looking_for_tips/"
 }

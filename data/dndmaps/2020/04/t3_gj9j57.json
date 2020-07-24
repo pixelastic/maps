@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 26,
     "value": 26
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Wizard's Tower Brewing Co. from The Most Potent Brew",
   "url": "https://www.reddit.com/r/dndmaps/comments/gj9j57/the_wizards_tower_brewing_co_from_the_most_potent/"
 }

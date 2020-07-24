@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Hand Drawn Map - The City of Rush",
   "url": "https://www.reddit.com/r/dndmaps/comments/7yx1z5/oc_hand_drawn_map_the_city_of_rush/"
 }

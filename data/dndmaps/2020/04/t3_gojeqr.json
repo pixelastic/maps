@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "WIP homebrew D&D campaign, suggestions for place names appreciated",
   "url": "https://www.reddit.com/r/dndmaps/comments/gojeqr/wip_homebrew_dd_campaign_suggestions_for_place/"
 }

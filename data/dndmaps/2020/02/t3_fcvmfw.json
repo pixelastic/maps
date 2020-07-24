@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Sample Dungeon Expanded with Geomorphs",
   "url": "https://www.reddit.com/r/dndmaps/comments/fcvmfw/sample_dungeon_expanded_with_geomorphs/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 117,
     "value": 117
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Mine with a Minecart System",
   "url": "https://www.reddit.com/r/dndmaps/comments/8flm60/mine_with_a_minecart_system/"
 }

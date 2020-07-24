@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Dragon's Head Tavern in Waterdeep",
   "url": "https://www.reddit.com/r/dndmaps/comments/f0gxo9/dragons_head_tavern_in_waterdeep/"
 }

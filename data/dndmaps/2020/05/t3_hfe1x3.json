@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 34,
     "value": 34
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Eternal’s Rest 30x20 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hfe1x3/eternals_rest_30x20_battlemap_oc/"
 }

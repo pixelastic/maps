@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 46,
     "value": 46
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Castle Rooms and Areas (50x50 Units) w/Dressing more info in comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/6qb0jt/castle_rooms_and_areas_50x50_units_wdressing_more/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 158,
     "value": 158
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Archivist's Sanctum - A Three level Library Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dpfqaa/the_archivists_sanctum_a_three_level_library/"
 }

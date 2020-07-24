@@ -16,6 +16,7 @@
   "score": {
     "comments": 17,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1072,
     "value": 1072
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Throughout the rise of COVID-19 we've been playing on Roll20. I just wanted to share this map as I'm quite proud of it!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gpl45b/throughout_the_rise_of_covid19_weve_been_playing/"
 }

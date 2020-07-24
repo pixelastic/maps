@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 198,
     "value": 198
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Tomb of Deshtin",
   "url": "https://www.reddit.com/r/dndmaps/comments/anow4h/tomb_of_deshtin/"
 }

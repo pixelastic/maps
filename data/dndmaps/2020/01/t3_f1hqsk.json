@@ -16,6 +16,7 @@
   "score": {
     "comments": 12,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1097,
     "value": 1097
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Kaldrfjell Temple - A Temple & Shrines Nestled Between Snowy Mountain peaks",
   "url": "https://www.reddit.com/r/dndmaps/comments/f1hqsk/kaldrfjell_temple_a_temple_shrines_nestled/"
 }

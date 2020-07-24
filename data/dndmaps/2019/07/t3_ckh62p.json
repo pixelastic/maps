@@ -16,6 +16,7 @@
   "score": {
     "comments": 25,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 546,
     "value": 546
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "The Town of Ironway - Made for my homebrew, terrain inspired by the map \"Sandpoint\"",
   "url": "https://www.reddit.com/r/dndmaps/comments/ckh62p/the_town_of_ironway_made_for_my_homebrew_terrain/"
 }

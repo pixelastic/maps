@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Map of Gundbarg port city in Gunderland in the Forgotten Realms - Made in Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/fzw42k/map_of_gundbarg_port_city_in_gunderland_in_the/"
 }

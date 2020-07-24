@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.91,
     "ups": 44,
     "value": 44
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Sanguine Dawn at Night - A Three Storey Inn with Hidden Secrets!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ciynlo/the_sanguine_dawn_at_night_a_three_storey_inn/"
 }

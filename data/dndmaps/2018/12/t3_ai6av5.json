@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 87,
     "value": 87
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Is there a full version of this Luskan map?",
   "url": "https://www.reddit.com/r/dndmaps/comments/ai6av5/is_there_a_full_version_of_this_luskan_map/"
 }

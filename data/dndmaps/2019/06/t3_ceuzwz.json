@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 161,
     "value": 161
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon Living Quarters",
   "url": "https://www.reddit.com/r/dndmaps/comments/ceuzwz/oc_dungeon_living_quarters/"
 }

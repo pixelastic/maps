@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A new color experiment in the frozen lands!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gpmpx8/ocart_a_new_color_experiment_in_the_frozen_lands/"
 }

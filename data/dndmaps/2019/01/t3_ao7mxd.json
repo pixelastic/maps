@@ -16,6 +16,7 @@
   "score": {
     "comments": 13,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Tomb of the Undying: A one-page dungeon featuring a dracolich's tomb, ankhegs, and some colour-changing mushrooms!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ao7mxd/tomb_of_the_undying_a_onepage_dungeon_featuring_a/"
 }

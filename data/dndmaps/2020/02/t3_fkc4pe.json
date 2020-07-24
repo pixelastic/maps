@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 66,
     "value": 66
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Verdant Hills (Forest and Hills) from the Monster Hunter video game series",
   "url": "https://www.reddit.com/r/dndmaps/comments/fkc4pe/the_verdant_hills_forest_and_hills_from_the/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 370,
     "value": 370
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Into The Lion’s Den Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/fafl42/into_the_lions_den_battlemap_43x28/"
 }

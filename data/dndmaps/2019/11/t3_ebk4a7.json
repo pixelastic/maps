@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Just finished up the map for my homebrew setting and thought I’d upload a version of it here for anyone to use!",
   "url": "https://www.reddit.com/r/dndmaps/comments/ebk4a7/just_finished_up_the_map_for_my_homebrew_setting/"
 }

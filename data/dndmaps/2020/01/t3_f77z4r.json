@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My new map for a campain. Got any tips?",
   "url": "https://www.reddit.com/r/dndmaps/comments/f77z4r/my_new_map_for_a_campain_got_any_tips/"
 }

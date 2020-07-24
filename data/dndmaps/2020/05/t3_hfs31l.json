@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Purdan's Pottery Barn with Backalley Gambling Den!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hfs31l/purdans_pottery_barn_with_backalley_gambling_den/"
 }

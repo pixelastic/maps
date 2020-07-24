@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 112,
     "value": 112
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Eberron - Wroat: The Wrong Rapier Tavern",
   "url": "https://www.reddit.com/r/dndmaps/comments/hs0y00/eberron_wroat_the_wrong_rapier_tavern/"
 }

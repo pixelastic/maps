@@ -16,6 +16,7 @@
   "score": {
     "comments": 19,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 446,
     "value": 446
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Darkreach Swamp - I'd love your feedback, especially on the color tone.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bx2z6r/darkreach_swamp_id_love_your_feedback_especially/"
 }

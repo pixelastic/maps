@@ -16,6 +16,7 @@
   "score": {
     "comments": 27,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 973,
     "value": 973
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I made a very adventurous child's map!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dyrllk/i_made_a_very_adventurous_childs_map/"
 }

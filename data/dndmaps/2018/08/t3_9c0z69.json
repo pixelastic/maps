@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Tower of Lindholm - No grid version in comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/9c0z69/tower_of_lindholm_no_grid_version_in_comments/"
 }

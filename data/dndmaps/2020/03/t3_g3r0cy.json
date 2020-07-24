@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A Cozy Villa map created with my battle map tool. :)",
   "url": "https://www.reddit.com/r/dndmaps/comments/g3r0cy/a_cozy_villa_map_created_with_my_battle_map_tool/"
 }

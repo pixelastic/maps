@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 160,
     "value": 160
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Sacred Ruins (+quest, monsters and characters!)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fkxtnc/sacred_ruins_quest_monsters_and_characters/"
 }

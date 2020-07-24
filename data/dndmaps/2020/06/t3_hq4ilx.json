@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 132,
     "value": 132
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Aerial shot of a cross roads, figured it would be good for a highwaymen/bandit/traveling merchant encounter.",
   "url": "https://www.reddit.com/r/dndmaps/comments/hq4ilx/aerial_shot_of_a_cross_roads_figured_it_would_be/"
 }

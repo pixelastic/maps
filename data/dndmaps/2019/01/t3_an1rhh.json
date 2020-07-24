@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 89,
     "value": 89
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Continent of Etrica in the Third Age of Magic (Wonderdraft)",
   "url": "https://www.reddit.com/r/dndmaps/comments/an1rhh/the_continent_of_etrica_in_the_third_age_of_magic/"
 }

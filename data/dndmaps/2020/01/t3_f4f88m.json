@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.83,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "This is the map I had made a while ago for my 5E Homebrew game.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4f88m/this_is_the_map_i_had_made_a_while_ago_for_my_5e/"
 }

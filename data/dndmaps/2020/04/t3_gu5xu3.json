@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.79,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Cloudy Mountain Temple Map - Made for 'Treasure of the Broken Hoard' 36x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/gu5xu3/cloudy_mountain_temple_map_made_for_treasure_of/"
 }

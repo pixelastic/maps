@@ -16,6 +16,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 99,
     "value": 99
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My Map - Still WIP.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f20x65/my_map_still_wip/"
 }

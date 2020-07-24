@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 17,
     "value": 17
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Animated map: Ice Skull Dungeon - Entrance (day and night version + grids + .png files)",
   "url": "https://www.reddit.com/r/dndmaps/comments/avfcp0/oc_animated_map_ice_skull_dungeon_entrance_day/"
 }

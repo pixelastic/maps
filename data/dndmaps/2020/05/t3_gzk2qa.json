@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.53,
     "ups": 1,
     "value": 1
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "CLIFF SIDE WIDE PATH",
   "url": "https://www.reddit.com/r/dndmaps/comments/gzk2qa/cliff_side_wide_path/"
 }

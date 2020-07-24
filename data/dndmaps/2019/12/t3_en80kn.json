@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 703,
     "value": 703
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Hi everybody! Rustymaps here, Take a look on my map. What do you think? You can meet me in Facebook Inn or Instagram Bay - There are more!",
   "url": "https://www.reddit.com/r/dndmaps/comments/en80kn/hi_everybody_rustymaps_here_take_a_look_on_my_map/"
 }

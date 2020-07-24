@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 185,
     "value": 185
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Hex Crawl Map For Lost Mine of Phandelver",
   "url": "https://www.reddit.com/r/dndmaps/comments/h8ryzq/hex_crawl_map_for_lost_mine_of_phandelver/"
 }

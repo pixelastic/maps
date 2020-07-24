@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 107,
     "value": 107
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "My first battle mat is finished. Please feel free to use it, and let me know how it goes!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gh88ee/oc_my_first_battle_mat_is_finished_please_feel/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 76,
     "value": 76
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Underdark Trading Post for an upcoming campaign (Homebrew)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hsrgq9/underdark_trading_post_for_an_upcoming_campaign/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Mapvember Day 12 - Underwater",
   "url": "https://www.reddit.com/r/dndmaps/comments/dvf3xt/mapvember_day_12_underwater_25x25/"
 }

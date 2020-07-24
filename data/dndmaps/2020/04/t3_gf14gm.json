@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Yudh'n: A halfing town now occupied by orcs, goblins and a necromancer. CC welcome.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gf14gm/yudhn_a_halfing_town_now_occupied_by_orcs_goblins/"
 }

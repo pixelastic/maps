@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 32,
     "value": 32
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Ninilchuk: A town from mid-way through my current campaign.",
   "url": "https://www.reddit.com/r/dndmaps/comments/8pj7zw/ninilchuk_a_town_from_midway_through_my_current/"
 }

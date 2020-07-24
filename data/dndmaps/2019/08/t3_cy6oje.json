@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Gnomingrad Construct Factory (no pendulums) - an experiment with verticality in a battle map. Constructs can be fed in through the belt towards the top of the map or whatever madness you would like.",
   "url": "https://www.reddit.com/r/dndmaps/comments/cy6oje/gnomingrad_construct_factory_no_pendulums_an/"
 }

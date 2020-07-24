@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 663,
     "value": 663
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Bandit Camp Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/cgzcwn/bandit_camp_battlemap_14x32/"
 }

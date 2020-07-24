@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Small Keep made in Dungeonfog. If the title Depths of the White Desert means anything to you begone.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gm7zvb/small_keep_made_in_dungeonfog_if_the_title_depths/"
 }

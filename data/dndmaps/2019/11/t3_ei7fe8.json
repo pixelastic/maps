@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 119,
     "value": 119
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Whispering Outpost",
   "url": "https://www.reddit.com/r/dndmaps/comments/ei7fe8/the_whispering_outpost/"
 }

@@ -15,6 +15,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 27,
     "value": 27
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "City Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/efc80z/city_map/"
 }

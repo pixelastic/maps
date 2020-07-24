@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 64,
     "value": 64
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Canyon Tombs. The first step of my map-making journey. Feedback welcome. Gridless version in comments.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gvivgj/45x30_canyon_tombs_the_first_step_of_my_mapmaking/"
 }

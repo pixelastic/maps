@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Map of Equin: the continent where my current campaign is set",
   "url": "https://www.reddit.com/r/dndmaps/comments/fbsv7d/the_map_of_equin_the_continent_where_my_current/"
 }

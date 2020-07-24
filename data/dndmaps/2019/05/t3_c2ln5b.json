@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.78,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Sweet Pine Inn- the newest in our interactive atlas.",
   "url": "https://www.reddit.com/r/dndmaps/comments/c2ln5b/sweet_pine_inn_the_newest_in_our_interactive_atlas/"
 }

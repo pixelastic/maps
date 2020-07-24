@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "DunJune 09 - The Squid's Tentacles",
   "url": "https://www.reddit.com/r/dndmaps/comments/gzt4xs/dunjune_09_the_squids_tentacles/"
 }

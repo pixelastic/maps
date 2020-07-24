@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.86,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first map! I've done it for a homebrew I'm working on... Any comments or tips welcomed...",
   "url": "https://www.reddit.com/r/dndmaps/comments/ayhk8f/my_first_map_ive_done_it_for_a_homebrew_im/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 55,
     "value": 55
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "WIP Drow Lair, equipped with torture chamber, a library and polite mimic ally!",
   "url": "https://www.reddit.com/r/dndmaps/comments/f3h2ks/wip_drow_lair_equipped_with_torture_chamber_a/"
 }

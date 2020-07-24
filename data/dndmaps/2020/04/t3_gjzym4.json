@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Twilight Grotto 30x20 Multi-Level Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gjzym4/twilight_grotto_30x20_multilevel_battlemap_oc/"
 }

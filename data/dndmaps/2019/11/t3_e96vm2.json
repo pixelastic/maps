@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 855,
     "value": 855
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Cliff Passage Battle Map 22x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/e96vm2/ocart_cliff_passage_battle_map_22x30/"
 }

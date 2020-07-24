@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A secret place where nobles from all the realms gather to watch a bloodsport? Dare to venture in the TOWER ARENA ! Free sample of the SIDEQUEST BATTLEMAPS: DEADLY ARENAS!",
   "url": "https://www.reddit.com/r/dndmaps/comments/hkl6ny/a_secret_place_where_nobles_from_all_the_realms/"
 }

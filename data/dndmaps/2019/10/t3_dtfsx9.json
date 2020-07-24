@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.9,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Prison | Chatper 1 - Episode 1",
   "url": "https://www.reddit.com/r/dndmaps/comments/dtfsx9/the_prison_chatper_1_episode_1/"
 }

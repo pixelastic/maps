@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Starting a new campaign this weekend. This is the starting continent, Maelyn.",
   "url": "https://www.reddit.com/r/dndmaps/comments/f4duil/starting_a_new_campaign_this_weekend_this_is_the/"
 }

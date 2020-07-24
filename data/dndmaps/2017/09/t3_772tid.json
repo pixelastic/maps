@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 24,
     "value": 24
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Cragmaw Castle Rebuilt, with and without dungeon dressing, day and night, summer and winter versions. Lots of choices!",
   "url": "https://www.reddit.com/r/dndmaps/comments/772tid/cragmaw_castle_rebuilt_with_and_without_dungeon/"
 }

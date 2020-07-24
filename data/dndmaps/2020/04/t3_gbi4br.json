@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "The cheapest cave map I've made. Explanation in comments",
   "url": "https://www.reddit.com/r/dndmaps/comments/gbi4br/the_cheapest_cave_map_ive_made_explanation_in/"
 }

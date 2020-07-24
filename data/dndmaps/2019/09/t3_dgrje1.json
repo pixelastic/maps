@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 456,
     "value": 456
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Next Monster Spotlight on the 15th!",
   "url": "https://www.reddit.com/r/dndmaps/comments/dgrje1/next_monster_spotlight_on_the_15th/"
 }

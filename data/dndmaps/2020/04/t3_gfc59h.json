@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 59,
     "value": 59
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Yet another dungeondraft map! Felt lik I should give something back to you guys. Have fun with the village of Three Rocks!",
   "url": "https://www.reddit.com/r/dndmaps/comments/gfc59h/yet_another_dungeondraft_map_felt_lik_i_should/"
 }

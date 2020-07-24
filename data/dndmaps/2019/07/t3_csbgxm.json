@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map of a home brew region for the campaign I’m running.",
   "url": "https://www.reddit.com/r/dndmaps/comments/csbgxm/map_of_a_home_brew_region_for_the_campaign_im/"
 }

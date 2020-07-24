@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 72,
     "value": 72
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Sketchy Reggie's Costume Shop - a costume shop owned by bandits, managed by a changeling, and defended by animated mannequins. A very tight space for combat to happen. (I know my photoshop skills aren't the best, just wanted to share)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cs9nsg/sketchy_reggies_costume_shop_a_costume_shop_owned/"
 }

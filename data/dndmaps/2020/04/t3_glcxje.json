@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 292,
     "value": 292
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Ying Yang Island 37x41",
   "url": "https://www.reddit.com/r/dndmaps/comments/glcxje/ocart_the_ying_yang_island_37x41/"
 }

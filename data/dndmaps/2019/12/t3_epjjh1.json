@@ -16,6 +16,7 @@
   "score": {
     "comments": 66,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 1643,
     "value": 1643
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "The Coast - My own setting map!",
   "url": "https://www.reddit.com/r/dndmaps/comments/epjjh1/the_coast_my_own_setting_map/"
 }

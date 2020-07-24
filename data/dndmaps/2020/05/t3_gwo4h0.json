@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The edge of Ambriel - a new continent for my homebrew game",
   "url": "https://www.reddit.com/r/dndmaps/comments/gwo4h0/the_edge_of_ambriel_a_new_continent_for_my/"
 }

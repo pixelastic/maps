@@ -16,6 +16,7 @@
   "score": {
     "comments": 20,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 204,
     "value": 204
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Lower Kingdoms",
   "url": "https://www.reddit.com/r/dndmaps/comments/98klhe/the_lower_kingdoms/"
 }

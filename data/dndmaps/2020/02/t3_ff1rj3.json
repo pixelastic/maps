@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Three-floor Generic Inn/Tavern Battlemaps",
   "url": "https://www.reddit.com/r/dndmaps/comments/ff1rj3/threefloor_generic_inntavern_battlemaps/"
 }

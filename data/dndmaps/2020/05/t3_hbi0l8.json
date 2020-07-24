@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Griffon's Head -",
   "url": "https://www.reddit.com/r/dndmaps/comments/hbi0l8/the_griffons_head_ocisometricsettlement3300x2550px/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 120,
     "value": 120
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Meadhaven! A costal town known for great beer! First time DM, and city attempt",
   "url": "https://www.reddit.com/r/dndmaps/comments/gvqdec/meadhaven_a_costal_town_known_for_great_beer/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Small Market District (40x40sq | 5600x5600px)",
   "url": "https://www.reddit.com/r/dndmaps/comments/g14dkm/small_market_district_40x40sq_5600x5600px/"
 }

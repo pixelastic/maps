@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 22,
     "value": 22
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "First attempt to draw map on paper after a few tutorials. A bit unclean, but I will practice.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dafuih/first_attempt_to_draw_map_on_paper_after_a_few/"
 }

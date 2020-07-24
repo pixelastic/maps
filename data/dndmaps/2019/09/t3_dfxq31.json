@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 417,
     "value": 417
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Made some improvements to this older city map of mine :) (I created this with Inkarnate)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dfxq31/made_some_improvements_to_this_older_city_map_of/"
 }

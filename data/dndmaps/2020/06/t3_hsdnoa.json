@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Map of the major Continent Eungana for my campaign Oath-Breakers! (Original)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hsdnoa/map_of_the_major_continent_eungana_for_my/"
 }

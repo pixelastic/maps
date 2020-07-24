@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 82,
     "value": 82
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "A Wizard's Hideout",
   "url": "https://www.reddit.com/r/dndmaps/comments/7jo7n7/a_wizards_hideout/"
 }

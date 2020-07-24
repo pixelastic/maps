@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 68,
     "value": 68
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Free Battlemaps from my last campaign arc!",
   "url": "https://www.reddit.com/r/dndmaps/comments/9g8oxw/free_battlemaps_from_my_last_campaign_arc/"
 }

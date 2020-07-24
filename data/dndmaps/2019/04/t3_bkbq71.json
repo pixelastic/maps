@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.82,
     "ups": 12,
     "value": 12
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "A map of most of the Landalis province- part of the Dorrian Empire in the world I've been homebrewing for my campaign. Made on Inkarnate.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bkbq71/a_map_of_most_of_the_landalis_province_part_of/"
 }

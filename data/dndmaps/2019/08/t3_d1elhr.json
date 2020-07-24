@@ -16,6 +16,7 @@
   "score": {
     "comments": 10,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 265,
     "value": 265
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Breaking my +5 years of reddit silence to share this Dwarven city map I made for our campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/d1elhr/breaking_my_5_years_of_reddit_silence_to_share/"
 }

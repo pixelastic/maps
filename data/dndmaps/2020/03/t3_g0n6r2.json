@@ -16,6 +16,7 @@
   "score": {
     "comments": 22,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 567,
     "value": 567
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Open Ocean Battlemap",
   "url": "https://www.reddit.com/r/dndmaps/comments/g0n6r2/the_open_ocean_battlemap_45x45/"
 }

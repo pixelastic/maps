@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "-1,1,0 Corridors: A collection of randomly connected rooms with a few secret passages. The section in the lower left is only accessible by the stairs which will require another map above this one!",
   "url": "https://www.reddit.com/r/dndmaps/comments/aluc9j/110_corridors_a_collection_of_randomly_connected/"
 }

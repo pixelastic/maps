@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 98,
     "value": 98
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My First DnD Map! Some names are very much inspired or lifted from various fantasy settings I love.",
   "url": "https://www.reddit.com/r/dndmaps/comments/e35qof/my_first_dnd_map_some_names_are_very_much/"
 }

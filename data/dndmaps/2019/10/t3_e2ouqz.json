@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 29,
     "value": 29
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Trying something different. A 35 x 35 Temple map in an old school style",
   "url": "https://www.reddit.com/r/dndmaps/comments/e2ouqz/trying_something_different_a_35_x_35_temple_map/"
 }

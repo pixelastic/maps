@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map of the 'Kingdom of Stranvia and the Savage Frontier' for a D&D Campaign. Made on Wonderdraft.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bs20ox/first_draft_map_of_the_kingdom_of_stranvia_and/"
 }

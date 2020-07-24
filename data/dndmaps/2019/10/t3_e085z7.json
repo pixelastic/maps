@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 35,
     "value": 35
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Small cave home to a small \"mercenary\" force",
   "url": "https://www.reddit.com/r/dndmaps/comments/e085z7/small_cave_home_to_a_small_mercenary_force/"
 }

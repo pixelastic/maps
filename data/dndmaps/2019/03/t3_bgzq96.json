@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Just discovered this sub! There goes my early night. Forest Map I just finished for my current campaign to celebrate!",
   "url": "https://www.reddit.com/r/dndmaps/comments/bgzq96/just_discovered_this_sub_there_goes_my_early/"
 }

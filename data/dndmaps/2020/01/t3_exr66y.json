@@ -16,6 +16,7 @@
   "score": {
     "comments": 27,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 476,
     "value": 476
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Judge: an island chain formed over the remains of a fallen titan",
   "url": "https://www.reddit.com/r/dndmaps/comments/exr66y/the_judge_an_island_chain_formed_over_the_remains/"
 }

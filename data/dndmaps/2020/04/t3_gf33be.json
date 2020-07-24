@@ -16,6 +16,7 @@
   "score": {
     "comments": 53,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 1278,
     "value": 1278
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "I made a replica of the farm house where we are currently spending our quarantine.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gf33be/25x50_i_made_a_replica_of_the_farm_house_where_we/"
 }

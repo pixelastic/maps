@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 43,
     "value": 43
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "A small tavern to drink away your woes between adventures...",
   "url": "https://www.reddit.com/r/dndmaps/comments/dv0h4j/a_small_tavern_to_drink_away_your_woes_between/"
 }

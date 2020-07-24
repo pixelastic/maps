@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "A city map I drew almost a decade ago. A decade of experience has really improved my work.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ewx6iz/a_city_map_i_drew_almost_a_decade_ago_a_decade_of/"
 }

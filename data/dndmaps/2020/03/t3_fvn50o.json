@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.93,
     "ups": 25,
     "value": 25
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Maps for the Adventurers League module DDAL05-02 The Black Road",
   "url": "https://www.reddit.com/r/dndmaps/comments/fvn50o/maps_for_the_adventurers_league_module_ddal0502/"
 }

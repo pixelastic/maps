@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 40,
     "value": 40
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Unfinished map for my first campaign",
   "url": "https://www.reddit.com/r/dndmaps/comments/8j2ko7/unfinished_map_for_my_first_campaign/"
 }

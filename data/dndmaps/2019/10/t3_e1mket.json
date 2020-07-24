@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 86,
     "value": 86
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My latest small dungeon - an island tomb slowly being worn away by the waters",
   "url": "https://www.reddit.com/r/dndmaps/comments/e1mket/my_latest_small_dungeon_an_island_tomb_slowly/"
 }

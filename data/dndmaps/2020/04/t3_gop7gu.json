@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 9,
     "value": 9
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Hex map from my current forbidden lands game. Small hexes are 10km and large are ~60km.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gop7gu/hex_map_from_my_current_forbidden_lands_game/"
 }

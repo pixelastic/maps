@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.88,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Crypt of the Bone Tyrant 60x20 Battlemap!",
   "url": "https://www.reddit.com/r/dndmaps/comments/go9yy3/crypt_of_the_bone_tyrant_60x20_battlemap_oc/"
 }

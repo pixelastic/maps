@@ -16,6 +16,7 @@
   "score": {
     "comments": 11,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 102,
     "value": 102
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World map for a 3 year long campaign I've been running.",
   "url": "https://www.reddit.com/r/dndmaps/comments/bc9dff/world_map_for_a_3_year_long_campaign_ive_been/"
 }

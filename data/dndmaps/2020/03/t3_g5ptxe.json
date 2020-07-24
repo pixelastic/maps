@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.76,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "World map for my next campaign (and future campaigns after that)",
   "url": "https://www.reddit.com/r/dndmaps/comments/g5ptxe/world_map_for_my_next_campaign_and_future/"
 }

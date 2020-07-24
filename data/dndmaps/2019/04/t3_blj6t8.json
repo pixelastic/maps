@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 164,
     "value": 164
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "My Redreand hideout from LMoP with \"2-Minute Table Top's\" assets",
   "url": "https://www.reddit.com/r/dndmaps/comments/blj6t8/my_redreand_hideout_from_lmop_with_2minute_table/"
 }

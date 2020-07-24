@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 27,
     "value": 27
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Was inspired by another jungle river encounter map posted yesterday, so here's my take I made in a few hours. Lots of cover and terrain to make for an interesting encounter, I'd think.",
   "url": "https://www.reddit.com/r/dndmaps/comments/et567n/was_inspired_by_another_jungle_river_encounter/"
 }

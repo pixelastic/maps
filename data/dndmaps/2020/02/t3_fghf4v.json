@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 33,
     "value": 33
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "My first world map! What Faerun eventually turned into for my group:",
   "url": "https://www.reddit.com/r/dndmaps/comments/fghf4v/my_first_world_map_what_faerun_eventually_turned/"
 }

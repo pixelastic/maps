@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.71,
     "ups": 4,
     "value": 4
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Not a clue what to call it but if y'all want to give a name you sure can.",
   "url": "https://www.reddit.com/r/dndmaps/comments/ec5lon/not_a_clue_what_to_call_it_but_if_yall_want_to/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 20,
     "value": 20
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "First attempt at a map making for a Homebrew setting",
   "url": "https://www.reddit.com/r/dndmaps/comments/ctjez3/first_attempt_at_a_map_making_for_a_homebrew/"
 }

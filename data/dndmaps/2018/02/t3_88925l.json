@@ -16,6 +16,7 @@
   "score": {
     "comments": 15,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 106,
     "value": 106
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "FourRealm: The Place of Things",
   "url": "https://www.reddit.com/r/dndmaps/comments/88925l/fourrealm_the_place_of_things/"
 }

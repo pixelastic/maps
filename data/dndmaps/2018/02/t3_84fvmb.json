@@ -15,6 +15,7 @@
   "score": {
     "comments": 14,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 17,
     "value": 17
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "First try on an isometric dungeon... All and every help is very welcome!!",
   "url": "https://www.reddit.com/r/dndmaps/comments/84fvmb/first_try_on_an_isometric_dungeon_all_and_every/"
 }

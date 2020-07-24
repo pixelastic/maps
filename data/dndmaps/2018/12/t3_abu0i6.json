@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 54,
     "value": 54
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "The Grey Huntress - A Ship for the Seas of the Underdark",
   "url": "https://www.reddit.com/r/dndmaps/comments/abu0i6/the_grey_huntress_a_ship_for_the_seas_of_the/"
 }

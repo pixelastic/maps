@@ -16,6 +16,7 @@
   "score": {
     "comments": 2,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 15,
     "value": 15
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Freshly made map of the Province of Overland, containing the Wild Kingdoms. Made with Inkarnate",
   "url": "https://www.reddit.com/r/dndmaps/comments/cq784p/freshly_made_map_of_the_province_of_overland/"
 }

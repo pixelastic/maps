@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.96,
     "ups": 76,
     "value": 76
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "RPG MAPS",
   "url": "https://www.reddit.com/r/dndmaps/comments/cn5me3/ocartrpg_maps/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Finished up last of the continends of my world, Tol'Bramon",
   "url": "https://www.reddit.com/r/dndmaps/comments/c117kz/finished_up_last_of_the_continends_of_my_world/"
 }

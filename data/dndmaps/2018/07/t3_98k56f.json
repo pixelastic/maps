@@ -15,6 +15,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 15,
     "value": 15
@@ -23,7 +24,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Work in Progress - Onyx Isles",
   "url": "https://www.reddit.com/r/dndmaps/comments/98k56f/work_in_progress_onyx_isles/"
 }

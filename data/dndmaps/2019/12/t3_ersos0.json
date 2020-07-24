@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Phandalin Shrine of Luck and Sister Garaele's House (Wild West Style)",
   "url": "https://www.reddit.com/r/dndmaps/comments/ersos0/phandalin_shrine_of_luck_and_sister_garaeles/"
 }

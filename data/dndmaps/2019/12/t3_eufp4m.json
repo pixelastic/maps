@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 254,
     "value": 254
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Map of the island (and zoom in of the city) for the solo campaign I run (made with Inkarnate)",
   "url": "https://www.reddit.com/r/dndmaps/comments/eufp4m/map_of_the_island_and_zoom_in_of_the_city_for_the/"
 }

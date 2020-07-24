@@ -16,6 +16,7 @@
   "score": {
     "comments": 16,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 345,
     "value": 345
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Ruins | Obolisk | Full 3D | Animated & Still Versions",
   "url": "https://www.reddit.com/r/dndmaps/comments/e1hh3p/ruins_obolisk_full_3d_animated_still_versions/"
 }

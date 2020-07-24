@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 1012,
     "value": 1012
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Wildfire Battle Map 40x40",
   "url": "https://www.reddit.com/r/dndmaps/comments/cih59e/wildfire_battle_map_40x40/"
 }

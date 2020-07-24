@@ -16,6 +16,7 @@
   "score": {
     "comments": 6,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.81,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "I made a Map for Dnd. First try at cartography so advice is more than welcome. Credits to someone I don't remember name of (^_^;)...sorry",
   "url": "https://www.reddit.com/r/dndmaps/comments/aosmrt/i_made_a_map_for_dnd_first_try_at_cartography_so/"
 }

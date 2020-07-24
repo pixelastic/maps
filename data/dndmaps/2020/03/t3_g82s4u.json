@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 7,
     "value": 7
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Nyyr Bay Tower 1st of 3 floors",
   "url": "https://www.reddit.com/r/dndmaps/comments/g82s4u/nyyr_bay_tower_1st_of_3_floors/"
 }

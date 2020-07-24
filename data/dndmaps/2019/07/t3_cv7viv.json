@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 50,
     "value": 50
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "River Crossing Battle Map 22x30",
   "url": "https://www.reddit.com/r/dndmaps/comments/cv7viv/river_crossing_battle_map_22x30/"
 }

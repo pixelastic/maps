@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 257,
     "value": 257
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "A small campfire map (20x20 squares / 1000 x 1000 pixels)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hedhs2/a_small_campfire_map_20x20_squares_1000_x_1000/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.85,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The main location for my homebrew; Two-Cities.",
   "url": "https://www.reddit.com/r/dndmaps/comments/dfazer/the_main_location_for_my_homebrew_twocities/"
 }

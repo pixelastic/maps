@@ -16,6 +16,7 @@
   "score": {
     "comments": 9,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 70,
     "value": 70
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Archipelago Map that I made for a nautical Dnd Campaign. Feel free to use it!",
   "url": "https://www.reddit.com/r/dndmaps/comments/d4t58o/archipelago_map_that_i_made_for_a_nautical_dnd/"
 }

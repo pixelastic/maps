@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Stone Child Hunting Party - Ironfang Invasion",
   "url": "https://www.reddit.com/r/dndmaps/comments/gs6d10/stone_child_hunting_party_ironfang_invasion/"
 }

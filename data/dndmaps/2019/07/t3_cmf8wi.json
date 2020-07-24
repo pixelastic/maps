@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.89,
     "ups": 13,
     "value": 13
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Dronach, a small port city with farmland. Lore in comments!",
   "url": "https://www.reddit.com/r/dndmaps/comments/cmf8wi/dronach_a_small_port_city_with_farmland_lore_in/"
 }

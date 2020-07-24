@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 5,
     "value": 5
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "The Valen Desert (see my other posts for where it is on the World Map)",
   "url": "https://www.reddit.com/r/dndmaps/comments/9z8sav/the_valen_desert_see_my_other_posts_for_where_it/"
 }

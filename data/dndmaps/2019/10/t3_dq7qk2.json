@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.88,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Grand Cemetery Chapel (Descent into Avernus)",
   "url": "https://www.reddit.com/r/dndmaps/comments/dq7qk2/grand_cemetery_chapel_descent_into_avernus/"
 }

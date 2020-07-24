@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 101,
     "value": 101
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Forest Islet Battle Map 38x28",
   "url": "https://www.reddit.com/r/dndmaps/comments/f86m0s/forest_islet_battle_map_38x28/"
 }

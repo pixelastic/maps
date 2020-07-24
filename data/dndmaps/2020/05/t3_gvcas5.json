@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.96,
     "ups": 37,
     "value": 37
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "Underground Fight Club - Battle map",
   "url": "https://www.reddit.com/r/dndmaps/comments/gvcas5/ocart26x20_underground_fight_club_battle_map/"
 }

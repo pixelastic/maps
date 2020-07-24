@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.88,
     "ups": 11,
     "value": 11
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "First Big Inkarnate Battle Map - Nethwatch Keep Chapel - For use with Rise of Tiamat - Some custom objects (Bogie's Mapping elements)",
   "url": "https://www.reddit.com/r/dndmaps/comments/hhqzu8/first_big_inkarnate_battle_map_nethwatch_keep/"
 }

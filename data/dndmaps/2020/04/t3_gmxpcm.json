@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.63,
     "ups": 2,
     "value": 2
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Tyranny of Dragons Story Arc: The Secret of Sokol Keep - East Tower 1st Floor with Shrine Hidden (OC)",
   "url": "https://www.reddit.com/r/dndmaps/comments/gmxpcm/tyranny_of_dragons_story_arc_the_secret_of_sokol/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 143,
     "value": 143
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Battle Map - Locked Door Defeat",
   "url": "https://www.reddit.com/r/dndmaps/comments/c89iq3/oc_battle_map_locked_door_defeat/"
 }

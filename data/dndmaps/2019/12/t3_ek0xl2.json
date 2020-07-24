@@ -16,6 +16,7 @@
   "score": {
     "comments": 167,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.99,
     "ups": 6095,
     "value": 6095
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Dungeon pit trap – “a Leap of Faith”",
   "url": "https://www.reddit.com/r/dndmaps/comments/ek0xl2/oc_dungeon_pit_trap_a_leap_of_faith/"
 }

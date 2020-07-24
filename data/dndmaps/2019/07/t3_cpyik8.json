@@ -16,6 +16,7 @@
   "score": {
     "comments": 4,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "My first map for a homebrew I'm running! Feedback welcomed",
   "url": "https://www.reddit.com/r/dndmaps/comments/cpyik8/my_first_map_for_a_homebrew_im_running_feedback/"
 }

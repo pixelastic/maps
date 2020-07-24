@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.87,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Braxonval and The Weathered Coast occupied 2 maps, so I brought them together and should finish it tonight.",
   "url": "https://www.reddit.com/r/dndmaps/comments/d4dg7t/braxonval_and_the_weathered_coast_occupied_2_maps/"
 }

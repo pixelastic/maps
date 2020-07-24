@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 52,
     "value": 52
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Building Map"],
+  "tags": ["Building"],
   "title": "The Old Mercenary's Tower",
   "url": "https://www.reddit.com/r/dndmaps/comments/fggfkd/the_old_mercenarys_tower_39_x_14_72dpi/"
 }

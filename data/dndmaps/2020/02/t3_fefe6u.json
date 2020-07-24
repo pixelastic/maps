@@ -16,6 +16,7 @@
   "score": {
     "comments": 24,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.99,
     "ups": 1562,
     "value": 1562
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Pillars in the Sand",
   "url": "https://www.reddit.com/r/dndmaps/comments/fefe6u/battlemap_pillars_in_the_sand_47x34/"
 }

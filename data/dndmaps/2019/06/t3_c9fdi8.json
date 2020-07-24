@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 259,
     "value": 259
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Small Farm Battle Map (40x40)",
   "url": "https://www.reddit.com/r/dndmaps/comments/c9fdi8/small_farm_battle_map_40x40/"
 }

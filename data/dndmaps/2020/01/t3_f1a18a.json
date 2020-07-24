@@ -16,6 +16,7 @@
   "score": {
     "comments": 8,
     "downs": 0,
+    "isCurated": true,
     "ratio": 1,
     "ups": 139,
     "value": 139
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "IronWorks",
   "url": "https://www.reddit.com/r/dndmaps/comments/f1a18a/ironworks_part_01_17x30/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 3,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 16,
     "value": 16
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["World Map"],
+  "tags": ["World"],
   "title": "Partially Explored World Map (33% photoshop, 33% inkarnate, 33% google images)",
   "url": "https://www.reddit.com/r/dndmaps/comments/d5791f/partially_explored_world_map_33_photoshop_33/"
 }

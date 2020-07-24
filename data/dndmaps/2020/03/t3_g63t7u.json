@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.91,
     "ups": 8,
     "value": 8
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Cave Map"],
+  "tags": ["Cave"],
   "title": "Den of the Displacerkin by One Door Dungeons, made with Dungeondraft",
   "url": "https://www.reddit.com/r/dndmaps/comments/g63t7u/den_of_the_displacerkin_by_one_door_dungeons_made/"
 }

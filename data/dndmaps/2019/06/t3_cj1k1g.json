@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.86,
     "ups": 23,
     "value": 23
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "- Welcome to Hell! Welcome to Avernus! (Battlemap)",
   "url": "https://www.reddit.com/r/dndmaps/comments/cj1k1g/ocart_welcome_to_hell_welcome_to_avernus_battlemap/"
 }

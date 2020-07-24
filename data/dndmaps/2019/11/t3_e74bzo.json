@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 45,
     "value": 45
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Free commercial use - Lady White's Ruins",
   "url": "https://www.reddit.com/r/dndmaps/comments/e74bzo/free_commercial_use_lady_whites_ruins/"
 }

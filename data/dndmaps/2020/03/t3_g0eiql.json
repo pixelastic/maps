@@ -16,6 +16,7 @@
   "score": {
     "comments": 1,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.92,
     "ups": 10,
     "value": 10
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Tomb of the Serpent Kings - 4/52",
   "url": "https://www.reddit.com/r/dndmaps/comments/g0eiql/tomb_of_the_serpent_kings_452/"
 }

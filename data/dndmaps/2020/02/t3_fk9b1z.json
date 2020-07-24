@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 319,
     "value": 319
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "I Restored a Map of Zakhara for 5th Edition (It's an Old Arabian Nights Style Setting South of the Sword Coast for those unfamiliar)",
   "url": "https://www.reddit.com/r/dndmaps/comments/fk9b1z/oc_i_restored_a_map_of_zakhara_for_5th_edition/"
 }

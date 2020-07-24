@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.72,
     "ups": 3,
     "value": 3
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Cartharius , A map I made for a 4e game for my group",
   "url": "https://www.reddit.com/r/dndmaps/comments/9ktfub/cartharius_a_map_i_made_for_a_4e_game_for_my_group/"
 }

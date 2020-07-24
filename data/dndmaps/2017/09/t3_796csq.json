@@ -16,6 +16,7 @@
   "score": {
     "comments": 7,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.98,
     "ups": 118,
     "value": 118
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Vessel Map"],
+  "tags": ["Vessel"],
   "title": "Vessel: Gas Airship Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/796csq/vessel_gas_airship_map_30x35_units/"
 }

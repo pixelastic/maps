@@ -16,6 +16,7 @@
   "score": {
     "comments": 21,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.94,
     "ups": 48,
     "value": 48
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "The Old McGurk mine... A \"Storm-the-dug-in-bandits\" encounter map. You could also run a defence encounter with this too. This is my first submission to Dndmaps. 100% created in Inkarnate.",
   "url": "https://www.reddit.com/r/dndmaps/comments/gnshtk/oc_the_old_mcgurk_mine_a_stormtheduginbandits/"
 }

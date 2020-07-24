@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 1,
     "ups": 6,
     "value": 6
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Gregor's Island. Small Region Map of a Jungle Themed Island. Dinosaurs, Giant Insects, and Other Ancient Creatures Lurk Among the Luscious Flora.",
   "url": "https://www.reddit.com/r/dndmaps/comments/h165og/gregors_island_small_region_map_of_a_jungle/"
 }

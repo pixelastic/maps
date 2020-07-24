@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": true,
     "ratio": 0.98,
     "ups": 71,
     "value": 71
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Encounter Map"],
+  "tags": ["Encounter"],
   "title": "Snail Village Battle Map",
   "url": "https://www.reddit.com/r/dndmaps/comments/cn5gt5/snail_village_battle_map_30x30/"
 }

@@ -16,6 +16,7 @@
   "score": {
     "comments": 5,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 30,
     "value": 30
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["City Map"],
+  "tags": ["City"],
   "title": "Bronzeham - Dwarven center of culture and industry",
   "url": "https://www.reddit.com/r/dndmaps/comments/6vnxre/bronzeham_dwarven_center_of_culture_and_industry/"
 }

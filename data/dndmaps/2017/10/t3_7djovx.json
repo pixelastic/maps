@@ -16,6 +16,7 @@
   "score": {
     "comments": 18,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.97,
     "ups": 121,
     "value": 121
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Region Map"],
+  "tags": ["Region"],
   "title": "Maple Bay",
   "url": "https://www.reddit.com/r/dndmaps/comments/7djovx/maple_bay/"
 }

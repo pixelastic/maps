@@ -16,6 +16,7 @@
   "score": {
     "comments": 0,
     "downs": 0,
+    "isCurated": false,
     "ratio": 0.95,
     "ups": 14,
     "value": 14
@@ -24,7 +25,7 @@
     "id": "t5_3isai",
     "name": "dndmaps"
   },
-  "tags": ["Dungeon Map"],
+  "tags": ["Dungeon"],
   "title": "Finally The caverns of Thracia Lvl 4",
   "url": "https://www.reddit.com/r/dndmaps/comments/euakiw/finally_the_caverns_of_thracia_lvl_4/"
 }
