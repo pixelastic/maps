@@ -9526,7 +9526,7 @@ norska-revv@^0.14.3:
 
 norska@0.14.8:
   version "0.14.8"
-  resolved "https://registry.yarnpkg.com/norska/-/norska-0.14.8.tgz#5443976ca694a61bbcc8409ef10d51b3c49fa1ef"
+  resolved "https://registry.npmjs.org/norska/-/norska-0.14.8.tgz#5443976ca694a61bbcc8409ef10d51b3c49fa1ef"
   integrity sha512-eO/OWTOuNNuoAHaNQezJeZuxE/B1dVmKY/IOiOjt7ojxoXZyfaM3Vp5/RXbb33hUYIKoPonHjcEhLCLtP+ChBg==
   dependencies:
     firost "1.11.1"
