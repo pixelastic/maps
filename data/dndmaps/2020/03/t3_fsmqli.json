@@ -3,7 +3,12 @@
     "id": "t2_4frp39bn",
     "name": "LarksLament"
   },
-  "date": 1585722077,
+  "date": {
+    "day": 1585612800,
+    "full": 1585693277,
+    "month": 1583020800,
+    "week": 1585440000
+  },
   "id": "t3_fsmqli",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 7,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.96,
-    "ups": 59,
-    "value": 59
+    "ratio": 0.94,
+    "ups": 55,
+    "value": 55
   },
   "subreddit": {
     "id": "t5_3isai",

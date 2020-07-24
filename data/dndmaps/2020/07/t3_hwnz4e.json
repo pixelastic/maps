@@ -3,7 +3,12 @@
     "id": "t2_1uj6waim",
     "name": "ChampionThunderGoose"
   },
-  "date": 1595566730,
+  "date": {
+    "day": 1595462400,
+    "full": 1595537930,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwnz4e",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 7,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.9,
-    "ups": 32,
-    "value": 32
+    "ratio": 0.92,
+    "ups": 36,
+    "value": 36
   },
   "subreddit": {
     "id": "t5_3isai",

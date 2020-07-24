@@ -3,7 +3,12 @@
     "id": "t2_9ytyn",
     "name": "Rasengan2012"
   },
-  "date": 1561963430,
+  "date": {
+    "day": 1561852800,
+    "full": 1561934630,
+    "month": 1559347200,
+    "week": 1561852800
+  },
   "id": "t3_c7kow9",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 1,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.82,
-    "ups": 7,
-    "value": 7
+    "ratio": 0.84,
+    "ups": 8,
+    "value": 8
   },
   "subreddit": {
     "id": "t5_3isai",

@@ -3,7 +3,12 @@
     "id": "t2_ryduo",
     "name": "SprungCardinal8"
   },
-  "date": 1595597665,
+  "date": {
+    "day": 1595548800,
+    "full": 1595568865,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hww3kt",
   "misc": {
     "postHint": "image"
@@ -14,12 +19,12 @@
     "thumbnail": "https://b.thumbs.redditmedia.com/2JWBY_Xbxg4HetlEOKUqpePT2D1ymL5axUXzmN2o4hc.jpg"
   },
   "score": {
-    "comments": 2,
+    "comments": 3,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.95,
-    "ups": 50,
-    "value": 50
+    "ratio": 0.96,
+    "ups": 90,
+    "value": 90
   },
   "subreddit": {
     "id": "t5_3isai",

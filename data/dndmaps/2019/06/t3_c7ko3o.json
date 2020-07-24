@@ -3,7 +3,12 @@
     "id": "t2_3ugr7fza",
     "name": "daestheambitious"
   },
-  "date": 1561963316,
+  "date": {
+    "day": 1561852800,
+    "full": 1561934516,
+    "month": 1559347200,
+    "week": 1561852800
+  },
   "id": "t3_c7ko3o",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.98,
-    "ups": 205,
-    "value": 205
+    "ups": 210,
+    "value": 210
   },
   "subreddit": {
     "id": "t5_3isai",

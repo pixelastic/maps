@@ -3,7 +3,12 @@
     "id": "t2_3omfg",
     "name": "dysonlogos"
   },
-  "date": 1580542754,
+  "date": {
+    "day": 1580428800,
+    "full": 1580513954,
+    "month": 1577836800,
+    "week": 1579996800
+  },
   "id": "t3_ewx6iz",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 1,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.93,
-    "ups": 30,
-    "value": 30
+    "ratio": 0.91,
+    "ups": 28,
+    "value": 28
   },
   "subreddit": {
     "id": "t5_3isai",

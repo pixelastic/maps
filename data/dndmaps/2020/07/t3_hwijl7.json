@@ -3,7 +3,12 @@
     "id": "t2_3omfg",
     "name": "dysonlogos"
   },
-  "date": 1595549879,
+  "date": {
+    "day": 1595462400,
+    "full": 1595521079,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwijl7",
   "misc": {
     "postHint": "image"
@@ -14,12 +19,12 @@
     "thumbnail": "https://b.thumbs.redditmedia.com/8ULRGGdHq6GZbpDsAVG-o__VJG1Q7YllVtdsdykb5hU.jpg"
   },
   "score": {
-    "comments": 2,
+    "comments": 3,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.94,
-    "ups": 23,
-    "value": 23
+    "ratio": 0.88,
+    "ups": 19,
+    "value": 19
   },
   "subreddit": {
     "id": "t5_3isai",

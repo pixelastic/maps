@@ -3,7 +3,12 @@
     "id": "t2_4vead5tv",
     "name": "gardengrapes"
   },
-  "date": 1593588991,
+  "date": {
+    "day": 1593475200,
+    "full": 1593560191,
+    "month": 1590969600,
+    "week": 1593302400
+  },
   "id": "t3_hiyzcy",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.98,
-    "ups": 872,
-    "value": 872
+    "ups": 866,
+    "value": 866
   },
   "subreddit": {
     "id": "t5_3isai",

@@ -3,7 +3,12 @@
     "id": "t2_4gw7zmjr",
     "name": "Onrawi"
   },
-  "date": 1595562978,
+  "date": {
+    "day": 1595462400,
+    "full": 1595534178,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwmsvd",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 2,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.91,
-    "ups": 9,
-    "value": 9
+    "ratio": 0.9,
+    "ups": 8,
+    "value": 8
   },
   "subreddit": {
     "id": "t5_3isai",

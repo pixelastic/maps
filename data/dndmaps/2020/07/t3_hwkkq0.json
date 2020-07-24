@@ -3,7 +3,12 @@
     "id": "t2_56pdf",
     "name": "grescoave"
   },
-  "date": 1595556170,
+  "date": {
+    "day": 1595462400,
+    "full": 1595527370,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwkkq0",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 0,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.84,
-    "ups": 14,
-    "value": 14
+    "ratio": 0.91,
+    "ups": 17,
+    "value": 17
   },
   "subreddit": {
     "id": "t5_3isai",

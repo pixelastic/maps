@@ -3,7 +3,12 @@
     "id": "t2_z6s4z",
     "name": "derekvonzarovich"
   },
-  "date": 1485978331,
+  "date": {
+    "day": 1485907200,
+    "full": 1485978331,
+    "month": 1485907200,
+    "week": 1485648000
+  },
   "id": "t3_5rhpc8",
   "misc": {
     "postHint": "link"

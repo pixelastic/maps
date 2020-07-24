@@ -3,7 +3,12 @@
     "id": "t2_mnujf",
     "name": "CosmoSounder"
   },
-  "date": 1488122075,
+  "date": {
+    "day": 1488067200,
+    "full": 1488122075,
+    "month": 1485907200,
+    "week": 1488067200
+  },
   "id": "t3_5wai6y",
   "misc": {
     "postHint": "link"

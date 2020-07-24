@@ -3,7 +3,12 @@
     "id": "t2_knq5n3",
     "name": "Larva_Mage"
   },
-  "date": 1595563171,
+  "date": {
+    "day": 1595462400,
+    "full": 1595534371,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwmv0p",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 0,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.75,
-    "ups": 9,
-    "value": 9
+    "ratio": 0.74,
+    "ups": 8,
+    "value": 8
   },
   "subreddit": {
     "id": "t5_3isai",

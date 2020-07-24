@@ -3,7 +3,12 @@
     "id": "t2_17bqxq",
     "name": "Hjanzo"
   },
-  "date": 1506843640,
+  "date": {
+    "day": 1506729600,
+    "full": 1506814840,
+    "month": 1504224000,
+    "week": 1506211200
+  },
   "id": "t3_73icq9",
   "misc": {
     "postHint": "link"
@@ -17,9 +22,9 @@
     "comments": 0,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.9,
-    "ups": 14,
-    "value": 14
+    "ratio": 1,
+    "ups": 17,
+    "value": 17
   },
   "subreddit": {
     "id": "t5_3isai",

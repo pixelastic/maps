@@ -3,7 +3,12 @@
     "id": "t2_gk4mp",
     "name": "Soxiel"
   },
-  "date": 1575185905,
+  "date": {
+    "day": 1575072000,
+    "full": 1575157105,
+    "month": 1572566400,
+    "week": 1574553600
+  },
   "id": "t3_e45pfb",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 1,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.91,
-    "ups": 8,
-    "value": 8
+    "ratio": 0.83,
+    "ups": 7,
+    "value": 7
   },
   "subreddit": {
     "id": "t5_3isai",

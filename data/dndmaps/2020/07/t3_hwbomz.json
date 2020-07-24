@@ -3,7 +3,12 @@
     "id": "t2_trpnb",
     "name": "Slardar117"
   },
-  "date": 1595519681,
+  "date": {
+    "day": 1595462400,
+    "full": 1595490881,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwbomz",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.99,
-    "ups": 344,
-    "value": 344
+    "ups": 342,
+    "value": 342
   },
   "subreddit": {
     "id": "t5_3isai",

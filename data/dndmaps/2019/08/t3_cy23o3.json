@@ -3,7 +3,12 @@
     "id": "t2_3ithxb72",
     "name": "Linked-Yung"
   },
-  "date": 1567320119,
+  "date": {
+    "day": 1567209600,
+    "full": 1567291319,
+    "month": 1564617600,
+    "week": 1566691200
+  },
   "id": "t3_cy23o3",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 2,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.84,
-    "ups": 31,
-    "value": 31
+    "ratio": 0.89,
+    "ups": 38,
+    "value": 38
   },
   "subreddit": {
     "id": "t5_3isai",

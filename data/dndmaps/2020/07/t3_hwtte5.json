@@ -3,7 +3,12 @@
     "id": "t2_67r2r07m",
     "name": "Morpening"
   },
-  "date": 1595558999,
+  "date": {
+    "day": 1595548800,
+    "full": 1595558999,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwtte5",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 1,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.98,
-    "ups": 79,
-    "value": 79
+    "ratio": 1,
+    "ups": 102,
+    "value": 102
   },
   "subreddit": {
     "id": "t5_3isai",

@@ -3,7 +3,12 @@
     "id": "t2_86t3w",
     "name": "oogje"
   },
-  "date": 1487230190,
+  "date": {
+    "day": 1487203200,
+    "full": 1487230190,
+    "month": 1485907200,
+    "week": 1486857600
+  },
   "id": "t3_5udfsh",
   "misc": {
     "postHint": "link"

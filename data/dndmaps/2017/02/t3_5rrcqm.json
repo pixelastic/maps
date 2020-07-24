@@ -3,7 +3,12 @@
     "id": "t2_67n5y",
     "name": "hornbook1776"
   },
-  "date": 1486089400,
+  "date": {
+    "day": 1486080000,
+    "full": 1486089400,
+    "month": 1485907200,
+    "week": 1485648000
+  },
   "id": "t3_5rrcqm",
   "misc": {
     "postHint": "image"

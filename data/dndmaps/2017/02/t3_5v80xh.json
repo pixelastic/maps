@@ -3,7 +3,12 @@
     "id": "t2_15g5eg",
     "name": "ReqOnDeck"
   },
-  "date": 1487633461,
+  "date": {
+    "day": 1487548800,
+    "full": 1487633461,
+    "month": 1485907200,
+    "week": 1487462400
+  },
   "id": "t3_5v80xh",
   "misc": {
     "postHint": "link"

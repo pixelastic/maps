@@ -3,7 +3,12 @@
     "id": "t2_5tig8",
     "name": "MrAnonymonster"
   },
-  "date": 1486002258,
+  "date": {
+    "day": 1485993600,
+    "full": 1486002258,
+    "month": 1485907200,
+    "week": 1485648000
+  },
   "id": "t3_5rk3tq",
   "misc": {
     "postHint": "image"

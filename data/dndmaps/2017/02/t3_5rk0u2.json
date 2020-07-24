@@ -3,7 +3,12 @@
     "id": "t2_9izbd",
     "name": "gonothebrave"
   },
-  "date": 1486001264,
+  "date": {
+    "day": 1485993600,
+    "full": 1486001264,
+    "month": 1485907200,
+    "week": 1485648000
+  },
   "id": "t3_5rk0u2",
   "misc": {
     "postHint": "image"

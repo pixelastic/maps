@@ -3,7 +3,12 @@
     "id": "t2_1gz45jqk",
     "name": "jorianderson"
   },
-  "date": 1595532189,
+  "date": {
+    "day": 1595462400,
+    "full": 1595503389,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwdxp5",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.99,
-    "ups": 161,
-    "value": 161
+    "ups": 159,
+    "value": 159
   },
   "subreddit": {
     "id": "t5_3isai",

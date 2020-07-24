@@ -3,7 +3,12 @@
     "id": "t2_uhrvq",
     "name": "Bartisan"
   },
-  "date": 1595505211,
+  "date": {
+    "day": 1595462400,
+    "full": 1595476411,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hw8rs7",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 1,
-    "ups": 167,
-    "value": 167
+    "ups": 163,
+    "value": 163
   },
   "subreddit": {
     "id": "t5_3isai",

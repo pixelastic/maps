@@ -2,7 +2,12 @@
   "author": {
     "name": "[deleted]"
   },
-  "date": 1487199750,
+  "date": {
+    "day": 1487116800,
+    "full": 1487199750,
+    "month": 1485907200,
+    "week": 1486857600
+  },
   "id": "t3_5uazd5",
   "misc": {
     "postHint": "link"

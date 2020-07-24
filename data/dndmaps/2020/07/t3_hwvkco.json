@@ -3,7 +3,12 @@
     "id": "t2_fibsi",
     "name": "nevar530"
   },
-  "date": 1595595196,
+  "date": {
+    "day": 1595548800,
+    "full": 1595566396,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwvkco",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.95,
-    "ups": 25,
-    "value": 25
+    "ups": 38,
+    "value": 38
   },
   "subreddit": {
     "id": "t5_3isai",

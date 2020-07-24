@@ -3,7 +3,12 @@
     "id": "t2_xdlf7",
     "name": "magicsparrow"
   },
-  "date": 1487309170,
+  "date": {
+    "day": 1487289600,
+    "full": 1487309170,
+    "month": 1485907200,
+    "week": 1486857600
+  },
   "id": "t3_5ukgpz",
   "misc": {
     "postHint": "image"

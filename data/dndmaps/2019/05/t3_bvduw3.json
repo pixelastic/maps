@@ -3,7 +3,12 @@
     "id": "t2_3he2x2cq",
     "name": "ElPatosLocos"
   },
-  "date": 1559370909,
+  "date": {
+    "day": 1559260800,
+    "full": 1559342109,
+    "month": 1556668800,
+    "week": 1558828800
+  },
   "id": "t3_bvduw3",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 0,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.8,
-    "ups": 9,
-    "value": 9
+    "ratio": 0.73,
+    "ups": 8,
+    "value": 8
   },
   "subreddit": {
     "id": "t5_3isai",

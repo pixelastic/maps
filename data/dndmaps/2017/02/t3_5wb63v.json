@@ -3,7 +3,12 @@
     "id": "t2_sl432",
     "name": "SallyMitchell"
   },
-  "date": 1488129939,
+  "date": {
+    "day": 1488067200,
+    "full": 1488129939,
+    "month": 1485907200,
+    "week": 1488067200
+  },
   "id": "t3_5wb63v",
   "misc": {
     "postHint": "image"

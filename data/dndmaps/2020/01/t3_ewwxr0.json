@@ -3,7 +3,12 @@
     "id": "t2_9re90",
     "name": "Kain_Nailo"
   },
-  "date": 1580541715,
+  "date": {
+    "day": 1580428800,
+    "full": 1580512915,
+    "month": 1577836800,
+    "week": 1579996800
+  },
   "id": "t3_ewwxr0",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 7,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.94,
-    "ups": 39,
-    "value": 39
+    "ratio": 0.98,
+    "ups": 45,
+    "value": 45
   },
   "subreddit": {
     "id": "t5_3isai",

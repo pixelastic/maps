@@ -3,7 +3,12 @@
     "id": "t2_um2f1",
     "name": "NikoRaito"
   },
-  "date": 1486323841,
+  "date": {
+    "day": 1486252800,
+    "full": 1486323841,
+    "month": 1485907200,
+    "week": 1486252800
+  },
   "id": "t3_5s9foj",
   "misc": {
     "postHint": "image"

@@ -3,7 +3,12 @@
     "id": "t2_14h5ko",
     "name": "Ju_St"
   },
-  "date": 1595543269,
+  "date": {
+    "day": 1595462400,
+    "full": 1595543269,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwpkms",
   "misc": {
     "postHint": "image"
@@ -14,12 +19,12 @@
     "thumbnail": "https://a.thumbs.redditmedia.com/rOzJwpPPtUMmLX7DUwxXK3yvffmLclBXL2fiEbIeKV8.jpg"
   },
   "score": {
-    "comments": 3,
+    "comments": 4,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.78,
-    "ups": 7,
-    "value": 7
+    "ratio": 0.8,
+    "ups": 8,
+    "value": 8
   },
   "subreddit": {
     "id": "t5_3isai",

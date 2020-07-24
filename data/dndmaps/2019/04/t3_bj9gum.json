@@ -3,7 +3,12 @@
     "id": "t2_1rt5vbe",
     "name": "Ben_the_Communist"
   },
-  "date": 1556691245,
+  "date": {
+    "day": 1556582400,
+    "full": 1556662445,
+    "month": 1554076800,
+    "week": 1556409600
+  },
   "id": "t3_bj9gum",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.99,
-    "ups": 135,
-    "value": 135
+    "ups": 140,
+    "value": 140
   },
   "subreddit": {
     "id": "t5_3isai",

@@ -3,7 +3,12 @@
     "id": "t2_3z1advh7",
     "name": "MedievalPub"
   },
-  "date": 1593589037,
+  "date": {
+    "day": 1593475200,
+    "full": 1593560237,
+    "month": 1590969600,
+    "week": 1593302400
+  },
   "id": "t3_hiyzv1",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 3,
     "downs": 0,
     "isCurated": false,
-    "ratio": 1,
-    "ups": 8,
-    "value": 8
+    "ratio": 0.83,
+    "ups": 7,
+    "value": 7
   },
   "subreddit": {
     "id": "t5_3isai",

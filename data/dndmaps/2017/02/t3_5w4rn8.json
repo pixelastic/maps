@@ -3,7 +3,12 @@
     "id": "t2_6up0c",
     "name": "Shylocv"
   },
-  "date": 1488039172,
+  "date": {
+    "day": 1487980800,
+    "full": 1488039172,
+    "month": 1485907200,
+    "week": 1487462400
+  },
   "id": "t3_5w4rn8",
   "misc": {
     "postHint": "image"

@@ -12,34 +12,18 @@ const config = require('../src/_data/config.js');
   };
   const settings = {
     searchableAttributes: ['title', 'author.name'],
-    attributesForFaceting: [
-      'author.id',
-      'author.name',
-      'date',
-      'dateAsDay',
-      'tags',
-      'misc.postHint',
-      'score.comments',
-      'score.downs',
-      'score.isCurated',
-      'score.ratio',
-      'score.ups',
-      'score.value',
-    ],
+    attributesForFaceting: ['author.name', 'tags', 'misc.postHint'],
     customRanking: [
-      'desc(score.value)',
-      'desc(score.isCurated)',
-      'desc(score.ratio)',
       'desc(dateAsDay)',
-      'desc(score.comments)',
+      'desc(score.value)',
+      'desc(score.ratio)',
     ],
     replicas: {
       popularity: {
         customRanking: [
-          'desc(dateAsDay)',
           'desc(score.value)',
           'desc(score.ratio)',
-          'desc(score.comments)',
+          'desc(dateAsDay)',
         ],
       },
     },

@@ -3,7 +3,12 @@
     "id": "t2_fkss2",
     "name": "PSanma"
   },
-  "date": 1486366122,
+  "date": {
+    "day": 1486339200,
+    "full": 1486366122,
+    "month": 1485907200,
+    "week": 1486252800
+  },
   "id": "t3_5scx67",
   "misc": {
     "postHint": "link"

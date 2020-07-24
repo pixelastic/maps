@@ -3,7 +3,12 @@
     "id": "t2_kk69i",
     "name": "lilianet"
   },
-  "date": 1487885737,
+  "date": {
+    "day": 1487808000,
+    "full": 1487885737,
+    "month": 1485907200,
+    "week": 1487462400
+  },
   "id": "t3_5vtadb",
   "misc": {
     "postHint": "image"

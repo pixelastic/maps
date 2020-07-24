@@ -3,7 +3,12 @@
     "id": "t2_5ilxwtbf",
     "name": "Kelgtar"
   },
-  "date": 1595540564,
+  "date": {
+    "day": 1595462400,
+    "full": 1595511764,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwfvfb",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 1,
-    "ups": 33,
-    "value": 33
+    "ups": 34,
+    "value": 34
   },
   "subreddit": {
     "id": "t5_3isai",

@@ -3,7 +3,12 @@
     "id": "t2_3o8ygns6",
     "name": "Zac_Galfridus"
   },
-  "date": 1595538586,
+  "date": {
+    "day": 1595462400,
+    "full": 1595509786,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwfd0r",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 5,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.96,
-    "ups": 31,
-    "value": 31
+    "ratio": 0.98,
+    "ups": 32,
+    "value": 32
   },
   "subreddit": {
     "id": "t5_3isai",

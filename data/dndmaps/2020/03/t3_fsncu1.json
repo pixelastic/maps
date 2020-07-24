@@ -3,7 +3,12 @@
     "id": "t2_36xrbvan",
     "name": "metallic_wolf"
   },
-  "date": 1585724093,
+  "date": {
+    "day": 1585612800,
+    "full": 1585695293,
+    "month": 1583020800,
+    "week": 1585440000
+  },
   "id": "t3_fsncu1",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 1,
-    "ups": 10,
-    "value": 10
+    "ups": 9,
+    "value": 9
   },
   "subreddit": {
     "id": "t5_3isai",

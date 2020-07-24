@@ -3,7 +3,12 @@
     "id": "t2_35fcqv5",
     "name": "FailedToGitGud"
   },
-  "date": 1506838183,
+  "date": {
+    "day": 1506729600,
+    "full": 1506809383,
+    "month": 1504224000,
+    "week": 1506211200
+  },
   "id": "t3_73hv79",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 1,
-    "ups": 5,
-    "value": 5
+    "ups": 6,
+    "value": 6
   },
   "subreddit": {
     "id": "t5_3isai",

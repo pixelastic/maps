@@ -3,7 +3,12 @@
     "id": "t2_vev2tsm",
     "name": "BlackberryTart"
   },
-  "date": 1590997866,
+  "date": {
+    "day": 1590883200,
+    "full": 1590969066,
+    "month": 1588291200,
+    "week": 1590883200
+  },
   "id": "t3_gu9svy",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.93,
-    "ups": 26,
-    "value": 26
+    "ups": 27,
+    "value": 27
   },
   "subreddit": {
     "id": "t5_3isai",

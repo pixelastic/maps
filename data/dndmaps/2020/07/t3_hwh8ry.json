@@ -3,7 +3,12 @@
     "id": "t2_3aq57m2i",
     "name": "fantasy_atlas"
   },
-  "date": 1595545582,
+  "date": {
+    "day": 1595462400,
+    "full": 1595516782,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwh8ry",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": true,
     "ratio": 0.97,
-    "ups": 64,
-    "value": 64
+    "ups": 62,
+    "value": 62
   },
   "subreddit": {
     "id": "t5_3isai",

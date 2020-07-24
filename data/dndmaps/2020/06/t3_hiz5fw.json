@@ -3,7 +3,12 @@
     "id": "t2_23tlvhdq",
     "name": "Jeremy_foreverDM"
   },
-  "date": 1593589620,
+  "date": {
+    "day": 1593475200,
+    "full": 1593560820,
+    "month": 1590969600,
+    "week": 1593302400
+  },
   "id": "t3_hiz5fw",
   "misc": {
     "postHint": "image"
@@ -17,9 +22,9 @@
     "comments": 10,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.93,
-    "ups": 19,
-    "value": 19
+    "ratio": 0.96,
+    "ups": 20,
+    "value": 20
   },
   "subreddit": {
     "id": "t5_3isai",

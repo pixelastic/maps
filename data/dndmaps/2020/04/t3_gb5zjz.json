@@ -3,7 +3,12 @@
     "id": "t2_sl432",
     "name": "SallyMitchell"
   },
-  "date": 1588315026,
+  "date": {
+    "day": 1588204800,
+    "full": 1588286226,
+    "month": 1585699200,
+    "week": 1587859200
+  },
   "id": "t3_gb5zjz",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": false,
     "ratio": 0.99,
-    "ups": 235,
-    "value": 235
+    "ups": 236,
+    "value": 236
   },
   "subreddit": {
     "id": "t5_3isai",

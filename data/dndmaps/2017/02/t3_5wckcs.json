@@ -3,7 +3,12 @@
     "id": "t2_8jbkx",
     "name": "ChaoticTundra"
   },
-  "date": 1488144694,
+  "date": {
+    "day": 1488067200,
+    "full": 1488144694,
+    "month": 1485907200,
+    "week": 1488067200
+  },
   "id": "t3_5wckcs",
   "misc": {
     "postHint": "image"

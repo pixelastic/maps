@@ -3,7 +3,12 @@
     "id": "t2_4cvo69d1",
     "name": "SeafootGames"
   },
-  "date": 1595502367,
+  "date": {
+    "day": 1595462400,
+    "full": 1595473567,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hw83av",
   "misc": {
     "postHint": "image"
@@ -18,8 +23,8 @@
     "downs": 0,
     "isCurated": true,
     "ratio": 1,
-    "ups": 186,
-    "value": 186
+    "ups": 192,
+    "value": 192
   },
   "subreddit": {
     "id": "t5_3isai",

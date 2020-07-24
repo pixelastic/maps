@@ -3,7 +3,12 @@
     "id": "t2_3rkuvu66",
     "name": "GimmiePig"
   },
-  "date": 1595547700,
+  "date": {
+    "day": 1595462400,
+    "full": 1595547700,
+    "month": 1593561600,
+    "week": 1595116800
+  },
   "id": "t3_hwqvg3",
   "misc": {
     "postHint": "image"
