@@ -17,6 +17,7 @@
     }
   }
 }
+/* Change Placeholder size based on screen size */
 @screen sm {
   .ais-SearchBox-input {
     &::placeholder {
@@ -38,21 +39,14 @@
     }
   }
 }
+/* Change filters icon color when input is focused */
 .__header:focus-within .__filters {
   @apply black;
 }
-/* Powered By */
-.__poweredBy {
-  @apply absolute bottom-1 right-1 rnw pointer-events-none;
-  @apply white italic text-opacity-50p;
+/* Stats and Powered by */
+.ais-Stats-link {
+  @apply bold pointer;
   &:hover {
-    & ~ #searchbox .ais-SearchBox {
-      @apply bg-opacity-50p;
-    }
-  }
-}
-.__searchboxContainer:focus-within {
-  .__poweredBy {
-    @apply black text-opacity-50p;
+    @apply underline;
   }
 }
