@@ -11208,10 +11208,10 @@ rechoir@^0.6.2:
   dependencies:
     resolve "^1.1.6"
 
-reddinx@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/reddinx/-/reddinx-0.0.4.tgz#b5e24b99b5524a88bd648a9fc2ebe14372094370"
-  integrity sha512-N/6033H6J/4T43bTB9ByeJBa58gHu9E8WaxVm+8y0iYOGiTvFWer18QXiFz66ksQGNNU8TbiQk2jjg1a4t5xPA==
+reddinx@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.npmjs.org/reddinx/-/reddinx-0.0.6.tgz#ad373acbf8e661fa24dc3b30ed0615b3caab0b73"
+  integrity sha512-B3zg37/TFPuR8JAtSDJGteLarWh0C1YQmTQhE/rPEK+e6EPNDBRFCPbMVc7mxiMBuCtLLlTkGz+GTr/i4l2sEg==
   dependencies:
     firost "1.11.1"
     golgoth "1.3.1"
