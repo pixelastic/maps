@@ -20,11 +20,10 @@ jobs:
     <<: *defaults
     steps:
       - checkout
-      - add_ssh_keys
       - *restore_cache
       - *yarn_install
       - *save_cache
-      - run: 'yarn run ci:dailyUpdate'
+      - run: 'yarn run ci'
   dailyUpdate:
     <<: *defaults
     steps:

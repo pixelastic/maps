@@ -9793,10 +9793,10 @@ octokit-pagination-methods@^1.1.0:
   resolved "https://registry.npmjs.org/octokit-pagination-methods/-/octokit-pagination-methods-1.1.0.tgz#cf472edc9d551055f9ef73f6e42b4dbb4c80bea4"
   integrity sha512-fZ4qZdQ2nxJvtcasX7Ghl+WlWS/d9IgnBIwFZXVNNZUmzpno91SX5bc5vuxiuKoCtK78XxGGNuSCrDC7xYB3OQ==
 
-on-circle@0.1.2:
-  version "0.1.2"
-  resolved "https://registry.npmjs.org/on-circle/-/on-circle-0.1.2.tgz#b5eb80bc399250f1dd8251db92f52793e6131cd9"
-  integrity sha512-rNhxeOYDbXt9piKYFtDlaxpAbFMNz54N8/q4bT0GKmIa/dXuxwpjza/tnrt3UTWUHaK3C8T3TUOHzvW2lrX8+w==
+on-circle@0.1.3:
+  version "0.1.3"
+  resolved "https://registry.npmjs.org/on-circle/-/on-circle-0.1.3.tgz#9cb0044373a60591ed12adae9e2b63e48c701e52"
+  integrity sha512-Erm9m3gANyK6xCriRyqFXzXRsMxJ1450S3lkyIp/ebcnWlymf/fBiIsyrrpqGB3VM10TkAsfbJRH1K8t9S9Rbg==
   dependencies:
     "@octokit/rest" "18.0.3"
     firost "1.11.1"
