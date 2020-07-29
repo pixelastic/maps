@@ -29,7 +29,7 @@
   "version": "0.0.1",
   "devDependencies": {
     "aberlaas": "1.12.1",
-    "algolia-indexing": "1.0.1",
+    "algolia-indexing": "1.1.0",
     "firost": "1.11.1",
     "golgoth": "1.3.2",
     "on-circle": "0.1.1",

@@ -1906,10 +1906,10 @@ ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2, ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-algolia-indexing@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/algolia-indexing/-/algolia-indexing-1.0.1.tgz#747c98ab0e4b6c174fe357b421a10a6a8592f82a"
-  integrity sha512-o0gJRb/N0CEsvczZMBXrV028WZLtljX6/XjYMONPI5eRIYDlqMFHvjRV3jSa158Qbg8owaJC9sFQm/f/XZTMXQ==
+algolia-indexing@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/algolia-indexing/-/algolia-indexing-1.1.0.tgz#1d1e1821d1b53715107e8a9519e7476dedd54163"
+  integrity sha512-YdDFLQmpCeTzkzIXrH3mSQGQ0bl3Cud3d8oTAMruc/xXRZdzW4IrM64sv29XGLo46MmA9e5lnI0P7AwyrTuXXA==
   dependencies:
     algoliasearch "4.2.0"
     firost "1.5.1"
