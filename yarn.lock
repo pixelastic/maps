@@ -5770,6 +5770,13 @@ gh-release-fetch@^1.0.3:
     node-fetch "^2.3.0"
     semver "^5.6.0"
 
+git-remote-origin-url@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.npmjs.org/git-remote-origin-url/-/git-remote-origin-url-3.1.0.tgz#c90c1cb0f66658566bbc900509ab093a1522d2b3"
+  integrity sha512-yVSfaTMO7Bqk6Xx3696ufNfjdrajX7Ig9GuAeO2V3Ji7stkDoBNFldnWIAsy0qviUd0Z+X2P6ziJENKztW7cBQ==
+  dependencies:
+    gitconfiglocal "^2.1.0"
+
 git-repo-info@^2.1.0:
   version "2.1.1"
   resolved "https://registry.npmjs.org/git-repo-info/-/git-repo-info-2.1.1.tgz#220ffed8cbae74ef8a80e3052f2ccb5179aed058"
@@ -9762,14 +9769,17 @@ octokit-pagination-methods@^1.1.0:
   resolved "https://registry.npmjs.org/octokit-pagination-methods/-/octokit-pagination-methods-1.1.0.tgz#cf472edc9d551055f9ef73f6e42b4dbb4c80bea4"
   integrity sha512-fZ4qZdQ2nxJvtcasX7Ghl+WlWS/d9IgnBIwFZXVNNZUmzpno91SX5bc5vuxiuKoCtK78XxGGNuSCrDC7xYB3OQ==
 
-on-circle@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.npmjs.org/on-circle/-/on-circle-0.0.4.tgz#c071d2e47368cfd8df24739a6d28a0ab896d94a1"
-  integrity sha512-in8jbTNSVD2vEtFXH0QRpwSadxvkOOvssoY9uaLvCfsIZhGWnMCN5AnGe0qcl35Oba1F2ai8BlOD+GiwIH01yg==
+on-circle@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmjs.org/on-circle/-/on-circle-0.1.0.tgz#66f18b51564e4bb2444e25b5c5253adc3617dd1e"
+  integrity sha512-mqajHrxx6iavhRCTsF69J3WclUQggs4NyxI1A5lAJNhlMIa3e/Y4qwN+o3+hBBdCR4EWNODT/7DCajXmm7Nlfw==
   dependencies:
     "@octokit/rest" "18.0.3"
     firost "1.11.1"
+    git-remote-origin-url "3.1.0"
     golgoth "1.3.1"
+    minimist "1.2.5"
+    parse-github-repo-url "1.4.1"
 
 on-finished@^2.3.0, on-finished@~2.3.0:
   version "2.3.0"

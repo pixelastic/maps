@@ -24,7 +24,7 @@ jobs:
       - *restore_cache
       - *yarn_install
       - *save_cache
-      - run: 'yarn run ci'
+      - run: 'yarn run ci:dailyUpdate'
   dailyUpdate:
     <<: *defaults
     steps:
