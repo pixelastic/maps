@@ -1,6 +1,7 @@
 const indexing = require('algolia-indexing');
 const readJson = require('firost/lib/readJson');
 const glob = require('firost/lib/glob');
+const consoleError = require('firost/lib/consoleError');
 const pMap = require('golgoth/lib/pMap');
 const config = require('../src/_data/config.js');
 
@@ -35,7 +36,12 @@ const config = require('../src/_data/config.js');
     batchMaxSize: 100,
   });
 
-  const files = await glob('./data/**/*.json');
-  const records = await pMap(files, readJson);
-  await indexing.fullAtomic(credentials, records, settings);
+  try {
+    const files = await glob('./data/**/*.json');
+    const records = await pMap(files, readJson);
+    await indexing.fullAtomic(credentials, records, settings);
+  } catch (err) {
+    consoleError(err.message);
+    process.exit(1);
+  }
 })();
