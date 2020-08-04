@@ -9,7 +9,8 @@ const {
   toggleRefinement,
 } = require('norska/frontend/algolia/widgets');
 const credentials = window.CONFIG.algolia;
-const infiniteMasonry = require('./_scripts/infiniteMasonry');
+const transforms = require('./_scripts/transforms.js');
+const infiniteMasonry = require('algolia-infiniteMasonry');
 
 const widgets = [
   /**
@@ -75,7 +76,7 @@ const widgets = [
    * Hits
    **/
   {
-    type: infiniteMasonry.widget(),
+    type: infiniteMasonry(transforms),
     options: {
       container: '#hits',
       templates: {
