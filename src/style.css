@@ -1,11 +1,17 @@
-@import 'tailwindcss/base';
-@import 'norska/reset';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import 'theme:style.css';
 
-@import '_styles/header.css';
-@import '_styles/toggle.css';
-@import '_styles/tags.css';
-@import '_styles/sortBy.css';
-@import '_styles/hits.css';
-@import '_styles/pagination.css';
+html {
+  .bg-theme {
+    @apply bg-blue-7;
+  }
+  .ais-highlight {
+    @apply blue;
+  }
+}
+@screen md {
+  body {
+    .js-masonryWall {
+      @apply grid-cols-w-16;
+    }
+  }
+}
