@@ -7,11 +7,7 @@ html {
   .ais-highlight {
     @apply blue;
   }
-}
-@screen md {
-  body {
-    .js-masonryWall {
-      @apply grid-cols-w-16;
-    }
+  .js-masonryWall {
+    @apply grid-cols-w-16;
   }
 }
