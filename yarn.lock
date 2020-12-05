@@ -12721,10 +12721,10 @@ rechoir@^0.6.2:
   dependencies:
     resolve "^1.1.6"
 
-reddinx@0.0.6:
-  version "0.0.6"
-  resolved "https://registry.npmjs.org/reddinx/-/reddinx-0.0.6.tgz#ad373acbf8e661fa24dc3b30ed0615b3caab0b73"
-  integrity sha512-B3zg37/TFPuR8JAtSDJGteLarWh0C1YQmTQhE/rPEK+e6EPNDBRFCPbMVc7mxiMBuCtLLlTkGz+GTr/i4l2sEg==
+reddinx@0.0.7:
+  version "0.0.7"
+  resolved "https://registry.npmjs.org/reddinx/-/reddinx-0.0.7.tgz#9364d6fed61dc1b0aba5d4fa1403670e2a3cc9b8"
+  integrity sha512-H5eicFTLRv/FaXRrthwJtaNtKwjfJRwlcmAnlKLBx8O/tsWy6+dUOSnsCJ+ywuYToPEl7i4LiltzZmdDYmAKFg==
   dependencies:
     firost "1.11.1"
     golgoth "1.3.1"
