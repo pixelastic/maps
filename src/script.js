@@ -1,4 +1,4 @@
-const theme = require('norska-theme-search-infinite/src/script.js');
+const theme = require('norska/theme');
 const {
   refinementList,
   toggleRefinement,
