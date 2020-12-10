@@ -2,7 +2,7 @@ const indexing = require('algolia-indexing');
 const readJson = require('firost/readJson');
 const glob = require('firost/glob');
 const consoleError = require('firost/consoleError');
-const pMap = require('golgoth/lib/pMap');
+const pMap = require('golgoth/pMap');
 const config = require('../src/_data/config.js');
 
 (async function () {
