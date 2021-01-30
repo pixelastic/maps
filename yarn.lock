@@ -11339,10 +11339,10 @@ norska-theme-default@^1.7.0:
   resolved "https://registry.yarnpkg.com/norska-theme-default/-/norska-theme-default-1.7.0.tgz#7092da95a13646c891fa16ffd72d5a1d16dee4e4"
   integrity sha512-pSVikq2ZSBfiOCOBtAmZzrrPbv5gF9XZOHEyCuW6NLT2RH4w340qeLr1TxhjMKrKvfKb4aVPR7LplKd/78s/+g==
 
-norska-theme-search-infinite@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/norska-theme-search-infinite/-/norska-theme-search-infinite-0.1.1.tgz#bdf16e03eb86283f3864d5800bab042dd8b77ab2"
-  integrity sha512-3oWKsJN0hqridXndgJy5TWaeJByBLPEGs74FBFe+8Muf7zN5fzekzlqrbUQbAp7HkOZbW1E4Zq1lCOS/rcauMA==
+norska-theme-search-infinite@0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/norska-theme-search-infinite/-/norska-theme-search-infinite-0.1.2.tgz#5559bf712604f08f9b975cf1e76053ff5fe7087b"
+  integrity sha512-booM+2FGiAa0lkcvVu/yHeeYGTxyGBFzrCmiy44Q4CbOd9AxQlG57cNf0KtbrQW3c4/Eng4N0LNA4M4DLwoKSw==
 
 norska@1.10.0:
   version "1.10.0"
