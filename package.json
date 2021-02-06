@@ -3,8 +3,8 @@
     "hogan.js": "3.0.2",
     "lodash-es": "4.17.20",
     "medium-zoom": "1.0.6",
-    "norska": "1.10.0",
-    "norska-theme-search-infinite": "0.1.2"
+    "norska": "1.11.0",
+    "norska-theme-search-infinite": "0.2.0"
   },
   "description": "Search for D&D maps for your next game",
   "files": [],
@@ -30,7 +30,7 @@
   },
   "version": "0.0.1",
   "devDependencies": {
-    "aberlaas": "1.14.0",
+    "aberlaas": "1.15.0",
     "algolia-indexing": "1.2.0",
     "firost": "2.7.0",
     "golgoth": "2.0.0",
