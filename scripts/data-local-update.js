@@ -11,12 +11,16 @@ const spinner = require('firost/spinner');
 (async () => {
   const files = await glob('./data/**/*.json');
   const max = files.length;
-  const progress = spinner.start(max);
-  await pMap(files, async (filepath) => {
-    const currentData = await readJson(filepath);
-    const newData = onEach(currentData);
-    await writeJson(newData, filepath);
-    progress.tick();
-  });
+  const progress = spinner(max);
+  await pMap(
+    files,
+    async (filepath) => {
+      const currentData = await readJson(filepath);
+      const newData = onEach(currentData);
+      await writeJson(newData, filepath);
+      progress.tick(filepath);
+    },
+    { concurrency: 50 }
+  );
   progress.success('All files updated');
 })();
