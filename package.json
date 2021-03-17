@@ -20,6 +20,7 @@
     "data:initial": "node ./scripts/data-initial.js",
     "data:incremental": "node ./scripts/data-incremental.js",
     "data:indexing": "node ./scripts/data-indexing.js",
+    "data:local-update": "node ./scripts/data-local-update.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
