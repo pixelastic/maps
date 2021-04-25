@@ -1,0 +1,36 @@
+{
+  "author": {
+    "id": "t2_9a0wuavu",
+    "name": "gotDND"
+  },
+  "date": {
+    "day": 1619222400,
+    "full": 1619303319,
+    "month": 1617235200,
+    "week": 1618704000
+  },
+  "id": "t3_mxulv4",
+  "misc": {
+    "postHint": "hosted:video"
+  },
+  "picture": {
+    "full": "https://external-preview.redd.it/dy7nUJxefd8ja8y7K7TKGfogQ7-KHwmz8q1UDnO-anw.png?format=pjpg&auto=webp&s=7569776094afd2f573d5c159226268b38d807f98",
+    "preview": "https://external-preview.redd.it/dy7nUJxefd8ja8y7K7TKGfogQ7-KHwmz8q1UDnO-anw.png?width=640&crop=smart&format=pjpg&auto=webp&s=21237b341e1c508bda920aedb9ec27122d455635",
+    "thumbnail": "https://b.thumbs.redditmedia.com/tIHc-M-e_b-Ai5jcOV4gspElkhuM-WBFeOWfk2o9TTQ.jpg"
+  },
+  "score": {
+    "comments": 0,
+    "downs": 0,
+    "isCurated": false,
+    "ratio": 1,
+    "ups": 2,
+    "value": 2
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Dungeon"],
+  "title": "Experimenting with map animations... using Unity to build a movement/zoom controller and add particle/animated effects.",
+  "url": "https://www.reddit.com/r/dndmaps/comments/mxulv4/experimenting_with_map_animations_using_unity_to/"
+}
