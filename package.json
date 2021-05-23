@@ -37,5 +37,8 @@
     "golgoth": "2.0.0",
     "on-circle": "1.0.2",
     "reddinx": "0.0.7"
+  },
+  "engines": {
+    "node": ">=14.17.0"
   }
 }
