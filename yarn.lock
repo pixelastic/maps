@@ -2919,10 +2919,10 @@ abbrev@1:
   resolved "https://registry.npmjs.org/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
-aberlaas@1.18.1:
-  version "1.18.1"
-  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.18.1.tgz#942553ab89ab65e0387e11a22f2dfaea806bb55b"
-  integrity sha512-HRNRPddxp+ieqo9WQM/8KDD4kWSyiX+bF4L5EoWG9DITS6H/bo+DmqPUVKL8qDAEJdUXuvzbQjitbncprepC4Q==
+aberlaas@1.22.0:
+  version "1.22.0"
+  resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.22.0.tgz#b5794cbc726bfe05d66d2db798b88278337d757b"
+  integrity sha512-IY3P89xuLdiH56QBBlPV1/KqmQgPc4R5jq2pkvRAsXrWmTJxDXtcC9kIjK27YnN224dbWh+wCb93U+29gqQ7UQ==
   dependencies:
     "@octokit/rest" "18.5.3"
     ci-info "2.0.0"
@@ -2934,7 +2934,7 @@ aberlaas@1.18.1:
     eslint-plugin-node "11.1.0"
     eslint-plugin-prettier "3.4.0"
     find-up "5.0.0"
-    firost "2.10.0"
+    firost "2.13.1"
     front-matter "4.0.2"
     golgoth "2.0.0"
     husky "4.3.8"
@@ -6852,10 +6852,10 @@ firost@1.11.1:
     untildify "4.0.0"
     which "2.0.2"
 
-firost@2.10.0:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-2.10.0.tgz#e4af0898f58e631dc407717a17bd6b9737cef4e2"
-  integrity sha512-w75qwo+h3Jm3nYprowyznA2mMdA+E+umqQm5po5Fx7HgyHLQO0YNkKoSBnRn9e79TwNSx9GjGjOYZYqaYJVQKA==
+firost@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-2.13.0.tgz#3c1e677db9ca0ffdbe28a9e5cb8a5c1c81ee2a75"
+  integrity sha512-7tIsDEDv3mKwCIaHh1XBtUnqu/Dpow97VbPt+0FCkdDXx413WhnJyuolCgms7to78PRyYyMhadtaYBDoqNTRzQ==
   dependencies:
     callsites "3.1.0"
     chokidar "3.5.1"
@@ -6863,14 +6863,14 @@ firost@2.10.0:
     eventemitter2 "6.4.4"
     execa "5.0.0"
     find-up "5.0.0"
-    fs-extra "9.1.0"
+    fs-extra "10.0.0"
     globby "11.0.3"
     golgoth "2.0.0"
-    inquirer "7.3.3"
+    inquirer "8.1.0"
     is-glob "4.0.1"
     json-stable-stringify "1.0.1"
-    nanoid "3.1.22"
-    normalize-url "5.3.0"
+    nanoid "3.1.23"
+    normalize-url "6.0.0"
     ora "5.4.0"
     std-mocks "1.0.1"
     strip-ansi "6.0.0"
@@ -6878,10 +6878,10 @@ firost@2.10.0:
     untildify "4.0.0"
     which "2.0.2"
 
-firost@2.13.0:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/firost/-/firost-2.13.0.tgz#3c1e677db9ca0ffdbe28a9e5cb8a5c1c81ee2a75"
-  integrity sha512-7tIsDEDv3mKwCIaHh1XBtUnqu/Dpow97VbPt+0FCkdDXx413WhnJyuolCgms7to78PRyYyMhadtaYBDoqNTRzQ==
+firost@2.13.1:
+  version "2.13.1"
+  resolved "https://registry.yarnpkg.com/firost/-/firost-2.13.1.tgz#0471291f9a7944b3d7e581220427eac7a0387176"
+  integrity sha512-fqVa1vX35/zmgrbJb5+WJ1I1UFW1ah0zH2Xy/KCwBQ3Lp9urEJ1epQI4U8G7sZwkHGzg/mJpIdqn9PlNq6XHvA==
   dependencies:
     callsites "3.1.0"
     chokidar "3.5.1"
@@ -7119,16 +7119,6 @@ fs-extra@9.0.1, fs-extra@^9.0.1:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
     universalify "^1.0.0"
-
-fs-extra@9.1.0:
-  version "9.1.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-9.1.0.tgz#5954460c764a8da2094ba3554bf839e6b9a7c86d"
-  integrity sha512-hcg3ZmepS30/7BSFqRvoo3DOMQu7IjqxO5nCDt+zM9XWjb33Wg7ziNT+Qvqbuc3+gWpzO02JubVyk2G4Zvo1OQ==
-  dependencies:
-    at-least-node "^1.0.0"
-    graceful-fs "^4.2.0"
-    jsonfile "^6.0.1"
-    universalify "^2.0.0"
 
 fs-extra@^7.0.0:
   version "7.0.1"
@@ -10830,11 +10820,6 @@ nanoid@3.1.20, nanoid@^3.1.18:
   version "3.1.20"
   resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.1.20.tgz#badc263c6b1dcf14b71efaa85f6ab4c1d6cfc788"
   integrity sha512-a1cQNyczgKbLX9jwbS/+d7W8fX/RfgYR7lVWwWOGIPNgK2m0MWvrGF6/m4kk6U3QcFMnZf3RIhL0v2Jgh/0Uxw==
-
-nanoid@3.1.22:
-  version "3.1.22"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.22.tgz#b35f8fb7d151990a8aebd5aa5015c03cf726f844"
-  integrity sha512-/2ZUaJX2ANuLtTvqTlgqBQNJoQO398KyJgZloL0PZkC0dpysjncRUPsFe3DUPzz/y3h+u7C46np8RMuvF3jsSQ==
 
 nanoid@3.1.23:
   version "3.1.23"

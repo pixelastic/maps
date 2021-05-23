@@ -31,9 +31,9 @@
   },
   "version": "0.0.1",
   "devDependencies": {
-    "aberlaas": "1.18.1",
+    "aberlaas": "1.22.0",
     "algolia-indexing": "1.2.0",
-    "firost": "2.13.0",
+    "firost": "2.13.1",
     "golgoth": "2.0.0",
     "on-circle": "1.0.2",
     "reddinx": "0.0.7"
