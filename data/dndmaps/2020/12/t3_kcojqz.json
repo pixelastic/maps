@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607817600
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIxAAAQQABgIDAAAAAAAAAAAAAQIDBBEABRMhMUESURQzYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAESIUH/2gAMAwEAAhEDEQA/AMadmGo/JedccZdCUiMVKJDgSdgSODRFVtvhSs0k5j5zNNl4/WpLiCUE0BXomuheK5uXNyQ9pTXENKWXVC9nFUAEgdV2fQ7rAkZMtDPxTJi0pRV5x0FLjnBA5oHe9gOP3CyJLT//2Q==",
+    "url": "https://preview.redd.it/ten7lyfic2561.jpg?width=640&crop=smart&auto=webp&s=bc314591bd8a8809c0706460a8d0e7b1d3b17f73",
+    "width": 640
+  },
   "id": "t3_kcojqz",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1572566400,
     "week": 1574553600
   },
+  "displayPicture": {
+    "height": 1145,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAApEAABAwMCAgsAAAAAAAAAAAABAgMEAAUREjEGExUhQlFTVJOUodLh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABoRAAICAwAAAAAAAAAAAAAAAAADASECERL/2gAMAwEAAhEDEQA/AIZa4Dp4VUpsKTIQ+l5rSsdZGOydzkjGN8nej+jL75Nz26frTVrv8NFjejGLFckPKTpWc8xOBgJSAe8/AoXXcvBk+p+0rIVXQeEsvR//2Q==",
+    "url": "https://preview.redd.it/ylmamwg92n141.jpg?width=640&crop=smart&auto=webp&s=a5fed43ebdbbbf9279281cbac55443c352c225e4",
+    "width": 640
+  },
   "id": "t3_e3fo24",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1561939200,
     "week": 1563062400
   },
+  "displayPicture": {
+    "height": 828,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDBAURABIhBhMxQQeRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBV0r0nLcpoblFIGh2r2opKSMLkLt5U5XnL4AHoMTzpVQ/FFqqIi09fXQupCdulCxImABjGwZPsnHJJ1o9uoaa20qU1BAsECAKqJ4AAwB9DVSsMef3Qf//Z",
+    "url": "https://preview.redd.it/5ku84wwumwa31.jpg?width=640&crop=smart&auto=webp&s=18f9b73dc4678e2f10d1c4d1c167b9db4e93e6c8",
+    "width": 640
+  },
   "id": "t3_ceginf",
   "misc": {
     "postHint": "image"

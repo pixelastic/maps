@@ -9,6 +9,12 @@
     "month": 1556668800,
     "week": 1556409600
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQF/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBAURAAYSIRMVQVFxof/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAECAxH/2gAMAwEAAhEDEQA/ACSxWv1M1VTVSskECiWeQLyY8jgY+TkjW1ZaBqpLibY7kLCR5Wj9sfmcHrUO2pQkjQrU+ON14TKW4kfWkihjttn2xOKRo5Kh1ZshuTE4xgnoAdnoaj22Si8Q1Yf/2Q==",
+    "url": "https://preview.redd.it/knai1erswlv21.jpg?width=640&crop=smart&auto=webp&s=ad5a015cf5b63f6e6d2bc56eadd28ef6830edf26",
+    "width": 640
+  },
   "id": "t3_bjhg24",
   "misc": {
     "postHint": "image"

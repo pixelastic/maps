@@ -9,6 +9,12 @@
     "month": 1612137600,
     "week": 1613260800
   },
+  "displayPicture": {
+    "height": 576,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJBAAAgEDAwQDAQAAAAAAAAAAAQIDBAURACExBhIiQRNCUXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAMAAwAAAAAAAAAAAAAAAAABEiEiMf/aAAwDAQACEQMRAD8AgoEt9ht1e6FQ0kY7FiEpKEnuyPwjIz9edDuVNT3bp+urVj2SeQlWiEJ+PO2Fz623HIyfeszaupFuNNS2uvinmRnCoomKpHID4sPeP1eNMuNa0NHUW+2K8CxlzIryllkfu8m4z/BxqptdN4BpcR//2Q==",
+    "url": "https://preview.redd.it/dyils07peih61.jpg?width=640&crop=smart&auto=webp&s=1961d3f1572a679f78ba30c203eed2fbec0be6c6",
+    "width": 640
+  },
   "id": "t3_ljxl1f",
   "misc": {
     "postHint": "image"

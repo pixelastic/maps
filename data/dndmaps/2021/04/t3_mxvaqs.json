@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1618704000
   },
+  "displayPicture": {
+    "height": 2560,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMH/8QAHhAAAwACAQUAAAAAAAAAAAAAAQIDADFBBAURIjL/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQACQf/aAAwDAQACEQMRAD8AzhO6dRIFYvVQPoDzvnWMtWFBWixHqrFd8g4wFrsULZP/2Q==",
+    "url": "https://preview.redd.it/dgsgekl1d7v61.jpg?width=640&crop=smart&auto=webp&s=a7316494aa557903deb108989f22656b1a5f7d53",
+    "width": 640
+  },
   "id": "t3_mxvaqs",
   "misc": {
     "postHint": "image"

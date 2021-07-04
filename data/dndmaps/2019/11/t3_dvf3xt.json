@@ -9,6 +9,12 @@
     "month": 1572566400,
     "week": 1573344000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAjEAABAwIGAwEAAAAAAAAAAAABAgMEEUEABRITImEUMZEh/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB0RAAIBBAMAAAAAAAAAAAAAAAECAwARITESUdH/2gAMAwEAAhEDEQA/AAXA07JEeSrxiqhqtsqok3AHu33AczKNMl5nLnBIVyUNLZRwFyD6v8w4zWQV6wFSkAbPPQDUioJt13iHMZKWEq2wRJUCl0BZWAQT+A37tWuGxqUNl1QBNG0eQeXWN+V//9k=",
+    "url": "https://preview.redd.it/pm5kvcm56by31.jpg?width=640&crop=smart&auto=webp&s=44ed365a892c8b4e6e807dfbed3a30c72ae9bf64",
+    "width": 640
+  },
   "id": "t3_dvf3xt",
   "misc": {
     "postHint": "image"

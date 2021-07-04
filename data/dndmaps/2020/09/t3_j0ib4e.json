@@ -9,6 +9,12 @@
     "month": 1598918400,
     "week": 1601164800
   },
+  "displayPicture": {
+    "height": 1920,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAUDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIG/8QAIBAAAgIBAwUAAAAAAAAAAAAAAQIAEQMEITEFBxIUQf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8ArN3G6myIfV0ZO9kMRZ2+RMgMWNqYqSSq34Dg1wYjKK//2Q==",
+    "url": "https://preview.redd.it/bvlbxscyglp51.jpg?width=640&crop=smart&auto=webp&s=23149602d5135492b568ba8b0650b87e2534f60f",
+    "width": 640
+  },
   "id": "t3_j0ib4e",
   "misc": {
     "postHint": "image"

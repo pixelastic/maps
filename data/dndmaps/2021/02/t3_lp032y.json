@@ -9,6 +9,12 @@
     "month": 1612137600,
     "week": 1613865600
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAIBAAAgIBBAMBAAAAAAAAAAAAAQIDBAAREjFBIWFxUf/EABUBAQEAAAAAAAAAAAAAAAAAAAAE/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECERL/2gAMAwEAAhEDEQA/ADFu+LMc26dZJHbgx++dTkx3JLMCU5pXaEcLu8IdOh18w3TsCuWawST0vJX7+ZrVWjcqkhKo5DK6nUesgqFMjpOcZ//Z",
+    "url": "https://preview.redd.it/vacvi74ntui61.jpg?width=640&crop=smart&auto=webp&s=db94a7a8615dd40e88a78aeba8c7ae1c532205d5",
+    "width": 640
+  },
   "id": "t3_lp032y",
   "misc": {
     "postHint": "image"

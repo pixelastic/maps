@@ -9,6 +9,12 @@
     "month": 1541030400,
     "week": 1542499200
   },
+  "displayPicture": {
+    "height": 305,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAIAAAB/FOjAAAAACXBIWXMAAAsTAAALEwEAmpwYAAABT0lEQVQYlSXM36qCMACAcZ/bAlkFlSaWbLhyF/2hHKbTbabhlDhSQgbeRY/Qaxw457v9wafpuj6bzUajkWEYAADDMAaDgWVZ0+l0OBzatj0ejwEA8/nccRxd17XNZsM5P51OcRynacoYk1Iej0chRF3XXdcppRhjZVn2fe/7voYxTtP0nymlEML3+w0hDMPwf3S9Xi+Xi1KqbVuEkJYkCSFECCGlZIwdDocsy3a7neM4hJCqqsIwvN1uURRxziGE2n6/b5qGc84Yq6pqu90GQSCEUEpFUXQ+nznnj8dDSimEsCxLW61WlNKiKJIkoZS+Xq/7/Z7nueu6eZ4zxgghGOO6rr/f73q91nzffz6fRVHUdV2WZRzHXde1bfvzV5ZlTdP0fZ+m6efzCYJAAwB4nmfbNoQQY2ya5mQygRAihEzTdF0XIeR53mKxWC6XAIBfrIP595qJys8AAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/zu16lk72lcz11.png?width=640&crop=smart&auto=webp&s=9a92c50d9afb3851cab7bef1c91a3fbdd10006a9",
+    "width": 640
+  },
   "id": "t3_9ykmfu",
   "misc": {
     "postHint": "image"

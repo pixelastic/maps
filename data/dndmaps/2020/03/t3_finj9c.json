@@ -9,6 +9,12 @@
     "month": 1583020800,
     "week": 1583625600
   },
+  "displayPicture": {
+    "height": 495,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQf/xAAgEAABAwQDAQEAAAAAAAAAAAACAQMEAAURIQYSMVFx/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAlH/2gAMAwEAAhEDEQA/AI7xnjlkcik8ckJhddEo6Rd6Qfv7TcS02+MTrjQsRnRbREUW8KWUXKVPOOEUafIJsiyDPbGdLtPce+09xG6yprjrMgkIBE183mj0PZBL/9k=",
+    "url": "https://preview.redd.it/hu1gryzerom41.jpg?width=640&crop=smart&auto=webp&s=fd8681862759c1605502d8a044fc12b0bae382d7",
+    "width": 640
+  },
   "id": "t3_finj9c",
   "misc": {
     "postHint": "image"

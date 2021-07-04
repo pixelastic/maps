@@ -19,6 +19,7 @@
     "cms": "./scripts/cms",
     "data:initial": "node ./scripts/data-initial.js",
     "data:incremental": "node ./scripts/data-incremental.js",
+    "data:localUpdate": "node ./scripts/data-localUpdate.js",
     "data:indexing": "node ./scripts/data-indexing.js",
     "data:local-update": "node ./scripts/data-local-update.js",
     "husky:precommit": "./scripts/husky-precommit",
@@ -35,6 +36,7 @@
     "algolia-indexing": "1.2.0",
     "firost": "2.14.1",
     "golgoth": "2.0.0",
+    "imoen": "0.4.0",
     "on-circle": "1.0.2",
     "reddinx": "0.0.7"
   },

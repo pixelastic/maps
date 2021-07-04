@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1623542400
   },
+  "displayPicture": {
+    "height": 440,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACMQAAICAQQABwAAAAAAAAAAAAECAwQRAAUhMQYSEyJBYqH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAEEAwAAAAAAAAAAAAAAAAABAhESAyFR/9oADAMBAAIRAxEAPwBHZ60e4WTOhgR4kBnn78ueFVc9ng8ngaLf0r0TXkq2o5RIWyJX9Qr9hjrnjWfhkeTbWkkdmZcICxz7R0P06r+BK8Nndb6WYY5kSuWVZFDAHPeD86nZhaoV0isb6f/Z",
+    "url": "https://preview.redd.it/zx9cm1mvf1571.jpg?width=640&crop=smart&auto=webp&s=40f4d27b4d755540d1a3019a25f62ec4be63ee9f",
+    "width": 640
+  },
   "id": "t3_nywsjc",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607817600
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDAAQRBRIhIjFRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AwiK1tjcxJOwWNmAZs449ik1jTrG3gWawlkcbx1bnPwjzUdwC8u1mOCc0axKrdcjFGghqwX64cn//2Q==",
+    "url": "https://preview.redd.it/gmfixmi78z561.jpg?width=640&crop=smart&auto=webp&s=67a6e37e8536aa72db5aca724781a819f152b9ff",
+    "width": 640
+  },
   "id": "t3_kfowxv",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607817600
   },
+  "displayPicture": {
+    "height": 438,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAIhABAAECBQUBAAAAAAAAAAAAAQIDBQAEERIhEyIxUWFB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDIVH/2gAMAwEAAhEDEQA/AMzyOWlcbvQtxU6dadQgTnLtBPL9fWLb/bqlmuE8j1o1JBF3HHCa6J7wN7pwjTzMoxCUdUf0RwGWiTDf3LT3K8q/XE3LUzO0FbXD/9k=",
+    "url": "https://preview.redd.it/gmvyxsleeb561.jpg?width=640&crop=smart&auto=webp&s=6f183510cb6fbef1b53ab9b5dbbcc356cbf7b200",
+    "width": 640
+  },
   "id": "t3_kdi81p",
   "misc": {
     "postHint": "image"

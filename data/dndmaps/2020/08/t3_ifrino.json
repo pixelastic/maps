@@ -9,6 +9,12 @@
     "month": 1596240000,
     "week": 1598140800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJhAAAQMDAwIHAAAAAAAAAAAAAQIDBAURIQASExRRIiQxQUJx8P/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhUf/aAAwDAQACEQMRAD8Ax5pUGntpprO4yEjzLyFeNxdrkDsBn69dNYRGlrVTZzKlRpLYZCnFXcSfiods6G/KYXK66Id3KsrRm9txzf8AY1em882uR0WHIV7llIIG1Jv750B6Oiz/2Q==",
+    "url": "https://preview.redd.it/wic6a98q1zi51.jpg?width=640&crop=smart&auto=webp&s=69be9668e43f528d12c3463d141a72ffd5ddebc3",
+    "width": 640
+  },
   "id": "t3_ifrino",
   "misc": {
     "postHint": "image"

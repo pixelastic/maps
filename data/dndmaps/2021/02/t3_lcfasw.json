@@ -9,6 +9,12 @@
     "month": 1612137600,
     "week": 1612051200
   },
+  "displayPicture": {
+    "height": 1024,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAIAAACgHXkXAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB+0lEQVQYlQHwAQ/+AJBoOoldLamCTJKBOkxGAszBPNC8VDhIF0+dYoucXACjflS0kF2ciklOSgK6rCbt2VROUiNIi1eWn1RFNgwAkIFAZ1wnVEsreXQX5NlDl4Q3P2Eok6NbPSwGdVIqAEVCGYh5V76qiXNtN4yBNFBMCL22SV5UG2JCIbaaVgCHfVaypZzCtXuShENDPAN9gCTGwVs/MhCjekp/fDMAgno/l4taZFklV1EXjow02NNicm0yVVMupZFKUFYTAG5kIGFWGHlrO5aJR5WNPWxnJnhrSK6eh3Z0Mk9SBgBbUhhlYytbaDhYZClbVxBjXyjPu6KYjlNbXgHJrS8ASoJJQopLR55efbphvrJaoJJnk4hYN0MBq5EVpYogAH2MTX+dVYaVS29yM1NQG1VSHTU9CHxuI6mEHTJaMgBuVRFlTw1cTg2OdSeoj1N/dzKLeCSpiS1DYy89iWAAM2pMNXFHV3w/WWw0c4NUloU5fHAfKV4+PIthkp8hAJGrJnqJFJyXNXSELUaBRSZ0XjR2T2KQQL29CJ6gAQC/uwKwsxGNjieJhiikowCotg2FlhOMjQG6ugfCzzEArqVUvbCAsKF3npRKur4xxMclu78or8VAlMJobLh1AIx+WJCAbKuhXo57RKV+TKV/TpuKN16zZ0avbFGvY6NSxYl5/sGLAAAAAElFTkSuQmCC",
+    "url": "https://external-preview.redd.it/3Oz-XTpVSBkKjedxG5e_G8PSFyZ_pgLiQaok8L0UyoQ.png?width=640&crop=smart&auto=webp&s=c9b2945aba67bf10e9208883b7b33debb2ff8a7e",
+    "width": 640
+  },
   "id": "t3_lcfasw",
   "misc": {
     "postHint": "image"

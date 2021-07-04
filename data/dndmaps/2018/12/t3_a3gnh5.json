@@ -9,6 +9,12 @@
     "month": 1543622400,
     "week": 1543708800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEECP/EACQQAAIBAgYBBQAAAAAAAAAAAAECAwQRAAUSITFBExUjUZGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANEV9RUGof3G8azAaDYWUd/due8EOaTtXRRpJ5o9elr2G3zx1+4nrBM8z6IZJFMhMirGSGax22vtxhZSH9WaKRZ1DgqxN7G3G5F+MB//2Q==",
+    "url": "https://preview.redd.it/la8u491gxi221.jpg?width=640&crop=smart&auto=webp&s=ee5d068b75fab9115bf1f15ca613f55211f8a59c",
+    "width": 640
+  },
   "id": "t3_a3gnh5",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1618099200
   },
+  "displayPicture": {
+    "height": 319,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIE/8QAIhAAAgEEAQQDAAAAAAAAAAAAAQIDAAQFEQYSEyIxIUFR/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAdEQEAAQMFAAAAAAAAAAAAAAABAAMREgIhMUFx/9oADAMBAAIRAxEAPwDJnLHILlQbC9vTdNEVSNmYwqw6fM/m9+vnejV8RPIosxEMvbtd47uvM8kLBY5UPioG/Wjtiv1SlS7VxpWQduz2L4X18pP/2Q==",
+    "url": "https://external-preview.redd.it/1bAwMbSXSSfQVsnUcnNVz4NgRvFntXAWx6828XxcFFA.jpg?width=640&crop=smart&auto=webp&s=8547c7ebea30e92b2d7b279a204e6b9a225194fb",
+    "width": 640
+  },
   "id": "t3_mspuen",
   "misc": {
     "postHint": "image"

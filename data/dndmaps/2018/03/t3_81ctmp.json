@@ -9,6 +9,12 @@
     "month": 1519862400,
     "week": 1519516800
   },
+  "displayPicture": {
+    "height": 406,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAIAAAAy3EnLAAAACXBIWXMAAAsTAAALEwEAmpwYAAABRUlEQVQYlT2RwYrCMBCG+/5PIKye9CyICl6E0jaStrFxkiaZmLQlCNveRPABFhvW7zbh/zKTTGKtZYylaVqWZV3XiKhmzD9a677vd7vd+Xz23ieXy2Wz2axWy+XyZ7vdOudiCBGttV9tv99XVWWtTeRM13XeeymlEEIpBQCUUgBo2xYRsyxbLBbr9ZpznuCMMUYplaapUqrruhBC27aEECmlMcZ7fzweCSGI+BEAgBDSNM3tdnu9XiEEIcT7/Z6maRxHRNRaG2PihIkxRkp5Op045zEU+1RV1ff98/l0zkUh8hEQsSgKxtg0TY/HAwDyPD8cDsMwxIZ1Xcef+AiEkLIsr9crY6woCs651jrPc0pp0zSU0izLhBDW2vjaBACcc977WHPOAeA+g4hSSq21tfY7VTIMQwjhdxzjUcx9VxYvjmXczB+nLop4TlBYKQAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/m2evtnul8bj01.png?width=640&crop=smart&auto=webp&s=39584bfb99ca544020f0fe2c3f55e00c7734a863",
+    "width": 640
+  },
   "id": "t3_81ctmp",
   "misc": {
     "postHint": "image"

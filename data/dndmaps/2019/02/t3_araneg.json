@@ -9,6 +9,12 @@
     "month": 1548979200,
     "week": 1549756800
   },
+  "displayPicture": {
+    "height": 495,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMGB//EACQQAAEDBAEDBQAAAAAAAAAAAAECAwQABREhExIUUSIyQYHh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAMAwEAAhEDEQA/AM1sFmVGtTF+SqPIQHQhTC/cDnYx4I+aa52cg3Z6XCb5ZTeGSMjjX1Agjyca+6nu9eiR0NtqygZ0r8oxJr0tRZcICFJJ9I2KVwMdP//Z",
+    "url": "https://preview.redd.it/dss1zzkqoyg21.jpg?width=640&crop=smart&auto=webp&s=186f663d0441631a4d7520f1b1aba97093511203",
+    "width": 640
+  },
   "id": "t3_araneg",
   "misc": {
     "postHint": "image"

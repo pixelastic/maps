@@ -9,6 +9,12 @@
     "month": 1609459200,
     "week": 1609632000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIH/8QAJBAAAQIFBAIDAAAAAAAAAAAAAQIDBAURITEABhITIkFhkdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EAB0RAAIBBAMAAAAAAAAAAAAAAAECEQASEyExQYH/2gAMAwEAAhEDEQA/AMzlkuExiWYSXtdsQkEnmrikAC5NL+7D4Oj3HALgGnmotttChcda6jITnNb1/NRtDcwksU/EOJQ4pbXUEqrUCteQIzk6Hcc5bmLLgabDq1qHklJPAVqSCRbA+9TE7u3dPkUSo4YIAMcc9zX/2Q==",
+    "url": "https://preview.redd.it/nsu14ljfk9a61.jpg?width=640&crop=smart&auto=webp&s=3fbcaff66b3323b8ccb0c5a8d5423ea5a26a82a6",
+    "width": 640
+  },
   "id": "t3_ktmx7l",
   "misc": {
     "postHint": "image"

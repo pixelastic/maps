@@ -9,6 +9,12 @@
     "month": 1559347200,
     "week": 1560038400
   },
+  "displayPicture": {
+    "height": 442,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACIQAAIBBAEEAwAAAAAAAAAAAAEDAgAEBREhEhMU0TFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxIx/9oADAMBAAIRAxEAPwDH5LGQt8daeQxQZcCRHTMGQiDxxvgb2P3RqIWy7aAuEslKXWAVHRAH3S8lcu8hqu4SuMARE86+PZo8IpbspFLYiSwN6PuobXzpSOQ0IKz/2Q==",
+    "url": "https://preview.redd.it/6u6696moyd431.jpg?width=640&crop=smart&auto=webp&s=cd72dbc0a58094283c739192c6f3020d1346e696",
+    "width": 640
+  },
   "id": "t3_c0ug07",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1623542400
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEFABMhEhQxQQYy0f/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAIBEAAQMEAgMAAAAAAAAAAAAAAQIEEQMhUZEAEnGx8P/aAAwDAQACEQMRAD8AP4/kZ6912cjdiqQVIcU500QfQTyffGjzcvs8PHyGMfZfPcbL4KShSL+p4NUaPNajhyXoEUNhDUhtQLm2FkFNk2kmvP751oZHJ4pnEvQ4WPHRKj9KyUEBDligb5NckG+CBpbgvKlWaYlJI0DBEeM43JbqbpPVQAt9efXP/9k=",
+    "url": "https://preview.redd.it/vprzhugv5r571.jpg?width=640&crop=smart&auto=webp&s=8c90a9dfddf8c810cb240efc1497de12bb1f4e23",
+    "width": 640
+  },
   "id": "t3_o1obhy",
   "misc": {
     "postHint": "image"

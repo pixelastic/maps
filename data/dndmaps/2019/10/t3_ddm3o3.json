@@ -9,6 +9,12 @@
     "month": 1569888000,
     "week": 1569715200
   },
+  "displayPicture": {
+    "height": 360,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAADklEQVQYlWNgGAVDEgAAAbkAAfAQZ1MAAAAASUVORK5CYII=",
+    "url": "https://external-preview.redd.it/W5Z1OEFG5aMRU2ETzHNJsGVwhdC_niROFiqtA8lZCAw.png?width=640&crop=smart&auto=webp&s=f7f1429b5e61b52d5603f56a515fd12d22f0ad01",
+    "width": 640
+  },
   "id": "t3_ddm3o3",
   "misc": {
     "postHint": "link"

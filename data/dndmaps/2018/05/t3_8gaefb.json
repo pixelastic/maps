@@ -9,6 +9,12 @@
     "month": 1525132800,
     "week": 1524960000
   },
+  "displayPicture": {
+    "height": 260,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAHCAIAAACOQloVAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPklEQVQYlRXGW0+CUAAAYH6nm6VddA4viFx2zgEOHOFw5CIgXnFhw0tatsVWD9VzbfWrWt/Tx2HYZzYMR1bAcMCw7xrM0Sx9gJG4Wft55qURQWqXGJKlDwwocI16RWg3NCACqQsUwUASwWqzXm3dVI/F+FiExyIihjRmMPY0IPEc36w9Hman49xnBiWgfF6/lmt10LqtVfLMfzln82S4u0/ulm4SGiFDnM/Q73f5+b5PZi7BcpGHP19PH2+F0L5OQuxR6FFQnrOH7WQ1tccjyGVzut9Fu22wzGgaO6uUng5RlBg9/sqjYBqbsa8tp44OOjYWA6pyfONiRJXFxFxOzGzmbNYedURs9vjmJdHFPGOMyJrasU3J/U+bw6hPLTiydTZEjgVsAj1Xs7EMlY5jKYuUDk0ZqV1TEzESdSD8AWZ0sBGO7E6SAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/2pie7ba98av01.png?width=640&crop=smart&auto=webp&s=a8b4f3d005d7ce7b300e5b59e2a63f0dbd986bf8",
+    "width": 640
+  },
   "id": "t3_8gaefb",
   "misc": {
     "postHint": "image"

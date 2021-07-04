@@ -9,6 +9,12 @@
     "month": 1612137600,
     "week": 1612656000
   },
+  "displayPicture": {
+    "height": 853,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACIQAQACAQMEAwEAAAAAAAAAAAECAxEAEiEiMUFhBBOhsf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAMAwEAAhEDEQA/AMMjCpbEY4A6hymPPrt+aG6BCQWFNnHTKxdyZ9OmESXxLLiyO2TsYPCdsu18c6mk0zX7JEU4wxT+GimznC//2Q==",
+    "url": "https://preview.redd.it/29ibumbec1h61.jpg?width=640&crop=smart&auto=webp&s=8595844ca920fb0c9ab71ac09ff603bc24040b92",
+    "width": 640
+  },
   "id": "t3_li9l2s",
   "misc": {
     "postHint": "image"

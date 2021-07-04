@@ -9,6 +9,12 @@
     "month": 1596240000,
     "week": 1597536000
   },
+  "displayPicture": {
+    "height": 1138,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAJxAAAAQEBAcBAAAAAAAAAAAAAQIDEQAEBSEGEhaSExQiMVFTVdH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABcRAAMBAAAAAAAAAAAAAAAAAAABEQP/2gAMAwEAAhEDEQA/ANLmMYJBOLGRpAGSROJBHPlKYbi97taFNU0f56W0YEn8HVqa5wDIEeZMYX4gMIP0ve1m7eIu0xVPUXcH7EroBQ//2Q==",
+    "url": "https://preview.redd.it/kczekaedakh51.jpg?width=640&crop=smart&auto=webp&s=69b81d3d3ff9e86ab1ab2c70dc410fba41a0d01f",
+    "width": 640
+  },
   "id": "t3_ibds9f",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1588291200,
     "week": 1589068800
   },
+  "displayPicture": {
+    "height": 569,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAOABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIDBAUREgBREyFxMf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEBAQEBAAAAAAAAAAAAAAAAAgEAYf/aAAwDAQACEQMRAD8AJo7bSi0xNLAgcEl3wQfnB7xQPFT+dIdoTnVgvoHonscq3X2RomUq2Suq5wRn4eYJcqyppJKbfMQDOEdzqO8Afh5IqkuZgIJv/9k=",
+    "url": "https://preview.redd.it/doom3f0wl6y41.jpg?width=640&crop=smart&auto=webp&s=25c155d0f86270fe3e563cec3d72101c5a8d6fd9",
+    "width": 640
+  },
   "id": "t3_ghtpu0",
   "misc": {
     "postHint": "image"

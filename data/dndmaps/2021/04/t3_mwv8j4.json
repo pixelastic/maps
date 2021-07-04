@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1618704000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAAsTAAALEwEAmpwYAAACoUlEQVQokYXLy07qTAAA4Pn1JWRBXJpIfAw37jTdmGjxUjRMrTjQllaEtjMtF2kr0FqDbkxIWgRvC2JsTFBJiOjWlbIzJiY+xZ9zXuB8+w9wHJfNZjc3N2VZTiQSCCGO47a2tra3txVFWV9fRwiJophMJq+urjRNA6qq1mq1g4ODo6OjcrksCIJpmoqiCILQaDQQQo7jYIwLhcLX11en0wE0TXMct7y8vLOzw7IsRVGZTIaiqLW1NV3XV1dXEULxeHxhYYEQwvM8KBaLYRiqqtrr9a6vryGEg8HAMAzXdV9eXjKZzO3tbRAEsiyPRiPXdYGu68PhUNO0i4uLm5sbQRCenp6KxaLjOP1+H0J4eXl5fn7O8/zr62ulUgEbGxuO49A0LYqiJEk0TVcqlUQikUqlqtUqRVGSJKXTaYqiCCEMw4DT09Ofnx9VVZ+fn4fDYb1e//z8bLfbvu+/v7/bth2GYb/fJ4R8fHxYlgX29vZOTk6SyaRpmpZlsSx7dnamKEq1Wm02m5IkBUHgum6hUOj1ehzHAUEQgiBgGKZer3ueF4/Hfd/P5/OapgVBgBDyPK9UKgmC0G63EUKg2+2Ox2OM8dvb22g0Mgzj9/e30WjUarXxeJzL5QaDQRiGpml+f3+3Wi0AISSEIIRUVZVleWVlRdd1hmF4ns/n8zRNY4wVRWFZ9vj4WBRF4Hnew8ODqqqdTqfVakEIy+WyYRiWZZVKJV3XRVFkGCabzWqaBiH8Ex4fHzHG9/f3d3d3u7u7vu9blpXL5brd7v7+fjqdtm07lUoRQnRdB5IkYYwXFxej0ejMzEwkEonFYrOzs9FodG5uLhKJTE9Px2Kxqamp2F/g8PCw2WwuLS0BACYmJsA/QQht256fnwcATE5O/vcv/wPlzWNFjmt61wAAAABJRU5ErkJggg==",
+    "url": "https://preview.redd.it/ojgzwhpzcxu61.png?width=640&crop=smart&auto=webp&s=206af043b13f1cf2e8af9abeb727b1e8a73e3ef9",
+    "width": 640
+  },
   "id": "t3_mwv8j4",
   "misc": {
     "postHint": "image"

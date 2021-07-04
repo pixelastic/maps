@@ -9,6 +9,12 @@
     "month": 1614556800,
     "week": 1615680000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJRAAAgIBAgUFAQAAAAAAAAAAAQIDBBEABRITITFBIiNCUWFy/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAcEQABBAMBAAAAAAAAAAAAAAABAAIR8AMS8TH/2gAMAwEAAhEDEQA/ANpG9qGKSabcrHDC7lzI5QlScqF64wAe/nRtusWbF+1DIJXrIqSxWmkDGTiz6ceAPvUVsvuEliK1t80ccEyJHIJFPGD3b+cAZH7p0fLru7MlhjzML7ZIQN0AAHxHfPjOTprQ4ZZ8bb1Qnu2xwZJt4v/Z",
+    "url": "https://preview.redd.it/jshcobtm0gn61.jpg?width=640&crop=smart&auto=webp&s=5128d9dba250d1ebcc81e38ae4d7b73f47bb00b6",
+    "width": 640
+  },
   "id": "t3_m6hj4q",
   "misc": {
     "postHint": "image"

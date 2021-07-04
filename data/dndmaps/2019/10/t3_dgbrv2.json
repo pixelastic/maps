@@ -9,6 +9,12 @@
     "month": 1569888000,
     "week": 1570320000
   },
+  "displayPicture": {
+    "height": 924,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAIAAABP3xIpAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlUlEQVQokR2QPXPTQBRF98dAAbFlefe9+95+aCXZkh3L2HECjkLwQCoKBgqYScfADPxxRhS3u8U5x9TJq3KqFFD1yNkLCNNgReqoplKGYwthSArcRWUWFnh2qyjwauDhg+yz3Ky99xTA6iEKBgtT6dioV1FuyImFBq28kODQllnKVwUIbNqsOZCFlix9o8dNSAFDbZNattxEMZ8P7sftnIBVwK9R/jzQsYXDxBqEGTABdreSOkor7vf55d/7FxGFYyLLEFt5mP93LB2liKdTuryhtkGKFKJkT55hgnKEc6Xdb/z709DW+XJe/3yajT27CZ3N1MY6y+7uJt7t8ruhOx+bbWOzgBTCzjDRbF5+HOzz46Lr6vHQnTa0gI8JwRMLG1a8LpY7vxiSve53h+vh01iN+2WfXIATJVN5CsrFkvo1vx2aOm132/zl9ipTyUAKZCIzw+YW/VqrmHNq27a6WloHilHAZOzUeP71fv54WObgq7r9Ps7GrsBE6SaXhXWn2j60c2stc7icmm9j8WFdpBRVxbP+A+QUfEyw6bHEAAAAAElFTkSuQmCC",
+    "url": "https://preview.redd.it/veljefc79vr31.png?width=640&crop=smart&auto=webp&s=e76e5195241daa18dfb09ffdf35d03109b3b7378",
+    "width": 640
+  },
   "id": "t3_dgbrv2",
   "misc": {
     "postHint": "image"

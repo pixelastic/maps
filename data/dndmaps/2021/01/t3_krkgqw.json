@@ -9,6 +9,12 @@
     "month": 1609459200,
     "week": 1609632000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMG/8QAJRAAAQQCAgIABwAAAAAAAAAAAQIDBAUREgAhMVEGBxMWMkFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAcEQEBAAICAwAAAAAAAAAAAAABAgADISIxUcH/2gAMAwEAAhEDEQA/ANA9Zz4JW9CCJFbHZ1WgKGS7vqE7HoddnPCaqgvrCxFvVTYrMJTyVtJA22bP5Dx5HY/o4z9lPCx+JJMaS2uJZMK+nHX4DpBIJyD4V+/R5D5Y19/QIlRbkhEMNgNo2zhwnKtfYwR37zwtXTwKGTo1aI1t9aoDz8Pef//Z",
+    "url": "https://preview.redd.it/k2azfsezio961.jpg?width=640&crop=smart&auto=webp&s=bc1a65f473c002839e333a703c81ec212476a21f",
+    "width": 640
+  },
   "id": "t3_krkgqw",
   "misc": {
     "postHint": "image"

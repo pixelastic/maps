@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1609027200
   },
+  "displayPicture": {
+    "height": 1066,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFAABAAAAAAAAAAAAAAAAAAAABf/EACMQAAICAgECBwAAAAAAAAAAAAECAwQFEQAGMRIhIkFhccH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBf/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAgMi/9oADAMBAAIRAxEAPwALqLCRUrEQTBW68jBiiOzESa+NeWuCilYAANPFKfcNNICPv09+J5LKJJLSsQ5SxJfBLvKwZlTtrXi78DkhieRmbOTAsSTpSP3k7UgdTlf/2Q==",
+    "url": "https://preview.redd.it/frah9228ze861.jpg?width=640&crop=smart&auto=webp&s=8f0f392e9fff1b8d617a4ad90f1e4d0fee5c0f9d",
+    "width": 640
+  },
   "id": "t3_knea43",
   "misc": {
     "postHint": "image"

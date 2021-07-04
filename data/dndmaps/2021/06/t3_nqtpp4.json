@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1622332800
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIE/8QAIBAAAwAABgMBAAAAAAAAAAAAAQIDAAQFERIhMkFh0f/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAhMf/aAAwDAQACEQMRAD8AMll5iMmpKfMqCRt89Y0WiU0+pRZcGmwYcR311tv8wNlNRqXhN1m6kDyB/cTbWcy8L7rIFwQdl9HEwM84X//Z",
+    "url": "https://preview.redd.it/o0rocinajw271.jpg?width=640&crop=smart&auto=webp&s=246b3bdcac33c58f15cdc9187815c16b06af846c",
+    "width": 640
+  },
   "id": "t3_nqtpp4",
   "misc": {
     "postHint": "image"

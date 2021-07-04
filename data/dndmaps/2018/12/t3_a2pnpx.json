@@ -9,6 +9,12 @@
     "month": 1543622400,
     "week": 1543708800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACQQAAICAQMDBQEAAAAAAAAAAAECAwQhAAUREjFBExQVMlFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAFB/9oADAMBAAIRAxEAPwDDbPUqyVKjGiktshHdpYlMYUqOC2OT1Zz30d6q7f8AG35zVrwzmKQoiVwqA8fUcjJ8/umNcpx7Ltft7tOVZq0QniE6qyOq9znGMankv1rFCxDHYh9NIJegmbkk9BAHfySP7qmqchgN/9k=",
+    "url": "https://preview.redd.it/5torbjc403221.jpg?width=640&crop=smart&auto=webp&s=cd5d2e576560534d13843174c7018c0ca96d28d5",
+    "width": 640
+  },
   "id": "t3_a2pnpx",
   "misc": {
     "postHint": "image"

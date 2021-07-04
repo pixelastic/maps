@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1619308800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMECP/EACMQAAICAQIGAwAAAAAAAAAAAAECAxEEABIFEyEiQVEjoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A0xm8Wgx2RAdzvJygfAbpY+xo4ucrSmJ5GMtbtjLRA3Vfoi9Iz8TKR1kxI48hzLfytXLUnurp6/b1bHiKWV5e5gbrxfvQf//Z",
+    "url": "https://preview.redd.it/qacbwkey7lv61.jpg?width=640&crop=smart&auto=webp&s=865e4304487a7cc0a236a52302a4921c16e375b1",
+    "width": 640
+  },
   "id": "t3_mz8tfi",
   "misc": {
     "postHint": "image"

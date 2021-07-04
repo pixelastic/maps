@@ -9,6 +9,12 @@
     "month": 1614556800,
     "week": 1615680000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECB//EACEQAAICAQQCAwAAAAAAAAAAAAEDAgQRABIxQSEiJFFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwDDKSlusIR7gNaI+PB2kjjRdrqVN1aEWEqaY45JiD31qk3vl02sjKIURDMQCcRPOO9Nt0Rt3HKB2tEgDIAHEvz71K6MP//Z",
+    "url": "https://preview.redd.it/78npm2bu72n61.jpg?width=640&crop=smart&auto=webp&s=723fe1f386e0e1c033a2f2f9ff7b346f27a3f27c",
+    "width": 640
+  },
   "id": "t3_m558ga",
   "misc": {
     "postHint": "image"

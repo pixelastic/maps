@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1619913600
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAIxAAAQQBAwQDAAAAAAAAAAAAAgEDBAUhABFhBhIxURMicf/EABUBAQEAAAAAAAAAAAAAAAAAAAAF/8QAHxEAAQMDBQAAAAAAAAAAAAAAAQIDEQASMRMhUYHh/9oADAMBAAIRAxEAPwDSNTOzHoc6T1S/KtTRHibiqotsiuRERxj9TO2ptod3WtPnA6vBqU24gpDfeFAc2TKfb16503IZjT7ZYrxqw+YBJ+UHEEjDtQVBD87ccrzoFilqrO7toU2NDB2EASFcRMOKa7ZTdfHvOdTEvI07CBsJwOfaFpZcvBOYjqv/2Q==",
+    "url": "https://preview.redd.it/hfoxphcnnix61.jpg?width=640&crop=smart&auto=webp&s=81ca0f607067723c3384cc46134275f1042ef69f",
+    "width": 640
+  },
   "id": "t3_n69pii",
   "misc": {
     "postHint": "image"

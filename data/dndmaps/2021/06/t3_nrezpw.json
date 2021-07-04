@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1622332800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQH/8QAJhAAAgEDAwEJAAAAAAAAAAAAAQIDBAURABIxEyEiJEFRYYHR8P/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIRAxEAPwDJbVbo3jRC6rUBh3cZz+5+NBd44w4eLcVfKP1Oc+vtoqG5eOSpYgFF2lcdh1Td769VbFo5xCQsvV3qmGyRwT5j709qkDT5lLd//9k=",
+    "url": "https://preview.redd.it/s41gul6la2371.jpg?width=640&crop=smart&auto=webp&s=f5cbdb0e78d58219181bc652ba32d9ef84c6c785",
+    "width": 640
+  },
   "id": "t3_nrezpw",
   "misc": {
     "postHint": "image"

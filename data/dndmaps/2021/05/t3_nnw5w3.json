@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1621728000
   },
+  "displayPicture": {
+    "height": 427,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMG/8QAJBAAAgIBAwIHAAAAAAAAAAAAAQIDBBEABRIiQSExYWKRobH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABkRAAMBAQEAAAAAAAAAAAAAAAECEQATFP/aAAwDAQACEQMRAD8AwNfYqsVxWBVo5FLgR9AII7jtptfYNtrLHiJZJIuRD5z5+IB+frStzwIYWAHLgBnHux+alado6VpUOAjEr6dIOpPod1lOfMBrv//Z",
+    "url": "https://preview.redd.it/hubg35kai4271.jpg?width=640&crop=smart&auto=webp&s=a6cb521daaa7ad007f6101befef679a2e784d592",
+    "width": 640
+  },
   "id": "t3_nnw5w3",
   "misc": {
     "postHint": "image"

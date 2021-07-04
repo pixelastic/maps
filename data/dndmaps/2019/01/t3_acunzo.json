@@ -9,6 +9,12 @@
     "month": 1546300800,
     "week": 1546128000
   },
+  "displayPicture": {
+    "height": 533,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgMF/8QAJRAAAgEDBAIBBQAAAAAAAAAAAQMCBBEhAAUSMRMUBhUjQUJh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAcEQABAwUAAAAAAAAAAAAAAAARAAEDAhIxUfD/2gAMAwEAAhEDEQA/AMJGyt+mz9WkTUBtRObTUvku9sRMeJx2cHPWrbttjaldEpkfUYh3ii5TDL7XjMrHPRkALnOhvwldbuSKpStwdSL48pBX7ZPZv/TpLujKxjaa9SDOmhyM5wuZkAjq9hiR/F9TpJLTScdpIwBZf//Z",
+    "url": "https://preview.redd.it/weglqi4t7m821.jpg?width=640&crop=smart&auto=webp&s=35d5134d8b59e347fa630c02223ab3c1fce990b4",
+    "width": 640
+  },
   "id": "t3_acunzo",
   "misc": {
     "postHint": "image"

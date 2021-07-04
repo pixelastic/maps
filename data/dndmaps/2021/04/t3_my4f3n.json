@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1619308800
   },
+  "displayPicture": {
+    "height": 960,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAiEAACAQMCBwAAAAAAAAAAAAABAgMABBEhMRITIkFhcZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oADAMBAAIRAxEAPwCSPPJHNLygjpCAzh11II2pQ4XVHjyVZQfoolwjmS7MeolRR1A747Y9Um2yltCpByqKDp4oi0cbITf/2Q==",
+    "url": "https://preview.redd.it/7beefdrabav61.jpg?width=640&crop=smart&auto=webp&s=678b9914a70cc657138a5fe18f3e07784ec4153c",
+    "width": 640
+  },
   "id": "t3_my4f3n",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1606608000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAIRAAAQQCAgIDAAAAAAAAAAAAAQIDBBESIQAFMUFhcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAABAgMSIoH/2gAMAwEAAhEDEQA/ANl696HEeWZjOSKSQQ1YAqt/pG+EkmIlBWI2l3RD2xewSmta3XLZW3HDTi5ofTjiWElQIBBNX98RG6qTO6qOoHFDaFqboZFW/HwfQ4Yt61yyk2l1H//Z",
+    "url": "https://preview.redd.it/guxxt1gm6r261.jpg?width=640&crop=smart&auto=webp&s=3f7c7d5ad7fc968c10294713701d03dfdf7d8f30",
+    "width": 640
+  },
   "id": "t3_k572kt",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1598918400,
     "week": 1601164800
   },
+  "displayPicture": {
+    "height": 1067,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQIDAAQRBRITIQYiMVH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMRMSH/2gAMAwEAAhEDEQA/AMf0bUbaPSJLSeyMzMu5HXrbQbRIWJHAAT0OQVQ+L3cEVpd80qLvUZlYZx7d4H6flBusBdiqXCgnobflIH0iS66VR2K7p72f/9k=",
+    "url": "https://preview.redd.it/lvspc0lzsop51.jpg?width=640&crop=smart&auto=webp&s=9af583c403a127ff3d619e5bbfa958d540196c6e",
+    "width": 640
+  },
   "id": "t3_j0qmnc",
   "misc": {
     "postHint": "image"

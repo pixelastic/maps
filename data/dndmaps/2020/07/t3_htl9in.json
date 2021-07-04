@@ -9,6 +9,12 @@
     "month": 1593561600,
     "week": 1594512000
   },
+  "displayPicture": {
+    "height": 320,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAIhAAAQMDAwUAAAAAAAAAAAAAAQIDBQAEEQYTMRIhUWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQECMRL/2gAMAwEAAhEDEQA/AKyclqJyyK7d5e6QSAhoBfV5JPYVlaajZtMm8iQaeKincQ5yM5GRkfePVKUjlTukybuiP//Z",
+    "url": "https://preview.redd.it/lemir069qnb51.jpg?width=640&crop=smart&auto=webp&s=a39c41bdf2ab907305e8ab076f1088b3a85163cf",
+    "width": 640
+  },
   "id": "t3_htl9in",
   "misc": {
     "postHint": "image"

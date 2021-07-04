@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1618704000
   },
+  "displayPicture": {
+    "height": 747,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwUGCP/EACIQAAICAQQCAwEAAAAAAAAAAAECAxEEAAUSIRNBBzGBkf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAwDAQACEQMRAD8Ay/hxx+eEzMOBkUNY6C32dVfyZk7VnZWBPtGMkDeBVnCLQJro/o0iYw4k23uHXhxqQqtivZq+/vQppw+PYbLaViLPOgwF11Xq6/uknNdP/9k=",
+    "url": "https://preview.redd.it/upkettzikxt61.jpg?width=640&crop=smart&auto=webp&s=8d52912a405abf8211ca18c9eb6056d8549d34bd",
+    "width": 640
+  },
   "id": "t3_mtcgbj",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1596240000,
     "week": 1596326400
   },
+  "displayPicture": {
+    "height": 1273,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAb/xAAgEAACAQMEAwAAAAAAAAAAAAABAgMABREEEjFBIVGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwCGLxtb41jE7yjO4nG0eeu+PdKhkv8AcQcSaWDYq5DIrn5zSomEn2//2Q==",
+    "url": "https://preview.redd.it/wckesz18m1f51.jpg?width=640&crop=smart&auto=webp&s=37211e7ead9ce5f8ad2eac992c064226dee46e93",
+    "width": 640
+  },
   "id": "t3_i3qtb2",
   "misc": {
     "postHint": "image"

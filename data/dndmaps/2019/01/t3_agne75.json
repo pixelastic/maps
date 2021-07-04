@@ -9,6 +9,12 @@
     "month": 1546300800,
     "week": 1547337600
   },
+  "displayPicture": {
+    "height": 360,
+    "placeholder": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgIF/8QAJhAAAQMEAAQHAAAAAAAAAAAAAQIDBAAFBhETITWzQVFhcYGxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAGxEAAQUBAQAAAAAAAAAAAAAAAQACAxIhEyL/2gAMAwEAAhEDEQA/ANS03qDHjRw/HS6ypRKltME8QqXy3y8x9n1qr3YoWVWhqRjz6wuHtZYcBXxACdp2dqBB8N/lFcd6Sr2V3DTzDur2b57AolHMWZhU4zfy7V//2Q==",
+    "url": "https://external-preview.redd.it/s8RlqNevN0dwAS2KwM43pies4Ms705L3EA6cTvvGIZk.png?width=640&crop=smart&format=pjpg&auto=webp&s=c495f8a572a91af43e23de21dba11ee0593a7386",
+    "width": 640
+  },
   "id": "t3_agne75",
   "misc": {
     "postHint": "hosted:video"

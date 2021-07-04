@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607817600
   },
+  "displayPicture": {
+    "height": 674,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA8DASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEB//EACMQAAICAQMDBQAAAAAAAAAAAAECAxEAEiExBAUTQVFxkfH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8AymCJfGPKtAiwS9B/jFeIpLLoKqORvY/cKEhwGjaKE8F1oA175X3XqXbt/TwNp0qSwAWmO1bkc/frgbQoof/Z",
+    "url": "https://preview.redd.it/vltgotnlxq561.jpg?width=640&crop=smart&auto=webp&s=3e4bba2d7c58257f0b9d857df9a59a24211a4310",
+    "width": 640
+  },
   "id": "t3_kex3oc",
   "misc": {
     "postHint": "image"

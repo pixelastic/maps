@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1623542400
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFB//EACIQAAICAQQBBQAAAAAAAAAAAAECAwQRAAUGIRMSMTJxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/8QAGREBAAMBAQAAAAAAAAAAAAAAEQABAhIh/9oADAMBAAIRAxEAPwDI+NbTR3ACG+zBiIwjKwXJIJOSRpblm20dqaCKkJ/N5CkvrZWHxyCpAz+6lx3LNXuvO8eRg479vvQbNyzblhezO8hTLLnHR0vOul8ltAT/2Q==",
+    "url": "https://preview.redd.it/ghvpocmj01671.jpg?width=640&crop=smart&auto=webp&s=8fa8264ab08e7472f5c1e2253dc5fb673d811369",
+    "width": 640
+  },
   "id": "t3_o2p4t9",
   "misc": {
     "postHint": "image"

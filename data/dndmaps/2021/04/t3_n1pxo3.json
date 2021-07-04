@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1619308800
   },
+  "displayPicture": {
+    "height": 377,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUG/8QAJRAAAQMDAwMFAAAAAAAAAAAAAQIDBAAFIQYREiI0sWFxcnOR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABwRAAIBBQEAAAAAAAAAAAAAAAERAAIDBBITIf/aAAwDAQACEQMRAD8ApXvUFyivRwpxUBxTa+LR3KV9ONgBk+pwKFozV16mT1xZPKSylJJUs8ikAYyBv74/K2d17pn6XPBouk+0k/EeDTKMbW2yWYPqvFP/2Q==",
+    "url": "https://preview.redd.it/sr22kt690aw61.jpg?width=640&crop=smart&auto=webp&s=30b00396ce621b51ce74ac4ef18a733efcc45d2f",
+    "width": 640
+  },
   "id": "t3_n1pxo3",
   "misc": {
     "postHint": "image"

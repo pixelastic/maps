@@ -9,6 +9,12 @@
     "month": 1575158400,
     "week": 1575763200
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAI/8QAHxAAAQMEAwEAAAAAAAAAAAAAAQACEQMSIUEiUWGB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANSudD4nOgoGT2TkeIUW3B1xLueym0AVD9Qf/9k=",
+    "url": "https://preview.redd.it/4gl15txmfo341.jpg?width=640&crop=smart&auto=webp&s=3cfcf8d8f89c0e9736e3bc4159cac393df68db06",
+    "width": 640
+  },
   "id": "t3_e8lm32",
   "misc": {
     "postHint": "image"

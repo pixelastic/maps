@@ -9,6 +9,12 @@
     "month": 1585699200,
     "week": 1587859200
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIRAAAgIBBAIDAAAAAAAAAAAAAgMBBBEABSExFFFBQqH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABsRAAEFAQEAAAAAAAAAAAAAAAEAAgMRIRMi/9oADAMBAAIRAxEAPwCSRB7Iu8i29ttjBElkycDH25/dZxu3SnLGea2B5wS3F317460qku1QruGKTDaUCLVNElyMRMzkZ986HbXuFu8YVKriqRMzGAKTLj5jGpC6V09AU0FHzy06v//Z",
+    "url": "https://preview.redd.it/mh73wtqactv41.jpg?width=640&crop=smart&auto=webp&s=f62cfe91e3243307237cd5d280c8f140d361460c",
+    "width": 640
+  },
   "id": "t3_gagi99",
   "misc": {
     "postHint": "image"

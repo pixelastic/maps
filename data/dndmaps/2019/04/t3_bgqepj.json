@@ -9,6 +9,12 @@
     "month": 1554076800,
     "week": 1555804800
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACIQAAIBBAEEAwAAAAAAAAAAAAECAwAEERIhBTFBYRVRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGhEAAgIDAAAAAAAAAAAAAAAAAQIAAxETMf/aAAwDAQACEQMRAD8AxDjp81taJb2TIRGFmcPsWf7HHb1zSrxWkUUivFK2dhk8anx+VL+RnifVCuANO3iit9cTFYZHzExClfVT1iwKAWjbWzwT/9k=",
+    "url": "https://preview.redd.it/cswin4m655u21.jpg?width=640&crop=smart&auto=webp&s=daab19c8b4c45d9c74874c30e3875b0933cdaef2",
+    "width": 640
+  },
   "id": "t3_bgqepj",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607212800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxAAAgICAgMBAAAAAAAAAAAAAQIDEQAEEhMhMUFh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAb/xAAdEQABAwUBAAAAAAAAAAAAAAABAAIRAxJBYaHw/9oADAMBAAIRAxEAPwCLwzbTNFC8qvZNo1GheZzQbWt1ybRLdpPFrrmt1ZHw+CMTtwTNMskRkVoySAvjl+HDNJP1qmxEUpuQr1X3FkGVKUntDbc+1PV//9k=",
+    "url": "https://preview.redd.it/83hajoahru361.jpg?width=640&crop=smart&auto=webp&s=30dcebd31ff3cbfb543eb7ab3e13bdaa46d55ce4",
+    "width": 640
+  },
   "id": "t3_k8sq9x",
   "misc": {
     "postHint": "image"

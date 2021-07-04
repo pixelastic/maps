@@ -9,6 +9,12 @@
     "month": 1598918400,
     "week": 1601164800
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwUG/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDAAQRBSFBEhQiMTJRYXGh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQEAAgIDAAAAAAAAAAAAAAABAAIDEQQTIf/aAAwDAQACEQMRAD8Azb3kkM7qMdAxuwHh+aYdU0SSFwj8heefKrOjazLp00J7WyulQsFW6gEgAO/4dx9mludUe5sLtBbWkMc7rIyRR4AfPqXOSPbbio141q5W1nYwd44tB6T/2Q==",
+    "url": "https://preview.redd.it/s9cfinggiop51.jpg?width=640&crop=smart&auto=webp&s=2a49aace50506b06674edd2231d004fe1d20f18a",
+    "width": 640
+  },
   "id": "t3_j0pvhb",
   "misc": {
     "postHint": "image"

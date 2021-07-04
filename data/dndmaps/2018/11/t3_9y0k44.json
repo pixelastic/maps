@@ -9,6 +9,12 @@
     "month": 1541030400,
     "week": 1541894400
   },
+  "displayPicture": {
+    "height": 346,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABPUlEQVQYlVWQ3YrqMBSF+/5P45W2ItJEbWymwaD4FxOSQFKhsQSksQjSDOd0mMNZl2utvdnfTmKMfd/v93sppda6aZoQwvv9fr1eIYTP5xP/VzIMQ4zxfr+fTqfj8cg5F0JorY0xjDFrrffeOdd1XYxxGIYkxti2bZqm0+l0Mpksl8u+78dsXLRYLObzuVLqZ6DrOgDAarVCCJVlWRTFZrMZTzLGcM4hhHmeCyGMMc/nMymKoqqqLMuu1yulFGMMANjtdufzeTabIYSUUo/HAyGU5zmlNOGcl2WZpmlVVev1GkKYZZm11jlHCMEYM8bquv76KynlHwatNYSQUkoIAQAYY34ZvPdCiLqurbU/DGNwuVwwxtvtVko5BqMfQmCMKaWcc/++NOp2u/22R8d737bt4XAghDjnmqbx3n8DmhZ99B+Q698AAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/vecmke22uyy11.png?width=640&crop=smart&auto=webp&s=4460cde1b4545745897627200f20ff0d7dd8390a",
+    "width": 640
+  },
   "id": "t3_9y0k44",
   "misc": {
     "postHint": "image"

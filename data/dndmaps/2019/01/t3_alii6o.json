@@ -9,6 +9,12 @@
     "month": 1546300800,
     "week": 1548547200
   },
+  "displayPicture": {
+    "height": 498,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQMH/8QAIRAAAQIHAAMBAAAAAAAAAAAAAQIDAAQFERIhMQYiQWH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAQACAgMAAAAAAAAAAAAAAAEAAgMRQVHB/9oADAMBAAIRAxEAPwDJWfHZxZBcWw2nR2u6iPpAAJMJ1Slt0qiTTBeS6VKzSstWVpVrb/R2K1CpOS8ujFpleSMfYHQsOWOoAnPIJucSpt1tjG54knqrnpP0xGN8oK8+x3VLIdT/2Q==",
+    "url": "https://external-preview.redd.it/D55AxDM4MipGzijYEmDi9iREHW-AJBTBs2dMmjoZfcU.jpg?width=640&crop=smart&auto=webp&s=c0c150df20b4c06c004dca1d5123dc894db4aeb4",
+    "width": 640
+  },
   "id": "t3_alii6o",
   "misc": {
     "postHint": "image"

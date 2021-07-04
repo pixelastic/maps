@@ -9,6 +9,12 @@
     "month": 1561939200,
     "week": 1563062400
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJBAAAQMDBAEFAAAAAAAAAAAAAQIDEQQFMQASISIGEzJRYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAHxEAAgECBwAAAAAAAAAAAAAAAREAAxMCEiExUYHw/9oADAMBAAIRAxEAPwDPt1JQKsrAZppqGy2hfMKedckpEx1QADJzxA1C6+P04ZdJepVutpO9CFKKgfnsTP4dBoruyyzQuJbWVsSoFA3ELHtJEjcM/YnjSr3fmrlTh4U/oPwRAJjOADyBkxjRww1hXeqcPNmyMu67fuJ//9k=",
+    "url": "https://preview.redd.it/top51lsd59b31.jpg?width=640&crop=smart&auto=webp&s=0c320fe30414513d4ced2345ea098827c20111d9",
+    "width": 640
+  },
   "id": "t3_cf6tpm",
   "misc": {
     "postHint": "image"

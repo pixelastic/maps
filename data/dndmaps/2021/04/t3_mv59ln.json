@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1618704000
   },
+  "displayPicture": {
+    "height": 832,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACMQAAIBAwMEAwAAAAAAAAAAAAECAwQFEQAhQQYSEzEVUdH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABgRAAMBAQAAAAAAAAAAAAAAAAABEhEh/9oADAMBAAIRAxEAPwDT9RXA0rhGrmSr8gd0Vsqo4XA98au2C7SfHLItXMnkYuVMuQDz253A29aRqbVBFWyTLQSTTSFnLO2VHJz+aFJbTLArVUavL9qDjHGMbbDA1EqT6I5lYf/Z",
+    "url": "https://preview.redd.it/kalyxkl9ffu61.jpg?width=640&crop=smart&auto=webp&s=aabd90c19b1bba8db71be50cf8a420b77198ff25",
+    "width": 640
+  },
   "id": "t3_mv59ln",
   "misc": {
     "postHint": "image"

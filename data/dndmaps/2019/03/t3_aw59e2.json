@@ -9,6 +9,12 @@
     "month": 1551398400,
     "week": 1550966400
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAIRAAAgICAwACAwAAAAAAAAAAAQIDBAURABMhEiJBUYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgMREhMh/9oADAMBAAIRAxEAPwAsU5vX0w9UxTXpZA0qlgpKqdn9aVQP6eKtSyY63NRvQmvLDI3TMhBC/M7B36CCG9H4JHMi0oxl05LE9i5SMsGUr82Gx9vNEFWB8I5cclrI91vITyTTzkCOsqdZZl1oa0AF0PTwRbEY7Cn5Q66ri//Z",
+    "url": "https://preview.redd.it/jql59aavgij21.jpg?width=640&crop=smart&auto=webp&s=ff5578568bdd44d54fc4fced7d92373e6252665a",
+    "width": 640
+  },
   "id": "t3_aw59e2",
   "misc": {
     "postHint": "image"

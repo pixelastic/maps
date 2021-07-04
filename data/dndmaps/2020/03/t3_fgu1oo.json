@@ -9,6 +9,12 @@
     "month": 1583020800,
     "week": 1583625600
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQG/8QAIxAAAgEDBAEFAAAAAAAAAAAAAQIDBBESAAUhMQYTUWFx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAwEBAQAAAAAAAAAAAAAAAQIRABMi/9oADAMBAAIRAxEAPwDExtKIg600j5XOWJIa3f4aVFmYllqIHVMgELxkA/GlL5BWSba88iwtLn6QONgq35AAIHPvqOfea3cgI55mESdIrGx+7nnUuKMIBLj1ZfRNm//Z",
+    "url": "https://preview.redd.it/e07mezli90m41.jpg?width=640&crop=smart&auto=webp&s=6165c807a6bc2d599e11e13e05911f306bbc773c",
+    "width": 640
+  },
   "id": "t3_fgu1oo",
   "misc": {
     "postHint": "image"

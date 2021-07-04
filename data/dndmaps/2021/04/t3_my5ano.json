@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1619308800
   },
+  "displayPicture": {
+    "height": 896,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQRIRJBMTJR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIRIv/aAAwDAQACEQMRAD8Axd9lr21QxNGQfUnxumZblo5CiqWC6zzoZbuG5POQ5kiA4DZOuz96qXuTI5d4ssdkmM7o2mhpI6nTiT//2Q==",
+    "url": "https://preview.redd.it/mttoa4p8nav61.jpg?width=640&crop=smart&auto=webp&s=ddf16314188f7a1ed82bafc0c5784238df5cd030",
+    "width": 640
+  },
   "id": "t3_my5ano",
   "misc": {
     "postHint": "image"

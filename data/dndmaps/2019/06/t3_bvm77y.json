@@ -9,6 +9,12 @@
     "month": 1559347200,
     "week": 1558828800
   },
+  "displayPicture": {
+    "height": 296,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAHABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEG/8QAIBAAAgEDBAMAAAAAAAAAAAAAAQIDAAQRBQYhQRIxQv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAcEQABAwUAAAAAAAAAAAAAAAABAAIDERITMfD/2gAMAwEAAhEDEQA/AMjcbv29FetJJKkbG2VF8YXbJ+sZXjrNSTd2gzTxNY3IEzMCQYnUEYb3heeqUoGxgNqiMYyXdpf/2Q==",
+    "url": "https://preview.redd.it/kin8h52qnr131.jpg?width=640&crop=smart&auto=webp&s=63e3681732b4b3e914e19fbd0c9007f88beeb914",
+    "width": 640
+  },
   "id": "t3_bvm77y",
   "misc": {
     "postHint": "image"

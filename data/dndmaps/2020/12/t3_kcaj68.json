@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607817600
   },
+  "displayPicture": {
+    "height": 1024,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAoDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgUH/8QAJBAAAQMDAwQDAAAAAAAAAAAAAgEEBQMRIQAGEhMWMVFhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABkRAQADAQEAAAAAAAAAAAAAAAEAAxECBP/aAAwDAQACEQMRAD8AEQUxS7N3VHTbahWlXwobRzWodQhNFuQ8vI+0X350LQ5IEQEcSSccYvb6zrUm22n0a4AmjZudagikNQiLBZsopiyp831GWIkiW/UpDfNuZ4/dDfRUhiStxRbroz//2Q==",
+    "url": "https://preview.redd.it/lalgr204gy461.jpg?width=640&crop=smart&auto=webp&s=05879581003387bf0e1024bdda73f4ec4136a7cf",
+    "width": 640
+  },
   "id": "t3_kcaj68",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1541030400,
     "week": 1541894400
   },
+  "displayPicture": {
+    "height": 479,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwQG/8QAJRAAAgECBQMFAAAAAAAAAAAAAQIDBBEABQYhMRJBUQcTFWFx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAdEQACAgEFAAAAAAAAAAAAAAABAgADEQQSE0HR/9oADAMBAAIRAxEAPwAZ0nlfzGoaOjkDvE7FpbNayDc7ji/F/vCFrDT1DLp+sHsU+WS0pM8ZCL1yjpuIywPHYeenvziD0YhjapzWRkBkRECsRuASdvzYYzut82q6rMamlqGWRIHJVmF2O5IBPgXNhiCzFrdo6jqWunScjDJbPk//2Q==",
+    "url": "https://preview.redd.it/4008kaeygyx11.jpg?width=640&crop=smart&auto=webp&s=8fb8c06ca55b4d5932d2c7f30222edd3f7a7de4a",
+    "width": 640
+  },
   "id": "t3_9whi0l",
   "misc": {
     "postHint": "image"

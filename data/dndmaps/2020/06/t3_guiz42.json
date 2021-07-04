@@ -9,6 +9,12 @@
     "month": 1590969600,
     "week": 1590883200
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAJBAAAgECBQQDAAAAAAAAAAAAAQIDBBEABiExUQUSE2EUIoH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABsRAAEEAwAAAAAAAAAAAAAAAAEAAgQREiFB/9oADAMBAAIRAxEAPwDDaHLlVU0ElWGEVMkoRnkJCKDfW+1tLfo5wuuy5UUVMrvKH+wsuoDqACSpJsQL2tiOlZjnQxpOjmOAnwmJLFffF/ZvhfXMxLJAUpPkl5mPnlmj7Sykg8ne2u22A5SA7lKiGxy29r//2Q==",
+    "url": "https://external-preview.redd.it/pNSiBqg_TEd19E49gwVlyBLwue7ZoYRHyfenK8wNOlM.jpg?width=640&crop=smart&auto=webp&s=f2418809f7fd3bd2a1dad0facf8badcbabe7a9d3",
+    "width": 640
+  },
   "id": "t3_guiz42",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1598918400,
     "week": 1600560000
   },
+  "displayPicture": {
+    "height": 343,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxElEQVQYlQG5AUb+AEBJL2FqXnmQnWeBiX2VoIGYpICTlEZKK1lhTGhYWmddXC41HiEsEzdAIkxSLyo0GQBfZE1aYEV6i4xsfXxdZ1pueWVQW0E5QyNncF1lY1OGiYBqaWZCTC8tOSAsOCArNhsAiox0XWA+aWpKc31iWWRIanFMXGdHWmI+bXVPZm1Hc39Ye3h4kIeGWF9EJjMaJzIbAIeLdWFkP2RjR2RsSFtlSmdvUXqGcV9tT0ZTK1dlQ2lzTGpqUIx+haqnnThBJiAsFACRlYRmbEFhY0Rka0hmbUhscktufmlyhXNDUi1bakNhaEVMVzJbXkSQhYWAgG4wOxwAgIFncXNGaW1GXmQ9am9KZm9LVGA1SlkzQVIuaHNKXGU+Q04rVGE6ZmhHgXRzXV1NAHV1VG1sPmttR2tvRV5mQmRsR3Z3XGdpWIaHXaiiZnZ7TWdtRm1xTFdeOWBgPl5PUQCSgkdjYjpkZD15eUxqbUhjZkFsak+ckGnHtXLBrmmxpGRpbEJqbEF/fExjYzg4NyMAmohYfnJLnIlRq5dSnpFTgHlMm4xXv6pis55cx65ktqFgfn5ef4JrhYFhWVMxNzcnMSuk6cFVe8EAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/2erkspx8mfo51.png?width=640&crop=smart&auto=webp&s=7db4d435c19822ff12a997c7a96390e72e503589",
+    "width": 640
+  },
   "id": "t3_iwtvk2",
   "misc": {
     "postHint": "image"

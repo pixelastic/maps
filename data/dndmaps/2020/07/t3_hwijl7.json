@@ -9,6 +9,12 @@
     "month": 1593561600,
     "week": 1595116800
   },
+  "displayPicture": {
+    "height": 420,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQH/8QAIxAAAgEDAwQDAAAAAAAAAAAAAQIDAAURBBMhEhUiMXHR8P/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDUBNLJvtJqmVi7bfLeOGIyf31SNuv403aEln1SmNnMiIoZZOt8Lkkj18VLNEkc4RAQsjyFxk84JIpe32XQTx26WWFmkyedxx6YkcZoP//Z",
+    "url": "https://preview.redd.it/zoo5w48stmc51.jpg?width=640&crop=smart&auto=webp&s=43e1514f79591febe49137255711c59c3cd29f9c",
+    "width": 640
+  },
   "id": "t3_hwijl7",
   "misc": {
     "postHint": "image"

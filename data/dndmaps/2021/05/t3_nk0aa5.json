@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1621728000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECB//EACAQAAICAQQDAQAAAAAAAAAAAAECAxEABBITITFRYXH/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAwDAQACEQMRAD8Ay+GEvKq1G3RpgQb9dYcYXQswVjJvABJHj8+Y4pGbiZ2QGMBFoAUL8nK1EkoaSJZ0dFUjdGoIN/aw1ahv/9k=",
+    "url": "https://preview.redd.it/ceskdx1h43171.jpg?width=640&crop=smart&auto=webp&s=d7fb3839a0f22ada65ddfda711fb979e9f0bf20a",
+    "width": 640
+  },
   "id": "t3_nk0aa5",
   "misc": {
     "postHint": "image"

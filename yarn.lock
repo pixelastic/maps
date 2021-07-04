@@ -8532,7 +8532,7 @@ ignore@^5.1.1, ignore@^5.1.4, ignore@^5.1.8:
 
 imoen@0.4.0:
   version "0.4.0"
-  resolved "https://registry.yarnpkg.com/imoen/-/imoen-0.4.0.tgz#69e61f33938007bc9d2b24732c849dc554019ff1"
+  resolved "https://registry.npmjs.org/imoen/-/imoen-0.4.0.tgz#69e61f33938007bc9d2b24732c849dc554019ff1"
   integrity sha512-kNCYW/3NtQkLl/7lKWefqpvuQ+BE+2QPxdbVAjJAALv1H48p7UlFHXOhABAksSviOkfm27eIXC9wUOB5PyWwng==
   dependencies:
     firost "2.14.0"

@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1619308800
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACQQAAIBAgUEAwAAAAAAAAAAAAECAwQRAAUTIXESMUFhFCLh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAbEQEAAgIDAAAAAAAAAAAAAAABABECIQMSMf/aAAwDAQACEQMRAD8ADNcghgeCppXC0TKjMJWJY7b2sN+PGM7MUp3c6MGkTcRog7838+uMLjzyvjpfi6qvDawEiBio9X7Ymqa+fTUdWw+v7zhmcliOiTnR1Xs//9k=",
+    "url": "https://preview.redd.it/ne801uk3few61.jpg?width=640&crop=smart&auto=webp&s=f755bab5b3322cbf2f3088afb1e4ea7c5444b895",
+    "width": 640
+  },
   "id": "t3_n271oj",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1621728000
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgf/xAAiEAACAQMEAgMAAAAAAAAAAAABAhEDBAUABhIhE3FBUfD/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABgRAAMBAQAAAAAAAAAAAAAAAAACEQEx/9oADAMBAAIRAxEAPwCRbNyRxlytQvHJ4YJ2Sv160s3LeYap5quGR1tkhhTcmJImJPfxP4amWKcveU56BgEL1ImI0zvqxe2p0uCKj9uFEcyJgn1qx0u0KZen/9k=",
+    "url": "https://preview.redd.it/1roxjau50w071.jpg?width=640&crop=smart&auto=webp&s=df4cd412cdb866e1bd01a6e8905be25f090dd70c",
+    "width": 640
+  },
   "id": "t3_nj9teg",
   "misc": {
     "postHint": "image"

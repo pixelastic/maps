@@ -9,6 +9,12 @@
     "month": 1612137600,
     "week": 1612051200
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAlEAABAwQBAgcAAAAAAAAAAAABAgMSAAQRIRMFMQYjQVFhwfD/xAAVAQEBAAAAAAAAAAAAAAAAAAABBP/EABsRAAEEAwAAAAAAAAAAAAAAAAABAgMxBRFB/9oADAMBAAIRAxEAPwAB7y0BIO4kHecDB+6ebVf23WbRtV82q2djESEVIx2j6fFT4KW2wmKld1ZIxrOh+96o0eFXXXLVxTg40ob5BEyBSBoUSU0ix9yJzZ//2Q==",
+    "url": "https://preview.redd.it/drsex3j7owe61.jpg?width=640&crop=smart&auto=webp&s=b5d410809766eb03940402ed2d558b03f79fe282",
+    "width": 640
+  },
   "id": "t3_la9j3q",
   "misc": {
     "postHint": "image"

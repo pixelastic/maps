@@ -9,6 +9,12 @@
     "month": 1567296000,
     "week": 1567296000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAUH/8QAJhAAAgICAQMCBwAAAAAAAAAAAQIDBAURMQAGExIhFTJBUXGBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDfe6Z54YY3q5OhSKBfIbTb9mGl9hxsg/w9BoR5XHS05LseRnsG8wlaOfcDxkEBguzpRsEAgcH9q7jo161m3k71SKamilpfWocsoRVUBdE87/Gz9+oWGhydO9Rl+HZaCGzaLyRGfyReNgQoIDaGgVPA+U/XoP/Z",
+    "url": "https://preview.redd.it/bgsbo49pxmk31.jpg?width=640&crop=smart&auto=webp&s=a4bd825d5327de52acd306b96b26bd50b8514def",
+    "width": 640
+  },
   "id": "t3_czq4fk",
   "misc": {
     "postHint": "image"

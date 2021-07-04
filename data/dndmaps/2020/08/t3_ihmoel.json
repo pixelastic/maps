@@ -9,6 +9,12 @@
     "month": 1596240000,
     "week": 1598140800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQT/xAAjEAACAgEDAwUAAAAAAAAAAAABAgMRBAAFIQYTQRQiMVFx/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAfEQACAQQCAwAAAAAAAAAAAAABAgMAERLwBFFhcaH/2gAMAwEAAhEDEQA/ADOk87FguRos5MsqTkY1M0S1wHI+buhQ550pvuAu77HHLmSySOkfciYWqoSPA8fVaIhaLOgbIWaM5ERJbGDFDRawGIPIurqtT9PTTep3Tc82VZHi9sVylomlqi4U8AD88am5UZ5M1NiN3x3TnHkSNMGGQIO29/eq/9k=",
+    "url": "https://preview.redd.it/sw0myess8kj51.jpg?width=640&crop=smart&auto=webp&s=ef0a24a2c7cc820e99cf2ee945e2b111ed83eb8f",
+    "width": 640
+  },
   "id": "t3_ihmoel",
   "misc": {
     "postHint": "image"

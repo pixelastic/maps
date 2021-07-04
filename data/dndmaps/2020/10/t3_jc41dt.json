@@ -9,6 +9,12 @@
     "month": 1601510400,
     "week": 1602374400
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EACMQAAICAQQABwAAAAAAAAAAAAECAwQRAAYSMRQhIkFRkcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAEDERIhMf/aAAwDAQACEQMRAD8Awm2UoiSV7c07SgjEEKktj6Plpe45a/inNOZxzPqRogpA+es6v2NUhaeSxIiu8ZHHmoP5nR7qpJLammkdy3fEBQOs+w0e1GBaz4f/2Q==",
+    "url": "https://preview.redd.it/cz51sfg87et51.jpg?width=640&crop=smart&auto=webp&s=dfa3befc69618e605a4016d39606e86020268a28",
+    "width": 640
+  },
   "id": "t3_jc41dt",
   "misc": {
     "postHint": "image"

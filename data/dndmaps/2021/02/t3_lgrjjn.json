@@ -9,6 +9,12 @@
     "month": 1612137600,
     "week": 1612656000
   },
+  "displayPicture": {
+    "height": 853,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIFBv/EACUQAAIBAwMCBwAAAAAAAAAAAAECAwAEERIhMQUiI0FRYXGRwf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGxEAAQQDAAAAAAAAAAAAAAAAAQACAxIhcZH/2gAMAwEAAhEDEQA/AMZ0lraZGN/JIkYGrwlyXb0H3Uae/hErBEdwCe7AGdzz70IraSZ3aWVljAK6RuB8Dyp4rcKCIQrJnnRn8qaGRRk3NtYHU3ySPYKtA3k8X//Z",
+    "url": "https://preview.redd.it/lvyl2akavmg61.jpg?width=640&crop=smart&auto=webp&s=3cef099bdc5466cff9b84c0e97e40b0d07426471",
+    "width": 640
+  },
   "id": "t3_lgrjjn",
   "misc": {
     "postHint": "image"

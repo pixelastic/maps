@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1621123200
   },
+  "displayPicture": {
+    "height": 276,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAHCAIAAACOQloVAAAACXBIWXMAAAsTAAALEwEAmpwYAAABYklEQVQYlQFXAaj+AMjJyMXGxcnJyNPT09XV1cLCwry+v77AwLu6u7W1tcfHx9bW1s/Pzry2u5WGk5yTmgCwr62Ph31/d2+cmpm9u7q8u7mWhXOHeGmJiIeIhoOxsK6dlYtza2GDg4KhpKS6ubgAiYWAVUk9a2JYY1A8koZ6nZaOiGI9eVc6ZVA+dWdan52ZeGleg2lSMUxYNV5xta+oAJ2cmVVORWtaSXVUM6CJc5ybmWJOPH5XP3dRNm5eVKOin2JeWFRRShk2QjBOXK2rqACzs7RpW05qVkODZ0mhjHizub5+cGN7VD+PXUB4YFSvsK5ydngLKTgYQlcyU2KgnpsAtbSybmNYZlc/bFY1hHZrt7zAaFhKiVw7iVo2cFpNvr28cHZ3ACIzB0BcIlJpn5yYALm5upeUj4B4Y3twWH91Z7q6uJKLhpZ/ao9+b5CKhMPCv5SWl11scGuBjH6Rmb++vMw5rGR7eRPBAAAAAElFTkSuQmCC",
+    "url": "https://external-preview.redd.it/_6qKuJ-lTuea-WOMmKxqLNqVnT4V5LRfMlBFZpMJxBw.png?width=640&crop=smart&auto=webp&s=b0cd5d6904a9bcbc5c6084db660e81ee1084a231",
+    "width": 640
+  },
   "id": "t3_ng569a",
   "misc": {
     "postHint": "image"

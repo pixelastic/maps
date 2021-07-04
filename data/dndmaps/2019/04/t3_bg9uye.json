@@ -9,6 +9,12 @@
     "month": 1554076800,
     "week": 1555804800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEH/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDBBESIQBBIgUUMWGh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAwDAQACEQMRAD8Ay1MhROayNZInv5M207BBHdhw58XLyUVOsVGiKS+WTC+iVvvf5xmp72l9RmWQixCDSL18clR7bBjGEBUA+I1b7twSETL/2Q==",
+    "url": "https://preview.redd.it/lglon4ngvwt21.jpg?width=640&crop=smart&auto=webp&s=c338f30d770b95677fb002be08337678e9475756",
+    "width": 640
+  },
   "id": "t3_bg9uye",
   "misc": {
     "postHint": "image"

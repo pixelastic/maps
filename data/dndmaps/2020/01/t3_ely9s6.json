@@ -9,6 +9,12 @@
     "month": 1577836800,
     "week": 1578182400
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMFBv/EACIQAAICAQQBBQAAAAAAAAAAAAECAxEEAAUSITEGJUFRgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oADAMBAAIRAxEAPwCNi+n86TEwzFtS84UoSRtHTkr1Z5d9m+/OiyNpyDt+VkbiNv29XRViWRwx4gnkKFm7q/zWdV/b3pQqkqnEEkVXL5N+dP3HKbFx1x4EjWKWM2KuiTZI+jqXkLf/2Q==",
+    "url": "https://preview.redd.it/elaekl906m941.jpg?width=640&crop=smart&auto=webp&s=807f44f7e2ef3e0eac6e30812267f4aa466d6cfd",
+    "width": 640
+  },
   "id": "t3_ely9s6",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1572566400,
     "week": 1573344000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBv/EACYQAAIBAgQFBQAAAAAAAAAAAAECAxEhAAQFEgYTFEFRMTJx4fD/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EAB4RAAIBAwUAAAAAAAAAAAAAAAECEQADYQQSISJR/9oADAMBAAIRAxEAPwDPx5SfL6c8XJ5jSEDaAyBb1ta5/eMPHDUohWbqnWXZXZIooPm/3gpr8XPyZbOF0UsXZ02la+1QAPQDue+JZNblaWV+oZxW5AqCPAW1PNcSXbVPG0QY8OcUZbqqD2jmv//Z",
+    "url": "https://preview.redd.it/uzccv51pbny31.jpg?width=640&crop=smart&auto=webp&s=152945bc3bfeb74f41949ae1e22a2ea7a6fd1698",
+    "width": 640
+  },
   "id": "t3_dw8w59",
   "misc": {
     "postHint": "image"

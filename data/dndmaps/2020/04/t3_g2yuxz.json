@@ -9,6 +9,12 @@
     "month": 1585699200,
     "week": 1586649600
   },
+  "displayPicture": {
+    "height": 339,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAED/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIDBAAREiEiQVFh/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQADAAMAAAAAAAAAAAAAAAAAAQIDIXH/2gAMAwEAAhEDEQA/AJR2yw3DovWInQD0D8zStYjWqjPEhKrGCVUAgbAOB55xjJUynTQnIt9P/9k=",
+    "url": "https://preview.redd.it/vsmsga52mct41.jpg?width=640&crop=smart&auto=webp&s=73fe7dca9f432751ccb28ae3116ed710a68f9b80",
+    "width": 640
+  },
   "id": "t3_g2yuxz",
   "misc": {
     "postHint": "image"

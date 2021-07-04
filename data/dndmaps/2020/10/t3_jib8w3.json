@@ -9,6 +9,12 @@
     "month": 1601510400,
     "week": 1603584000
   },
+  "displayPicture": {
+    "height": 853,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACMQAQACAQQBBAMAAAAAAAAAAAECAxEABAUSQSMxMmFRgZH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBP/EABkRAAIDAQAAAAAAAAAAAAAAAAABAhEhEv/aAAwDAQACEQMRAD8AG55urYyW+EZHxJwgIuARPzphyNO+9cl1iuInXGDx7GsSNG23fJzrrWiyns9ZriXlT7ymrquNp6q2ygrlAwZ+h/v71Jt6CcVwj//Z",
+    "url": "https://preview.redd.it/j5n5bnp1nev51.jpg?width=640&crop=smart&auto=webp&s=dbd43d3d2d106c5eff109a371ca6cc0a367dce4d",
+    "width": 640
+  },
   "id": "t3_jib8w3",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1580515200,
     "week": 1582416000
   },
+  "displayPicture": {
+    "height": 960,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIF/8QAJRAAAgEDAwIHAAAAAAAAAAAAAQIDABExEhMhQVEEMnGBkaHR/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDSiQbkIdwSoAVmsCMnnt1+qjycPDdskmMflLihMkqaWSNiBqDE2DAdxg5PxRb+KBO6rRP1RtQI9bH3pFDj/9k=",
+    "url": "https://preview.redd.it/6acio4lynnj41.jpg?width=640&crop=smart&auto=webp&s=8b55d8ae394562c4f25fc778710bac221b2a63f1",
+    "width": 640
+  },
   "id": "t3_fatqil",
   "misc": {
     "postHint": "image"

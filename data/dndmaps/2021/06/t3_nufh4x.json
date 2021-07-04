@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1622937600
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACQQAAEDAwQBBQAAAAAAAAAAAAIBAwQFBhEAEiEigTEyQVGh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwDQXDNqNr09JVPjR5EdwW0HqpmJYVXCz9eiedN2dcUa5Ipvuk8shra2+itoTe5U42/OOfzVagOrMa2yBAkaZ6pjGgTRYt4il0mJGjvyW0N4hD3rnHKedSlTUmjB/9k=",
+    "url": "https://preview.redd.it/ela74em05v371.jpg?width=640&crop=smart&auto=webp&s=cc11e3cfc15e7f66ede6f038372a24d4a3535ee3",
+    "width": 640
+  },
   "id": "t3_nufh4x",
   "misc": {
     "postHint": "image"

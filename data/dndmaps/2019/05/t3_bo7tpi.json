@@ -9,6 +9,12 @@
     "month": 1556668800,
     "week": 1557619200
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQEG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDBAUGEQAhE0ESIlH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABkRAAIDAQAAAAAAAAAAAAAAAAECABESIf/aAAwDAQACEQMRAD8AOyPNqyG7mmoa40VJA4CLGACwA1tuuzxTCrxdcpu8tJUXd6qm+LPLFK4HkQLrXQ2Bv85rmwXHLzI9bWW1BMxBbxuyA9D0DyRW22Y1DVLZ7bSwGaNlkf7FmA9bLb1yeH1ZPIi6ZoDs/9k=",
+    "url": "https://preview.redd.it/umyhmsa831y21.jpg?width=640&crop=smart&auto=webp&s=d7228582757927fe198b16fb5a6b511ffb9a5742",
+    "width": 640
+  },
   "id": "t3_bo7tpi",
   "misc": {
     "postHint": "image"

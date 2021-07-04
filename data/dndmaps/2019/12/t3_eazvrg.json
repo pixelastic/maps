@@ -9,6 +9,12 @@
     "month": 1575158400,
     "week": 1576368000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwD/xAAlEAABAwMDAwUAAAAAAAAAAAABAgMEBQYRACExBxJBEyJhcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACBf/EABsRAAIBBQAAAAAAAAAAAAAAAAERAAIDEzFB/9oADAMBAAIRAxEAPwC6d2tTJlBdky2kOnZpstqKVdx5IPgbcjfnS35bNNjQJKoyEIbWrveCu5RQQnY5+SefzRWPd0SBRIkWGy24ogOLQ4SClwAgHPABAB+86aoXHFVTZK5j0V3LDnosoXk4V7SkYzjydyeNSibuY7idKXZ//9k=",
+    "url": "https://preview.redd.it/dtttpl9gat441.jpg?width=640&crop=smart&auto=webp&s=5490b4973b028f67f5ea4ba94235aa984bb33205",
+    "width": 640
+  },
   "id": "t3_eazvrg",
   "misc": {
     "postHint": "image"

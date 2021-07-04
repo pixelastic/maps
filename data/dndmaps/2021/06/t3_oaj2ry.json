@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1624752000
   },
+  "displayPicture": {
+    "height": 240,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAGABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQG/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQFIRExIkFh/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8Azy3eAeKS4XGzKINsoYeXf3qqcLDhs7K6wWBtjEpdxzor2QN+xSlR6PTjHYwn/9k=",
+    "url": "https://preview.redd.it/rieqor296a871.jpg?width=640&crop=smart&auto=webp&s=1a3f70114809ec0ae9ce306ece16b7941acf1d9a",
+    "width": 640
+  },
   "id": "t3_oaj2ry",
   "misc": {
     "postHint": "image"

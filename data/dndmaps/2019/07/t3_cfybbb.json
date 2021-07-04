@@ -9,6 +9,12 @@
     "month": 1561939200,
     "week": 1563667200
   },
+  "displayPicture": {
+    "height": 320,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAIAAAB/FOjAAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeUlEQVQYlQXBPVPbMAAAUG/s3Rm565alC4WGhIbQQCJHdmzJkizJUmzZDk5jEqApaTlyR12OHtwBx8fUgevStf+hQ39V37PO5ge3V6c31dFBpg+LJIpNEHgZ2jph24d0uwjeu83abdH4fe6cJb1wf8NSgRNRLHiIh2MahlqEUsdCKsI4poLJ2O3baURm00JKATtNS4JN1qsHoAWAzdu1tPWagwaXnBN/yD1GEBpA6BFmJokZCQysPHJThZWkLgrra6/WV1d2370JpFmW/t0pHhtBKRog8vRQ/Xv5el+lloKN1GuKwBmI9CPbyz9sFN2tUoAfc/Hync5L3YVkH+Lnx+rvr/O7y9z6FINF5iQRR2o06tQnb2vlZq1wWxfH7OcFOyq0iwnHfapzGefU61nHY1l9ybNUu0RK2FNwL8FwKMNZaU4mkY4Twtgig5+n8VAr2m9bAx8DXwDo+N3mZGoWy5kxjCHb9mjH9n0UqP7Ot6T959pbmp3Cb/wHywiQIVJFCloAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/1n20im5xcnb31.png?width=640&crop=smart&auto=webp&s=e44e0542bea0a9832dadc50412d02507f60af5f2",
+    "width": 640
+  },
   "id": "t3_cfybbb",
   "misc": {
     "postHint": "image"

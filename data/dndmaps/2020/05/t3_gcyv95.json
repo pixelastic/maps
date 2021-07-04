@@ -9,6 +9,12 @@
     "month": 1588291200,
     "week": 1588464000
   },
+  "displayPicture": {
+    "height": 833,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQYH/8QAIxAAAQQBAwQDAAAAAAAAAAAAAQIDBBEhAAUSBiIxQTJhwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDe+ondyizY8fbODSH8c75eSBagQaFn1qhhB8Q2RLLanwmlFBsH70TvMBT24ocZZceKkhS+6k4oUD6xeM/uloTYahsoCC3Sfio2RoP/2Q==",
+    "url": "https://preview.redd.it/knezi9kxdmw41.jpg?width=640&crop=smart&auto=webp&s=10a42e76312adb83c7ae04df39b8b2a8ea0e334e",
+    "width": 640
+  },
   "id": "t3_gcyv95",
   "misc": {
     "postHint": "image"

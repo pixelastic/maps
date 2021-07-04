@@ -9,6 +9,12 @@
     "month": 1530403200,
     "week": 1531008000
   },
+  "displayPicture": {
+    "height": 360,
+    "placeholder": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACgQAAIBAwICCwAAAAAAAAAAAAECEQMEBQAxBiESEzU2QVFhcXSxsv/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAaEQABBQEAAAAAAAAAAAAAAAABAAIDERJR/9oADAMBAAIRAxEAPwDL8Xl8fd2D0Eu3p3DVBWaeiituDAJiQvpPhtyIOVsbF+JbbHY+mkGuD1xQqzIBJldo5eWpWt2RV91+xpzw13ixnxF/B0UozbwU8R1TCOL/2Q==",
+    "url": "https://external-preview.redd.it/S99UYlEZbKIvv2zZdPQQElLsDNRYcwU8z3e120MjB0M.png?width=640&crop=smart&format=pjpg&auto=webp&s=cfeb88936ee170b309ff19ebd03fce8ebd11d3f0",
+    "width": 640
+  },
   "id": "t3_8xgpt9",
   "misc": {
     "postHint": "hosted:video"

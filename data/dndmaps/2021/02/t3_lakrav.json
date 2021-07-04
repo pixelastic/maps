@@ -9,6 +9,12 @@
     "month": 1612137600,
     "week": 1612051200
   },
+  "displayPicture": {
+    "height": 853,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQG/8QAJRAAAgEDAgUFAAAAAAAAAAAAAQIDAAQRIVEFBhIxQWFxgZHh/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAXEQEBAQEAAAAAAAAAAAAAAAABAgAS/9oADAMBAAIRAxEAPwDd2kslrHdEGXEZJIJLgDXB+e++B6UVrO7oXL3Ds5DM3ThWOBqo2/am5B4orW16eKTSl5lXoaRWYEY1Gg8E43+qOSxdo4VW2ilMaBCzTMnYnx7YqeuOFHKRXUlG/9k=",
+    "url": "https://preview.redd.it/131cd05b2ze61.jpg?width=640&crop=smart&auto=webp&s=f07ad6db723e81afd31dc3e7a86bcac9bfc570f9",
+    "width": 640
+  },
   "id": "t3_lakrav",
   "misc": {
     "postHint": "image"

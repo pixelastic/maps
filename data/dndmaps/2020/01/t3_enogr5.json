@@ -9,6 +9,12 @@
     "month": 1577836800,
     "week": 1578787200
   },
+  "displayPicture": {
+    "height": 842,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgQH/8QAIxAAAgEEAgAHAAAAAAAAAAAAAQIDBAUREgAhEyIyQVFx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAESEx/9oADAMBAAIRAxEAPwDIEsE1PapZW1BePON/SPn64ca3Tg+Zc59xxbQX23VFtlSsp9VSIR6o3ci7AgAnsYxyGuu9QJEWgHgUyoAqEjr94FZuMJKhlGf/2Q==",
+    "url": "https://preview.redd.it/8ioflf8w4da41.jpg?width=640&crop=smart&auto=webp&s=a63fcede12f08604ac07d74a33ee8ff3617c9c20",
+    "width": 640
+  },
   "id": "t3_enogr5",
   "misc": {
     "postHint": "image"

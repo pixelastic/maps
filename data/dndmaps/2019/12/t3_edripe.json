@@ -9,6 +9,12 @@
     "month": 1575158400,
     "week": 1576368000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEB//EACEQAAIBAwQDAQAAAAAAAAAAAAECAwAEEQUGITESE1GB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQESQf/aAAwDAQACEQMRAD8AxHblpHKSkqIZMhlLDPHdNuGwW3jKRRqXU5Zxxx31+iptIubKKUexSXYeOWJwD9FGsXNlJJiNCJFBUspOGP01TwFNmf/Z",
+    "url": "https://preview.redd.it/zchbkonne0641.jpg?width=640&crop=smart&auto=webp&s=4dce23306492d432daa26ef765a08a626a5b9626",
+    "width": 640
+  },
   "id": "t3_edripe",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607817600
   },
+  "displayPicture": {
+    "height": 639,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIxAAAgIABgEFAAAAAAAAAAAAAQIDBAAFERIhMUEGEyJRcf/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAABEBAwIx8f/aAAwDAQACEQMRAD8AwsiNbLrs0+aJHmMksfwgk3RjfxoSwHQH1g/UFvL7t6AUa6UW9k74EYyKGHZDHQkHxxiWO09tGjnEcbJtjjdxoSoJ84K3KtcRIixTMSwZkBOmvXP51iao3IzrxqXT/9k=",
+    "url": "https://external-preview.redd.it/LtseCip4mQ1YrJfbgaLYxJbVcJ3SAHDk8xc-zb4yKzw.jpg?width=640&crop=smart&auto=webp&s=3103ecfb639b93e318ace02f6d6573432f3d9385",
+    "width": 640
+  },
   "id": "t3_kcx6fz",
   "misc": {
     "postHint": "image"

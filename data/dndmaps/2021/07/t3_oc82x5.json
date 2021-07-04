@@ -9,6 +9,12 @@
     "month": 1625097600,
     "week": 1624752000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAIhAAAgEEAQQDAAAAAAAAAAAAAgMBAAQREjEFISJRFUGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwX/xAAYEQACAwAAAAAAAAAAAAAAAAAAERIiQf/aAAwDAQACEQMRAD8AzSF9bdRc8Ce1G+YVJRjE+u9G64vmdSSI7gZljTaIHEd5+/VI5zPkWDbC1pF4Gsh1iNc8TnFTZgXKzK3apy58AENxOJ5mSjj9qYhaxxo//9k=",
+    "url": "https://preview.redd.it/l315pe5mas871.jpg?width=640&crop=smart&auto=webp&s=581c382474d4c37e26fd3083e63a4177d7651d65",
+    "width": 640
+  },
   "id": "t3_oc82x5",
   "misc": {
     "postHint": "image"

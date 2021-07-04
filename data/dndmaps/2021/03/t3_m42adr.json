@@ -9,6 +9,12 @@
     "month": 1614556800,
     "week": 1615075200
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACIQAAIBBAIBBQAAAAAAAAAAAAECAwAEBRESIUExUYGh4f/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAbEQACAQUAAAAAAAAAAAAAAAAAEUESIYHR8P/aAAwDAQACEQMRAD8AyfF2E2TuESFGkZn4LEh0zftHmsa2KuxF2D0HRu2DeR9iprSd7UnQ2hOyQ2iD4I9jTb26mv5w7s8jMd85G2xPpv5ApzCWWG9XJbP/2Q==",
+    "url": "https://preview.redd.it/4pe47ojfarm61.jpg?width=640&crop=smart&auto=webp&s=0ded6244b2fbee6682a5a0aefcb09f36e70293b5",
+    "width": 640
+  },
   "id": "t3_m42adr",
   "misc": {
     "postHint": "image"

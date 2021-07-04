@@ -9,6 +9,12 @@
     "month": 1604188800,
     "week": 1605398400
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwEE/8QAIhAAAgIBBAIDAQAAAAAAAAAAAQMCBBEABRIhFdEUIkGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAeEQACAQMFAAAAAAAAAAAAAAABEUEAAiESYXHw8f/aAAwDAQACEQMRAD8AnznbWq3TXGddjjEs4ODIQIzkLwOgcj+DQVrgVt/J1iwpcbIssbXJJ6iYgSgT9ieu/Wtm+K8at8bVdra0mmKpSliazjoZx2SBnHXs/HWG7c8wRZrARCyRHlKRljHLOABg/mkmVgWmX01FaboJ1vbxKZ5xX//Z",
+    "url": "https://preview.redd.it/4blwubs53k061.jpg?width=640&crop=smart&auto=webp&s=705c7f526bbca420dd6101bd2a20c6e5618becb3",
+    "width": 640
+  },
   "id": "t3_jy7lps",
   "misc": {
     "postHint": "image"

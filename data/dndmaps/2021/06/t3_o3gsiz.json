@@ -9,6 +9,12 @@
     "month": 1622505600,
     "week": 1623542400
   },
+  "displayPicture": {
+    "height": 756,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAA4DASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgED/8QAJBAAAgIBAgUFAAAAAAAAAAAAAQMCBBEAIQUSIjFBBlFhcfH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAEEABECAyH/2gAMAwEAAhEDEQA/ACSaVASnyOVDq7TkN8jOxzqNTweDCXWUxHiPMMfeh9C48169WNam0DpAcsExlIjcy22x76z9RWS5y1wrJrQXHvjlLM+fn800NME0cpHCeu+Cf//Z",
+    "url": "https://preview.redd.it/meifatinb8671.jpg?width=640&crop=smart&auto=webp&s=38e350bd90a2a4c3449f92c9bb66d3b64a96333d",
+    "width": 640
+  },
   "id": "t3_o3gsiz",
   "misc": {
     "postHint": "image"

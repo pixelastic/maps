@@ -9,6 +9,12 @@
     "month": 1609459200,
     "week": 1609632000
   },
+  "displayPicture": {
+    "height": 505,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAANABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQQFBv/EACQQAAIBAwMDBQAAAAAAAAAAAAECAwQFEQAhMQYTQQciYYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAgEFAAAAAAAAAAAAAAABEgIhAAMTgZHw/9oADAMBAAIRAxEAPwDCen/RUF5tDV7O7SrUJH2zGSm7AHJHjGofU9lio6Fqkw9nE7IQjHPnGQeNxx86Ttd9rrEClHM2A4kCkkL+aN2u7XWghEsKJICzFlJ92+ePvUghN2Jr1Y25AaarfHef/9k=",
+    "url": "https://preview.redd.it/keoekn3ayc961.jpg?width=640&crop=smart&auto=webp&s=b5c10255245fc3e9c8c7f97a8ed48f11f22b9db7",
+    "width": 640
+  },
   "id": "t3_kqef9l",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1625097600,
     "week": 1624752000
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAnEAACAgECBAYDAAAAAAAAAAABAwIEEQAFEjJRYQYTISIkMUFx8P/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAGREAAgMBAAAAAAAAAAAAAAAAAAIBERIh/9oADAMBAAIRAxEAPwAuw04I229RUZWKG4RiFNWBxA83u++HGMfvUaSlQR8PyzUiJBgMBJrCJYwR0P41U8Lvo7LSDpFjVTgZTYskGUu3Q/x0G4yjdm95rOW6zErnOvyAZyCcn0Pc6hol9DjMQx//2Q==",
+    "url": "https://preview.redd.it/lqhklcgpmt871.jpg?width=640&crop=smart&auto=webp&s=7587be96011e062e933ed2a67519d8e0349278ca",
+    "width": 640
+  },
   "id": "t3_occxnk",
   "misc": {
     "postHint": "image"

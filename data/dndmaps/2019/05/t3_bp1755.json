@@ -9,6 +9,12 @@
     "month": 1556668800,
     "week": 1557619200
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIG/8QAIhAAAgEDBAIDAAAAAAAAAAAAAQIDAAQRBRIhMUGRExQy/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIhESL/2gAMAwEAAhEDEQA/ANFPaBECoYlchoI13tyjEMct+g2A3RxSi0EU9w5uGw7xoys+Qh6UAeCaK1vv+pFLNNInyvMQzdkcqCRzgHx7zU6S7Lql5AxDbY4pi5ADux3ZLEd8Aeqgo82ALVq+TZ//2Q==",
+    "url": "https://preview.redd.it/5okbinrazey21.jpg?width=640&crop=smart&auto=webp&s=4af4def70f6c65843b904db5f03da0cad98cde6e",
+    "width": 640
+  },
   "id": "t3_bp1755",
   "misc": {
     "postHint": "image"

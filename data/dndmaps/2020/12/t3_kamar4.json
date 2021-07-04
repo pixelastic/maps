@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607212800
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAABAwMDBQAAAAAAAAAAAAABAgMEABEhBiNRBSIxMkH/xAAUAQEAAAAAAAAAAAAAAAAAAAAD/8QAGhEBAAIDAQAAAAAAAAAAAAAAAQACBDJxsf/aAAwDAQACEQMRAD8AiNOY1JCJWBvgXNFulh0y1woriWslYMk3O4MeObGmegLW9qCC04slAkA2wPl6JgTJTMWehuS8EpQQnu9d1IxxihxganDwiX3t1n//2Q==",
+    "url": "https://preview.redd.it/xw3fki9nwe461.jpg?width=640&crop=smart&auto=webp&s=141988b53be81a22e2aa5ebd42e1add51e873d8c",
+    "width": 640
+  },
   "id": "t3_kamar4",
   "misc": {
     "postHint": "image"

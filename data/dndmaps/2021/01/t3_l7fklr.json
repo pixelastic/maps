@@ -9,6 +9,12 @@
     "month": 1609459200,
     "week": 1611446400
   },
+  "displayPicture": {
+    "height": 1067,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAQCAIAAABLKsIUAAAACXBIWXMAAAsTAAALEwEAmpwYAAABRklEQVQYlV2QW0/CQBBG5+f7oIkmxhdjDAV8IYSqSEy5SCi3gBojKhdrKb2A7M5uE7st9c1sK2pM5mm/fGfmLOjV2ng0437MmGBMIArE0FmQTv0GHm4fPZdTmr5+Z0uP1y7LcFUomIaDLEp7aXW19EuKAq69ti1CaZAEYTqey66LRRi0++bb8h/Tc9mw3YPs4X632eJ+TGmwzSLHJiUlA/1Wx3MoYxGi4DyUZL4xDfdkdwc0VXXsNcXwB8tYZJmri7M8DPTu62SOSW97aui5XFNVUHNKr6lTKn7PYZGzIGpWgfv+0DLfKZXMVE768E2jXIHMwZ6u1bn/iRikcpKB4fTFAF2r/tknM+nnoDGxQM3nJk8z348pkV+DKAgRlIaju2fo1BvG1ELpIJlJ9sFZfH58Ci2tOhvPGdsQEiTuIaECiagcZb4AkYt5inOhH7kAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/crvp3l3we6e61.png?width=640&crop=smart&auto=webp&s=78ab06f537d27199529ef49ddc09c180752a869d",
+    "width": 640
+  },
   "id": "t3_l7fklr",
   "misc": {
     "postHint": "image"

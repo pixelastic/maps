@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607212800
   },
+  "displayPicture": {
+    "height": 465,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAUREgATITFRYQYVI//EABUBAQEAAAAAAAAAAAAAAAAAAAUG/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECAxESIf/aAAwDAQACEQMRAD8AxUel0NFTb+2DKY+ypSAshKXHLjgk8XtewOhvl8KCmLIl0vBhph3b/E5JcGQHHnvvyD3outT36U2iRFKSVrxWhwZIV7I86nV6lInxWEOlKG0t7+DYsCodX9DVLYtZPofFZP/Z",
+    "url": "https://preview.redd.it/cmnxeflecr461.jpg?width=640&crop=smart&auto=webp&s=6e66d54c7b45868b7409e0e265ed2990857dad36",
+    "width": 640
+  },
   "id": "t3_kbp2q1",
   "misc": {
     "postHint": "image"

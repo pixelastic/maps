@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1607212800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwUG/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDBAUREgBBIQYzUWHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAIDAAAAAAAAAAAAAAAAAAACESJR/9oADAMBAAIRAxEAPwA2khkhuUU0abIGy4x4K9g8meq7bQLEtfQyIolPsoc6HvPx145tqi4pUWE0NTFG+ilYyF1IB+xwwupSEtBDHohOcZJ/E8GzNkC1Vdk//9k=",
+    "url": "https://preview.redd.it/h1pwdzz740461.jpg?width=640&crop=smart&auto=webp&s=41dfad25e959eeafac40f7cfda85e18263cbb679",
+    "width": 640
+  },
   "id": "t3_k990pc",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1609027200
   },
+  "displayPicture": {
+    "height": 256,
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAGCAIAAABFHomwAAAACXBIWXMAAAsTAAALEwEAmpwYAAABMUlEQVQYlQEmAdn+AKqIZMucdMyddtqzityuhcebeLmYduK3jruWeYFlVI9yX556YZFoUZdtVcJ/XaJtUgB9XkjNq4fetYu/lXaWe2OPcV6Sc2HOp4SKb15nUEiPcmCFalp0XFCRZ1C4eVikbVEArXZWgWVNj29agmVYd11Se2FWiWxehmpYZ1JKb1dMo4VvfmVXXEc7nHpjjXNgpXNVAJ17Xn1eSqCEbMGegpd4ZZN1Y4FlWGxUSmZORXBeUIRoUJhsVK2AX4hqVIF/aXlnTQB0ZlF5ZliJZk60iWnCooGWd16Wc12ukXiihW21mHvcs4rTpH/broiTcFaUcVOTZk0AnGxQhGVMsndVpHZTqodf36yD8sOa0al/sYJftX9fuYhnvphyvpRvonVVp3JPvn9dPICPGc22P3MAAAAASUVORK5CYII=",
+    "url": "https://preview.redd.it/tcam6wteuv761.png?width=640&crop=smart&auto=webp&s=27f417fc994f843170d8a82f4e384f69fb476e4f",
+    "width": 640
+  },
   "id": "t3_klm30p",
   "misc": {
     "postHint": "image"

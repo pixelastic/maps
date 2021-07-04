@@ -9,6 +9,12 @@
     "month": 1617235200,
     "week": 1617494400
   },
+  "displayPicture": {
+    "height": 465,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFB//EACYQAAEDAwIFBQAAAAAAAAAAAAECAwQABREGEgchMWFxExYiQZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAABv/EACARAAIBAQkAAAAAAAAAAAAAAAECAwAEERIVYZGhsdH/2gAMAwEAAhEDEQA/AKjd51ZNLTc66WtmQkbVJjObCef2UqxnwBQ3b3LEYck2p+8Tmk/JTabsy46M9SlPpncO3Ud60e28O9PQ2UKZjOBRGCrfzx5pPUujrGm1yXUw8ONoJSoLUCPw1MzZeJRGpa/VVI2DDukc9qK4iF5Htf/Z",
+    "url": "https://preview.redd.it/ctgaokgdn9r61.jpg?width=640&crop=smart&auto=webp&s=2de400676cbd7460173377cd5391f9b38bd3be44",
+    "width": 640
+  },
   "id": "t3_mkapcj",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1609027200
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAIH/8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAARIQUTIjESQVFhcf/EABQBAQAAAAAAAAAAAAAAAAAAAAP/xAAWEQEBAQAAAAAAAAAAAAAAAAAhABH/2gAMAwEAAhEDEQA/AMchCJtIblx2t7wSApXELBzg9XFXqWlQ20SX0FJaDYsUqHFXo4+cUGG63GjMuh8uBPJTCrEG/f5SorL7ujyXIkUSI61KvtghTZ+x7xQukxf/2Q==",
+    "url": "https://preview.redd.it/ncaaw1ogof861.jpg?width=640&crop=smart&auto=webp&s=d5b85dc949a61893bfaf165825ab509faad91a85",
+    "width": 640
+  },
   "id": "t3_kngu4n",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1546300800,
     "week": 1547942400
   },
+  "displayPicture": {
+    "height": 852,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwb/xAAlEAABBAAFAwUAAAAAAAAAAAABAgMEEQAFBhIhEzFRIjJBcaH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABoRAAICAwAAAAAAAAAAAAAAAAECABEDBBL/2gAMAwEAAhEDEQA/AF/VGZ0ZsfLksgKQW3HFI53HhQB8V84MoqSltW6x6j3+8K2b6bkSZ6pcfpBTxAU0VGk8e66/KxPyNBZkXNzLsYpULpSiCD47HEvC4WwYmwnVFZ//2Q==",
+    "url": "https://preview.redd.it/j1anjorai4c21.jpg?width=640&crop=smart&auto=webp&s=7a6ee2f41c3b098664d72c91bfea6c084779fbe9",
+    "width": 640
+  },
   "id": "t3_aix7f6",
   "misc": {
     "postHint": "image"

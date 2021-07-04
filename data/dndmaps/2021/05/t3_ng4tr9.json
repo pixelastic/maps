@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1621123200
   },
+  "displayPicture": {
+    "height": 480,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIRAAAwABBAEFAAAAAAAAAAAAAQIDBAAREiFRMUFCYaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABwRAAEDBQAAAAAAAAAAAAAAABEAAQIDBBIx8f/aAAwDAQACEQMRAD8AyY5jWWSugNeOxY+5HnT1y2R5pOUgwVAx9eQ+XXk6rysTHwyjykCT2eZJ0MZTth0pSal5bMp2/D9aL5StyeKRg1XS/9k=",
+    "url": "https://preview.redd.it/mrakwqs6p2071.jpg?width=640&crop=smart&auto=webp&s=215b0f5f530a1c3c49dcffbf87ca231bade93780",
+    "width": 640
+  },
   "id": "t3_ng4tr9",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1601510400,
     "week": 1602374400
   },
+  "displayPicture": {
+    "height": 360,
+    "placeholder": "data:image/png;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAoEAABAwMDAAsAAAAAAAAAAAABAgMEAAUREiEiBjY3QUJRcXN0sbL/xAAVAQEBAAAAAAAAAAAAAAAAAAAEBf/EABoRAAICAwAAAAAAAAAAAAAAAAERAAIDITH/2gAMAwEAAhEDEQA/AIEO7X96zQ3Y9sgtNSFhKXlu53PeoeEHzo4jozLmTp9u0sQjKbK3nHME6wrPAA8hnO4PrTa29SnfiD80IR2kI9g/QqbjsxoKMsOOf//Z",
+    "url": "https://external-preview.redd.it/xqKpQjphopK_0YX9BCwqmzFyPGKGRo20d75l88cD-kc.png?width=640&crop=smart&format=pjpg&auto=webp&s=a78f5b131e83b3b2a3aad84d2d6c345971c6d9ce",
+    "width": 640
+  },
   "id": "t3_ja909n",
   "misc": {
     "postHint": "hosted:video"

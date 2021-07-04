@@ -9,6 +9,12 @@
     "month": 1609459200,
     "week": 1610236800
   },
+  "displayPicture": {
+    "height": 914,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABwX/xAAkEAABAwQBAwUAAAAAAAAAAAABAgMEAAURIQYHEnExQYGywf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEBAQEBAAAAAAAAAAAAAAACAQADEf/aAAwDAQACEQMRAD8ALuM2WRL5TZoMhp+O3OfSlCwj650fffmmNXT2wsqLcq5vKfTpRyfX4GKk9V+YQpVgZjWApjOQ5SFtvNp7CgAEAta1g/lFyr3f5BLr8h151e1OKGSo+RSjYL5cNFdZEd//2Q==",
+    "url": "https://preview.redd.it/tuu75y3faka61.jpg?width=640&crop=smart&auto=webp&s=dc3f6a958ae30cf647352d368bc3f5771874c606",
+    "width": 640
+  },
   "id": "t3_kultdg",
   "misc": {
     "postHint": "image"

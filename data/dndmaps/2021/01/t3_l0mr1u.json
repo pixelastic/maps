@@ -9,6 +9,12 @@
     "month": 1609459200,
     "week": 1610841600
   },
+  "displayPicture": {
+    "height": 620,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEB//EACUQAAEDAwMDBQAAAAAAAAAAAAECAxEABBIFEyEUMUEiI2Fxgf/EABQBAQAAAAAAAAAAAAAAAAAAAAT/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgARMf/aAAwDAQACEQMRAD8AyzTWi+2hK3G9t1avc2zCVTEE/IAqbVWMLpbm+p7ccPriJjuR4HjgUFhev2dw8st4pUnEnHLvx+Gm6g2y7aW7rQd6jKVCeAPugks318y1Gd//2Q==",
+    "url": "https://preview.redd.it/oxmoun7bbbc61.jpg?width=640&crop=smart&auto=webp&s=1798747151715ec81410db67179566f1fb1cf8fe",
+    "width": 640
+  },
   "id": "t3_l0mr1u",
   "misc": {
     "postHint": "image"

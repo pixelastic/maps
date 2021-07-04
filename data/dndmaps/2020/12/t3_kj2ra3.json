@@ -9,6 +9,12 @@
     "month": 1606780800,
     "week": 1608422400
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAf/xAAmEAACAQIFAgcAAAAAAAAAAAABAwIEEQAFEiExFCIGEzJSYXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAQf/aAAwDAQACEQMRAD8Aj1Dl9K/LVOMcuYzo2EKg2QZqifUwE2H2Lc4Pn6svXTzZSqpYNZptFbpS0xIBuAduRIfuEeH6tNLSSm1qielnGK0K77km2qfu34325wWdQqVJITh5a6dTVKW5olMiQ7bR+DfcYmh//9k=",
+    "url": "https://preview.redd.it/o986ccuraz661.jpg?width=640&crop=smart&auto=webp&s=fc0589df7266eabfb61f264bd8bd595e6bde4012",
+    "width": 640
+  },
   "id": "t3_kj2ra3",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1569888000,
     "week": 1570924800
   },
+  "displayPicture": {
+    "height": 1242,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAHhAAAQQCAwEAAAAAAAAAAAAAAQIDERIABCExQVH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEv/aAAwDAQACEQMRAD8Ay1Htpp5TTigu0EAVqK9xPHHuMnahZXqvldkKQC5IABIiIr3378xkptV//9k=",
+    "url": "https://preview.redd.it/lj90lhn117t31.jpg?width=640&crop=smart&auto=webp&s=c3bea5f3b83d17466324adfdb5bbe90ca82ff39d",
+    "width": 640
+  },
   "id": "t3_djfcta",
   "misc": {
     "postHint": "image"

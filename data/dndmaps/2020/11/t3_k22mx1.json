@@ -9,6 +9,12 @@
     "month": 1604188800,
     "week": 1606003200
   },
+  "displayPicture": {
+    "height": 1341,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMG/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDEQAEBUESBhQhI8H/xAAVAQEBAAAAAAAAAAAAAAAAAAADBf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMRMv/aAAwDAQACEQMRAD8AyXp7SjQGLd14kMjj64rax4mmtu/iz1jK63ICHjPez+WwxpUUyMrgBaBAvr8xk8WOvJistbnXE//Z",
+    "url": "https://preview.redd.it/yndo2ebprs161.jpg?width=640&crop=smart&auto=webp&s=6cc6587dd0c84943770ca44fd770b88f119ae5d8",
+    "width": 640
+  },
   "id": "t3_k22mx1",
   "misc": {
     "postHint": "image"

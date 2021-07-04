@@ -9,6 +9,12 @@
     "month": 1609459200,
     "week": 1610236800
   },
+  "displayPicture": {
+    "height": 629,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACQQAAICAQMEAgMAAAAAAAAAAAECAwQRAAUxBhIhQROBIkJx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EABoRAAICAwAAAAAAAAAAAAAAAAABEiExQXH/2gAMAwEAAhEDEQA/AN1e2zqGbqS4qX0sloiDFDaWIyp25+NYxkqfOcY+xzod7W5Xt069qaeKGChBmqbauUlBGSw7gT4z5Az/AEaX6JoQtvFTctwuCu8LB3ilrt3sQD+3GMnnn371M3G7HLud17qosTWJLgd4CvcFP4qM88AffGgRyntjI3w//9k=",
+    "url": "https://preview.redd.it/e1csuvy087b61.jpg?width=640&crop=smart&auto=webp&s=a9e039803e73ce7a71da80339f8101117bf10106",
+    "width": 640
+  },
   "id": "t3_kwuxak",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1590969600,
     "week": 1592092800
   },
+  "displayPicture": {
+    "height": 640,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEE/8QAHhAAAQMFAQEAAAAAAAAAAAAAAQIDEQAEBRIhE2H/xAAUAQEAAAAAAAAAAAAAAAAAAAAF/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAFR/9oADAMBAAIRAxEAPwBYMeKXFlxOhjYTEfauUx/q45cOOp1EKEcMU7izNszduFSShSeQOjtYbZl54SptbiCnUGTEUFNKv//Z",
+    "url": "https://preview.redd.it/5d22epeni9551.jpg?width=640&crop=smart&auto=webp&s=1ba7782a6501a5274df40790327778859cf2a406",
+    "width": 640
+  },
   "id": "t3_ha2p55",
   "misc": {
     "postHint": "image"

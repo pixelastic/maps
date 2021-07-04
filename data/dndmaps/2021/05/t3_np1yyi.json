@@ -9,6 +9,12 @@
     "month": 1619827200,
     "week": 1622332800
   },
+  "displayPicture": {
+    "height": 479,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAMABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgYH/8QAHxAAAgEDBQEAAAAAAAAAAAAAAQIDAAQFERIhMUFx/8QAFAEBAAAAAAAAAAAAAAAAAAAABP/EAB0RAAEEAgMAAAAAAAAAAAAAAAIAAQMEMVEhMtH/2gAMAwEAAhEDEQA/AMgxFw0JESKdG9PdCaEws7SqVL9AChBM6vGF0G4Lz6PlUeOs4sjPaw3O7bM6qxU86E+UyvE96u4kXI416iSyNVlYmHtna//Z",
+    "url": "https://preview.redd.it/lgrp16ja5g271.jpg?width=640&crop=smart&auto=webp&s=f4ae07a3ffe89eac38e7606f1e296583527f2721",
+    "width": 640
+  },
   "id": "t3_np1yyi",
   "misc": {
     "postHint": "image"

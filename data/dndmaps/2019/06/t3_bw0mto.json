@@ -9,6 +9,12 @@
     "month": 1559347200,
     "week": 1559433600
   },
+  "displayPicture": {
+    "height": 630,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGB//EACUQAAIBAwIFBQAAAAAAAAAAAAECAwQFEQAxBhITFCFBUWFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAGREAAgMBAAAAAAAAAAAAAAAAAQIAAxEx/9oADAMBAAIRAxEAPwDNuELDbqDtDOid20AeVmfJyfP5p/f7XbntU7SRR45SQTgjb01C1VMlwnjki6gCoUXEhQhRsDg7e2j63r1FFHQSlzBjDnJw3xkefvUBfTuxRaoXk//Z",
+    "url": "https://preview.redd.it/sjowldcplz131.jpg?width=640&crop=smart&auto=webp&s=f909975cba0a4683e160977f3a7169b7a2b3022c",
+    "width": 640
+  },
   "id": "t3_bw0mto",
   "misc": {
     "postHint": "image"

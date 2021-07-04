@@ -9,6 +9,12 @@
     "month": 1535760000,
     "week": 1537660800
   },
+  "displayPicture": {
+    "height": 629,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAABAwMEAQUAAAAAAAAAAAABAgMEBREhABITMUEGI2Fxkf/EABUBAQEAAAAAAAAAAAAAAAAAAAIF/8QAIBEAAQMCBwAAAAAAAAAAAAAAAQIREwBBAyFRYXGx8P/aAAwDAQACEQMRAD8AfjVZEZbCaZSozwbR7hebK+Rw+SfAH4c6hnan6ikVdaJ0WO2+JbaSoCyePdkJIIGOgLaoJNTjNstsiCs8RJUFE7XF9BSrZP11od0OGXS0wkqUS6hUhe21k3yM+b26+dNKcQkyBhZvd1CnDCJTm75AbDU8V//Z",
+    "url": "https://preview.redd.it/zhet9cwr97o11.jpg?width=640&crop=smart&auto=webp&s=b7f62f8ee1f04e3109126821efed5fc11797220e",
+    "width": 640
+  },
   "id": "t3_9iil8d",
   "misc": {
     "postHint": "image"

@@ -9,6 +9,12 @@
     "month": 1601510400,
     "week": 1602374400
   },
+  "displayPicture": {
+    "height": 876,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAiEAACAQMDBQEAAAAAAAAAAAABAgMEESEAEkEFEyMxUWH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIRAxEAPwBPNS061jlES4kJ2gk2N/nPGkfRp5mglMkrE9w2vtGLDg6PyvGtRKpmjeNg7GzA5znHr3z81X6FJ3KWRlETeSxIIIvtH7qgEVv/2Q==",
+    "url": "https://preview.redd.it/zt2tuchzpet51.jpg?width=640&crop=smart&auto=webp&s=ec97e425fc7070d9e69fb30084d23448a557baeb",
+    "width": 640
+  },
   "id": "t3_jc5bnh",
   "misc": {
     "postHint": "image"
