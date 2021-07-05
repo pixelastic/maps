@@ -4,7 +4,8 @@ const {
   toggleRefinement,
   sortBy,
 } = require('norska/frontend/algolia/widgets');
-const lazyloadAttributes = require('norska/frontend/lazyload/attributes');
+const imageProxy = require('norska/frontend/imageProxy');
+const helper = require('./_scripts/helper');
 
 (async () => {
   const { indexName } = window.CONFIG.algolia;
@@ -46,9 +47,26 @@ const lazyloadAttributes = require('norska/frontend/lazyload/attributes');
     ],
     transforms: {
       preview(item) {
-        const previewUrl = item.picture.preview;
-        const options = { width: 600, placeholder: { width: 200 } };
-        return lazyloadAttributes(previewUrl, options);
+        const { width, height, placeholder, url } = item.displayPicture;
+        const full = imageProxy(url);
+
+        // If we have already downloaded the full version, we skip the placeholder
+        // replacement
+        // const isAlreadyLoaded = helper.isLoaded(item.objectID);
+        // if (isAlreadyLoaded) {
+        //   console.info("isLoaded")
+        //   return {
+        //     cssClass: '',
+        //     placeholder: full,
+        //   };
+        // }
+        return {
+          cssClass: 'lazyload',
+          placeholder,
+          full,
+          width,
+          height,
+        };
       },
     },
   });
