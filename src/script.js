@@ -8,6 +8,8 @@ const imageProxy = require('norska/frontend/imageProxy');
 const helper = require('./_scripts/helper');
 
 (async () => {
+  helper.init();
+
   const { indexName } = window.CONFIG.algolia;
   await theme.init({
     placeholder: 'Search for dungeon, dragon, world, anything!',
@@ -52,14 +54,13 @@ const helper = require('./_scripts/helper');
 
         // If we have already downloaded the full version, we skip the placeholder
         // replacement
-        // const isAlreadyLoaded = helper.isLoaded(item.objectID);
-        // if (isAlreadyLoaded) {
-        //   console.info("isLoaded")
-        //   return {
-        //     cssClass: '',
-        //     placeholder: full,
-        //   };
-        // }
+        const isAlreadyLoaded = helper.isLoaded(item.objectID);
+        if (isAlreadyLoaded) {
+          return {
+            cssClass: '',
+            placeholder: full,
+          };
+        }
         return {
           cssClass: 'lazyload',
           placeholder,
