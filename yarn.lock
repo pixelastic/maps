@@ -8538,6 +8538,14 @@ imoen@0.4.0:
     firost "2.14.0"
     sharp "0.28.3"
 
+imoen@0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/imoen/-/imoen-0.4.1.tgz#b188a6b280457893eeb9c361696d1ca7d49b368f"
+  integrity sha512-3TXe5YmyzHQueawOJVhtxMc6tOX+fmO0YVGkMdWdibxU0ZQLz7IcO13sqDlCwMhqDVWqlUlxUt8GBE/Gy4FXKg==
+  dependencies:
+    firost "2.14.1"
+    sharp "0.28.3"
+
 import-fresh@^3.0.0, import-fresh@^3.2.1:
   version "3.2.1"
   resolved "https://registry.npmjs.org/import-fresh/-/import-fresh-3.2.1.tgz#633ff618506e793af5ac91bf48b72677e15cbe66"
