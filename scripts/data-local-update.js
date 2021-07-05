@@ -1,5 +1,6 @@
 const readJson = require('firost/readJson');
 const writeJson = require('firost/writeJson');
+const remove = require('firost/remove');
 const glob = require('firost/glob');
 const pMap = require('golgoth/pMap');
 const onEach = require('../lib/onEach.js');
@@ -16,8 +17,12 @@ const spinner = require('firost/spinner');
     files,
     async (filepath) => {
       const currentData = await readJson(filepath);
-      const newData = onEach(currentData);
-      await writeJson(newData, filepath);
+      const newData = await onEach(currentData);
+      if (newData === null) {
+        await remove(filepath);
+      } else {
+        await writeJson(newData, filepath);
+      }
       progress.tick(filepath);
     },
     { concurrency: 50 }
