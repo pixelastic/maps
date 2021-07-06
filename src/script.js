@@ -59,6 +59,8 @@ const helper = require('./_scripts/helper');
           return {
             cssClass: '',
             placeholder: full,
+            width,
+            height,
           };
         }
         return {
