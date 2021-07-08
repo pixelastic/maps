@@ -15,12 +15,7 @@
     "build": "./scripts/build",
     "build:prod": "./scripts/build-prod",
     "ci": "./scripts/ci",
-    "ci:dailyUpdate": "node ./scripts/ci-dailyUpdate.js",
     "cms": "./scripts/cms",
-    "data:initial": "node ./scripts/data-initial.js",
-    "data:incremental": "node ./scripts/data-incremental.js",
-    "data:indexing": "node ./scripts/data-indexing.js",
-    "data:local-update": "node ./scripts/data-local-update.js",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
@@ -31,13 +26,7 @@
   },
   "version": "0.0.1",
   "devDependencies": {
-    "aberlaas": "1.24.1",
-    "algolia-indexing": "1.3.0",
-    "firost": "2.15.0",
-    "golgoth": "2.0.0",
-    "imoen": "0.4.1",
-    "on-circle": "1.0.2",
-    "reddinx": "1.0.0"
+    "aberlaas": "1.24.1"
   },
   "engines": {
     "node": ">=14.17.0"
