@@ -11,7 +11,7 @@
   },
   "displayPicture": {
     "height": 368,
-    "placeholder": "data:image/jpg?width=640&crop=smart&auto=webp&s=3684b4efb1887320ce3b66b9d33286a6fa4540cc;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMABBEhM2EFInJzkcHC/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8AN2lpJDDNC8zRlJJFdnkwuCMgLrkHXmjdx01jdyzSTdz6qpUsWHJ+TSeffX2/kVOut5vD6ap9dDRjOQZ//9k=",
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgX/xAAjEAACAQMDBAMAAAAAAAAAAAABAgMABBEhM2EFInJzkcHC/8QAFQEBAQAAAAAAAAAAAAAAAAAABAX/xAAYEQEAAwEAAAAAAAAAAAAAAAABAAIREv/aAAwDAQACEQMRAD8AN2lpJDDNC8zRlJJFdnkwuCMgLrkHXmjdx01jdyzSTdz6qpUsWHJ+TSeffX2/kVOut5vD6ap9dDRjOQZ//9k=",
     "url": "https://preview.redd.it/7wbj3bs646971.jpg?width=640&crop=smart&auto=webp&s=3684b4efb1887320ce3b66b9d33286a6fa4540cc",
     "width": 640
   },
@@ -28,9 +28,9 @@
     "comments": 1,
     "downs": 0,
     "isCurated": false,
-    "ratio": 0.96,
-    "ups": 24,
-    "value": 24
+    "ratio": 0.94,
+    "ups": 27,
+    "value": 27
   },
   "subreddit": {
     "id": "t5_3isai",

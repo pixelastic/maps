@@ -1,0 +1,42 @@
+{
+  "author": {
+    "id": "t2_40lhd2hx",
+    "name": "Tomartos"
+  },
+  "date": {
+    "day": 1625702400,
+    "full": 1625763839,
+    "month": 1625097600,
+    "week": 1625356800
+  },
+  "displayPicture": {
+    "height": 828,
+    "placeholder": "data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAQAAwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIhAAAgEEAgEFAAAAAAAAAAAAAQIDBAUREgAhEyJhcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAYEQACAwAAAAAAAAAAAAAAAAAAAQIiMf/aAAwDAQACEQMRAD8Ax15t7XKudYPCgCjVp2C9jHQP7wyktzoJEkXBR9co4YNgAEg/OeXXhaeWdg9H5lEZjjy+ur9er36B4RDRFlOsMkYGFxsGyQACfs55E3RDz0//2Q==",
+    "url": "https://preview.redd.it/8acqhhz1t0a71.jpg?width=640&crop=smart&auto=webp&s=902e3495c7a022582b9b7ff9f13fb3e6865a280f",
+    "width": 640
+  },
+  "id": "t3_ogbiju",
+  "misc": {
+    "postHint": "image"
+  },
+  "picture": {
+    "full": "https://preview.redd.it/8acqhhz1t0a71.jpg?auto=webp&s=b368aa3fc297435e2fff6091205ef143c2e7f42d",
+    "preview": "https://preview.redd.it/8acqhhz1t0a71.jpg?width=640&crop=smart&auto=webp&s=902e3495c7a022582b9b7ff9f13fb3e6865a280f",
+    "thumbnail": "https://b.thumbs.redditmedia.com/lgTShkUu_0W-9PMiuOzwiSMGsMUxT4TNQc-7Wlcmowk.jpg"
+  },
+  "score": {
+    "comments": 1,
+    "downs": 0,
+    "isCurated": true,
+    "ratio": 1,
+    "ups": 5,
+    "value": 5
+  },
+  "subreddit": {
+    "id": "t5_3isai",
+    "name": "dndmaps"
+  },
+  "tags": ["Building"],
+  "title": "Frontier Sheriff's Office",
+  "url": "https://www.reddit.com/r/dndmaps/comments/ogbiju/frontier_sheriffs_office/"
+}
