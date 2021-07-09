@@ -11322,10 +11322,10 @@ norska-theme-default@^2.4.1:
   resolved "https://registry.yarnpkg.com/norska-theme-default/-/norska-theme-default-2.4.1.tgz#1218a73b49c73afb387ec311b84bc543abf1a220"
   integrity sha512-eSJhC2hmoSjD0K5CXYBn+KSlWPqp44O7RHumHChON4R7K93RcOJsPiLs9fBmguhBYqqW3lE9kTKje4zA2OJyEA==
 
-norska-theme-search-infinite@1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/norska-theme-search-infinite/-/norska-theme-search-infinite-1.0.2.tgz#c9a1779433dc19cb3944fc3f41e9f7ab3da8f133"
-  integrity sha512-YP3E1uWmhx1Jlbv1pmtF0WCzQiFSrKtUizje3w5BDvnwOR05FAQlxp7f9e9v0wNv9jyiZIYe7klbqy+ru+usMg==
+norska-theme-search-infinite@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/norska-theme-search-infinite/-/norska-theme-search-infinite-1.0.3.tgz#ee01b2648a05729e65bf84398c03b28aaf093913"
+  integrity sha512-nG5bafmNILx35oKExHJdGHhx0Yoj9rg0akpzoTZV5ROWV6Zl32EW6JbS9V4O4nEgukZArg3EwaUBVu2u+13dkQ==
 
 norska@2.4.2:
   version "2.4.2"
