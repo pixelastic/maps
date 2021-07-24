@@ -50,7 +50,13 @@ const helper = require('./_scripts/helper');
     transforms: {
       preview(item) {
         const { width, height, placeholder, url } = item.displayPicture;
-        const full = imageProxy(url, { cloudinary: 'pixelastic-maps2' });
+        const full = imageProxy(url, {
+          cloudinary: [
+            'pixelastic-maps2',
+            'pixelastic-mercator',
+            'pixelastic-ptolemy',
+          ],
+        });
 
         // If we have already downloaded the full version, we skip the placeholder
         // replacement
