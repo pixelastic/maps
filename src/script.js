@@ -52,9 +52,10 @@ const helper = require('./_scripts/helper');
         const { width, height, placeholder, url } = item.displayPicture;
         const full = imageProxy(url, {
           cloudinary: [
-            'pixelastic-maps2',
+            'pixelastic-maps2', // This is a paid plan, 60 credits
             'pixelastic-mercator',
             'pixelastic-ptolemy',
+            'pixelastic-eratosthenes',
           ],
         });
 
