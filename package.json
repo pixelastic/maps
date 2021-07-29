@@ -26,7 +26,7 @@
   },
   "version": "0.0.1",
   "devDependencies": {
-    "aberlaas": "1.24.1"
+    "aberlaas": "1.24.3"
   },
   "engines": {
     "node": ">=14.17.0"
