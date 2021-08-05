@@ -4,12 +4,9 @@ const {
   toggleRefinement,
   sortBy,
 } = require('norska/frontend/algolia/widgets');
-const imageProxy = require('norska/frontend/imageProxy');
-const helper = require('./_scripts/helper');
+const lazyloadHelper = require('norska/frontend/algolia/helpers/lazyload');
 
 (async () => {
-  helper.init();
-
   const { indexName } = window.CONFIG.algolia;
   await theme.init({
     placeholder: 'Search for dungeon, dragon, world, anything!',
@@ -48,35 +45,22 @@ const helper = require('./_scripts/helper');
       },
     ],
     transforms: {
-      preview(item) {
-        const { width, height, placeholder, url } = item.displayPicture;
-        const full = imageProxy(url, {
+      img(item) {
+        const originUrl = item.picture.url;
+        const options = {
+          imoen: item.picture,
+          uuid: item.objectID,
+          cacheBusting: false,
           cloudinary: [
             'pixelastic-maps2', // This is a paid plan, 60 credits
             'pixelastic-mercator',
             'pixelastic-ptolemy',
             'pixelastic-eratosthenes',
           ],
-        });
-
-        // If we have already downloaded the full version, we skip the placeholder
-        // replacement
-        const isAlreadyLoaded = helper.isLoaded(item.objectID);
-        if (isAlreadyLoaded) {
-          return {
-            cssClass: '',
-            placeholder: full,
-            width,
-            height,
-          };
-        }
-        return {
-          cssClass: 'lazyload',
-          placeholder,
-          full,
-          width,
-          height,
         };
+        const img = lazyloadHelper.attributes(originUrl, options);
+
+        return img;
       },
     },
   });
