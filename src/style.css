@@ -4,6 +4,9 @@ html {
   .bg-theme {
     @apply bg-blue-7;
   }
+  .from-theme {
+    @apply from-blue-7;
+  }
   .ais-highlight {
     @apply blue;
   }
