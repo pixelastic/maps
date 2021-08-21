@@ -4,7 +4,7 @@ const {
   toggleRefinement,
   sortBy,
 } = require('norska/frontend/algolia/widgets');
-const lazyloadHelper = require('norska/frontend/algolia/helpers/lazyload');
+const lazyloadHelper = require('norska/frontend/algolia/lazyload');
 
 (async () => {
   const { indexName } = window.CONFIG.algolia;
