@@ -1,5 +1,16 @@
 # Maps
 
+> **⚠️ ARCHIVED**: This website displays archived data from the r/DnD subreddit. The data collection has been discontinued as of December 12, 2022 due to the underlying Reddit API no longer being available.
+
+## Archive Information
+
+- **Archived Date**: October 19, 2025
+- **Last Data Update**: December 12, 2022
+- **Data Source**: [maps-data](https://github.com/pixelastic/maps-data) (also archived)
+- **Status**: Website remains online for historical reference with frozen data
+
+---
+
 This repository holds the code for the
 [https://gamemaster.pixelastic.com/maps/][1] website. The website is generated
 by [norska][2], with the [search-infinite][3] theme.

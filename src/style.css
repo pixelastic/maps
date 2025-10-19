@@ -13,4 +13,9 @@ html {
   .js-masonryWall {
     @apply grid-cols-w-16;
   }
+
+  /* Archive notice banner */
+  #archiveNotice {
+    @apply bg-yellow-3 border-l-4 border-yellow-6 yellow-9 p-4 text-center mb-4 text-2;
+  }
 }

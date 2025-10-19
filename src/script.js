@@ -64,4 +64,15 @@ const lazyloadHelper = require('norska/frontend/algolia/lazyload');
       },
     },
   });
+
+  // Add archive notice banner before hits
+  const hitsContainer = document.getElementById('hits');
+  if (hitsContainer) {
+    const banner = document.createElement('div');
+    banner.id = 'archiveNotice';
+    banner.setAttribute('role', 'alert');
+    banner.innerHTML =
+      '<strong>Archive Notice:</strong> This project has been archived. The underlying Reddit API is no longer available, so data updates have been discontinued. The data displayed is frozen as of December 12, 2022.';
+    hitsContainer.parentNode.insertBefore(banner, hitsContainer);
+  }
 })();
